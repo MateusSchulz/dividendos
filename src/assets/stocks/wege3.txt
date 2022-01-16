@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-<meta name="version" content="2.0.575.DEWERE" />
+<meta name="version" content="2.0.577.EJHLWE" />
 <meta charset="utf-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -130,7 +130,7 @@
         {
         "@context": "https://schema.org",
         "@type": "Article",
-        "dateModified":"2022-01-01",
+        "dateModified":"2022-01-13",
         "datePublished":"2019-01-01",
         "mainEntityOfPage": {
         "@type": "WebPage",
@@ -174,20 +174,20 @@
             overflow: hidden;
         }
     </style>
-<link rel="preload" href="/css/site.min.css?v=2.0.575.DEWERE" as="style">
-<link rel="preload" href="/js/site.min.js?v=2.0.575.DEWERE" as="script">
+<link rel="preload" href="/css/site.min.css?v=2.0.577.EJHLWE" as="style">
+<link rel="preload" href="/js/site.min.js?v=2.0.577.EJHLWE" as="script">
 <link rel="preload" href="/lib/jquery-3.6.0.min.js" as="script">
 <link rel="preload" href="https://fonts.gstatic.com/s/materialicons/v92/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2" as="font" type="font/woff2" crossorigin>
-<link href="/css/site.min.css?v=2.0.575.DEWERE" rel="stylesheet" />
-<link href="/css/pages/paper.min.css?v=2.0.575.DEWERE" rel="stylesheet" />
-<link href="/css/components/resume.item.wallet.min.css?v=2.0.575.DEWERE" rel="stylesheet" />
+<link href="/css/site.min.css?v=2.0.577.EJHLWE" rel="stylesheet" />
+<link href="/css/pages/paper.min.css?v=2.0.577.EJHLWE" rel="stylesheet" />
+<link href="/css/components/resume.item.wallet.min.css?v=2.0.577.EJHLWE" rel="stylesheet" />
 
-<link href="/css/components/futureData/assetBase.min.css?v=2.0.575.DEWERE" rel="stylesheet" />
+<link href="/css/components/futureData/assetBase.min.css?v=2.0.577.EJHLWE" rel="stylesheet" />
 
 <script src="https://apis.google.com/js/platform.js" async defer></script>
 <script>
             window.imgV = '3';
-            window.scriptV = '2.0.575.DEWERE';
+            window.scriptV = '2.0.577.EJHLWE';
         </script>
 <script>
 
@@ -620,14 +620,14 @@ Comparar
 <div title="Valor atual do ativo">
 <h3 class="title m-0">Valor atual</h3>
 <span class="icon">R$</span>
-<strong class="value">32,98</strong>
+<strong class="value">28,95</strong>
 </div>
 <div class="w-lg-100">
 <span title="Variação do valor do ativo com base no dia anterior" class="sub-value  fs-4 fs-md-3">
 <span class="icon">
-<i style="max-width: 15px;" class="material-icons fs-3 ">arrow_upward</i>
+<i style="max-width: 15px;" class="material-icons fs-3 ">arrow_downward</i>
 </span>
-<b class="v-align-middle">0,73%</b>
+<b class="v-align-middle">-4,20%</b>
 </span>
 </div>
 </div>
@@ -637,12 +637,12 @@ Comparar
 <div title="Valor mínimo das últimas 52 semanas">
 <h3 class="title m-0">Min. 52 semanas</h3>
 <span class="icon">R$</span>
-<strong class="value">31,06</strong>
+<strong class="value">28,56</strong>
 </div>
 <div class="d-flex justify-between">
 <div class="" title="Valor mínimo do mês atual">
 <span class="sub-title">Min. mês</span>
-<span class="sub-value">R$ 32,46</span>
+<span class="sub-value">R$ 28,56</span>
 </div>
 </div>
 </div>
@@ -657,7 +657,7 @@ Comparar
 <div class="d-flex justify-between">
 <div class="" title="Valor máximo do mês atual">
 <span class="sub-title">Máx. mês</span>
-<span class="sub-value">R$ 36,47</span>
+<span class="sub-value">R$ 32,02</span>
 </div>
 </div>
 </div>
@@ -674,13 +674,13 @@ help_outline
 Indicador utilizado para relacionar os proventos pagos por uma companhia e o preço atual de suas ações.
 <small class="mt-2 fs-2 d-block">Observação:</small>
 <small class="text-main-secondary-light">
-<span class="fs-2 fw-900">O Dividend Yield foi calculado com base no valor bruto dos proventos com a DATA COM entre 01/01/2021 e 01/01/2022. Amortiza&#xE7;&#xF5;es n&#xE3;o s&#xE3;o consideradas no c&#xE1;lculo.</span>
+<span class="fs-2 fw-900">O Dividend Yield foi calculado com base no valor bruto dos proventos com a DATA COM entre 13/01/2021 e 13/01/2022. Amortiza&#xE7;&#xF5;es n&#xE3;o s&#xE3;o consideradas no c&#xE1;lculo.</span>
 </small>
 </div>
 </span>
 </i>
 </h3>
-<strong class="value">1,28</strong>
+<strong class="value">1,46</strong>
 <span class="icon">%</span>
 </div>
 <div class="d-flex justify-between">
@@ -698,16 +698,16 @@ Indicador utilizado para relacionar os proventos pagos por uma companhia e o pre
 <span class="icon">
 <i style="max-width: 25px;" class="material-icons materialize-red-text text-darken-1">arrow_downward</i>
 </span>
-<strong class="value">-10,60%</strong>
+<strong class="value">-34,84%</strong>
 </div>
 <div class="d-flex justify-between">
 <div class="" title="Valorização no preço do ativo com base no mês atual">
 <span class="sub-title">Mês atual</span>
 <span class="sub-value">
 <span class="icon">
-<i style="max-width: 15px;" class="material-icons fs-3 green-text text-darken-3">arrow_upward</i>
+<i style="max-width: 15px;" class="material-icons fs-3 materialize-red-text text-darken-1">arrow_downward</i>
 </span>
-<b class="v-align-middle">1,60%</b>
+<b class="v-align-middle">-9,59%</b>
 </span>
 </div>
 </div>
@@ -729,7 +729,7 @@ Indicador utilizado para relacionar os proventos pagos por uma companhia e o pre
 </a>
 </li>
 <li class="tab col s3">
- <a role="button" data-type="0" title="" class="active pl-2 pr-2" href="#asset-price-0">
+<a role="button" data-type="0" title="" class="active pl-2 pr-2" href="#asset-price-0">
 5 dias
 </a>
 </li>
@@ -784,15 +784,15 @@ Indicador utilizado para relacionar os proventos pagos por uma companhia e o pre
 <div class="container-date-range w-90 w-md-50 mr-md-3" style="display:none;">
 <div class="d-flex align-items-center date-range mt-0 mb-0 ">
 <div title="Data de início da busca" class="input-field from input-date mt-0 mb-0">
-<input id="Start" type="text" name="Start" class="tx-datepicker mb-0 input-small" data-max-date="2022-01-01">
+<input id="Start" type="text" name="Start" class="tx-datepicker mb-0 input-small" data-max-date="2022-01-13">
 </div>
 <span class="divisor text-center ml-1 mr-3 fs-2 fw-900">ATÉ</span>
 <div title="Data de fim da busca" class="input-field to mt-0 mb-0">
-<input id="End" type="text" name="End" class="tx-datepicker mb-0 input-small" data-max-date="2022-01-01">
+<input id="End" type="text" name="End" class="tx-datepicker mb-0 input-small" data-max-date="2022-01-13">
 </div>
 </div>
 </div>
- <button type="button" data-position="top" data-tooltip="Selecione o <b class='fw-900'>período</b> que você <b class='fw-900'>deseja</b>!" class="tbn btn-small btn-secondary pl-1 pr-1 btn-range-date ml-1 tooltipped">
+<button type="button" data-position="top" data-tooltip="Selecione o <b class='fw-900'>período</b> que você <b class='fw-900'>deseja</b>!" class="tbn btn-small btn-secondary pl-1 pr-1 btn-range-date ml-1 tooltipped">
 <i style="max-width: 17px;" class="material-icons i-date-range">date_range</i>
 <i style="max-width: 17px;display:none" class="material-icons i-date-fixed">more_horiz</i>
 </button>
@@ -842,7 +842,7 @@ Indicador utilizado para relacionar os proventos pagos por uma companhia e o pre
 </div>
 <div id="asset-price-0" tabindex="0" class="chart-container" style=" ">
 <div class="chart-selected-container" style="display:none">
-<div class="chart-selected-resume card p-1">
+ <div class="chart-selected-resume card p-1">
 <div class="d-flex align-items-center justify-between">
 <div class="price d-flex align-items-center fw-100">
 <span class="fw-100 fs-3 symbol">R$</span>
@@ -1046,7 +1046,7 @@ LINHAS DA LISTA DE SEGUINDO
 <div class="mb-7 p-2 p-xs-3 cardFutureColor">
 <div class=" mb-3">
 <div class="d-flex flex-wrap justify-start align-items-center fs-4">
- <div class="ml-1 forecast-name">
+<div class="ml-1 forecast-name">
 <span class="fw-600">MÓDULO</span> <strong class="fw-900">FORECAST</strong>
 </div>
 <span class="ml-0 ml-md-2 fw-100 fs-3 lh-3_5 uppercase">consenso e estimativas dos principais analistas do mercado global</span>
@@ -1056,7 +1056,7 @@ LINHAS DA LISTA DE SEGUINDO
 </div>
 <div class="d-lg-flex justify-between align-items-start">
 <div class="w-100 w-lg-45 mr-lg-1 mb-3 mb-lg-0">
-<div data-future="priceTarget" data-model="{&quot;Name&quot;:&quot;priceTarget&quot;,&quot;Script&quot;:&quot;/js/components/futureData/_priceTarget.min.js?v=2.0.575.DEWERE&quot;,&quot;AddOn&quot;:0,&quot;Strucuture&quot;:true,&quot;AsCard&quot;:true,&quot;Css&quot;:&quot;&quot;,&quot;Config&quot;:{&quot;categoryId&quot;:1,&quot;code&quot;:&quot;WEGE3&quot;,&quot;showHistory&quot;:false},&quot;AddOn_F&quot;:&quot;forecast-brasil&quot;}" data-config="{&quot;categoryId&quot;:1,&quot;code&quot;:&quot;WEGE3&quot;,&quot;showHistory&quot;:false}" data-addon="Brasil" data-addonf="forecast-brasil" class="card p-3 show-load " data-src="/js/components/futureData/_priceTarget.min.js?v=2.0.575.DEWERE">
+<div data-future="priceTarget" data-model="{&quot;Name&quot;:&quot;priceTarget&quot;,&quot;Script&quot;:&quot;/js/components/futureData/_priceTarget.min.js?v=2.0.577.EJHLWE&quot;,&quot;AddOn&quot;:0,&quot;Strucuture&quot;:true,&quot;AsCard&quot;:true,&quot;Css&quot;:&quot;&quot;,&quot;Config&quot;:{&quot;categoryId&quot;:1,&quot;code&quot;:&quot;WEGE3&quot;,&quot;showHistory&quot;:false},&quot;AddOn_F&quot;:&quot;forecast-brasil&quot;}" data-config="{&quot;categoryId&quot;:1,&quot;code&quot;:&quot;WEGE3&quot;,&quot;showHistory&quot;:false}" data-addon="Brasil" data-addonf="forecast-brasil" class="card p-3 show-load " data-src="/js/components/futureData/_priceTarget.min.js?v=2.0.577.EJHLWE">
 <div class="card-main-load load-container"></div>
 <div style="display:none" class="no-forecast forecast-brasil">
 <div class="d-flex flex-column justify-between">
@@ -1101,7 +1101,7 @@ FORECAST <strong class="fw-700">EUA</strong>
 </div>
 </div>
 <div class="w-100 w-lg-55 ml-lg-1">
-<div data-future="consensusAnalystRating" data-model="{&quot;Name&quot;:&quot;consensusAnalystRating&quot;,&quot;Script&quot;:&quot;/js/components/futureData/_consensusAnalystRating.min.js?v=2.0.575.DEWERE&quot;,&quot;AddOn&quot;:0,&quot;Strucuture&quot;:true,&quot;AsCard&quot;:true,&quot;Css&quot;:&quot;div-ratings-base-card&quot;,&quot;Config&quot;:{&quot;categoryId&quot;:1,&quot;code&quot;:&quot;WEGE3&quot;,&quot;showHistory&quot;:true},&quot;AddOn_F&quot;:&quot;forecast-brasil&quot;}" data-config="{&quot;categoryId&quot;:1,&quot;code&quot;:&quot;WEGE3&quot;,&quot;showHistory&quot;:true}" data-addon="Brasil" data-addonf="forecast-brasil" class="card p-3 show-load div-ratings-base-card" data-src="/js/components/futureData/_consensusAnalystRating.min.js?v=2.0.575.DEWERE">
+<div data-future="consensusAnalystRating" data-model="{&quot;Name&quot;:&quot;consensusAnalystRating&quot;,&quot;Script&quot;:&quot;/js/components/futureData/_consensusAnalystRating.min.js?v=2.0.577.EJHLWE&quot;,&quot;AddOn&quot;:0,&quot;Strucuture&quot;:true,&quot;AsCard&quot;:true,&quot;Css&quot;:&quot;div-ratings-base-card&quot;,&quot;Config&quot;:{&quot;categoryId&quot;:1,&quot;code&quot;:&quot;WEGE3&quot;,&quot;showHistory&quot;:true},&quot;AddOn_F&quot;:&quot;forecast-brasil&quot;}" data-config="{&quot;categoryId&quot;:1,&quot;code&quot;:&quot;WEGE3&quot;,&quot;showHistory&quot;:true}" data-addon="Brasil" data-addonf="forecast-brasil" class="card p-3 show-load div-ratings-base-card" data-src="/js/components/futureData/_consensusAnalystRating.min.js?v=2.0.577.EJHLWE">
 <div class="card-main-load load-container"></div>
 <div style="display:none" class="no-forecast forecast-brasil">
 <div class="d-flex flex-column justify-between">
@@ -1153,7 +1153,7 @@ FORECAST <strong class="fw-700">EUA</strong>
 </div>
 </div>
 </div>
-<div data-volatility data-ativo="WEGE3" data-ativo-volatility="34,714605765726" data-indice="IBOV" data-indice-volatility="20,943924728296">
+<div data-volatility data-ativo="WEGE3" data-ativo-volatility="34,023797367207" data-indice="IBOV" data-indice-volatility="20,797687876988">
 <div class="card mb-5 pb-4">
 <div class="card-title mb-2 d-flex align-items-center">
 <i style="max-width:21px" class="material-icons v-align-middle text-main-secondary d-inline-block fs-4">local_fire_department</i>
@@ -1226,7 +1226,7 @@ Média dos últimos 30 dias
 </span>
 <div>
 <span class="icon">R$</span>
-<strong class="value">233.242.844,63</strong>
+<strong class="value">227.821.671,21</strong>
 </div>
 </div>
 </div>
@@ -1238,7 +1238,7 @@ Média dos últimos 30 dias
 <h3 class="title m-0 d-none d-md-block d-lg-none">PART. <strong class="fw-700">IBOV</strong></h3>
 <h3 class="title m-0 d-block d-md-none d-lg-block">PARTICIPAÇÃO NO <strong class="fw-700">IBOV</strong></h3>
 <div class="d-flex align-items-center ">
-<strong class="value">2,454</strong>
+<strong class="value">2,230</strong>
 <span class="icon">%</span>
 <i style="max-width:24px" class="ml-3 material-icons">arrow_forward</i>
 </div>
@@ -1252,7 +1252,7 @@ Média dos últimos 30 dias
 <div>
 <h3 class="title m-0 d-block">MERCADO DE <strong class="fw-700">OPÇÕES</strong></h3>
 <div class="d-flex align-items-center ">
-<strong class="value mr-1">141</strong>
+<strong class="value mr-1">200</strong>
 <span class="icon">em aberto</span>
 <i style="max-width:24px" class="ml-3 material-icons">arrow_forward</i>
 </div>
@@ -1264,11 +1264,8 @@ Média dos últimos 30 dias
 </div>
 </div>
 <div class=" banner-lazy-group-now advertising ad-846fdba2a96c4169a12391131693a3d8 mt-3 mb-4 pl-md-3 pr-md-3">
-<a href="https://lp.statusinvest.com.br/pv/modulo-forecast/?utm_source=statusinvest&amp;utm_medium=banner&amp;utm_campaign=RSI.FCD21.ns" target="_blank" class="bull" rel="noopener noreferrer nofollow">
-<div class="image c36-1">anúncio</div>
-</a>
-<a href="https://lp.statusinvest.com.br/planos/" style="display:none" target="_blank" class="forecast" rel="noopener noreferrer nofollow">
-<div class="image c36-1">anúncio</div>
+<a href="https://lp.statusinvest.com.br/planos/" target="_blank" class="" rel="noopener noreferrer nofollow">
+<div class="image c22-1">anúncio</div>
 </a>
 </div>
 <div class="pb-5" id="indicators-section" data-ticker="WEGE3" data-category="1" data-parentId="189">
@@ -1281,7 +1278,7 @@ help_outline
 <div class="tooltipped-html-template fw-100">
 Todos dados financeiros são das demonstrações consolidadas e não individuais, calculados com base nos dados dos últimos 4 trimestres, e no último balanço divulgado.
 </div>
- </span>
+</span>
 </i>
 </h2>
 <div class="btn-toggle btn-indicator-view-type d-flex justify-center justify-md-end mb-4 mb-md-0 p-relative">
@@ -1319,7 +1316,7 @@ MÉDIA MERCADO
 <span class="material-icons">format_quote</span>
 </a>
 <div class="d-flex align-items-center justify-between pr-1 pr-xs-2">
-<strong class="value d-block lh-4 fs-4 fw-700">1,28%</strong>
+<strong class="value d-block lh-4 fs-4 fw-700">1,46%</strong>
 <div class="d-flex align-items-center">
 <button type="button" title="Gráfico histórico deste indicador" data-key="dy" data-name="D.Y" data-prefix="" data-suffix="%" class="btn-chart btn btn-xsmall btn-main-green btn-outline btn-flat">
 <i style="max-width: 18px;" class="material-icons">show_chart</i>
@@ -1347,7 +1344,7 @@ Dividendos pagos no per&#xED;odo / Pre&#xE7;o a&#xE7;&#xE3;o
 <span class="material-icons">format_quote</span>
 </a>
 <div class="d-flex align-items-center justify-between pr-1 pr-xs-2">
-<strong class="value d-block lh-4 fs-4 fw-700">40,08</strong>
+<strong class="value d-block lh-4 fs-4 fw-700">35,18</strong>
 <div class="d-flex align-items-center">
 <button type="button" title="Gráfico histórico deste indicador" data-key="p_l" data-name="P/L" data-prefix="" data-suffix="" class="btn-chart btn btn-xsmall btn-main-green btn-outline btn-flat">
 <i style="max-width: 18px;" class="material-icons">show_chart</i>
@@ -1359,7 +1356,7 @@ help_outline
 D&#xE1; uma ideia do quanto o mercado est&#xE1; disposto a pagar pelos lucros da empresa.
 <small class="mt-2 fs-2 d-block">FÓRMULA:</small>
 <small class="text-main-secondary-light fw-700">
- Pre&#xE7;o atual / Lucro por a&#xE7;&#xE3;o (LPA)
+Pre&#xE7;o atual / Lucro por a&#xE7;&#xE3;o (LPA)
 </small>
 </div>
 </span>
@@ -1372,7 +1369,7 @@ D&#xE1; uma ideia do quanto o mercado est&#xE1; disposto a pagar pelos lucros da
 <div title="O PEG Ratio &#xE9; uma m&#xE9;trica de avalia&#xE7;&#xE3;o para determinar o trade-off relativo entre o pre&#xE7;o de uma a&#xE7;&#xE3;o, o lucro gerado por a&#xE7;&#xE3;o e o crescimento esperado da empresa. Para o c&#xE1;lculo, assumimos o LPA Atual baseado nos &#xFA;ltimos 4 trimestres, e o LPA Anterior os 4 trimestres anteriores a estes.">
 <h3 class="title m-0 mr-1 uppercase">PEG Ratio</h3>
 <div class="d-flex align-items-center justify-between pr-1 pr-xs-2">
-<strong class="value d-block lh-4 fs-4 fw-700">0,62</strong>
+<strong class="value d-block lh-4 fs-4 fw-700">0,54</strong>
 <div class="d-flex align-items-center">
 <button type="button" title="Gráfico histórico deste indicador" data-key="peg_Ratio" data-name="PEG Ratio" data-prefix="" data-suffix="" class="btn-chart btn btn-xsmall btn-main-green btn-outline btn-flat">
 <i style="max-width: 18px;" class="material-icons">show_chart</i>
@@ -1400,7 +1397,7 @@ O PEG Ratio &#xE9; uma m&#xE9;trica de avalia&#xE7;&#xE3;o para determinar o tra
 <span class="material-icons">format_quote</span>
 </a>
 <div class="d-flex align-items-center justify-between pr-1 pr-xs-2">
-<strong class="value d-block lh-4 fs-4 fw-700">10,86</strong>
+<strong class="value d-block lh-4 fs-4 fw-700">9,53</strong>
 <div class="d-flex align-items-center">
 <button type="button" title="Gráfico histórico deste indicador" data-key="p_vp" data-name="P/VP" data-prefix="" data-suffix="" class="btn-chart btn btn-xsmall btn-main-green btn-outline btn-flat">
 <i style="max-width: 18px;" class="material-icons">show_chart</i>
@@ -1422,13 +1419,13 @@ Pre&#xE7;o atual / Valor patrimonial por a&#xE7;&#xE3;o (VPA)
 </div>
 </div>
 <div class="w-50 w-sm-33 w-md-25 w-lg-16_6 mb-2 mt-2 item ">
-<div title="O EV (Enterprise Value ou Valor da Firma), indica quanto custaria para comprar todos os ativos da companhia, descontando o caixa. Este indicador mostra quanto tempo levaria para o valor calculado no EBITDA pagar o investimento feito para compra-la.">
+ <div title="O EV (Enterprise Value ou Valor da Firma), indica quanto custaria para comprar todos os ativos da companhia, descontando o caixa. Este indicador mostra quanto tempo levaria para o valor calculado no EBITDA pagar o investimento feito para compra-la.">
 <a href="https://statusinvest.com.br/termos/e/ev-ebitda" title="Artigo detalhando EV/EBITDA" target="_blank" rel="noopener" class="term-indicator-link d-flex align-items-center">
 <h3 class="title m-0 uppercase">EV/EBITDA</h3>
- <span class="material-icons">format_quote</span>
+<span class="material-icons">format_quote</span>
 </a>
 <div class="d-flex align-items-center justify-between pr-1 pr-xs-2">
-<strong class="value d-block lh-4 fs-4 fw-700">30,26</strong>
+<strong class="value d-block lh-4 fs-4 fw-700">26,53</strong>
 <div class="d-flex align-items-center">
 <button type="button" title="Gráfico histórico deste indicador" data-key="ev_ebitda" data-name="EV/EBITDA" data-prefix="" data-suffix="" class="btn-chart btn btn-xsmall btn-main-green btn-outline btn-flat">
 <i style="max-width: 18px;" class="material-icons">show_chart</i>
@@ -1456,9 +1453,9 @@ EV / EBITDA
 <span class="material-icons">format_quote</span>
 </a>
 <div class="d-flex align-items-center justify-between pr-1 pr-xs-2">
-<strong class="value d-block lh-4 fs-4 fw-700">33,99</strong>
+<strong class="value d-block lh-4 fs-4 fw-700">29,80</strong>
 <div class="d-flex align-items-center">
- <button type="button" title="Gráfico histórico deste indicador" data-key="ev_ebit" data-name="EV/EBIT" data-prefix="" data-suffix="" class="btn-chart btn btn-xsmall btn-main-green btn-outline btn-flat">
+<button type="button" title="Gráfico histórico deste indicador" data-key="ev_ebit" data-name="EV/EBIT" data-prefix="" data-suffix="" class="btn-chart btn btn-xsmall btn-main-green btn-outline btn-flat">
 <i style="max-width: 18px;" class="material-icons">show_chart</i>
 </button>
 <i data-position="top" style="max-width: 18px;" class="material-icons help-icon tooltipped tooltipped-html">
@@ -1484,7 +1481,7 @@ EV / EBIT
 <span class="material-icons">format_quote</span>
 </a>
 <div class="d-flex align-items-center justify-between pr-1 pr-xs-2">
-<strong class="value d-block lh-4 fs-4 fw-700">30,55</strong>
+<strong class="value d-block lh-4 fs-4 fw-700">26,82</strong>
 <div class="d-flex align-items-center">
 <button type="button" title="Gráfico histórico deste indicador" data-key="p_ebita" data-name="P/EBITDA" data-prefix="" data-suffix="" class="btn-chart btn btn-xsmall btn-main-green btn-outline btn-flat">
 <i style="max-width: 18px;" class="material-icons">show_chart</i>
@@ -1512,7 +1509,7 @@ Pre&#xE7;o atual / EBITDA
 <span class="material-icons">format_quote</span>
 </a>
 <div class="d-flex align-items-center justify-between pr-1 pr-xs-2">
-<strong class="value d-block lh-4 fs-4 fw-700">34,32</strong>
+<strong class="value d-block lh-4 fs-4 fw-700">30,12</strong>
 <div class="d-flex align-items-center">
 <button type="button" title="Gráfico histórico deste indicador" data-key="p_ebit" data-name="P/EBIT" data-prefix="" data-suffix="" class="btn-chart btn btn-xsmall btn-main-green btn-outline btn-flat">
 <i style="max-width: 18px;" class="material-icons">show_chart</i>
@@ -1554,7 +1551,7 @@ Indica qual o valor patrimonial de uma a&#xE7;&#xE3;o.
 <small class="text-main-secondary-light fw-700">
 Patrim&#xF4;nio l&#xED;quido / N&#xBA; de a&#xE7;&#xF5;es
 </small>
- </div>
+</div>
 </span>
 </i>
 </div>
@@ -1568,7 +1565,7 @@ Patrim&#xF4;nio l&#xED;quido / N&#xBA; de a&#xE7;&#xF5;es
 <span class="material-icons">format_quote</span>
 </a>
 <div class="d-flex align-items-center justify-between pr-1 pr-xs-2">
-<strong class="value d-block lh-4 fs-4 fw-700">6,15</strong>
+<strong class="value d-block lh-4 fs-4 fw-700">5,40</strong>
 <div class="d-flex align-items-center">
 <button type="button" title="Gráfico histórico deste indicador" data-key="p_ativo" data-name="P/Ativo" data-prefix="" data-suffix="" class="btn-chart btn btn-xsmall btn-main-green btn-outline btn-flat">
 <i style="max-width: 18px;" class="material-icons">show_chart</i>
@@ -1584,7 +1581,7 @@ Pre&#xE7;o atual / Ativos
 </small>
 </div>
 </span>
-</i>
+ </i>
 </div>
 </div>
 </div>
@@ -1624,7 +1621,7 @@ Lucro l&#xED;quido / N&#xBA; de a&#xE7;&#xF5;es
 <span class="material-icons">format_quote</span>
 </a>
 <div class="d-flex align-items-center justify-between pr-1 pr-xs-2">
-<strong class="value d-block lh-4 fs-4 fw-700">6,32</strong>
+<strong class="value d-block lh-4 fs-4 fw-700">5,55</strong>
 <div class="d-flex align-items-center">
 <button type="button" title="Gráfico histórico deste indicador" data-key="p_sr" data-name="P/SR" data-prefix="" data-suffix="" class="btn-chart btn btn-xsmall btn-main-green btn-outline btn-flat">
 <i style="max-width: 18px;" class="material-icons">show_chart</i>
@@ -1652,7 +1649,7 @@ Pre&#xE7;o atual / Receita l&#xED;quida por a&#xE7;&#xE3;o
 <span class="material-icons">format_quote</span>
 </a>
 <div class="d-flex align-items-center justify-between pr-1 pr-xs-2">
-<strong class="value d-block lh-4 fs-4 fw-700">19,20</strong>
+<strong class="value d-block lh-4 fs-4 fw-700">16,85</strong>
 <div class="d-flex align-items-center">
 <button type="button" title="Gráfico histórico deste indicador" data-key="p_capitlgiro" data-name="P/Cap. Giro" data-prefix="" data-suffix="" class="btn-chart btn btn-xsmall btn-main-green btn-outline btn-flat">
 <i style="max-width: 18px;" class="material-icons">show_chart</i>
@@ -1680,7 +1677,7 @@ Pre&#xE7;o atual / (Ativo circulante - Passivo circulante)
 <span class="material-icons">format_quote</span>
 </a>
 <div class="d-flex align-items-center justify-between pr-1 pr-xs-2">
-<strong class="value d-block lh-4 fs-4 fw-700">-17,85</strong>
+<strong class="value d-block lh-4 fs-4 fw-700">-15,66</strong>
 <div class="d-flex align-items-center">
 <button type="button" title="Gráfico histórico deste indicador" data-key="p_ativocirculante" data-name="P/Ativo Circ. Liq." data-prefix="" data-suffix="" class="btn-chart btn btn-xsmall btn-main-green btn-outline btn-flat">
 <i style="max-width: 18px;" class="material-icons">show_chart</i>
@@ -1754,7 +1751,7 @@ Indica quanto tempo seria necess&#xE1;rio para pagar a d&#xED;vida l&#xED;quida 
 <small class="mt-2 fs-2 d-block">FÓRMULA:</small>
 <small class="text-main-secondary-light fw-700">
 D&#xED;vida l&#xED;quida / EBITDA
- </small>
+</small>
 </div>
 </span>
 </i>
@@ -1780,18 +1777,18 @@ help_outline
 <div class="tooltipped-html-template fw-100">
 Indica quanto tempo seria necess&#xE1;rio para pagar a d&#xED;vida l&#xED;quida da empresa considerando o EBIT atual. Indica tamb&#xE9;m o grau de endividamento da companhia.
 <small class="mt-2 fs-2 d-block">FÓRMULA:</small>
-<small class="text-main-secondary-light fw-700">
+ <small class="text-main-secondary-light fw-700">
 D&#xED;vida l&#xED;quida / EBIT
 </small>
 </div>
 </span>
-</i>
+ </i>
 </div>
 </div>
 </div>
 </div>
 <div class="w-50 w-sm-33 w-md-25 w-lg-16_6 mb-2 mt-2 item ">
- <div title="O Patrim&#xF4;nio de uma empresa &#xE9; o resultado da subtra&#xE7;&#xE3;o dos ativos com os passivos. Este indicador &#xE9; para mostrar a rela&#xE7;&#xE3;o dos ativos no patrim&#xF4;nio da empresa.">
+<div title="O Patrim&#xF4;nio de uma empresa &#xE9; o resultado da subtra&#xE7;&#xE3;o dos ativos com os passivos. Este indicador &#xE9; para mostrar a rela&#xE7;&#xE3;o dos ativos no patrim&#xF4;nio da empresa.">
 <a href="https://statusinvest.com.br/termos/p/patrimonio-ativos" title="Artigo detalhando PL/Ativos" target="_blank" rel="noopener" class="term-indicator-link d-flex align-items-center">
 <h3 class="title m-0 uppercase">PL/Ativos</h3>
 <span class="material-icons">format_quote</span>
@@ -1821,7 +1818,7 @@ Patrim&#xF4;nio l&#xED;quido / Ativos
 <div class="w-50 w-sm-33 w-md-25 w-lg-16_6 mb-2 mt-2 item ">
 <div title="Calculo para saber a rela&#xE7;&#xE3;o entre os ativos (circulantes e n&#xE3;o circulantes) e os passivos de uma empresa.">
 <a href="https://statusinvest.com.br/termos/p/passivos-ativos" title="Artigo detalhando Passivos/Ativos" target="_blank" rel="noopener" class="term-indicator-link d-flex align-items-center">
- <h3 class="title m-0 uppercase">Passivos/Ativos</h3>
+<h3 class="title m-0 uppercase">Passivos/Ativos</h3>
 <span class="material-icons">format_quote</span>
 </a>
 <div class="d-flex align-items-center justify-between pr-1 pr-xs-2">
@@ -1854,7 +1851,7 @@ Passivos / Ativos
 </a>
 <div class="d-flex align-items-center justify-between pr-1 pr-xs-2">
 <strong class="value d-block lh-4 fs-4 fw-700">1,96</strong>
-<div class="d-flex align-items-center">
+ <div class="d-flex align-items-center">
 <button type="button" title="Gráfico histórico deste indicador" data-key="liquidezcorrente" data-name="Liq. corrente" data-prefix="" data-suffix="" class="btn-chart btn btn-xsmall btn-main-green btn-outline btn-flat">
 <i style="max-width: 18px;" class="material-icons">show_chart</i>
 </button>
@@ -1988,7 +1985,7 @@ Lucro l&#xED;quido / Receita l&#xED;quida
 </span>
 </i>
 </div>
-</div>
+ </div>
 </div>
 </div>
 </div>
@@ -2122,7 +2119,7 @@ Receita l&#xED;quida / Total m&#xE9;dio de ativos
 <button type="button" title="Gráfico histórico deste indicador" data-key="receitas_cagr5" data-name="CAGR Receitas 5 anos" data-prefix="" data-suffix="%" class="btn-chart btn btn-xsmall btn-main-green btn-outline btn-flat">
 <i style="max-width: 18px;" class="material-icons">show_chart</i>
 </button>
-<i data-position="top" style="max-width: 18px;" class="material-icons help-icon tooltipped tooltipped-html">
+ <i data-position="top" style="max-width: 18px;" class="material-icons help-icon tooltipped tooltipped-html">
 help_outline
 <span class="template" style="display:none">
 <div class="tooltipped-html-template fw-100">
@@ -2262,7 +2259,6 @@ Estimativas dos indicadores
 <h3 class="title m-0 uppercase">D.Y</h3>
 <span class="material-icons">format_quote</span>
 </a>
-
 <i data-position="top" class="material-icons help-icon tooltipped tooltipped-html fs-3">
 help_outline
 <span class="template" style="display:none">
@@ -2340,7 +2336,7 @@ help_outline
 <span class="template" style="display:none">
 <div class="tooltipped-html-template fw-100">
 Facilita a an&#xE1;lise e compara&#xE7;&#xE3;o da rela&#xE7;&#xE3;o do pre&#xE7;o de negocia&#xE7;&#xE3;o de um ativo com seu VPA.
- <small class="mt-2 fs-2 d-block">FÓRMULA:</small>
+<small class="mt-2 fs-2 d-block">FÓRMULA:</small>
 <small class="text-main-secondary-light fw-700">
 Pre&#xE7;o atual / Valor patrimonial por a&#xE7;&#xE3;o (VPA)
 </small>
@@ -2375,7 +2371,7 @@ EV / EBITDA
 </div>
 <button type="button" data-key="ev_ebitda" data-name="EV/EBITDA" data-prefix="" data-suffix="" class="btn-chart btn-history btn btn-xsmall btn-main-green btn-outline btn-flat">
 <i style="max-width: 18px;" class="material-icons">show_chart</i>
-</button>
+ </button>
 <div class="avatars" data-key="ev_ebitda">
 </div>
 </div>
@@ -2414,7 +2410,7 @@ EV / EBIT
 help_outline
 <span class="template" style="display:none">
 <div class="tooltipped-html-template fw-100">
-O EBITDA permite conhecer quanto a companhia est&#xE1; gerando de caixa com base exclusivamente em suas atividades operacionais, desconsiderando os impactos financeiros e dos impostos.
+ O EBITDA permite conhecer quanto a companhia est&#xE1; gerando de caixa com base exclusivamente em suas atividades operacionais, desconsiderando os impactos financeiros e dos impostos.
 <small class="mt-2 fs-2 d-block">FÓRMULA:</small>
 <small class="text-main-secondary-light fw-700">
 Pre&#xE7;o atual / EBITDA
@@ -2452,6 +2448,7 @@ Pre&#xE7;o atual / EBIT
 <i style="max-width: 18px;" class="material-icons">show_chart</i>
 </button>
 <div class="avatars" data-key="p_ebit">
+
 </div>
 </div>
 <div class="indicador d-flex justify-between align-items-center " data-indicador="vpa">
@@ -2496,7 +2493,7 @@ Pre&#xE7;o atual / Ativos
 </small>
 </div>
 </span>
- </i>
+</i>
 </div>
 <button type="button" data-key="p_ativo" data-name="P/Ativo" data-prefix="" data-suffix="" class="btn-chart btn-history btn btn-xsmall btn-main-green btn-outline btn-flat">
 <i style="max-width: 18px;" class="material-icons">show_chart</i>
@@ -2540,7 +2537,7 @@ help_outline
 <span class="template" style="display:none">
 <div class="tooltipped-html-template fw-100">
 Valor de mercado da empresa dividido pela receita operacional l&#xED;quida ou pre&#xE7;o da a&#xE7;&#xE3;o dividido pela receita l&#xED;quida por a&#xE7;&#xE3;o
- <small class="mt-2 fs-2 d-block">FÓRMULA:</small>
+<small class="mt-2 fs-2 d-block">FÓRMULA:</small>
 <small class="text-main-secondary-light fw-700">
 Pre&#xE7;o atual / Receita l&#xED;quida por a&#xE7;&#xE3;o
 </small>
@@ -2570,7 +2567,7 @@ Pre&#xE7;o da a&#xE7;&#xE3;o dividido pelo capital de giro por a&#xE7;&#xE3;o. C
 Pre&#xE7;o atual / (Ativo circulante - Passivo circulante)
 </small>
 </div>
-</span>
+ </span>
 </i>
 </div>
 <button type="button" data-key="p_capitlgiro" data-name="P/Cap. Giro" data-prefix="" data-suffix="" class="btn-chart btn-history btn btn-xsmall btn-main-green btn-outline btn-flat">
@@ -2580,7 +2577,7 @@ Pre&#xE7;o atual / (Ativo circulante - Passivo circulante)
 </div>
 </div>
 <div class="indicador d-flex justify-between align-items-center " data-indicador="p_ativocirculante">
- <div class="d-flex justify-between align-items-center w-100">
+<div class="d-flex justify-between align-items-center w-100">
 <a href="https://statusinvest.com.br/termos/p/p-ativo-circulante-liquido" title="Artigo detalhando P/Ativo Circ. Liq." target="_blank" rel="noopener" class="term-indicator-link d-flex align-items-center">
 <h3 class="title m-0 uppercase">P/Ativo Circ. Liq.</h3>
 <span class="material-icons">format_quote</span>
@@ -2649,7 +2646,7 @@ D&#xED;vida l&#xED;quida / Patrim&#xF4;nio l&#xED;quido
 help_outline
 <span class="template" style="display:none">
 <div class="tooltipped-html-template fw-100">
-Indica quanto tempo seria necess&#xE1;rio para pagar a d&#xED;vida l&#xED;quida da empresa considerando o EBITDA atual. Indica tamb&#xE9;m o grau de endividamento da companhia.
+ Indica quanto tempo seria necess&#xE1;rio para pagar a d&#xED;vida l&#xED;quida da empresa considerando o EBITDA atual. Indica tamb&#xE9;m o grau de endividamento da companhia.
 <small class="mt-2 fs-2 d-block">FÓRMULA:</small>
 <small class="text-main-secondary-light fw-700">
 D&#xED;vida l&#xED;quida / EBITDA
@@ -2685,7 +2682,7 @@ D&#xED;vida l&#xED;quida / EBIT
 </div>
 <button type="button" data-key="dividaliquida_ebit" data-name="D&#xED;v. l&#xED;quida/EBIT" data-prefix="" data-suffix="" class="btn-chart btn-history btn btn-xsmall btn-main-green btn-outline btn-flat">
 <i style="max-width: 18px;" class="material-icons">show_chart</i>
-</button>
+ </button>
 <div class="avatars" data-key="dividaliquida_ebit">
 </div>
 </div>
@@ -2695,7 +2692,7 @@ D&#xED;vida l&#xED;quida / EBIT
 <h3 class="title m-0 uppercase">PL/Ativos</h3>
 <span class="material-icons">format_quote</span>
 </a>
- <i data-position="top" class="material-icons help-icon tooltipped tooltipped-html fs-3">
+<i data-position="top" class="material-icons help-icon tooltipped tooltipped-html fs-3">
 help_outline
 <span class="template" style="display:none">
 <div class="tooltipped-html-template fw-100">
@@ -2723,7 +2720,7 @@ Patrim&#xF4;nio l&#xED;quido / Ativos
 <i data-position="top" class="material-icons help-icon tooltipped tooltipped-html fs-3">
 help_outline
 <span class="template" style="display:none">
-<div class="tooltipped-html-template fw-100">
+ <div class="tooltipped-html-template fw-100">
 Calculo para saber a rela&#xE7;&#xE3;o entre os ativos (circulantes e n&#xE3;o circulantes) e os passivos de uma empresa.
 <small class="mt-2 fs-2 d-block">FÓRMULA:</small>
 <small class="text-main-secondary-light fw-700">
@@ -2763,7 +2760,7 @@ Ativo circulante / Passivo circulante
 </button>
 <div class="avatars" data-key="liquidezcorrente">
 </div>
-</div>
+ </div>
 </div>
 <div class="table-scroll w-100"></div>
 </div>
@@ -2796,7 +2793,7 @@ Lucro bruto / Receita l&#xED;quida
 <button type="button" data-key="margembruta" data-name="M. Bruta" data-prefix="" data-suffix="%" class="btn-chart btn-history btn btn-xsmall btn-main-green btn-outline btn-flat">
 <i style="max-width: 18px;" class="material-icons">show_chart</i>
 </button>
- <div class="avatars" data-key="margembruta">
+<div class="avatars" data-key="margembruta">
 </div>
 </div>
 <div class="indicador d-flex justify-between align-items-center " data-indicador="margemebitda">
@@ -2806,7 +2803,7 @@ Lucro bruto / Receita l&#xED;quida
 <span class="material-icons">format_quote</span>
 </a>
 <i data-position="top" class="material-icons help-icon tooltipped tooltipped-html fs-3">
-help_outline
+ help_outline
 <span class="template" style="display:none">
 <div class="tooltipped-html-template fw-100">
 &#xC9; o percentual da divis&#xE3;o entre o EBITDA (Earnings before interest, taxes, depreciation and amortization) e a receita l&#xED;quida de uma companhia. Muito &#xFA;til para se comparar a lucratividade operacional da empresa.
@@ -2834,7 +2831,7 @@ EBITDA / Receita l&#xED;quida
 help_outline
 <span class="template" style="display:none">
 <div class="tooltipped-html-template fw-100">
- &#xDA;til para comparar a lucratividade operacional de empresas do mesmo segmento, al&#xE9;m de contribuir para avaliar o crescimento da efici&#xEA;ncia produtiva de um neg&#xF3;cio ao longo do tempo.
+&#xDA;til para comparar a lucratividade operacional de empresas do mesmo segmento, al&#xE9;m de contribuir para avaliar o crescimento da efici&#xEA;ncia produtiva de um neg&#xF3;cio ao longo do tempo.
 <small class="mt-2 fs-2 d-block">FÓRMULA:</small>
 <small class="text-main-secondary-light fw-700">
 EBIT / Receita l&#xED;quida
@@ -2872,7 +2869,7 @@ Lucro l&#xED;quido / Receita l&#xED;quida
 <i style="max-width: 18px;" class="material-icons">show_chart</i>
 </button>
 <div class="avatars" data-key="margeliquida">
- </div>
+</div>
 </div>
 </div>
 <div class="table-scroll w-100"></div>
@@ -2887,7 +2884,7 @@ Lucro l&#xED;quido / Receita l&#xED;quida
 <div class="indicador d-flex justify-between align-items-center " data-indicador="roe">
 <div class="d-flex justify-between align-items-center w-100">
 <a href="https://statusinvest.com.br/termos/r/roe" title="Artigo detalhando ROE" target="_blank" rel="noopener" class="term-indicator-link d-flex align-items-center">
-<h3 class="title m-0 uppercase">ROE</h3>
+ <h3 class="title m-0 uppercase">ROE</h3>
 <span class="material-icons">format_quote</span>
 </a>
 <i data-position="top" class="material-icons help-icon tooltipped tooltipped-html fs-3">
@@ -2916,7 +2913,7 @@ Lucro l&#xED;quido / Patrim&#xF4;nio l&#xED;quido
 <span class="material-icons">format_quote</span>
 </a>
 <i data-position="top" class="material-icons help-icon tooltipped tooltipped-html fs-3">
- help_outline
+help_outline
 <span class="template" style="display:none">
 <div class="tooltipped-html-template fw-100">
 O retorno sobre os ativos ou Return on Assets, &#xE9; um indicador de rentabilidade, que calcula a capacidade de uma empresa gerar lucro a partir dos seus ativos, al&#xE9;m de indiretamente, indicar a efici&#xEA;ncia dos seus gestores.
@@ -2964,7 +2961,7 @@ Mede a rentabilidade de dinheiro o que uma empresa &#xE9; capaz de gerar em raz&
 <a href="https://statusinvest.com.br/termos/g/giro-do-ativo" title="Artigo detalhando Giro ativos" target="_blank" rel="noopener" class="term-indicator-link d-flex align-items-center">
 <h3 class="title m-0 uppercase">Giro ativos</h3>
 <span class="material-icons">format_quote</span>
-</a>
+ </a>
 <i data-position="top" class="material-icons help-icon tooltipped tooltipped-html fs-3">
 help_outline
 <span class="template" style="display:none">
@@ -3007,7 +3004,7 @@ O CAGR (Compound Annual Growth Rate), ou taxa de crescimento anual composta, &#x
 </i>
 </div>
 <button type="button" data-key="receitas_cagr5" data-name="CAGR Receitas 5 anos" data-prefix="" data-suffix="%" class="btn-chart btn-history btn btn-xsmall btn-main-green btn-outline btn-flat">
-<i style="max-width: 18px;" class="material-icons">show_chart</i>
+ <i style="max-width: 18px;" class="material-icons">show_chart</i>
 </button>
 <div class="avatars" data-key="receitas_cagr5">
 </div>
@@ -3036,7 +3033,7 @@ O CAGR (Compound Annual Growth Rate), ou taxa de crescimento anual composta, &#x
 </div>
 </div>
 <div style="display:none" class="indicator-avg-market-container">
-<input id="indicator-current" name="indicator-current" type="hidden" value="[{&quot;Key&quot;:&quot;p_l&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:40.0761,&quot;Value_F&quot;:&quot;40,08&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;p_vp&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:10.8567,&quot;Value_F&quot;:&quot;10,86&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;p_ebita&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:30.5531,&quot;Value_F&quot;:&quot;30,55&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;p_ebit&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:34.3183,&quot;Value_F&quot;:&quot;34,32&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;p_sr&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:6.3171,&quot;Value_F&quot;:&quot;6,32&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;p_ativo&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:6.1523,&quot;Value_F&quot;:&quot;6,15&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;p_capitlgiro&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:19.2001,&quot;Value_F&quot;:&quot;19,20&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;p_ativocirculante&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:-17.8452,&quot;Value_F&quot;:&quot;-17,85&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;ev_ebitda&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:30.2646,&quot;Value_F&quot;:&quot;30,26&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;ev_ebit&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:33.9943,&quot;Value_F&quot;:&quot;33,99&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;lpa&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:0.8229,&quot;Value_F&quot;:&quot;0,82&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;vpa&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:3.0378,&quot;Value_F&quot;:&quot;3,04&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;dy&quot;,&quot;Suffix&quot;:&quot;%&quot;,&quot;Prefix&quot;:null,&quot;Value&quot;:1.2826,&quot;Value_F&quot;:&quot;1,28%&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;dividaliquida_patrimonioliquido&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:-0.10,&quot;Value_F&quot;:&quot;-0,10&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:true},{&quot;Key&quot;:&quot;dividaliquida_ebitda&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:-0.29,&quot;Value_F&quot;:&quot;-0,29&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:true},{&quot;Key&quot;:&quot;dividaliquida_ebit&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:-0.32,&quot;Value_F&quot;:&quot;-0,32&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:true},{&quot;Key&quot;:&quot;patrimonio_ativo&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:0.57,&quot;Value_F&quot;:&quot;0,57&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;passivo_ativo&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:0.42,&quot;Value_F&quot;:&quot;0,42&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;liquidezcorrente&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:1.96,&quot;Value_F&quot;:&quot;1,96&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;margembruta&quot;,&quot;Suffix&quot;:&quot;%&quot;,&quot;Prefix&quot;:null,&quot;Value&quot;:30.80,&quot;Value_F&quot;:&quot;30,80%&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;margemebitda&quot;,&quot;Suffix&quot;:&quot;%&quot;,&quot;Prefix&quot;:null,&quot;Value&quot;:20.68,&quot;Value_F&quot;:&quot;20,68%&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;margemebit&quot;,&quot;Suffix&quot;:&quot;%&quot;,&quot;Prefix&quot;:null,&quot;Value&quot;:18.41,&quot;Value_F&quot;:&quot;18,41%&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;margeliquida&quot;,&quot;Suffix&quot;:&quot;%&quot;,&quot;Prefix&quot;:null,&quot;Value&quot;:15.76,&quot;Value_F&quot;:&quot;15,76%&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;roe&quot;,&quot;Suffix&quot;:&quot;%&quot;,&quot;Prefix&quot;:null,&quot;Value&quot;:27.09,&quot;Value_F&quot;:&quot;27,09%&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;roa&quot;,&quot;Suffix&quot;:&quot;%&quot;,&quot;Prefix&quot;:null,&quot;Value&quot;:15.35,&quot;Value_F&quot;:&quot;15,35%&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;roic&quot;,&quot;Suffix&quot;:&quot;%&quot;,&quot;Prefix&quot;:null,&quot;Value&quot;:22.75,&quot;Value_F&quot;:&quot;22,75%&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;giro_ativos&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:0.97,&quot;Value_F&quot;:&quot;0,97&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;peg_Ratio&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:0.62085249,&quot;Value_F&quot;:&quot;0,62&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;receitas_cagr5&quot;,&quot;Suffix&quot;:&quot;%&quot;,&quot;Prefix&quot;:null,&quot;Value&quot;:12.35,&quot;Value_F&quot;:&quot;12,35%&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;lucros_cagr5&quot;,&quot;Suffix&quot;:&quot;%&quot;,&quot;Prefix&quot;:null,&quot;Value&quot;:24.47,&quot;Value_F&quot;:&quot;24,47%&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false}]" />
+<input id="indicator-current" name="indicator-current" type="hidden" value="[{&quot;Key&quot;:&quot;p_l&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:35.1790,&quot;Value_F&quot;:&quot;35,18&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;p_vp&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:9.5301,&quot;Value_F&quot;:&quot;9,53&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;p_ebita&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:26.8196,&quot;Value_F&quot;:&quot;26,82&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;p_ebit&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:30.1248,&quot;Value_F&quot;:&quot;30,12&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;p_sr&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:5.5452,&quot;Value_F&quot;:&quot;5,55&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;p_ativo&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:5.4005,&quot;Value_F&quot;:&quot;5,40&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;p_capitlgiro&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:16.8540,&quot;Value_F&quot;:&quot;16,85&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;p_ativocirculante&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:-15.6646,&quot;Value_F&quot;:&quot;-15,66&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;ev_ebitda&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:26.5311,&quot;Value_F&quot;:&quot;26,53&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;ev_ebit&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:29.8007,&quot;Value_F&quot;:&quot;29,80&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;lpa&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:0.8229,&quot;Value_F&quot;:&quot;0,82&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;vpa&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:3.0378,&quot;Value_F&quot;:&quot;3,04&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;dy&quot;,&quot;Suffix&quot;:&quot;%&quot;,&quot;Prefix&quot;:null,&quot;Value&quot;:1.4611,&quot;Value_F&quot;:&quot;1,46%&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;dividaliquida_patrimonioliquido&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:-0.10,&quot;Value_F&quot;:&quot;-0,10&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:true},{&quot;Key&quot;:&quot;dividaliquida_ebitda&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:-0.29,&quot;Value_F&quot;:&quot;-0,29&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:true},{&quot;Key&quot;:&quot;dividaliquida_ebit&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:-0.32,&quot;Value_F&quot;:&quot;-0,32&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:true},{&quot;Key&quot;:&quot;patrimonio_ativo&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:0.57,&quot;Value_F&quot;:&quot;0,57&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;passivo_ativo&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:0.42,&quot;Value_F&quot;:&quot;0,42&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;liquidezcorrente&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:1.96,&quot;Value_F&quot;:&quot;1,96&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;margembruta&quot;,&quot;Suffix&quot;:&quot;%&quot;,&quot;Prefix&quot;:null,&quot;Value&quot;:30.80,&quot;Value_F&quot;:&quot;30,80%&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;margemebitda&quot;,&quot;Suffix&quot;:&quot;%&quot;,&quot;Prefix&quot;:null,&quot;Value&quot;:20.68,&quot;Value_F&quot;:&quot;20,68%&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;margemebit&quot;,&quot;Suffix&quot;:&quot;%&quot;,&quot;Prefix&quot;:null,&quot;Value&quot;:18.41,&quot;Value_F&quot;:&quot;18,41%&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;margeliquida&quot;,&quot;Suffix&quot;:&quot;%&quot;,&quot;Prefix&quot;:null,&quot;Value&quot;:15.76,&quot;Value_F&quot;:&quot;15,76%&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;roe&quot;,&quot;Suffix&quot;:&quot;%&quot;,&quot;Prefix&quot;:null,&quot;Value&quot;:27.09,&quot;Value_F&quot;:&quot;27,09%&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;roa&quot;,&quot;Suffix&quot;:&quot;%&quot;,&quot;Prefix&quot;:null,&quot;Value&quot;:15.35,&quot;Value_F&quot;:&quot;15,35%&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;roic&quot;,&quot;Suffix&quot;:&quot;%&quot;,&quot;Prefix&quot;:null,&quot;Value&quot;:22.75,&quot;Value_F&quot;:&quot;22,75%&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;giro_ativos&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:0.97,&quot;Value_F&quot;:&quot;0,97&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;peg_Ratio&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:0.54498726,&quot;Value_F&quot;:&quot;0,54&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;receitas_cagr5&quot;,&quot;Suffix&quot;:&quot;%&quot;,&quot;Prefix&quot;:null,&quot;Value&quot;:12.35,&quot;Value_F&quot;:&quot;12,35%&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;lucros_cagr5&quot;,&quot;Suffix&quot;:&quot;%&quot;,&quot;Prefix&quot;:null,&quot;Value&quot;:24.47,&quot;Value_F&quot;:&quot;24,47%&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false}]" />
 <div class="d-flex flex-wrap justify-center align-items-center mb-3">
 <div class="btn-toggle btn-avg-type d-flex justify-center  mr-md-3 mb-2 mb-md-0">
 <button type="button" title="Veja a média por setor" data-value="sector" data-id="1" data-title="Média setor" class="pl-1 pr-1 btn-small  btn btn-main btn-flat active">
@@ -3098,7 +3095,7 @@ Dividendos pagos no per&#xED;odo / Pre&#xE7;o a&#xE7;&#xE3;o
 <strong class="value d-block lh-4 fs-3_5 fw-600">-</strong>
 </div>
 </div>
-<div class="ativos"> 
+<div class="ativos">
 <div class="ghost"></div>
 </div>
 </div>
@@ -3220,7 +3217,7 @@ EV / EBITDA
 </div>
 </span>
 </i>
- </div>
+</div>
 <div class="media-mercado">
 <div class="d-flex align-items-center justify-between pr-2">
 <span class="title m-0 mr-1 uppercase">-</span>
@@ -3262,7 +3259,7 @@ EV / EBIT
 </div>
 <div class="ativos">
 <div class="ghost"></div>
- </div>
+</div>
 </div>
 </div>
 <div class="w-50 w-sm-33 w-md-25 w-lg-16_6 mb-2 mt-2 item pt-3 pb-3">
@@ -3276,7 +3273,7 @@ P/EBITDA
 </a>
 <i data-position="top" class="material-icons help-icon tooltipped tooltipped-html">
 help_outline
-<span class="template" style="display:none">
+ <span class="template" style="display:none">
 <div class="tooltipped-html-template fw-100">
 O EBITDA permite conhecer quanto a companhia est&#xE1; gerando de caixa com base exclusivamente em suas atividades operacionais, desconsiderando os impactos financeiros e dos impostos.
 <small class="mt-2 fs-2 d-block">FÓRMULA:</small>
@@ -3316,7 +3313,7 @@ Indica qual &#xE9; o pre&#xE7;o da a&#xE7;&#xE3;o em rela&#xE7;&#xE3;o ao seu re
 <small class="text-main-secondary-light fw-600">
 Pre&#xE7;o atual / EBIT
 </small>
-</div>
+ </div>
 </span>
 </i>
 </div>
@@ -3343,7 +3340,7 @@ VPA
 <i data-position="top" class="material-icons help-icon tooltipped tooltipped-html">
 help_outline
 <span class="template" style="display:none">
- <div class="tooltipped-html-template fw-100">
+<div class="tooltipped-html-template fw-100">
 Indica qual o valor patrimonial de uma a&#xE7;&#xE3;o.
 <small class="mt-2 fs-2 d-block">FÓRMULA:</small>
 <small class="text-main-secondary-light fw-600">
@@ -3365,7 +3362,7 @@ Patrim&#xF4;nio l&#xED;quido / N&#xBA; de a&#xE7;&#xF5;es
 </div>
 </div>
 <div class="w-50 w-sm-33 w-md-25 w-lg-16_6 mb-2 mt-2 item pt-3 pb-3">
-<div data-key="p_ativo" title="Pre&#xE7;o da a&#xE7;&#xE3;o dividido pelos Ativos totais por a&#xE7;&#xE3;o.">
+ <div data-key="p_ativo" title="Pre&#xE7;o da a&#xE7;&#xE3;o dividido pelos Ativos totais por a&#xE7;&#xE3;o.">
 <div class="d-flex align-items-center  mb-1">
 <a href="https://statusinvest.com.br/termos/p/p-ativo" title="Artigo detalhando P/Ativo" target="_blank" rel="noopener" class="term-indicator-link d-flex align-items-center">
 <h3 class="title m-0 uppercase" style=" font-weight:700">
@@ -3388,7 +3385,7 @@ Pre&#xE7;o atual / Ativos
 </div>
 <div class="media-mercado">
 <div class="d-flex align-items-center justify-between pr-2">
- <span class="title m-0 mr-1 uppercase">-</span>
+<span class="title m-0 mr-1 uppercase">-</span>
 <strong class="value d-block lh-4 fs-3_5 fw-600">-</strong>
 </div>
 </div>
@@ -3488,7 +3485,7 @@ Pre&#xE7;o atual / (Ativo circulante - Passivo circulante)
 <div class="media-mercado">
 <div class="d-flex align-items-center justify-between pr-2">
 <span class="title m-0 mr-1 uppercase">-</span>
-<strong class="value d-block lh-4 fs-3_5 fw-600">-</strong>
+ <strong class="value d-block lh-4 fs-3_5 fw-600">-</strong>
 </div>
 </div>
 <div class="ativos">
@@ -3511,7 +3508,7 @@ help_outline
 <div class="tooltipped-html-template fw-100">
 &#xC9; a diferen&#xE7;a entre o ativo circulante e o passivo que constam do balan&#xE7;o patrimonial de uma empresa.
 <small class="mt-2 fs-2 d-block">FÓRMULA:</small>
- <small class="text-main-secondary-light fw-600">
+<small class="text-main-secondary-light fw-600">
 Pre&#xE7;o atual / Ativos Circulantes L&#xED;quidos por a&#xE7;&#xE3;o
 </small>
 </div>
@@ -3554,7 +3551,7 @@ D&#xED;vida l&#xED;quida / Patrim&#xF4;nio l&#xED;quido
 </small>
 </div>
 </span>
- </i>
+</i>
 </div>
 <div class="media-mercado">
 <div class="d-flex align-items-center justify-between pr-2">
@@ -3611,7 +3608,7 @@ D&#xED;v. l&#xED;quida/EBIT
 </a>
 <i data-position="top" class="material-icons help-icon tooltipped tooltipped-html">
 help_outline
-<span class="template" style="display:none">
+ <span class="template" style="display:none">
 <div class="tooltipped-html-template fw-100">
 Indica quanto tempo seria necess&#xE1;rio para pagar a d&#xED;vida l&#xED;quida da empresa considerando o EBIT atual. Indica tamb&#xE9;m o grau de endividamento da companhia.
 <small class="mt-2 fs-2 d-block">FÓRMULA:</small>
@@ -3696,7 +3693,7 @@ Passivos / Ativos
 </div>
 <div class="ativos">
 <div class="ghost"></div>
-</div>
+ </div>
 </div>
 </div>
 <div class="w-50 w-sm-33 w-md-25 w-lg-16_6 mb-2 mt-2 item pt-3 pb-3">
@@ -3720,7 +3717,7 @@ Ativo circulante / Passivo circulante
 </div>
 </span>
 </i>
- </div>
+</div>
 <div class="media-mercado">
 <div class="d-flex align-items-center justify-between pr-2">
 <span class="title m-0 mr-1 uppercase">-</span>
@@ -3767,7 +3764,7 @@ Lucro bruto / Receita l&#xED;quida
 </div>
 <div class="ativos">
 <div class="ghost"></div>
- </div>
+</div>
 </div>
 </div>
 <div class="w-50 w-sm-33 w-md-25 w-lg-50  mb-2 mt-2 pt-3 pb-3 item">
@@ -3780,7 +3777,7 @@ M. EBITDA
 <span class="material-icons">format_quote</span>
 </a>
 <i data-position="top" class="material-icons help-icon tooltipped tooltipped-html">
-help_outline
+ help_outline
 <span class="template" style="display:none">
 <div class="tooltipped-html-template fw-100">
 &#xC9; o percentual da divis&#xE3;o entre o EBITDA (Earnings before interest, taxes, depreciation and amortization) e a receita l&#xED;quida de uma companhia. Muito &#xFA;til para se comparar a lucratividade operacional da empresa.
@@ -3819,7 +3816,7 @@ help_outline
 &#xDA;til para comparar a lucratividade operacional de empresas do mesmo segmento, al&#xE9;m de contribuir para avaliar o crescimento da efici&#xEA;ncia produtiva de um neg&#xF3;cio ao longo do tempo.
 <small class="mt-2 fs-2 d-block">FÓRMULA:</small>
 <small class="text-main-secondary-light fw-600">
-EBIT / Receita l&#xED;quida
+ EBIT / Receita l&#xED;quida
 </small>
 </div>
 </span>
@@ -3889,7 +3886,7 @@ help_outline
 <div class="tooltipped-html-template fw-100">
 Mede a capacidade de agregar valor de uma empresa a partir de seus pr&#xF3;prios recursos e do dinheiro de investidores.
 <small class="mt-2 fs-2 d-block">FÓRMULA:</small>
- <small class="text-main-secondary-light fw-600">
+<small class="text-main-secondary-light fw-600">
 Lucro l&#xED;quido / Patrim&#xF4;nio l&#xED;quido
 </small>
 </div>
@@ -3987,7 +3984,7 @@ help_outline
 <span class="template" style="display:none">
 <div class="tooltipped-html-template fw-100">
 Mede se como uma empresa est&#xE1; utilizando o seu ativo (bens, investimentos, estoque etc.) para produzir riqueza, atrav&#xE9;s da venda de seus produtos e/ou servi&#xE7;os.
-<small class="mt-2 fs-2 d-block">FÓRMULA:</small>
+ <small class="mt-2 fs-2 d-block">FÓRMULA:</small>
 <small class="text-main-secondary-light fw-600">
 Receita l&#xED;quida / Total m&#xE9;dio de ativos
 </small>
@@ -4035,7 +4032,7 @@ O CAGR (Compound Annual Growth Rate), ou taxa de crescimento anual composta, &#x
 <div class="ativos">
 <div class="ghost"></div>
 </div>
-</div>
+ </div>
 </div>
 <div class="w-50 w-sm-33 w-md-25 w-lg-50  mb-2 mt-2 pt-3 pb-3 item">
 <div data-key="lucros_cagr5" title="O CAGR (Compound Annual Growth Rate), ou taxa de crescimento anual composta, &#xE9; a taxa de retorno necess&#xE1;ria para um investimento crescer de seu saldo inicial para o seu saldo final.">
@@ -4061,7 +4058,7 @@ O CAGR (Compound Annual Growth Rate), ou taxa de crescimento anual composta, &#x
 <div class="ativos">
 <div class="ghost"></div>
 </div>
- </div>
+</div>
 </div>
 </div>
 </div>
@@ -4093,7 +4090,7 @@ O CAGR (Compound Annual Growth Rate), ou taxa de crescimento anual composta, &#x
 </div>
 </div>
 <div class="card bg-main-gd-h white-text rounded mb-7">
-<div class="d-block d-xs-flex justify-between align-items-center mb-3">
+ <div class="d-block d-xs-flex justify-between align-items-center mb-3">
 <div class="card-title ">
 <i class="material-icons v-align-middle d-inline-block fs-4">monetization_on</i>
 <h3 class="d-inline-block m-0 white-text">
@@ -4110,7 +4107,7 @@ A taxa de aluguel é ao ano
 </div>
 <small class="d-block fs-2 fs-md-3 lh-2 text-center">
 DATA BASE <span class="d-xs-none d-sm-inline-block">- </span>
-<strong class="fw-900 d-xs-block d-sm-inline-block">29/12/2021</strong>
+<strong class="fw-900 d-xs-block d-sm-inline-block">12/01/2022</strong>
 </small>
 </div>
 <div class="top-info d-flex justify-between align-items-center flex-wrap">
@@ -4118,17 +4115,17 @@ DATA BASE <span class="d-xs-none d-sm-inline-block">- </span>
 <div class="d-md-inline-block text-align-center">
 <div class="d-inline-block text-align-left" title="">
 <h3 class="title m-0">TOMADOR <small>(média)</small></h3>
-<strong class="m-md-0 mb-md-1 value mt-0 ">0,62</strong>
+<strong class="m-md-0 mb-md-1 value mt-0 ">0,37</strong>
 <span class="icon fs-3">%</span>
 </div>
 <div class="d-flex justify-center justify-md-between w-lg-100">
 <span title="" class="sub-value">
 <span class="d-block fs-2 lh-1">MIN.</span>
-<b class="v-align-middle">0,62<span class="fs-2 fw-100">%</span></b>
+<b class="v-align-middle">0,10<span class="fs-2 fw-100">%</span></b>
 </span>
 <span title="" class="sub-value pl-2 pl-sm-3">
 <span class="d-block fs-2 lh-1">MAX.</span>
-<b class="v-align-middle">1,00<span class="fs-2 fw-100">%</span></b>
+<b class="v-align-middle">0,80<span class="fs-2 fw-100">%</span></b>
 </span>
 </div>
 </div>
@@ -4137,33 +4134,33 @@ DATA BASE <span class="d-xs-none d-sm-inline-block">- </span>
 <div class="d-md-inline-block text-align-center">
 <div class="d-inline-block text-align-left" title="">
 <h3 class="title m-0">DOADOR <small>(média)</small></h3>
-<strong class="m-md-0 mb-md-1 value mt-0 ">0,62</strong>
+<strong class="m-md-0 mb-md-1 value mt-0 ">0,37</strong>
 <span class="icon fs-3">%</span>
 </div>
 <div class="d-flex justify-center justify-md-between w-lg-100">
 <span title="" class="sub-value">
 <span class="d-block fs-2 lh-1">MIN.</span>
-<b class="v-align-middle">0,62<span class="fs-2 fw-100">%</span></b>
+<b class="v-align-middle">0,10<span class="fs-2 fw-100">%</span></b>
 </span>
 <span title="" class="sub-value pl-2 pl-sm-3">
 <span class="d-block fs-2 lh-1">MAX.</span>
-<b class="v-align-middle">1,00<span class="fs-2 fw-100">%</span></b>
+<b class="v-align-middle">0,80<span class="fs-2 fw-100">%</span></b>
 </span>
 </div>
 </div>
-</div>
+ </div>
 <div class="info w-100 w-xs-45 w-sm-50 w-lg-20 m-0 p-lg-0">
 <div class="d-md-inline-block text-align-center">
 <div class="d-inline-block text-align-left" title="">
 <h3 class="title m-0">Nº DE AÇÕES ALUGADAS (dia)</h3>
-<strong class="m-md-0 mb-md-1 value mt-0 fs-3_5 lh-4">6.977.142</strong>
+<strong class="m-md-0 mb-md-1 value mt-0 fs-3_5 lh-4">2.571.944</strong>
 </div>
 <div class="d-block text-center w-lg-100">
 <span title="" class="sub-value d-inline-block d-xs-block m-auto text-left">
 <span class="d-block fs-2 lh-1">
 TOTAL AÇÕES ALUGADAS
 </span>
-<b class="v-align-middle fs-3_5 lh-4">34.029.539</b>
+<b class="v-align-middle fs-3_5 lh-4">34.148.405</b>
 </span>
 </div>
 </div>
@@ -4173,7 +4170,7 @@ TOTAL AÇÕES ALUGADAS
 <div class="d-inline-block">
 <h3 class="title m-0">VOLUME (dia)</h3>
 <span class="icon m-md-0 mb-md-1 fs-3">R$</span>
-<strong class="m-md-0 mb-md-1 value mt-0 fs-3_5 lh-4">228.431.629</strong>
+<strong class="m-md-0 mb-md-1 value mt-0 fs-3_5 lh-4">77.724.148</strong>
 </div>
 <div class="d-block text-center w-lg-100">
 <span title="" class="sub-value d-inline-block d-xs-block m-auto text-left">
@@ -4181,16 +4178,16 @@ TOTAL AÇÕES ALUGADAS
 VOLUME TOTAL EM ABERTO
 </span>
 <span class="icon fs-3">R$</span>
-<b class="v-align-middle fs-3_5 lh-4">1.162.903.966</b>
+<b class="v-align-middle fs-3_5 lh-4">1.088.370.314</b>
 </span>
 </div>
 </div>
 </div>
 <div class="info w-100 w-xs-55 w-sm-50 w-lg-15 pb-0 p-lg-0 border-lg-0">
- <div class="text-center">
+<div class="text-center">
 <div class="d-inline-block">
 <h3 class="title m-0">Nº DE CONTRATOS</h3>
-<strong class="value fs-4 mb-0 mb-md-1 mt-0 mt-md-1">74</strong>
+<strong class="value fs-4 mb-0 mb-md-1 mt-0 mt-md-1">250</strong>
 </div>
 </div>
 </div>
@@ -4302,7 +4299,7 @@ help_outline
 <div class="tooltipped-html-template fw-100">
 <small class="mt-2 fs-2 d-block">Observação:</small>
 <small class="text-main-secondary-light">
-<span class="fs-2 fw-900"> Esse indicador foi calculado com base nos dividendos recebidos entre 01/01/2021 e 01/01/2021</span>
+<span class="fs-2 fw-900"> Esse indicador foi calculado com base nos dividendos recebidos entre 01/01/2021 e 13/01/2021</span>
 </small>
 </div>
 </span>
@@ -4325,7 +4322,7 @@ help_outline
 <div class="tooltipped-html-template fw-100">
 <small class="mt-2 fs-2 d-block">Observação:</small>
 <small class="text-main-secondary-light">
-<span class="fs-2 fw-900">Esse indicador foi calculado com base nos dividendos recebidos entre 01/01/2022 e 01/01/2022</span>
+<span class="fs-2 fw-900">Esse indicador foi calculado com base nos dividendos recebidos entre 01/01/2022 e 13/01/2022</span>
 </small>
 </div>
 </span>
@@ -4357,7 +4354,7 @@ help_outline
 <div class="tooltipped-html-template fw-100">
 <small class="mt-2 fs-2 d-block">Observação:</small>
 <small class="text-main-secondary-light">
-<span class="fs-2 fw-900">Esse indicador foi calculado com base nos dividendos declarados, mas que possuem a data de pagamento superior a 01/01/2022, ou ainda n&#xE3;o possuem uma data de pagamento definida.</span>
+<span class="fs-2 fw-900">Esse indicador foi calculado com base nos dividendos declarados, mas que possuem a data de pagamento superior a 13/01/2022, ou ainda n&#xE3;o possuem uma data de pagamento definida.</span>
 </small>
 </div>
 </span>
@@ -4394,7 +4391,7 @@ DATA COM
 <tr class="">
 <td class="uppercase" title="Juros Sobre Capital Pr&#xF3;prio">JCP</td>
 <td>17/12/2021</td>
-<td>16/03/2022</td>
+ <td>16/03/2022</td>
 <td>0,03200000</td>
 </tr>
 <tr class="">
@@ -4422,7 +4419,7 @@ JCP
 report
 <span class="template" style="display:none">
 <div class="tooltipped-html-template fw-100">
- O valor a ser distribuído foi alterado <br /> de <b class="fw-600">R$ 0,03382353</b> para <b class="fw-600">R$ 0,01691176</b> devido a eventos de desdobramentos e/ou grupamentos
+O valor a ser distribuído foi alterado <br /> de <b class="fw-600">R$ 0,03382353</b> para <b class="fw-600">R$ 0,01691176</b> devido a eventos de desdobramentos e/ou grupamentos
 </div>
 </span>
 </i>
@@ -4445,7 +4442,7 @@ O valor a ser distribuído foi alterado <br /> de <b class="fw-600">R$ 0,0338235
 <td class="align-items-center d-flex uppercase" title="Dividendo">
 Dividendo
 <i data-position="top" class="ml-1 v-align-middle material-icons help-icon tooltipped tooltipped-html fs-3 d-lg-none">
-report
+ report
 <span class="template" style="display:none">
 <div class="tooltipped-html-template fw-100">
 O valor a ser distribuído foi alterado <br /> de <b class="fw-600">R$ 0,34935770</b> para <b class="fw-600">R$ 0,17467885</b> devido a eventos de desdobramentos e/ou grupamentos
@@ -4489,7 +4486,7 @@ report
 <div class="tooltipped-html-template fw-100">
 O valor a ser distribuído foi alterado <br /> de <b class="fw-600">R$ 0,03688235</b> para <b class="fw-600">R$ 0,01844118</b> devido a eventos de desdobramentos e/ou grupamentos
 </div>
-</span>
+ </span>
 </i>
 </td>
 </tr>
@@ -4558,7 +4555,7 @@ O valor a ser distribuído foi alterado <br /> de <b class="fw-600">R$ 0,0382352
 </i>
 </td>
 <td>26/06/2020</td>
- <td>12/08/2020</td>
+<td>12/08/2020</td>
 <td class="pt-0 d-flex align-items-center">
 <div>0,01911765</div>
 <i data-position="top" class="ml-1 v-align-middle material-icons help-icon tooltipped tooltipped-html fs-3 d-none d-lg-block">
@@ -4656,7 +4653,7 @@ help_outline
 <div class="card-body">
 <div class="mt-2 mt-md-0">
 <div class="d-flex justify-between align-items-center flex-wrap flex-md-nowrap">
- <div class="w-xs-40 w-sm-33 w-md-auto">
+<div class="w-xs-40 w-sm-33 w-md-auto">
 <small class="d-block fs-2 uppercase">Data <span class="d-none d-xs-inline-block">do</span> anúncio</small>
 <strong class="d-block lh-3 fs-3 fw-700">24/04/2018</strong>
 </div>
@@ -4669,7 +4666,7 @@ help_outline
 <strong class="d-block lh-3 fs-3 fw-700">25/04/2018</strong>
 </div>
 <div class="d-flex flex-wrap grey justify-between lighten-4 rounded w-100 w-md-50 pt-1 pb-1 mt-1 mt-md-0 p-xs-1 p-sm-2">
-<div class="w-xs-40 w-sm-33 w-md-auto">
+ <div class="w-xs-40 w-sm-33 w-md-auto">
 <small class="d-block fs-2 uppercase">Data <span class="d-none d-sm-inline-block">de</span> incorporação</small>
 <strong class="d-block lh-3 fs-3 fw-700">27/04/2018</strong>
 </div>
@@ -4705,7 +4702,7 @@ help_outline
 <div class="tooltipped-html-template fw-100">
 <span class="fw-900 text-main-secondary-light">Desdobramento (Split):</span> É quando a que empresas divide suas ações disponíveis em um número maior de ações.
 <br />
- <br />
+<br />
 <span class="fw-900 text-main-secondary-light">Grupamento (Inplit):</span> É a operação contrária ao split, onde reúne várias ações em uma.
 <br />
 <br />
@@ -4721,7 +4718,7 @@ No processo do split/inplit, o número total de ações aumenta/diminui mas o va
 <div class="mt-3">
 <div class="d-flex justify-between align-items-center flex-wrap flex-md-nowrap">
 <div class="w-55 w-xs-50 w-sm-35 w-md-33">
-<div class="rounded grey lighten-3 mr-3">
+ <div class="rounded grey lighten-3 mr-3">
 <span class="d-block lh-5 fs-3 text-align-center uppercase">Desdobramento</span>
 </div>
 </div>
@@ -4866,7 +4863,8 @@ PAYOUT DA WEG
 </div>
 </div>
 </div>
-<div id="company-section" class="pb-7 pt-7 white">
+<div id="company-section">
+<div class="pb-7 pt-7 white">
 <input id="company-relateds" name="company-relateds" type="hidden" value="[{&quot;CompanyId&quot;:188,&quot;CompanyName&quot;:&quot;SCHULZ&quot;,&quot;CompanyNameClean&quot;:&quot;schulz&quot;,&quot;DefaultAssetCode&quot;:&quot;SHUL4&quot;}]" />
 <div class="container">
 <div class="d-block d-md-flex mb-5 img-lazy-group">
@@ -4885,7 +4883,7 @@ PAYOUT DA WEG
 <div>
 </div>
 <div class="mt-1">
- <b class="uppercase fs-2 ">Empresas relacionadas:</b>
+<b class="uppercase fs-2 ">Empresas relacionadas:</b>
 <div class="related d-flex flex-wrap">
 <a title="Ir at&#xE9; o detalhe da empresa &#x27;SCHULZ&#x27;" aria-label="Ir at&#xE9; o detalhe da empresa &#x27;SCHULZ&#x27;" href="/acoes/shul4">
 <span class="bg-lazy waves-effect" data-img="url(/img/company/avatar/188.jpg?v=3)"></span>
@@ -4894,7 +4892,7 @@ PAYOUT DA WEG
 </div>
 </div>
 </div>
-<div class="top-info info-3 sm d-flex justify-between mb-5">
+<div class="top-info info-3 sm d-flex justify-between mb-3">
 <div class="info">
 <div>
 <div title="É uma referência aos bens e direitos que podem ser convertidos em dinheiro em curto prazo.">
@@ -4964,12 +4962,12 @@ PAYOUT DA WEG
 <div class="info" title="O valor da ação multiplicado pelo número de ações existentes">
 <div>
 <div>
-<a href="https://statusinvest.com.br/termos/v/valor-de-mercado" title="Artigo detalhando Valor de mercado" target="_blank" rel="noopener" class="term-indicator-link d-flex align-items-center">
+ <a href="https://statusinvest.com.br/termos/v/valor-de-mercado" title="Artigo detalhando Valor de mercado" target="_blank" rel="noopener" class="term-indicator-link d-flex align-items-center">
 <h3 class="title m-0">Valor de mercado</h3>
 <span class="material-icons">format_quote</span>
 </a>
 <b class="icon">R$</b>
-<strong class="value">138.427.547.574</strong>
+<strong class="value">121.512.356.042</strong>
 </div>
 </div>
 </div>
@@ -4981,7 +4979,7 @@ PAYOUT DA WEG
 <span class="material-icons">format_quote</span>
 </a>
 <b class="icon">R$</b>
-<strong class="value">137.120.395.574</strong>
+<strong class="value">120.205.204.042</strong>
 </div>
 </div>
 </div>
@@ -5070,14 +5068,14 @@ Total de cada <b>tipo</b> de papel:
 </div>
 </div>
 </div>
-<div class="card bg-main-gd-h white-text rounded ov-hidden ">
+<div class="card bg-main-gd-h white-text rounded ov-hidden pt-0 pb-0">
 <div class="top-info top-info-1 top-info-sm-2 top-info-md-n sm d-flex justify-between ">
 <div class="info pr-md-2">
 <div>
 <div>
 <span class="sub-value">Setor de Atuação</span>
 <div>
- <a title="Ver outras empresas do setor 'Bens Industriais'" href="/acoes/setor/1/bens-industriais" class="white-text d-flex">
+<a title="Ver outras empresas do setor 'Bens Industriais'" href="/acoes/setor/1/bens-industriais" class="white-text d-flex">
 <strong class="value">Bens Industriais</strong>
 <i class="ml-3 material-icons">arrow_forward</i>
 </a>
@@ -5112,20 +5110,33 @@ Total de cada <b>tipo</b> de papel:
 </div>
 </div>
 </div>
-<div class="company-description-text">
+</div>
+</div>
+</div>
+<div class="container">
+<div class="company-description-text mt-5">
 <div class="description-text desktop-visible">
 <div> <h2> Sobre a WEG (WEGE3) </h2> <p> A WEG S.A., também conhecida apenas como WEG, é uma das maiores empresas do Brasil no setor de bens industriais, com destaque por seu trabalho no segmento de fabricação de máquinas e equipamentos elétricos. </p> <p> Criada na década de 60, a empresa se tornou uma das maiores fabricantes de produtos elétricos do planeta. </p> <p> Constituída como sociedade anônima de capital aberto, a WEG tem suas ações negociadas na Bolsa do Brasil, a B3, sob o código WEGE3 . </p> <h2> Histórico da WEG (WEGE3) </h2> <p> A WEG foi criada no ano de 1961, sendo que a denominação inicial da companhia era Eletromotores Jaraguá. Posteriormente sua razão social passaria a ser WEG, que é a junção das primeiras letras dos nomes de seus fundadores. </p> <p> Ainda nos anos 1960, a companhia inaugurou seu primeiro parque fabril e investiu na especialização técnica de seus funcionários. </p> <p> Em 1970, a WEG começou a exportar seus produtos e, inicialmente, a companhia alcançou os mercados de outros países das Américas. </p> <p> No ano seguinte, em 1971, as ações do grupo começaram a ser negociadas na Bolsa de Valores. </p> <p> Durante o restante da década de 70 o grupo seguiu investindo nas exportações. Dessa forma, a empresa terminou a década com atuação em mais de 20 países, além de ter aberto escritórios em países da Europa, como a Alemanha. </p> <p> Em 1981 foram criadas WEG Acionamentos, WEG Transformadores e WEG Energia. Além disso, na mesma década também foram criadas a WEG Química e a WEG Automação, impulsionando ainda mais a diversificação dos campos de atuação do grupo. </p> <p> A década de 90 ficou marcada pela abertura de novas filiais da companhia fora do país, com destaque para suas filiais dos Estados Unidos e do Japão, sendo esta a primeira da companhia na Ásia. </p> <p> No mesmo período a WEG alcançou a marca de 50 países em que possuía mercado - Número que colocou o grupo entre as principais exportadoras do país. </p> <p> No início do milênio a empresa passou a focar sua expansão na aquisição de novos negócios, e o grupo adquiriu fábricas na Argentina e México, suas primeiras fora do país. </p> <p> Em 2004, a empresa inaugurou a sua primeira fábrica localizada na China. </p> <p> Três anos mais tarde, a WEG entrou para o Novo Mercado da Bolsa de Valores de São Paulo (Bovespa). </p> <p> A companhia adquiriu a Voltran em 20120, sendo esse um dos maiores negócios de sua história. E, ao longo dos anos seguintes, o grupo seguiu sua expansão com a aquisição de outras empresas. </p> <p> Em 2020, a WEG adquiriu a MVISIA e a BirminD, duas startups de alta tecnologia. </p> <h2> Atuação da WEG (WEGE3) </h2> <p> A WEG tem atuação em todo território nacional, possuindo 14 parques fabris ao redor do país. </p> <p> Além disso, a WEG tem parques fabris espalhados em outros 11 países, e o grupo ainda é responsável por filiais localizadas em outras 28 nações. </p> <h2> Produtos/Serviços da WEG (WEGE3) </h2> <p> A WEG tem seu foco de atuação voltado para a fabricação de equipamentos elétricos, sendo uma das maiores companhias do ramo no mundo. </p> <p> O grupo ainda tem atuação nas áreas de automação, distribuição de energia, agroindustrial e inovação. </p> <h2> Como investir em ações da WEG (WEGE3) </h2> <p> Para adquirir ações da WEG, o investidor deve acessar o site ou aplicativo de sua corretora e buscar pelo código WEGE3. </p></div>
 </div>
 <div class="text-center div-action">
-<button title="Ver tudo" type="button" class="btn btn-desktop-show btn-secondary waves-effect visible">
-ver menos
-</button>
-<button title="Ver tudo" type="button" class="btn btn-mobile-show btn-xsmall btn-secondary waves-effect">
+<button title="Ver tudo" type="button" class="btn btn-show btn-xsmall btn-secondary waves-effect">
 ver mais
 </button>
 </div>
 </div>
 </div>
+<div class="container mt-5">
+<div class=" banner-lazy-group-now advertising ad-846fdba2a96c4169a12391131693a3d8 mt-3 mb-4 pl-md-3 pr-md-3">
+<a href="https://lp.statusinvest.com.br/planos/" target="_blank" class="" rel="noopener noreferrer nofollow">
+<div class="image c22-1">anúncio</div>
+</a>
+</div>
+</div>
+<div class="pb-7 pt-7 mt-5 white ">
+<div class="container">
+<h2 title="ACIONISTAS  da  WEG" class="fs-4 fs-xs-5 mt-0 mb-4 mb-sm-5 fw-900 text-main">
+ACIONISTAS DA WEG
+</h2>
 <div id="distribuicaoCapital" class="card ov-hidden rounded  mt-5">
 <div class="d-md-flex justify-between align-items-center mb-2">
 <div class="d-flex justify-start align-items-center">
@@ -5137,7 +5148,7 @@ account_balance_wallet
 <div class="d-flex align-items-center  mt-2 mt-md-0">
 <small class="d-block fs-2 fs-md-3 lh-2 text-center">
 DATA BASE <span class="d-xs-none d-sm-inline-block">- </span>
-<strong class="fw-900 d-xs-block d-sm-inline-block">31/05/2021</strong>
+<strong class="fw-900 d-xs-block d-sm-inline-block">10/01/2022</strong>
 </small>
 <div class="p-relative text-center">
 <div class="need-login-cover" data-position="top" data-tooltip="&lt;span&gt;Veja o &lt;b class=&#x27;fw-900&#x27;&gt;hist&#xF3;rico&lt;/b&gt; da distribui&#xE7;&#xE3;o de capital acion&#xE1;ria, a &lt;b class=&#x27;fw-900&#x27;&gt;varia&#xE7;&#xE3;o&lt;/b&gt; da quantidade e percentual dos &lt;b class=&#x27;fw-900&#x27;&gt;principais acionistas&lt;/b&gt; da empresa! &lt;small class=&#x27;d-block&#x27;&gt;Dispon&#xED;vel a partir do &lt;b&gt;plano TOURO&lt;/b&gt;&lt;/small&gt;&lt;/span&gt;">
@@ -5234,7 +5245,7 @@ A <strong class="fw-700">quantidade de investidores</strong> é atualizada na B3
 </div>
 </div>
 <div id="posicaoacionaria" class="card chart-and-list rounded pt-3 pb-3 mt-3 " style="background-color: #f2f2f2;">
-<input id="results" name="results" type="hidden" value="[{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;WPA Participa&#xE7;&#xF5;es e Servi&#xE7;os S.A.&quot;,&quot;NormalizedAcionista&quot;:&quot;wpa-participa&#xE7;&#xF5;es-e-servi&#xE7;os-s.a.&quot;,&quot;CpfCnpj&quot;:&quot;83.489.963/0001-28&quot;,&quot;PessoaFisica&quot;:false,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;50,0880&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;50,0880&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;2.102.360.004&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;2.102.360.004&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;05 de Maio Participa&#xE7;&#xF5;es Ltda&quot;,&quot;NormalizedAcionista&quot;:&quot;05-de-maio-participa&#xE7;&#xF5;es-ltda&quot;,&quot;CpfCnpj&quot;:&quot;26.610.354/0001-41&quot;,&quot;PessoaFisica&quot;:false,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;1,7890&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;1,7890&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;75.107.926&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;75.107.926&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Clica Voigt Administradora Ltda&quot;,&quot;NormalizedAcionista&quot;:&quot;clica-voigt-administradora-ltda&quot;,&quot;CpfCnpj&quot;:&quot;09.420.895/0001-98&quot;,&quot;PessoaFisica&quot;:false,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;1,6650&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;1,6650&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;69.871.968&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;69.871.968&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Si Voigt Administradora Ltda&quot;,&quot;NormalizedAcionista&quot;:&quot;si-voigt-administradora-ltda&quot;,&quot;CpfCnpj&quot;:&quot;09.370.501/0001-34&quot;,&quot;PessoaFisica&quot;:false,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;1,6440&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;1,6440&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;69.022.980&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;69.022.980&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Eggon Jo&#xE3;o da Silva Administradora Ltda&quot;,&quot;NormalizedAcionista&quot;:&quot;eggon-jo&#xE3;o-da-silva-administradora-ltda&quot;,&quot;CpfCnpj&quot;:&quot;80.957.384/0001-74&quot;,&quot;PessoaFisica&quot;:false,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,9940&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,9940&quot;,&quot;AcionistaControlador&quot;:&quot;n&#xE3;o&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;41.731.508&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;41.731.508&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Pender Participa&#xE7;&#xF5;es Ltda&quot;,&quot;NormalizedAcionista&quot;:&quot;pender-participa&#xE7;&#xF5;es-ltda&quot;,&quot;CpfCnpj&quot;:&quot;26.621.312/0001-06&quot;,&quot;PessoaFisica&quot;:false,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,9770&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,9770&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;41.027.792&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;41.027.792&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Analeca Participa&#xE7;&#xF5;es Ltda&quot;,&quot;NormalizedAcionista&quot;:&quot;analeca-participa&#xE7;&#xF5;es-ltda&quot;,&quot;CpfCnpj&quot;:&quot;26.610.310/0001-11&quot;,&quot;PessoaFisica&quot;:false,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,9580&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,9580&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;40.211.646&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;40.211.646&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;ZZS Administradora Ltda&quot;,&quot;NormalizedAcionista&quot;:&quot;zzs-administradora-ltda&quot;,&quot;CpfCnpj&quot;:&quot;26.610.323/0001-90&quot;,&quot;PessoaFisica&quot;:false,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,9430&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,9430&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;39.581.660&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;39.581.660&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;SWJ Participa&#xE7;&#xF5;es Ltda&quot;,&quot;NormalizedAcionista&quot;:&quot;swj-participa&#xE7;&#xF5;es-ltda&quot;,&quot;CpfCnpj&quot;:&quot;26.685.320/0001-16&quot;,&quot;PessoaFisica&quot;:false,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,9260&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,9260&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;38.855.018&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;38.855.018&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Wernin Administradora Ltda&quot;,&quot;NormalizedAcionista&quot;:&quot;wernin-administradora-ltda&quot;,&quot;CpfCnpj&quot;:&quot;09.420.817/0001-93&quot;,&quot;PessoaFisica&quot;:false,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,6720&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,6720&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;28.226.146&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;28.226.146&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Diether Werninghaus&quot;,&quot;NormalizedAcionista&quot;:&quot;diether-werninghaus&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,4870&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,4870&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;20.424.220&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;20.424.220&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Ventura Participa&#xE7;&#xF5;es Ltda&quot;,&quot;NormalizedAcionista&quot;:&quot;ventura-participa&#xE7;&#xF5;es-ltda&quot;,&quot;CpfCnpj&quot;:&quot;26.637.646/0001-78&quot;,&quot;PessoaFisica&quot;:false,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,4680&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,4680&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;19.652.224&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;19.652.224&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Cladis Voigt Trejes Administradora Ltda&quot;,&quot;NormalizedAcionista&quot;:&quot;cladis-voigt-trejes-administradora-ltda&quot;,&quot;CpfCnpj&quot;:&quot;08.703.890/0001-00&quot;,&quot;PessoaFisica&quot;:false,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,3430&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,3430&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;14.409.904&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;14.409.904&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Valsi Voigt Administradora Ltda&quot;,&quot;NormalizedAcionista&quot;:&quot;valsi-voigt-administradora-ltda&quot;,&quot;CpfCnpj&quot;:&quot;08.655.197/0001-09&quot;,&quot;PessoaFisica&quot;:false,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,3430&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,3430&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;14.409.904&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;14.409.904&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Miriam Voigt Schwartz Administradora Ltda&quot;,&quot;NormalizedAcionista&quot;:&quot;miriam-voigt-schwartz-administradora-ltda&quot;,&quot;CpfCnpj&quot;:&quot;08.649.305/0001-30&quot;,&quot;PessoaFisica&quot;:false,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,3430&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,3430&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;14.409.906&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;14.409.906&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;EW Administradora Ltda&quot;,&quot;NormalizedAcionista&quot;:&quot;ew-administradora-ltda&quot;,&quot;CpfCnpj&quot;:&quot;09.559.591/0001-06&quot;,&quot;PessoaFisica&quot;:false,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,2940&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,2940&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;12.324.306&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;12.324.306&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;LWB Administradora Ltda&quot;,&quot;NormalizedAcionista&quot;:&quot;lwb-administradora-ltda&quot;,&quot;CpfCnpj&quot;:&quot;11.248.565/0001-09&quot;,&quot;PessoaFisica&quot;:false,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,2900&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,2900&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;12.176.008&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;12.176.008&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;ASG Participa&#xE7;&#xF5;es Ltda&quot;,&quot;NormalizedAcionista&quot;:&quot;asg-participa&#xE7;&#xF5;es-ltda&quot;,&quot;CpfCnpj&quot;:&quot;26.610.320/0001-57&quot;,&quot;PessoaFisica&quot;:false,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,2110&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,2110&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;8.849.204&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;8.849.204&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;LIPEJU Participa&#xE7;&#xF5;es Ltda&quot;,&quot;NormalizedAcionista&quot;:&quot;lipeju-participa&#xE7;&#xF5;es-ltda&quot;,&quot;CpfCnpj&quot;:&quot;26.610.316/0001-99&quot;,&quot;PessoaFisica&quot;:false,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,2110&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,2110&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;8.849.204&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;8.849.204&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;HSG Gest&#xE3;o Ltda&quot;,&quot;NormalizedAcionista&quot;:&quot;hsg-gest&#xE3;o-ltda&quot;,&quot;CpfCnpj&quot;:&quot;38.828.979/0001-63&quot;,&quot;PessoaFisica&quot;:false,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,1550&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,1550&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;6.515.422&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;6.515.422&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Julia da Silva Geffert de Oliveira&quot;,&quot;NormalizedAcionista&quot;:&quot;julia-da-silva-geffert-de-oliveira&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,1550&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,1550&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;6.521.650&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;6.521.650&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Alberto da Silva Geffert&quot;,&quot;NormalizedAcionista&quot;:&quot;alberto-da-silva-geffert&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,1550&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,1550&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;6.520.018&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;6.520.018&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Roseli Werninghaus&quot;,&quot;NormalizedAcionista&quot;:&quot;roseli-werninghaus&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,1540&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,1540&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;6.473.784&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;6.473.784&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Walter Janssen Neto&quot;,&quot;NormalizedAcionista&quot;:&quot;walter-janssen-neto&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,1020&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,1020&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;4.298.560&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;4.298.560&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Ricardo Werninghaus&quot;,&quot;NormalizedAcionista&quot;:&quot;ricardo-werninghaus&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,0230&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,0230&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;970.506&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;970.506&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Mariana Werninghaus de Carvalho&quot;,&quot;NormalizedAcionista&quot;:&quot;mariana-werninghaus-de-carvalho&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,0230&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,0230&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;970.840&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;970.840&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Ricardo Bartsch Filho&quot;,&quot;NormalizedAcionista&quot;:&quot;ricardo-bartsch-filho&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,0200&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,0200&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;856.334&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;856.334&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Bruna da Silva Bartsch Langsch&quot;,&quot;NormalizedAcionista&quot;:&quot;bruna-da-silva-bartsch-langsch&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,0200&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,0200&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;854.308&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;854.308&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Cl&#xE9;cio F&#xE1;bio Zucco&quot;,&quot;NormalizedAcionista&quot;:&quot;cl&#xE9;cio-f&#xE1;bio-zucco&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,0100&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,0100&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;417.010&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;417.010&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Daniel Ricardo Behnke&quot;,&quot;NormalizedAcionista&quot;:&quot;daniel-ricardo-behnke&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,0100&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,0100&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;402.998&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;402.998&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Davi Ricardo Behnke&quot;,&quot;NormalizedAcionista&quot;:&quot;davi-ricardo-behnke&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,0080&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,0080&quot;,&quot;AcionistaControlador&quot;:&quot;n&#xE3;o&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;349.440&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;349.440&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Paulo Dario Paranhos Trejes&quot;,&quot;NormalizedAcionista&quot;:&quot;paulo-dario-paranhos-trejes&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,0080&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,0080&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;340.200&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;340.200&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Laura Augusta da Silva&quot;,&quot;NormalizedAcionista&quot;:&quot;laura-augusta-da-silva&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,0060&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,0060&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;259.454&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;259.454&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;G Werninghaus Admininstradora Ltda&quot;,&quot;NormalizedAcionista&quot;:&quot;g-werninghaus-admininstradora-ltda&quot;,&quot;CpfCnpj&quot;:&quot;80.952.849/0001-02&quot;,&quot;PessoaFisica&quot;:false,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,0060&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,0060&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;234.988&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;234.988&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Anne Marie Werninghaus&quot;,&quot;NormalizedAcionista&quot;:&quot;anne-marie-werninghaus&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,0040&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,0040&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;160.854&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;160.854&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Maia Peixer Behnke&quot;,&quot;NormalizedAcionista&quot;:&quot;maia-peixer-behnke&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,0030&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,0030&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;121.448&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;121.448&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Arthur Rainui Peixer Behnke&quot;,&quot;NormalizedAcionista&quot;:&quot;arthur-rainui-peixer-behnke&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,0030&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,0030&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;121.448&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;121.448&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Gerd da Silva Werninghaus&quot;,&quot;NormalizedAcionista&quot;:&quot;gerd-da-silva-werninghaus&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,0020&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,0020&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;77.830&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;77.830&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Lilian da Silva Werninghaus&quot;,&quot;NormalizedAcionista&quot;:&quot;lilian-da-silva-werninghaus&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,0020&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,0020&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;77.830&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;77.830&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Fabio Roberto de Oliveira&quot;,&quot;NormalizedAcionista&quot;:&quot;fabio-roberto-de-oliveira&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,0010&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,0010&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;3.228&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;3.228&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Theo Werninghaus Tavares&quot;,&quot;NormalizedAcionista&quot;:&quot;theo-werninghaus-tavares&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,0010&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,0010&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;29.900&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;29.900&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Renata da Silva Janssen Decker&quot;,&quot;NormalizedAcionista&quot;:&quot;renata-da-silva-janssen-decker&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,0010&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,0010&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;47.320&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;47.320&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Joaquim Werninghaus Tavares&quot;,&quot;NormalizedAcionista&quot;:&quot;joaquim-werninghaus-tavares&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,0010&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,0010&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;29.900&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;29.900&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Zaira Zimmermann da Silva&quot;,&quot;NormalizedAcionista&quot;:&quot;zaira-zimmermann-da-silva&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,0010&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,0010&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;13.488&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;13.488&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Paula da Silva Janssen&quot;,&quot;NormalizedAcionista&quot;:&quot;paula-da-silva-janssen&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,0010&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,0010&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;47.320&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;47.320&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Thomas Werninghaus Tavares&quot;,&quot;NormalizedAcionista&quot;:&quot;thomas-werninghaus-tavares&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,0010&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,0010&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;29.900&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;29.900&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Bruno Werninghaus de Carvalho&quot;,&quot;NormalizedAcionista&quot;:&quot;bruno-werninghaus-de-carvalho&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,0010&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,0010&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;38.642&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;38.642&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Joana Zimmermann da Silva&quot;,&quot;NormalizedAcionista&quot;:&quot;joana-zimmermann-da-silva&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,0010&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,0010&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;13.520&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;13.520&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;A&#xE7;&#xF5;es Tesouraria&quot;,&quot;NormalizedAcionista&quot;:&quot;a&#xE7;&#xF5;es-tesouraria&quot;,&quot;CpfCnpj&quot;:&quot;-&quot;,&quot;PessoaFisica&quot;:false,&quot;Nacionalidade&quot;:&quot;&quot;,&quot;DataUltimaAlteracao&quot;:&quot;-&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,0330&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,0330&quot;,&quot;AcionistaControlador&quot;:&quot;n&#xE3;o&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;1.387.560&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;1.387.560&quot;,&quot;Order&quot;:1},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Outros&quot;,&quot;NormalizedAcionista&quot;:&quot;outros&quot;,&quot;CpfCnpj&quot;:&quot;-&quot;,&quot;PessoaFisica&quot;:false,&quot;Nacionalidade&quot;:&quot;&quot;,&quot;DataUltimaAlteracao&quot;:&quot;-&quot;,&quot;PercentualOrdinarias&quot;:&quot;35,4430&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;35,4430&quot;,&quot;AcionistaControlador&quot;:&quot;n&#xE3;o&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;1.487.630.770&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;1.487.630.770&quot;,&quot;Order&quot;:2}]" />
+<input id="results" name="results" type="hidden" value="[{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;WPA Participa&#xE7;&#xF5;es e Servi&#xE7;os S.A.&quot;,&quot;NormalizedAcionista&quot;:&quot;wpa-participa&#xE7;&#xF5;es-e-servi&#xE7;os-s.a.&quot;,&quot;CpfCnpj&quot;:&quot;83.489.963/0001-28&quot;,&quot;PessoaFisica&quot;:false,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;50,0880&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;50,0880&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;2.102.360.004&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;2.102.360.004&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;05 de Maio Participa&#xE7;&#xF5;es Ltda&quot;,&quot;NormalizedAcionista&quot;:&quot;05-de-maio-participa&#xE7;&#xF5;es-ltda&quot;,&quot;CpfCnpj&quot;:&quot;26.610.354/0001-41&quot;,&quot;PessoaFisica&quot;:false,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;1,7890&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;1,7890&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;75.107.926&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;75.107.926&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Clica Voigt Administradora Ltda&quot;,&quot;NormalizedAcionista&quot;:&quot;clica-voigt-administradora-ltda&quot;,&quot;CpfCnpj&quot;:&quot;09.420.895/0001-98&quot;,&quot;PessoaFisica&quot;:false,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;1,6650&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;1,6650&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;69.871.968&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;69.871.968&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Si Voigt Administradora Ltda&quot;,&quot;NormalizedAcionista&quot;:&quot;si-voigt-administradora-ltda&quot;,&quot;CpfCnpj&quot;:&quot;09.370.501/0001-34&quot;,&quot;PessoaFisica&quot;:false,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;1,6440&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;1,6440&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;69.022.980&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;69.022.980&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Eggon Jo&#xE3;o da Silva Administradora Ltda&quot;,&quot;NormalizedAcionista&quot;:&quot;eggon-jo&#xE3;o-da-silva-administradora-ltda&quot;,&quot;CpfCnpj&quot;:&quot;80.957.384/0001-74&quot;,&quot;PessoaFisica&quot;:false,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,9940&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,9940&quot;,&quot;AcionistaControlador&quot;:&quot;n&#xE3;o&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;41.731.508&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;41.731.508&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Pender Participa&#xE7;&#xF5;es Ltda&quot;,&quot;NormalizedAcionista&quot;:&quot;pender-participa&#xE7;&#xF5;es-ltda&quot;,&quot;CpfCnpj&quot;:&quot;26.621.312/0001-06&quot;,&quot;PessoaFisica&quot;:false,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,9770&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,9770&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;41.027.792&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;41.027.792&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Analeca Participa&#xE7;&#xF5;es Ltda&quot;,&quot;NormalizedAcionista&quot;:&quot;analeca-participa&#xE7;&#xF5;es-ltda&quot;,&quot;CpfCnpj&quot;:&quot;26.610.310/0001-11&quot;,&quot;PessoaFisica&quot;:false,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,9580&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,9580&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;40.211.646&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;40.211.646&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;ZZS Administradora Ltda&quot;,&quot;NormalizedAcionista&quot;:&quot;zzs-administradora-ltda&quot;,&quot;CpfCnpj&quot;:&quot;26.610.323/0001-90&quot;,&quot;PessoaFisica&quot;:false,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,9430&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,9430&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;39.581.660&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;39.581.660&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;SWJ Participa&#xE7;&#xF5;es Ltda&quot;,&quot;NormalizedAcionista&quot;:&quot;swj-participa&#xE7;&#xF5;es-ltda&quot;,&quot;CpfCnpj&quot;:&quot;26.685.320/0001-16&quot;,&quot;PessoaFisica&quot;:false,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,9260&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,9260&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;38.855.018&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;38.855.018&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Wernin Administradora Ltda&quot;,&quot;NormalizedAcionista&quot;:&quot;wernin-administradora-ltda&quot;,&quot;CpfCnpj&quot;:&quot;09.420.817/0001-93&quot;,&quot;PessoaFisica&quot;:false,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,6720&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,6720&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;28.226.146&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;28.226.146&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Diether Werninghaus&quot;,&quot;NormalizedAcionista&quot;:&quot;diether-werninghaus&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,4870&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,4870&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;20.424.220&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;20.424.220&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Ventura Participa&#xE7;&#xF5;es Ltda&quot;,&quot;NormalizedAcionista&quot;:&quot;ventura-participa&#xE7;&#xF5;es-ltda&quot;,&quot;CpfCnpj&quot;:&quot;26.637.646/0001-78&quot;,&quot;PessoaFisica&quot;:false,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,4680&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,4680&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;19.652.224&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;19.652.224&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Cladis Voigt Trejes Administradora Ltda&quot;,&quot;NormalizedAcionista&quot;:&quot;cladis-voigt-trejes-administradora-ltda&quot;,&quot;CpfCnpj&quot;:&quot;08.703.890/0001-00&quot;,&quot;PessoaFisica&quot;:false,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,3430&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,3430&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;14.409.904&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;14.409.904&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Valsi Voigt Administradora Ltda&quot;,&quot;NormalizedAcionista&quot;:&quot;valsi-voigt-administradora-ltda&quot;,&quot;CpfCnpj&quot;:&quot;08.655.197/0001-09&quot;,&quot;PessoaFisica&quot;:false,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,3430&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,3430&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;14.409.904&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;14.409.904&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Miriam Voigt Schwartz Administradora Ltda&quot;,&quot;NormalizedAcionista&quot;:&quot;miriam-voigt-schwartz-administradora-ltda&quot;,&quot;CpfCnpj&quot;:&quot;08.649.305/0001-30&quot;,&quot;PessoaFisica&quot;:false,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,3430&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,3430&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;14.409.906&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;14.409.906&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;EW Administradora Ltda&quot;,&quot;NormalizedAcionista&quot;:&quot;ew-administradora-ltda&quot;,&quot;CpfCnpj&quot;:&quot;09.559.591/0001-06&quot;,&quot;PessoaFisica&quot;:false,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,2940&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,2940&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;12.324.306&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;12.324.306&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;LWB Administradora Ltda&quot;,&quot;NormalizedAcionista&quot;:&quot;lwb-administradora-ltda&quot;,&quot;CpfCnpj&quot;:&quot;11.248.565/0001-09&quot;,&quot;PessoaFisica&quot;:false,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,2900&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,2900&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;12.176.008&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;12.176.008&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;ASG Participa&#xE7;&#xF5;es Ltda&quot;,&quot;NormalizedAcionista&quot;:&quot;asg-participa&#xE7;&#xF5;es-ltda&quot;,&quot;CpfCnpj&quot;:&quot;26.610.320/0001-57&quot;,&quot;PessoaFisica&quot;:false,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,2110&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,2110&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;8.849.204&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;8.849.204&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;LIPEJU Participa&#xE7;&#xF5;es Ltda&quot;,&quot;NormalizedAcionista&quot;:&quot;lipeju-participa&#xE7;&#xF5;es-ltda&quot;,&quot;CpfCnpj&quot;:&quot;26.610.316/0001-99&quot;,&quot;PessoaFisica&quot;:false,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,2110&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,2110&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;8.849.204&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;8.849.204&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Julia da Silva Geffert de Oliveira&quot;,&quot;NormalizedAcionista&quot;:&quot;julia-da-silva-geffert-de-oliveira&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,1550&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,1550&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;6.521.650&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;6.521.650&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Alberto da Silva Geffert&quot;,&quot;NormalizedAcionista&quot;:&quot;alberto-da-silva-geffert&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,1550&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,1550&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;6.520.018&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;6.520.018&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;HSG Gest&#xE3;o Ltda&quot;,&quot;NormalizedAcionista&quot;:&quot;hsg-gest&#xE3;o-ltda&quot;,&quot;CpfCnpj&quot;:&quot;38.828.979/0001-63&quot;,&quot;PessoaFisica&quot;:false,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,1550&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,1550&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;6.515.422&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;6.515.422&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Roseli Werninghaus&quot;,&quot;NormalizedAcionista&quot;:&quot;roseli-werninghaus&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,1540&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,1540&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;6.473.784&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;6.473.784&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Walter Janssen Neto&quot;,&quot;NormalizedAcionista&quot;:&quot;walter-janssen-neto&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,1020&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,1020&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;4.298.560&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;4.298.560&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Mariana Werninghaus de Carvalho&quot;,&quot;NormalizedAcionista&quot;:&quot;mariana-werninghaus-de-carvalho&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,0230&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,0230&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;970.840&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;970.840&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Ricardo Werninghaus&quot;,&quot;NormalizedAcionista&quot;:&quot;ricardo-werninghaus&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,0230&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,0230&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;970.506&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;970.506&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Ricardo Bartsch Filho&quot;,&quot;NormalizedAcionista&quot;:&quot;ricardo-bartsch-filho&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,0200&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,0200&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;856.334&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;856.334&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Bruna da Silva Bartsch Langsch&quot;,&quot;NormalizedAcionista&quot;:&quot;bruna-da-silva-bartsch-langsch&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,0200&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,0200&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;854.308&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;854.308&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Cl&#xE9;cio F&#xE1;bio Zucco&quot;,&quot;NormalizedAcionista&quot;:&quot;cl&#xE9;cio-f&#xE1;bio-zucco&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,0100&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,0100&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;417.010&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;417.010&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Daniel Ricardo Behnke&quot;,&quot;NormalizedAcionista&quot;:&quot;daniel-ricardo-behnke&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,0100&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,0100&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;402.998&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;402.998&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Davi Ricardo Behnke&quot;,&quot;NormalizedAcionista&quot;:&quot;davi-ricardo-behnke&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,0080&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,0080&quot;,&quot;AcionistaControlador&quot;:&quot;n&#xE3;o&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;349.440&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;349.440&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Paulo Dario Paranhos Trejes&quot;,&quot;NormalizedAcionista&quot;:&quot;paulo-dario-paranhos-trejes&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,0080&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,0080&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;340.200&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;340.200&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;G Werninghaus Admininstradora Ltda&quot;,&quot;NormalizedAcionista&quot;:&quot;g-werninghaus-admininstradora-ltda&quot;,&quot;CpfCnpj&quot;:&quot;80.952.849/0001-02&quot;,&quot;PessoaFisica&quot;:false,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,0060&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,0060&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;234.988&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;234.988&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Laura Augusta da Silva&quot;,&quot;NormalizedAcionista&quot;:&quot;laura-augusta-da-silva&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,0060&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,0060&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;259.454&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;259.454&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Anne Marie Werninghaus&quot;,&quot;NormalizedAcionista&quot;:&quot;anne-marie-werninghaus&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,0040&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,0040&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;160.854&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;160.854&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Maia Peixer Behnke&quot;,&quot;NormalizedAcionista&quot;:&quot;maia-peixer-behnke&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,0030&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,0030&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;121.448&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;121.448&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Arthur Rainui Peixer Behnke&quot;,&quot;NormalizedAcionista&quot;:&quot;arthur-rainui-peixer-behnke&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,0030&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,0030&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;121.448&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;121.448&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Gerd da Silva Werninghaus&quot;,&quot;NormalizedAcionista&quot;:&quot;gerd-da-silva-werninghaus&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,0020&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,0020&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;77.830&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;77.830&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Lilian da Silva Werninghaus&quot;,&quot;NormalizedAcionista&quot;:&quot;lilian-da-silva-werninghaus&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,0020&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,0020&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;77.830&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;77.830&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Joaquim Werninghaus Tavares&quot;,&quot;NormalizedAcionista&quot;:&quot;joaquim-werninghaus-tavares&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,0010&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,0010&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;29.900&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;29.900&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Zaira Zimmermann da Silva&quot;,&quot;NormalizedAcionista&quot;:&quot;zaira-zimmermann-da-silva&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,0010&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,0010&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;13.488&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;13.488&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Paula da Silva Janssen&quot;,&quot;NormalizedAcionista&quot;:&quot;paula-da-silva-janssen&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,0010&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,0010&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;47.320&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;47.320&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Thomas Werninghaus Tavares&quot;,&quot;NormalizedAcionista&quot;:&quot;thomas-werninghaus-tavares&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,0010&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,0010&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;29.900&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;29.900&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Bruno Werninghaus de Carvalho&quot;,&quot;NormalizedAcionista&quot;:&quot;bruno-werninghaus-de-carvalho&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,0010&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,0010&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;38.642&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;38.642&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Fabio Roberto de Oliveira&quot;,&quot;NormalizedAcionista&quot;:&quot;fabio-roberto-de-oliveira&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,0010&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,0010&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;3.228&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;3.228&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Renata da Silva Janssen Decker&quot;,&quot;NormalizedAcionista&quot;:&quot;renata-da-silva-janssen-decker&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,0010&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,0010&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;47.320&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;47.320&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Joana Zimmermann da Silva&quot;,&quot;NormalizedAcionista&quot;:&quot;joana-zimmermann-da-silva&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,0010&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,0010&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;13.520&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;13.520&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Theo Werninghaus Tavares&quot;,&quot;NormalizedAcionista&quot;:&quot;theo-werninghaus-tavares&quot;,&quot;CpfCnpj&quot;:&quot;&quot;,&quot;PessoaFisica&quot;:true,&quot;Nacionalidade&quot;:&quot;Brasileira&quot;,&quot;DataUltimaAlteracao&quot;:&quot;27/04/2021&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,0010&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,0010&quot;,&quot;AcionistaControlador&quot;:&quot;sim&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;29.900&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;29.900&quot;,&quot;Order&quot;:0},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;A&#xE7;&#xF5;es Tesouraria&quot;,&quot;NormalizedAcionista&quot;:&quot;a&#xE7;&#xF5;es-tesouraria&quot;,&quot;CpfCnpj&quot;:&quot;-&quot;,&quot;PessoaFisica&quot;:false,&quot;Nacionalidade&quot;:&quot;&quot;,&quot;DataUltimaAlteracao&quot;:&quot;-&quot;,&quot;PercentualOrdinarias&quot;:&quot;0,0330&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;0,0330&quot;,&quot;AcionistaControlador&quot;:&quot;n&#xE3;o&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;1.387.560&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;1.387.560&quot;,&quot;Order&quot;:1},{&quot;Rank&quot;:0,&quot;Acionista&quot;:&quot;Outros&quot;,&quot;NormalizedAcionista&quot;:&quot;outros&quot;,&quot;CpfCnpj&quot;:&quot;-&quot;,&quot;PessoaFisica&quot;:false,&quot;Nacionalidade&quot;:&quot;&quot;,&quot;DataUltimaAlteracao&quot;:&quot;-&quot;,&quot;PercentualOrdinarias&quot;:&quot;35,4430&quot;,&quot;PercentualPreferencial&quot;:&quot;0,0000&quot;,&quot;PercentualTotal&quot;:&quot;35,4430&quot;,&quot;AcionistaControlador&quot;:&quot;n&#xE3;o&quot;,&quot;AcordoAcionistas&quot;:&quot;n&#xE3;o&quot;,&quot;QuantidadeOrdinarias&quot;:&quot;1.487.630.770&quot;,&quot;QuantidadePreferencial&quot;:&quot;0&quot;,&quot;QuantidadeTotal&quot;:&quot;1.487.630.770&quot;,&quot;Order&quot;:2}]" />
 <div class="d-md-flex justify-between align-items-center mb-2">
 <div class="d-flex justify-start align-items-center">
 <i class="material-icons mr-1 text-main">
@@ -5277,7 +5288,7 @@ people_alt
 <div class="pagination-control d-flex justify-start align-items-center pl-3">
 <select id="total-page-2" class=" small" data-formselect>
 </select>
-<ul class="pagination" data-total-page="#total-page-2"></ul>
+ <ul class="pagination" data-total-page="#total-page-2"></ul>
 </div>
 </div>
 </div>
@@ -5361,7 +5372,7 @@ São + de <b class="fw-700">10</b> outras <b class="fw-700">formas de remuneraç
 <span class="list-empty fs-4 fw-100 grey-text text-center text-darken-1 uppercase mt-4 mb-4" style="display:none">Não há histórico <span class="d-block d-md-inline-block">de proventos para</span> este ativo</span>
 </div>
 <div class="pagination-control d-flex justify-start align-items-center pl-3">
-<select id="total-page-2" class=" small" data-formselect>
+ <select id="total-page-2" class=" small" data-formselect>
 </select>
 <ul class="pagination" data-total-page="#total-page-2"></ul>
 </div>
@@ -5369,13 +5380,17 @@ São + de <b class="fw-700">10</b> outras <b class="fw-700">formas de remuneraç
 </div>
 </div>
 </div>
-<div class=" banner-lazy-group-now advertising ad-846fdba2a96c4169a12391131693a3d8 mt-3 mb-4 pl-md-3 pr-md-3">
-<a href="https://lp.statusinvest.com.br/pv/modulo-forecast/?utm_source=statusinvest&amp;utm_medium=banner&amp;utm_campaign=RSI.FCD21.ns" target="_blank" class="bull" rel="noopener noreferrer nofollow">
-<div class="image c36-1">anúncio</div>
-</a>
-<a href="https://lp.statusinvest.com.br/planos/" style="display:none" target="_blank" class="forecast" rel="noopener noreferrer nofollow">
-<div class="image c36-1">anúncio</div>
-</a>
+</div>
+<div class="container">
+<div class="container p-0 m-0" style="overflow: hidden;">
+<div class="m-auto mt-5 mb-4 pl-0 pl-md-3 pr-0 pr-md-3">
+
+<ins class="adsbygoogle custom_ad_1 " style="height: 180px;max-height: 180px;width: 100%;display: block" data-ad-client="ca-pub-7508042204181668" data-ad-slot="3504144208" data-ad-format="auto" data-full-width-responsive="false"></ins>
+<script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+</div>
+</div>
 </div>
 <div id="contabil-section" class="pb-7 pt-7">
 <div class="container ">
@@ -5415,7 +5430,7 @@ Receita Líquida (mil)
 <div class="d-block d-md-none">
 <ul id="dropdown-revenue" class="dropdown-content">
 <li title="Receita Líquida dos últimos 5 anos">
-<a role="button" data-type="0">5 anos</a>
+ <a role="button" data-type="0">5 anos</a>
 </li>
 <li title="Receita Líquida dos últimos 10 anos">
 <a role="button" data-type="1">10 anos</a>
@@ -5425,7 +5440,7 @@ Receita Líquida (mil)
 </li>
 </ul>
 <a class="bg-main-green-dark btn btn-xsmall dropdown-trigger" href="#!" data-target="dropdown-revenue">
- <span>5 anos</span>
+<span>5 anos</span>
 <i style="max-width:18px" class="material-icons right ml-1">arrow_drop_down</i>
 </a>
 </div>
@@ -5457,7 +5472,7 @@ help_outline
 <div class="tooltipped-html-template fw-100">
 <span class="fw-900 text-main-secondary-light">YEAR TO DATE:</span> Com base no trimestre mais recente que há informação, somamos os valores até o 1T deste mesmo ano, depois, comparamos com os anos anteriores utilizando sempre o mesmo período
 <br />
-<br />
+ <br />
 <span class="fw-900 text-main-secondary-light">ÚLT. 12M:</span> Com base no trimestre mais recente que há informação, calculamos 12 meses para trás, assim temos os valores da empresa referente ao ultimo ano antes deste ano contábil terminar
 <br />
 <br />
@@ -5513,7 +5528,7 @@ Estimativas do DRE
 <li><a role="button" data-type="1">TRIMESTRAL</a></li>
 <li><a role="button" data-type="2">YEAR TO DATE</a></li>
 <li class="optgroup" tabindex="0"><label class="d-block pt-1 fs-2 grey-text pl-1">VISÃO POR TRIMESTRE</label></li>
- <li><a role="button" data-type="3">1º trimestre</a></li>
+<li><a role="button" data-type="3">1º trimestre</a></li>
 <li><a role="button" data-type="4">2º trimestre</a></li>
 <li><a role="button" data-type="5">3º trimestre</a></li>
 <li><a role="button" data-type="6">4º trimestre</a></li>
@@ -5547,7 +5562,7 @@ Estimativas do DRE
 <option title="2011" value="2011">2011</option>
 <option title="2010" value="2010">2010</option>
 <option title="2009" value="2009">2009</option>
-<option title="2008" value="2008">2008</option>
+ <option title="2008" value="2008">2008</option>
 </select>
 <strong>até</strong>
 <select id="grid-year-max" data-formselect class="">
@@ -5608,7 +5623,7 @@ AH
 </th>
 <th class="level-0 text-right d-none  AV " title="An&#xE1;lise vertical">
 AV
-<small class='fw-600'>%</small>
+ <small class='fw-600'>%</small>
 </th>
 <th class="level-0 text-right   DATA " title="Data de refer&#xEA;ncia">
 2018
@@ -5621,7 +5636,7 @@ AH
 AV
 <small class='fw-600'>%</small>
 </th>
- <th class="level-0 text-right   DATA " title="Data de refer&#xEA;ncia">
+<th class="level-0 text-right   DATA " title="Data de refer&#xEA;ncia">
 2017
 </th>
 <th class="level-0 text-right   AH " title="An&#xE1;lise horizontal">
@@ -5677,7 +5692,7 @@ AV
 </td>
 </tr>
 <tr class="  ">
- <td class="level-0  value      " title="">
+<td class="level-0  value      " title="">
 <span class="d-flex align-items-center justify-between">
 <a href="https://statusinvest.com.br/termos/e/ebitda" title="Ler artigo detalhado sobre este termo" target="_blank" rel="noopener" class="term-indicator-link d-flex align-items-center">
 <span class="">EBITDA - (R$)</span>
@@ -5717,7 +5732,7 @@ AV
 </td>
 </tr>
 <tr class="  ">
- <td class="level-0  value      " title="">
+<td class="level-0  value      " title="">
 <span class="d-flex align-items-center justify-between">
 <a href="https://statusinvest.com.br/termos/r/resultado-financeiro" title="Ler artigo detalhado sobre este termo" target="_blank" rel="noopener" class="term-indicator-link d-flex align-items-center">
 <span class="">Resultado Financeiro - (R$)</span>
@@ -5757,12 +5772,12 @@ AV
 </span>
 </td>
 </tr>
-<tr class="  ">
+ <tr class="  ">
 <td class="level-0  value      " title="">
 <span class="d-flex align-items-center justify-between">
 <a href="https://statusinvest.com.br/termos/c/capex" title="Ler artigo detalhado sobre este termo" target="_blank" rel="noopener" class="term-indicator-link d-flex align-items-center">
 <span class="">CAPEX - (R$)</span>
- <span class="material-icons">format_quote</span>
+<span class="material-icons">format_quote</span>
 </a>
 </span>
 </td>
@@ -5798,7 +5813,7 @@ AV
 </td>
 </tr>
 <tr class="  ">
-<td class="level-0  value      " title="">
+ <td class="level-0  value      " title="">
 <span class="d-flex align-items-center justify-between">
 <a href="https://statusinvest.com.br/termos/r/roic" title="Ler artigo detalhado sobre este termo" target="_blank" rel="noopener" class="term-indicator-link d-flex align-items-center">
 <span class="">ROIC - (%)</span>
@@ -5854,7 +5869,7 @@ AV
 ver mais
 </button>
 </div>
- </div>
+</div>
 <div data-fluxocaixa-grid data-category="1" data-code="WEGE3" data-colsize="40" data-length="14" class="DRE table-info card card-panel white mb-5">
 <header role="heading" aria-level="2" class="d-flex justify-between align-items-center flex-wrap flex-lg-nowrap">
 <div class="card-title w-100 w-md-auto w-lg-100 d-flex align-items-center mb-2 mb-lg-0">
@@ -5887,7 +5902,7 @@ Estimativa do fluxo de caixa
 </div>
 </div>
 <div class="d-flex align-items-center justify-end white-text mt-1">
-<div class="fs-2 lh-2 fw-600">POR&nbsp;</div>
+ <div class="fs-2 lh-2 fw-600">POR&nbsp;</div>
 <div class="lh-2">
 <img width="54" height="12" alt="Logo da FACTSET" src="/img/partners/integration/factset-w.png" />
 </div>
@@ -5932,7 +5947,7 @@ Estimativa do fluxo de caixa
 <option title="2015" value="2015">2015</option>
 <option title="2014" value="2014">2014</option>
 <option title="2013" value="2013">2013</option>
-<option title="2012" value="2012">2012</option>
+ <option title="2012" value="2012">2012</option>
 <option title="2011" value="2011">2011</option>
 <option title="2010" value="2010">2010</option>
 <option title="2009" value="2009">2009</option>
@@ -6056,7 +6071,7 @@ AH
 <td class="level-1  value      " title="">
 <span class="d-flex align-items-center justify-between">
 <span>Caixa Gerado nas Opera&#xE7;&#xF5;es - (R$)</span>
-</span>
+ </span>
 </td>
 <td class="level-0  value  text-right   DATA " title="">
 <span class="d-block">
@@ -6118,7 +6133,7 @@ AH
 <td class="level-0 variation fs-2 fw-700 green-text text-darken-3 text-right   AH " title="">
 <span class="d-block">
 52,22%
-</span>
+ </span>
 </td>
 <td class="level-0  value  text-right   DATA " title="">
 <span class="d-block">
@@ -6180,7 +6195,7 @@ AH
 <td class="level-0 variation fs-2 fw-700 materialize-red-text text-darken-1 text-right   AH " title="">
 <span class="d-block">
 204,32%
-</span>
+ </span>
 </td>
 <td class="level-0  value  text-right   DATA " title="">
 <span class="d-block">
@@ -6240,7 +6255,7 @@ AH
 <td class="level-0 variation fs-2 fw-700 materialize-red-text text-darken-1 text-right   AH " title="">
 <span class="d-block">
 11,68%
-</span>
+ </span>
 </td>
 <td class="level-0  value  text-right   DATA " title="">
 <span class="d-block">
@@ -6252,7 +6267,7 @@ AH
 -17,30%
 </span>
 </td>
- <td class="level-0  value  text-right   DATA " title="">
+<td class="level-0  value  text-right   DATA " title="">
 <span class="d-block">
 343,26 M
 </span>
@@ -6301,7 +6316,7 @@ AH
 </td>
 <td class="level-0 variation fs-2 fw-700 materialize-red-text text-darken-1 text-right   AH " title="">
 <span class="d-block">
--1.884,43%
+ -1.884,43%
 </span>
 </td>
 <td class="level-0  value  text-right   DATA " title="">
@@ -6498,7 +6513,7 @@ AH
 </span>
 </td>
 <td class="level-0 variation fs-2 fw-700 green-text text-darken-3 text-right   AH " title="">
- <span class="d-block">
+<span class="d-block">
 30,79%
 </span>
 </td>
@@ -6560,7 +6575,7 @@ AH
 </span>
 </td>
 <td class="level-0 variation fs-2 fw-700 materialize-red-text text-darken-1 text-right   AH " title="">
- <span class="d-block">
+<span class="d-block">
 -300,78%
 </span>
 </td>
@@ -6611,7 +6626,7 @@ AH
 3.390,66 M
 </span>
 </td>
-<td class="level-0 variation fs-2 fw-700 green-text text-darken-3 text-right   AH " title="">
+ <td class="level-0 variation fs-2 fw-700 green-text text-darken-3 text-right   AH " title="">
 <span class="d-block">
 3,46%
 </span>
@@ -6800,7 +6815,7 @@ Max.
 <h3 title="" class="m-0 d-inline-block v-align-middle  mb-sm-0">Balanço Patrimonial</h3>
 <i data-position="top" class="material-icons help-icon tooltipped tooltipped-html mr-2">
 help_outline
- <span class="template" style="display:none">
+<span class="template" style="display:none">
 <div class="tooltipped-html-template fw-100">
 <span class="fw-900 text-main-secondary-light">Análise horizontal (AH):</span> Compara um ano/trimestre com a informação do período anterior.
 <br />
@@ -6884,7 +6899,7 @@ VISÃO POR TRIMESTRE
 <option title="2017" value="2017">2017</option>
 <option title="2016" selected value="2016">2016</option>
 <option title="2015" value="2015">2015</option>
-<option title="2014" value="2014">2014</option>
+ <option title="2014" value="2014">2014</option>
 <option title="2013" value="2013">2013</option>
 <option title="2012" value="2012">2012</option>
 <option title="2011" value="2011">2011</option>
@@ -6943,7 +6958,7 @@ AV
 <small class='fw-600'>%</small>
 </th>
 <th class="level-0 text-right   DATA " title="Data de refer&#xEA;ncia">
-2018
+ 2018
 </th>
 <th class="level-0 text-right   AH " title="An&#xE1;lise horizontal">
 AH
@@ -7024,7 +7039,7 @@ AV
 </td>
 </tr>
 <tr class="  ">
-<td class="level-2  value      " title=""> 
+<td class="level-2  value      " title="">
 <span class="d-flex align-items-center justify-between">
 <span>Ativo Realiz&#xE1;vel a Longo Prazo - (R$)</span>
 </span>
@@ -7120,6 +7135,7 @@ ver mais
 </div>
 </div>
 </div>
+<div class="container">
 <div class="container p-0 m-0" style="overflow: hidden;">
 <div class="m-auto mt-5 mb-4 pl-0 pl-md-3 pr-0 pr-md-3">
 
@@ -7127,6 +7143,7 @@ ver mais
 <script>
                 (adsbygoogle = window.adsbygoogle || []).push({});
             </script>
+</div>
 </div>
 </div>
 <div data-asset-document-list id="document-section" class="pb-7 pt-7">
@@ -7159,7 +7176,6 @@ o acesso a sites <span class="fw-700">sem este protocolo</span> (sendo apenas HT
 </div>
 </div>
 <div class="documents card">
-
 <div class="list" data-category="Acoes" data-code="WEGE3" data-empty="NÃO HÁ DOCUMENTOS">
 </div>
 <ul class="pagination mb-0 mt-0">
@@ -7194,7 +7210,7 @@ o acesso a sites <span class="fw-700">sem este protocolo</span> (sendo apenas HT
 <div id="movements-section" class=" pb-7 pt-7 white">
 <div class="container">
 <h2 class="fs-4 fs-xs-5 mt-0 mb-5 fw-900 text-main">MOVIMENTAÇÕES</h2>
-<div title="Informações sobre as negociações da empresa em Novembro de 2021" class="negotiations card white mb-5">
+<div title="Informações sobre as negociações da empresa em Dezembro de 2021" class="negotiations card white mb-5">
 <div class="d-flex justify-between ">
 <div class="card-title ">
 <i class="material-icons v-align-middle d-inline-block ">compare_arrows</i><h3 class="m-0 d-inline-block v-align-middle">NEGOCIAÇÕES</h3>
@@ -7204,16 +7220,16 @@ o acesso a sites <span class="fw-700">sem este protocolo</span> (sendo apenas HT
 <div class="d-lg-flex justify-between align-items-center">
 <div class="w-lg-40 text-main d-md-flex d-lg-block justify-between align-items-center text-center text-align-md-left text-align-lg-center">
 <div class="fs-4 fs-md-5 mt-2 mt-lg-0 mb-2 mb-lg-4">
-<span class="fw-900 uppercase">Novembro</span> / <b class="fw-100">2021</b>
+<span class="fw-900 uppercase">Dezembro</span> / <b class="fw-100">2021</b>
 </div>
 <div class="d-flex w-md-55 w-lg-100 fw-100 fs-3 fs-md-4 justify-around">
 <div title="Total de ações negociadas" class="">
 <b class="d-block fs-2 fw-900 uppercase">Total</b>
-<span>620.715</span>
+<span>564.202</span>
 </div>
 <div title="Volume total em reais das negociações" class="">
 <b class="d-block fs-2 fw-900 uppercase">Volume (R$)</b>
-<span>4.862.243.322,94</span>
+<span>5.063.112.568,38</span>
 </div>
 </div>
 </div>
@@ -7229,33 +7245,33 @@ o acesso a sites <span class="fw-700">sem este protocolo</span> (sendo apenas HT
 </thead>
 <tr>
 <td>Lote Padrão</td>
-<td class="text-right">511.565</td>
-<td class="text-right">4.673.023.995,00</td>
+<td class="text-right">466.999</td>
+<td class="text-right">4.896.772.505,00</td>
 </tr>
 <tr>
 <td>Mercado Termo</td>
-<td class="text-right">218</td>
-<td class="text-right">34.097.909,14</td>
+<td class="text-right">181</td>
+<td class="text-right">7.365.401,89</td>
 </tr>
 <tr>
 <td>Opção Compra</td>
-<td class="text-right">10.022</td>
-<td class="text-right">9.959.158,00</td>
+<td class="text-right">9.135</td>
+<td class="text-right">20.498.212,00</td>
 </tr>
 <tr>
 <td>Opção Venda</td>
-<td class="text-right">7.475</td>
-<td class="text-right">13.908.262,00</td>
+<td class="text-right">6.676</td>
+<td class="text-right">10.726.149,00</td>
 </tr>
 <tr>
 <td>Mercado Fracionário</td>
-<td class="text-right">90.921</td>
-<td class="text-right">34.097.909,14</td>
+<td class="text-right">80.768</td>
+<td class="text-right">7.365.401,89</td>
 </tr>
 <tr>
 <td>Outros</td>
-<td class="text-right">514</td>
-<td class="text-right">97.156.089,66</td>
+<td class="text-right">443</td>
+<td class="text-right">120.384.898,60</td>
 </tr>
 </table>
 </div>
@@ -7272,7 +7288,7 @@ o acesso a sites <span class="fw-700">sem este protocolo</span> (sendo apenas HT
 <div class="card-body">
 <div class="line pt-2 pb-2 d-md-flex flex-wrap  justify-between align-items-center">
 <div class="w-100 w-lg-50  d-flex flex-wrap justify-around align-items-center">
-<div class="w-100 w-xs-15">
+ <div class="w-100 w-xs-15">
 <span class="d-block text-center mb-1 mb-md-0">
 <span class="badge main-badge white-text darken-3 grey">Finalizado</span>
 </span>
@@ -7284,7 +7300,7 @@ o acesso a sites <span class="fw-700">sem este protocolo</span> (sendo apenas HT
 <div>
 <span class="d-block fs-2 ">DATA DE INÍCIO</span>
 <span class="d-block fw-700">19/02/2020</span>
- </div>
+</div>
 <div>
 <span class="d-block fs-2 ">DATA DE FIM</span>
 <span class="d-block fw-700">18/02/2021</span>
@@ -7352,7 +7368,7 @@ INDX
 </div>
 <div title="Participação em porcentagem do ativo dentro do índice" class="text-main">
 <small class="d-block">PARTICIPAÇÃO</small>
-<strong class="d-block fs-4 fw-900">11,317%</strong>
+<strong class="d-block fs-4 fw-900">10,660%</strong>
 </div>
 </div>
 </a>
@@ -7375,7 +7391,7 @@ ICO2
 </div>
 <div title="Participação em porcentagem do ativo dentro do índice" class="text-main">
 <small class="d-block">PARTICIPAÇÃO</small>
-<strong class="d-block fs-4 fw-900">3,826%</strong>
+<strong class="d-block fs-4 fw-900">3,554%</strong>
 </div>
 </div>
 </a>
@@ -7398,7 +7414,7 @@ IGNM
 </div>
 <div title="Participação em porcentagem do ativo dentro do índice" class="text-main">
 <small class="d-block">PARTICIPAÇÃO</small>
-<strong class="d-block fs-4 fw-900">3,645%</strong>
+<strong class="d-block fs-4 fw-900">3,405%</strong>
 </div>
 </div>
 </a>
@@ -7421,7 +7437,7 @@ IBXL
 </div>
 <div title="Participação em porcentagem do ativo dentro do índice" class="text-main">
 <small class="d-block">PARTICIPAÇÃO</small>
-<strong class="d-block fs-4 fw-900">2,839%</strong>
+<strong class="d-block fs-4 fw-900">2,535%</strong>
 </div>
 </div>
 </a>
@@ -7444,7 +7460,7 @@ IGCX
 </div>
 <div title="Participação em porcentagem do ativo dentro do índice" class="text-main">
 <small class="d-block">PARTICIPAÇÃO</small>
-<strong class="d-block fs-4 fw-900">2,493%</strong>
+<strong class="d-block fs-4 fw-900">2,283%</strong>
 </div>
 </div>
 </a>
@@ -7467,30 +7483,7 @@ IBOV
 </div>
 <div title="Participação em porcentagem do ativo dentro do índice" class="text-main">
 <small class="d-block">PARTICIPAÇÃO</small>
-<strong class="d-block fs-4 fw-900">2,454%</strong>
-</div>
-</div>
-</a>
-</div>
-<div class="indice-item w-100 w-sm-50 w-lg-33">
-<a title="Ir até o índice '&#xCD;ndice MidLarge Cap'" class="waves-effect waves-on-white-bg" href="/indices/indice-midlarge-cap">
-<div class="d-flex align-items-center ">
-<span title="Código do índice" class="code  bg-main-green-dark white-text fs-3 rounded fw-900">
-MLCX
-</span>
-<div title="Nome do índice" class="ml-1 w-100">
-<strong class="d-block lh-3">&#xCD;ndice MidLarge Cap</strong>
-</div>
-<i style="min-width: 20px;" class="material-icons fs-4 ml-1">arrow_forward</i>
-</div>
-<div class="mt-2 d-flex justify-around">
-<div title="Quantidade teórica do ativo dentro do índice">
-<small class="d-block">QTDE. TEÓRICA</small>
-<strong class="d-block fs-4 fw-700">1.484.859.030</strong>
-</div>
-<div title="Participação em porcentagem do ativo dentro do índice" class="text-main">
- <small class="d-block">PARTICIPAÇÃO</small>
-<strong class="d-block fs-4 fw-900">2,406%</strong>
+<strong class="d-block fs-4 fw-900">2,230%</strong>
 </div>
 </div>
 </a>
@@ -7513,7 +7506,30 @@ ISEE
 </div>
 <div title="Participação em porcentagem do ativo dentro do índice" class="text-main">
 <small class="d-block">PARTICIPAÇÃO</small>
-<strong class="d-block fs-4 fw-900">2,332%</strong>
+<strong class="d-block fs-4 fw-900">2,221%</strong>
+</div>
+</div>
+</a>
+</div>
+<div class="indice-item w-100 w-sm-50 w-lg-33">
+<a title="Ir até o índice '&#xCD;ndice MidLarge Cap'" class="waves-effect waves-on-white-bg" href="/indices/indice-midlarge-cap">
+<div class="d-flex align-items-center ">
+<span title="Código do índice" class="code  bg-main-green-dark white-text fs-3 rounded fw-900">
+MLCX
+</span>
+<div title="Nome do índice" class="ml-1 w-100">
+<strong class="d-block lh-3">&#xCD;ndice MidLarge Cap</strong>
+</div>
+<i style="min-width: 20px;" class="material-icons fs-4 ml-1">arrow_forward</i>
+</div>
+<div class="mt-2 d-flex justify-around">
+<div title="Quantidade teórica do ativo dentro do índice">
+<small class="d-block">QTDE. TEÓRICA</small>
+<strong class="d-block fs-4 fw-700">1.484.859.030</strong>
+</div>
+<div title="Participação em porcentagem do ativo dentro do índice" class="text-main">
+<small class="d-block">PARTICIPAÇÃO</small>
+<strong class="d-block fs-4 fw-900">2,170%</strong>
 </div>
 </div>
 </a>
@@ -7529,17 +7545,17 @@ IBRX
 </div>
 <i style="min-width: 20px;" class="material-icons fs-4 ml-1">arrow_forward</i>
 </div>
-<div class="mt-2 d-flex justify-around">
+ <div class="mt-2 d-flex justify-around">
 <div title="Quantidade teórica do ativo dentro do índice">
 <small class="d-block">QTDE. TEÓRICA</small>
 <strong class="d-block fs-4 fw-700">1.484.859.030</strong>
 </div>
 <div title="Participação em porcentagem do ativo dentro do índice" class="text-main">
 <small class="d-block">PARTICIPAÇÃO</small>
-<strong class="d-block fs-4 fw-900">2,280%</strong>
+<strong class="d-block fs-4 fw-900">2,066%</strong>
 </div>
 </div>
- </a>
+</a>
 </div>
 <div class="indice-item w-100 w-sm-50 w-lg-33">
 <a title="Ir até o índice '&#xCD;ndice de A&#xE7;&#xF5;es com Tag Along Diferenciado'" class="waves-effect waves-on-white-bg" href="/indices/indice-de-acoes-com-tag-along-diferenciado">
@@ -7559,7 +7575,7 @@ ITAG
 </div>
 <div title="Participação em porcentagem do ativo dentro do índice" class="text-main">
 <small class="d-block">PARTICIPAÇÃO</small>
-<strong class="d-block fs-4 fw-900">2,238%</strong>
+<strong class="d-block fs-4 fw-900">2,038%</strong>
 </div>
 </div>
 </a>
@@ -7582,7 +7598,7 @@ IGCT
 </div>
 <div title="Participação em porcentagem do ativo dentro do índice" class="text-main">
 <small class="d-block">PARTICIPAÇÃO</small>
-<strong class="d-block fs-4 fw-900">2,196%</strong>
+<strong class="d-block fs-4 fw-900">1,999%</strong>
 </div>
 </div>
 </a>
@@ -7605,7 +7621,7 @@ IBRA
 </div>
 <div title="Participação em porcentagem do ativo dentro do índice" class="text-main">
 <small class="d-block">PARTICIPAÇÃO</small>
-<strong class="d-block fs-4 fw-900">2,082%</strong>
+<strong class="d-block fs-4 fw-900">1,898%</strong>
 </div>
 </div>
 </a>
@@ -7660,14 +7676,14 @@ IBRA
 </div>
 <div class="w-100 w-md-50 pl-md-6 d-flex justify-center align-items-center">
 <div class="event-list w-100">
-<input name="results" type="hidden" value="{&quot;LoadStalker&quot;:true,&quot;type&quot;:1,&quot;companyId&quot;:null,&quot;companyName&quot;:&quot;weg&quot;,&quot;Loaded&quot;:true,&quot;manuais&quot;:[],&quot;iPOs&quot;:[],&quot;provents&quot;:[],&quot;proventsPayment&quot;:[],&quot;reports&quot;:[],&quot;meetings&quot;:[],&quot;eventDays&quot;:[{&quot;Day&quot;:25,&quot;Month&quot;:1,&quot;Year&quot;:2022,&quot;Types&quot;:[1,2,3,99]}],&quot;holidays&quot;:[{&quot;description&quot;:&quot;Anivers&#xE1;rio de S&#xE3;o Paulo&quot;,&quot;code&quot;:null,&quot;companyName&quot;:null,&quot;normalizedName&quot;:null,&quot;companyId&quot;:0,&quot;type&quot;:99,&quot;group&quot;:null,&quot;typeDesc&quot;:&quot;Feriado&quot;,&quot;day&quot;:25,&quot;date&quot;:&quot;25/01/2022&quot;,&quot;url&quot;:null,&quot;CategoryType&quot;:0}],&quot;Months&quot;:{&quot;1&quot;:&quot;JANEIRO&quot;,&quot;2&quot;:&quot;FEVEREIRO&quot;,&quot;3&quot;:&quot;MAR&#xC7;O&quot;,&quot;4&quot;:&quot;ABRIL&quot;,&quot;5&quot;:&quot;MAIO&quot;,&quot;6&quot;:&quot;JUNHO&quot;,&quot;7&quot;:&quot;JULHO&quot;,&quot;8&quot;:&quot;AGOSTO&quot;,&quot;9&quot;:&quot;SETEMBRO&quot;,&quot;10&quot;:&quot;OUTUBRO&quot;,&quot;11&quot;:&quot;NOVEMBRO&quot;,&quot;12&quot;:&quot;DEZEMBRO&quot;},&quot;TotalEvents&quot;:1}" />
+<input name="results" type="hidden" value="{&quot;LoadStalker&quot;:true,&quot;type&quot;:1,&quot;companyId&quot;:null,&quot;companyName&quot;:&quot;weg&quot;,&quot;Loaded&quot;:true,&quot;manuais&quot;:[],&quot;iPOs&quot;:[],&quot;provents&quot;:[],&quot;proventsPayment&quot;:[],&quot;reports&quot;:[{&quot;description&quot;:&quot;Data prevista para a assembleia (Aviso aos Acionistas)&quot;,&quot;code&quot;:&quot;WEGE3&quot;,&quot;companyName&quot;:&quot;WEG&quot;,&quot;normalizedName&quot;:&quot;weg&quot;,&quot;companyId&quot;:189,&quot;type&quot;:1,&quot;group&quot;:null,&quot;typeDesc&quot;:&quot;Relat&#xF3;rio&quot;,&quot;day&quot;:12,&quot;date&quot;:&quot;12/01/2022&quot;,&quot;url&quot;:&quot;https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&amp;numSequencia=457734&amp;numVersao=1&amp;numProtocolo=933000&amp;descTipo=IPE&amp;CodigoInstituicao=1&quot;,&quot;CategoryType&quot;:0}],&quot;meetings&quot;:[],&quot;eventDays&quot;:[{&quot;Day&quot;:12,&quot;Month&quot;:1,&quot;Year&quot;:2022,&quot;Types&quot;:[1]},{&quot;Day&quot;:25,&quot;Month&quot;:1,&quot;Year&quot;:2022,&quot;Types&quot;:[1,2,3,99]}],&quot;holidays&quot;:[{&quot;description&quot;:&quot;Anivers&#xE1;rio de S&#xE3;o Paulo&quot;,&quot;code&quot;:null,&quot;companyName&quot;:null,&quot;normalizedName&quot;:null,&quot;companyId&quot;:0,&quot;type&quot;:99,&quot;group&quot;:null,&quot;typeDesc&quot;:&quot;Feriado&quot;,&quot;day&quot;:25,&quot;date&quot;:&quot;25/01/2022&quot;,&quot;url&quot;:null,&quot;CategoryType&quot;:0}],&quot;Months&quot;:{&quot;1&quot;:&quot;JANEIRO&quot;,&quot;2&quot;:&quot;FEVEREIRO&quot;,&quot;3&quot;:&quot;MAR&#xC7;O&quot;,&quot;4&quot;:&quot;ABRIL&quot;,&quot;5&quot;:&quot;MAIO&quot;,&quot;6&quot;:&quot;JUNHO&quot;,&quot;7&quot;:&quot;JULHO&quot;,&quot;8&quot;:&quot;AGOSTO&quot;,&quot;9&quot;:&quot;SETEMBRO&quot;,&quot;10&quot;:&quot;OUTUBRO&quot;,&quot;11&quot;:&quot;NOVEMBRO&quot;,&quot;12&quot;:&quot;DEZEMBRO&quot;},&quot;TotalEvents&quot;:2}" />
 <div class="w-100">
 <div class="list">
 </div>
 <div class="pagination-control d-flex justify-center align-items-center mt-3">
-<select aria-label="Páginação dos eventos do calendário" id="total-page-b0207ae4-f784-42d8-b071-71bd04de6f2e" class=" small" data-formselect>
+<select aria-label="Páginação dos eventos do calendário" id="total-page-52fb506c-22de-4c78-8caf-fa7a48d7e84c" class=" small" data-formselect>
 </select>
-<ul class="pagination m-0 w-auto" data-total-page="#total-page-b0207ae4-f784-42d8-b071-71bd04de6f2e"></ul>
+<ul class="pagination m-0 w-auto" data-total-page="#total-page-52fb506c-22de-4c78-8caf-fa7a48d7e84c"></ul>
 </div>
 </div>
 <div class="no-events-msg grey darken-1 m-auto p-4 rounded text-center w-sm-70 white-text mt-4 mb-4" style="display:none">
@@ -7720,7 +7736,7 @@ IBRA
 <span class="d-inline-block ml-1" title="">{helper}</span>
 </span>
 <span class="d-inline-block mr-1 variation variation-1" title="Variação atual no preço do ativo">
-<span class="other-value d-flex">
+ <span class="other-value d-flex">
 <i class="icon material-icons {variationColor} fs-6">{variationIcon}</i>
 <span>{variation}</span>
 <span class="mark fs-6 fw-100">%</span>
@@ -7861,7 +7877,7 @@ IBRA
 <div class="w-50 w-sm-auto">
 <span class="title">Menor valor</span>
 <strong class="">{minValue_F} <small>({minValueRank_F})</small></strong>
- </div>
+</div>
 <div class="w-50 w-sm-auto">
 <span class="title">Maior valor</span>
 <strong class="">{maxValue_F} <small>({maxValueRank_F})</small></strong>
@@ -7982,7 +7998,7 @@ Indicadores de Valuation
 </div>
 </div>
 <div class="w-50 w-sm-33 w-md-20 pb-1 pt-1 item">
-<div class="d-flex align-items-center pr-2">
+ <div class="d-flex align-items-center pr-2">
 <button type="button" title="Veja o gráfico com o histórico e inclua um indicador para fazer uma análise + completa" data-key="p_ebita" data-name="P/EBITDA" data-prefix="" data-suffix="" class="btn-chart btn btn-xsmall btn-main-green btn-outline btn-flat">
 <i style="max-width: 18px;" class="material-icons">show_chart</i>
 </button>
@@ -8052,7 +8068,7 @@ Indicadores de Valuation
 Indicadores de Efici&#xEA;ncia
 </strong>
 <div class="d-flex flex-wrap align-items-center justify-start">
- <div class="w-50 w-sm-33 w-md-20 pb-1 pt-1 item">
+<div class="w-50 w-sm-33 w-md-20 pb-1 pt-1 item">
 <div class="d-flex align-items-center pr-2">
 <button type="button" title="Veja o gráfico com o histórico e inclua um indicador para fazer uma análise + completa" data-key="margembruta" data-name="M. Bruta" data-prefix="" data-suffix="%" class="btn-chart btn btn-xsmall btn-main-green btn-outline btn-flat">
 <i style="max-width: 18px;" class="material-icons">show_chart</i>
@@ -8137,7 +8153,7 @@ Indicadores de Endividamento
 <i style="max-width: 18px;" class="material-icons">show_chart</i>
 </button>
 <span class="d-block fs-2 m-0 ml-1 uppercase">Liq. corrente</span>
- </div>
+</div>
 </div>
 </div>
 </div>
@@ -8158,7 +8174,7 @@ Indicadores de Rentabilidade
 <div class="d-flex align-items-center pr-2">
 <button type="button" title="Veja o gráfico com o histórico e inclua um indicador para fazer uma análise + completa" data-key="roa" data-name="ROA" data-prefix="" data-suffix="%" class="btn-chart btn btn-xsmall btn-main-green btn-outline btn-flat">
 <i style="max-width: 18px;" class="material-icons">show_chart</i>
-</button>
+ </button>
 <span class="d-block fs-2 m-0 ml-1 uppercase">ROA</span>
 </div>
 </div>
@@ -8171,7 +8187,7 @@ Indicadores de Rentabilidade
 </div>
 </div>
 <div class="w-50 w-sm-33 w-md-20 pb-1 pt-1 item">
- <div class="d-flex align-items-center pr-2">
+<div class="d-flex align-items-center pr-2">
 <button type="button" title="Veja o gráfico com o histórico e inclua um indicador para fazer uma análise + completa" data-key="giro_ativos" data-name="Giro ativos" data-prefix="" data-suffix="" class="btn-chart btn btn-xsmall btn-main-green btn-outline btn-flat">
 <i style="max-width: 18px;" class="material-icons">show_chart</i>
 </button>
@@ -8191,7 +8207,7 @@ Indicadores de Crescimento
 <i style="max-width: 18px;" class="material-icons">show_chart</i>
 </button>
 <span class="d-block fs-2 m-0 ml-1 uppercase">CAGR Receitas 5 anos</span>
-</div>
+ </div>
 </div>
 <div class="w-50 w-sm-33 w-md-20 pb-1 pt-1 item">
 <div class="d-flex align-items-center pr-2">
@@ -8249,7 +8265,7 @@ Indicadores de Crescimento
 <a title="Ver artigos que iniciam com a letra 'h'" href="https://statusinvest.com.br/termos/h">H</a>
 <a title="Ver artigos que iniciam com a letra 'i'" href="https://statusinvest.com.br/termos/i">I</a>
 <a title="Ver artigos que iniciam com a letra 'j'" href="https://statusinvest.com.br/termos/j">J</a>
-<a title="Ver artigos que iniciam com a letra 'k'" href="https://statusinvest.com.br/termos/k">K</a>
+ <a title="Ver artigos que iniciam com a letra 'k'" href="https://statusinvest.com.br/termos/k">K</a>
 <a title="Ver artigos que iniciam com a letra 'l'" href="https://statusinvest.com.br/termos/l">L</a>
 <a title="Ver artigos que iniciam com a letra 'm'" href="https://statusinvest.com.br/termos/m">M</a>
 <a title="Ver artigos que iniciam com a letra 'n'" href="https://statusinvest.com.br/termos/n">N</a>
@@ -8310,7 +8326,7 @@ Copyright © 2022 <b class="fw-900">StatusInvest</b>. Todos os direitos reservad
 <span class="d-block text-center pb-5  fs-3 fw-100">
 <span>
 Copyright © 2022 <b class="fw-900">FactSet</b>
- </span>
+</span>
 </span>
 </div>
 </footer>
@@ -8458,7 +8474,7 @@ Caso queira ter sua <b class="fw-600">carteira</b> sempre <b class="fw-600">atua
 </div>
 <div class="separador d-none d-sm-block"></div>
 <div class="w-50  w-sm-auto pt-2 pb-2 pl-1 pr-1">
- <span class="d-block uppercase lh-3 fs-2 fw-600">Variação total</span>
+<span class="d-block uppercase lh-3 fs-2 fw-600">Variação total</span>
 <div class="d-flex align-items-center fw-700 lh-3">
 <span class="profitabilityPercent_icon">
 <span class="icon"></span>
@@ -8639,7 +8655,7 @@ CADASTRAR
 </button>
 </div>
 </div>
-<div class="to-forgot-password">
+ <div class="to-forgot-password">
 <div class="d-flex justify-between align-items-center">
 <button type="button" class="btn-back-to-login waves-effect btn btn-small btn-flat btn-main-green pl-1 pr-1 pr-sm-3 pl-sm-3">
 <i class="material-icons left">arrow_back</i> VOLTAR
@@ -8740,7 +8756,7 @@ Pode ter caido no spam. . .
 </div>
 <div>
 <i class="material-icons">home</i>
- </div>
+</div>
 </a>
 </li>
 <li class="sub-menu">
@@ -8825,7 +8841,7 @@ Busca <b>avançada</b>
 <li>
 <a href="/reits/busca-avancada" title="Pesquisa de reits a partir de suas características">
 Busca <b>avançada</b>
- </a>
+</a>
 </li>
 </ul>
 </li>
@@ -8839,28 +8855,28 @@ Busca <b>avançada</b>
 <div class="aside-background d-md-none">
 </div>
 <script src="/lib/jquery-3.6.0.min.js"></script>
-<script src="/lib/typeahead/typeahead.bundle.min.js?v=2.0.575.DEWERE" async></script>
-<script src="/js/site.min.js?v=2.0.575.DEWERE"></script>
-<script src="/js/components/advertising.min.js?v=2.0.575.DEWERE" async></script>
-<script data-load-after data-src="/lib/echarts/echarts.custom.min.js?v=2.0.575.DEWERE" async></script>
-<script src="/lib/sortable-master/sortable.min.js?v=2.0.575.DEWERE" async></script>
-<script data-load-after data-src="/js/components/ticker.rent.history.min.js?v=2.0.575.DEWERE" async></script>
-<script src="/js/components/follow.manager.min.js?v=2.0.575.DEWERE"></script>
-<script src="/js/components/tab.chart.min.js?v=2.0.575.DEWERE"></script>
-<script src="/js/components/ticker.earning.list.min.js?v=2.0.575.DEWERE"></script>
-<script src="/js/components/chart.variation.min.js?v=2.0.575.DEWERE"></script>
-<script src="/js/components/ticker.price.chart.min.js?v=2.0.575.DEWERE"></script>
-<script src="/js/components/calendar.events.min.js?v=2.0.575.DEWERE"></script>
-<script src="/js/components/main.filter.modal.min.js?v=2.0.575.DEWERE"></script>
-<script src="/js/components/resume.indicators.min.js?v=2.0.575.DEWERE"></script>
-<script src="/js/pages/adm/comparator.profitability.chart.min.js?v=2.0.575.DEWERE"></script>
-<script src="/js/components/paper.nav.min.js?v=2.0.575.DEWERE"></script>
-<script src="/js/pages/action.acconting.min.js?v=2.0.575.DEWERE"></script>
-<script src="/js/components/chart.inline-gauge.min.js?v=2.0.575.DEWERE" async></script>
-<script src="/js/components/grid.min.js?v=2.0.575.DEWERE" async></script>
-<script src="/js/components/resume.item.wallet.min.js?v=2.0.575.DEWERE" async></script>
+<script src="/lib/typeahead/typeahead.bundle.min.js?v=2.0.577.EJHLWE" async></script>
+<script src="/js/site.min.js?v=2.0.577.EJHLWE"></script>
+<script src="/js/components/advertising.min.js?v=2.0.577.EJHLWE" async></script>
+<script data-load-after data-src="/lib/echarts/echarts.custom.min.js?v=2.0.577.EJHLWE" async></script>
+<script src="/lib/sortable-master/sortable.min.js?v=2.0.577.EJHLWE" async></script>
+<script data-load-after data-src="/js/components/ticker.rent.history.min.js?v=2.0.577.EJHLWE" async></script>
+<script src="/js/components/follow.manager.min.js?v=2.0.577.EJHLWE"></script>
+<script src="/js/components/tab.chart.min.js?v=2.0.577.EJHLWE"></script>
+<script src="/js/components/ticker.earning.list.min.js?v=2.0.577.EJHLWE"></script>
+<script src="/js/components/chart.variation.min.js?v=2.0.577.EJHLWE"></script>
+<script src="/js/components/ticker.price.chart.min.js?v=2.0.577.EJHLWE"></script>
+<script src="/js/components/calendar.events.min.js?v=2.0.577.EJHLWE"></script>
+<script src="/js/components/main.filter.modal.min.js?v=2.0.577.EJHLWE"></script>
+<script src="/js/components/resume.indicators.min.js?v=2.0.577.EJHLWE"></script>
+<script src="/js/pages/adm/comparator.profitability.chart.min.js?v=2.0.577.EJHLWE"></script>
+<script src="/js/components/paper.nav.min.js?v=2.0.577.EJHLWE"></script>
+<script src="/js/pages/action.acconting.min.js?v=2.0.577.EJHLWE"></script>
+<script src="/js/components/chart.inline-gauge.min.js?v=2.0.577.EJHLWE" async></script>
+<script src="/js/components/grid.min.js?v=2.0.577.EJHLWE" async></script>
+<script src="/js/components/resume.item.wallet.min.js?v=2.0.577.EJHLWE" async></script>
 
-<script src="/js/components/futureData/loadComponents.min.js?v=2.0.575.DEWERE" async></script>
+<script src="/js/components/futureData/loadComponents.min.js?v=2.0.577.EJHLWE" async></script>
 
-<script type="text/javascript">(function(){window['__CF$cv$params']={r:'6c6c892d198f266f',m:'GKrp7v.q4KqY4nN7.XSTV9pJprsGxXbSDQ.1Po4Coo4-1641048373-0-AbZnsI0jMBIIwpKQyrfRescRJB2zSk/X1z76A7xUK6X3ECiCkjSH9OlKo53IbmhRuw7DC5FYfySHLZ/5R2ICpATA1hV5uLovnypdMhUKfJPWPaDkGQ54GsrdNM6odUVzrw==',s:[0x72b236ca3e,0x2078817120],}})();</script></body>
+<script type="text/javascript">(function(){window['__CF$cv$params']={r:'6cd313b8da6925a2',m:'8p6zHThvoXz4ISPUq4w9OsaMeDkvll8UTYVy56sVyjs-1642123595-0-AbPsT9tG2CliSb66loTsrsZ6dJXkWkTASg3EN/MvAs75P65kui5kiHZwzbtNi9W6/vAEuyIB+SfmRbdPCjd9K3SbaDua0JdwJ+X3toA1EBuSckTfzp2BUMJbRgW9yvm++Q==',s:[0x1f1cbb11f7,0xc9be8ac821],}})();</script></body>
 </html>

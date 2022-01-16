@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-<meta name="version" content="2.0.575.DEWERE" />
+<meta name="version" content="2.0.577.EJHLWE" />
 <meta charset="utf-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -130,7 +130,7 @@
         {
         "@context": "https://schema.org",
         "@type": "Article",
-        "dateModified":"2022-01-01",
+        "dateModified":"2022-01-13",
         "datePublished":"2019-01-01",
         "mainEntityOfPage": {
         "@type": "WebPage",
@@ -174,20 +174,20 @@
             overflow: hidden;
         }
     </style>
-<link rel="preload" href="/css/site.min.css?v=2.0.575.DEWERE" as="style">
-<link rel="preload" href="/js/site.min.js?v=2.0.575.DEWERE" as="script">
+<link rel="preload" href="/css/site.min.css?v=2.0.577.EJHLWE" as="style">
+<link rel="preload" href="/js/site.min.js?v=2.0.577.EJHLWE" as="script">
 <link rel="preload" href="/lib/jquery-3.6.0.min.js" as="script">
 <link rel="preload" href="https://fonts.gstatic.com/s/materialicons/v92/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2" as="font" type="font/woff2" crossorigin>
-<link href="/css/site.min.css?v=2.0.575.DEWERE" rel="stylesheet" />
-<link href="/css/pages/paper.min.css?v=2.0.575.DEWERE" rel="stylesheet" />
-<link href="/css/components/resume.item.wallet.min.css?v=2.0.575.DEWERE" rel="stylesheet" />
+<link href="/css/site.min.css?v=2.0.577.EJHLWE" rel="stylesheet" />
+<link href="/css/pages/paper.min.css?v=2.0.577.EJHLWE" rel="stylesheet" />
+<link href="/css/components/resume.item.wallet.min.css?v=2.0.577.EJHLWE" rel="stylesheet" />
 
-<link href="/css/components/futureData/assetBase.min.css?v=2.0.575.DEWERE" rel="stylesheet" />
+<link href="/css/components/futureData/assetBase.min.css?v=2.0.577.EJHLWE" rel="stylesheet" />
 
 <script src="https://apis.google.com/js/platform.js" async defer></script>
 <script>
             window.imgV = '3';
-            window.scriptV = '2.0.575.DEWERE';
+            window.scriptV = '2.0.577.EJHLWE';
         </script>
 <script>
 
@@ -437,7 +437,7 @@ Busca <b>avançada</b>
 <a class="dropdown-trigger d-flex align-items-center pl-0 pr-0" href="#!" data-target="avatarDropdown" title="Ações">
 <span class="apresentacao truncate mr-1 d-none d-sm-inline-block d-md-none d-lg-inline-block">
 <span class="fw-100">Olá, </span>
- <span class="name fw-700"></span>
+<span class="name fw-700"></span>
 </span>
 <div class="avatar ml-md-3 ml-lg-0"></div>
 <i class="material-icons prefix">arrow_drop_down</i>
@@ -483,7 +483,7 @@ Busca <b>avançada</b>
 </li>
 </ul>
 </div>
-</div>
+ </div>
 <div class="login-view p-relative justify-end align-items-center" style="visibility:hidden;">
 <button type="button" class="btn btn-small btn-secondary waves-effect waves-light fw-900 btn-main-login pl-1 pr-1 pl-md-2 pr-md-2">
 <span style="max-width: 24px; overflow:hidden" class="d-block d-md-none material-icons">person</span>
@@ -493,7 +493,7 @@ Busca <b>avançada</b>
 </li>
 <li class="nav-item  d-block d-md-none p-relative">
 <a class="nav-link btn-main-menu btn-show-left-menu-initial" title="Abre o menu com oções de navegação">
- <i style="max-width: 24px;" class="material-icons prefix">menu</i>
+<i style="max-width: 24px;" class="material-icons prefix">menu</i>
 </a>
 </li>
 </ul>
@@ -603,7 +603,7 @@ Comparar
 </li>
 <li class="tab col s3" data-target="#movements-section">
 <a tabindex="0" role="button" class="has-icon" title="Mais sobre a empresa 'ITAUSA'">
-<i style="max-width: 20px;" class="material-icons v-align-middle">add</i>
+ <i style="max-width: 20px;" class="material-icons v-align-middle">add</i>
 <span class="v-align-middle">Mais</span>
 </a>
 </li>
@@ -623,14 +623,14 @@ Comparar
 <div title="Valor atual do ativo">
 <h3 class="title m-0">Valor atual</h3>
 <span class="icon">R$</span>
-<strong class="value">8,93</strong>
+<strong class="value">9,56</strong>
 </div>
 <div class="w-lg-100">
 <span title="Variação do valor do ativo com base no dia anterior" class="sub-value  fs-4 fs-md-3">
 <span class="icon">
-<i style="max-width: 15px;" class="material-icons fs-3 ">arrow_downward</i>
+<i style="max-width: 15px;" class="material-icons fs-3 ">arrow_upward</i>
 </span>
-<b class="v-align-middle">-1,11%</b>
+<b class="v-align-middle">2,80%</b>
 </span>
 </div>
 </div>
@@ -645,7 +645,7 @@ Comparar
 <div class="d-flex justify-between">
 <div class="" title="Valor mínimo do mês atual">
 <span class="sub-title">Min. mês</span>
-<span class="sub-value">R$ 8,93</span>
+<span class="sub-value">R$ 8,99</span>
 </div>
 </div>
 </div>
@@ -660,7 +660,7 @@ Comparar
 <div class="d-flex justify-between">
 <div class="" title="Valor máximo do mês atual">
 <span class="sub-title">Máx. mês</span>
-<span class="sub-value">R$ 9,50</span>
+<span class="sub-value">R$ 9,56</span>
 </div>
 </div>
 </div>
@@ -673,17 +673,17 @@ Dividend Yield
 <i style="max-width: 21px;" data-position="top" class="material-icons help-icon tooltipped tooltipped-html">
 help_outline
 <span class="template" style="display:none">
-<div class="tooltipped-html-template fw-100">
+ <div class="tooltipped-html-template fw-100">
 Indicador utilizado para relacionar os proventos pagos por uma companhia e o preço atual de suas ações.
 <small class="mt-2 fs-2 d-block">Observação:</small>
 <small class="text-main-secondary-light">
-<span class="fs-2 fw-900">O Dividend Yield foi calculado com base no valor bruto dos proventos com a DATA COM entre 01/01/2021 e 01/01/2022. Amortiza&#xE7;&#xF5;es n&#xE3;o s&#xE3;o consideradas no c&#xE1;lculo.</span>
+<span class="fs-2 fw-900">O Dividend Yield foi calculado com base no valor bruto dos proventos com a DATA COM entre 13/01/2021 e 13/01/2022. Amortiza&#xE7;&#xF5;es n&#xE3;o s&#xE3;o consideradas no c&#xE1;lculo.</span>
 </small>
 </div>
 </span>
 </i>
 </h3>
-<strong class="value">4,41</strong> 
+<strong class="value">4,12</strong>
 <span class="icon">%</span>
 </div>
 <div class="d-flex justify-between">
@@ -701,16 +701,16 @@ Indicador utilizado para relacionar os proventos pagos por uma companhia e o pre
 <span class="icon">
 <i style="max-width: 25px;" class="material-icons materialize-red-text text-darken-1">arrow_downward</i>
 </span>
-<strong class="value">-16,23%</strong>
+<strong class="value">-14,26%</strong>
 </div>
 <div class="d-flex justify-between">
 <div class="" title="Valorização no preço do ativo com base no mês atual">
 <span class="sub-title">Mês atual</span>
 <span class="sub-value">
 <span class="icon">
-<i style="max-width: 15px;" class="material-icons fs-3 materialize-red-text text-darken-1">arrow_downward</i>
+<i style="max-width: 15px;" class="material-icons fs-3 green-text text-darken-3">arrow_upward</i>
 </span>
-<b class="v-align-middle">-2,51%</b>
+<b class="v-align-middle">5,99%</b>
 </span>
 </div>
 </div>
@@ -727,7 +727,7 @@ Indicador utilizado para relacionar os proventos pagos por uma companhia e o pre
 <div class="container-date-fixed ">
 <ul class="tabs transparent d-none d-lg-block">
 <li class="tab col s3">
-<a role="button" data-type="-1" title="" class=" pl-2 pr-2" href="#asset-price--1">
+ <a role="button" data-type="-1" title="" class=" pl-2 pr-2" href="#asset-price--1">
 1 dia
 </a>
 </li>
@@ -787,11 +787,11 @@ Indicador utilizado para relacionar os proventos pagos por uma companhia e o pre
 <div class="container-date-range w-90 w-md-50 mr-md-3" style="display:none;">
 <div class="d-flex align-items-center date-range mt-0 mb-0 ">
 <div title="Data de início da busca" class="input-field from input-date mt-0 mb-0">
-<input id="Start" type="text" name="Start" class="tx-datepicker mb-0 input-small" data-max-date="2022-01-01">
+<input id="Start" type="text" name="Start" class="tx-datepicker mb-0 input-small" data-max-date="2022-01-13">
 </div>
 <span class="divisor text-center ml-1 mr-3 fs-2 fw-900">ATÉ</span>
 <div title="Data de fim da busca" class="input-field to mt-0 mb-0">
-<input id="End" type="text" name="End" class="tx-datepicker mb-0 input-small" data-max-date="2022-01-01">
+<input id="End" type="text" name="End" class="tx-datepicker mb-0 input-small" data-max-date="2022-01-13">
 </div>
 </div>
 </div>
@@ -841,7 +841,7 @@ Indicador utilizado para relacionar os proventos pagos por uma companhia e o pre
 </div>
 <div class="tab-chart-container md">
 <div class="chart "></div>
-</div>
+</div> 
 </div>
 <div id="asset-price-0" tabindex="0" class="chart-container" style=" ">
 <div class="chart-selected-container" style="display:none">
@@ -907,7 +907,7 @@ Indicador utilizado para relacionar os proventos pagos por uma companhia e o pre
 <div class="chart-selected-container" style="display:none">
 <div class="chart-selected-resume card p-1">
 <div class="d-flex align-items-center justify-between">
-<div class="price d-flex align-items-center fw-100">
+ <div class="price d-flex align-items-center fw-100">
 <span class="fw-100 fs-3 symbol">R$</span>
 <b class="v-align-middle fw-900"></b>
 </div>
@@ -922,7 +922,7 @@ Indicador utilizado para relacionar os proventos pagos por uma companhia e o pre
 </div>
 </div>
 <div class="chart-selected-array-resume card p-1">
- <div class="list">
+<div class="list">
 </div>
 <div class="period d-flex align-items-center justify-center">
 <span class="date-start"></span>&nbsp;-&nbsp;<span class="date-end"></span>
@@ -973,7 +973,7 @@ Indicador utilizado para relacionar os proventos pagos por uma companhia e o pre
 </div>
 <div class="variation d-flex align-items-center fw-100  ml-lg-1">
 <i class="material-icons">arrow_upward</i>
-<b class="v-align-middle fw-700"></b>
+ <b class="v-align-middle fw-700"></b>
 <span>%</span>
 </div>
 </div>
@@ -990,7 +990,7 @@ Indicador utilizado para relacionar os proventos pagos por uma companhia e o pre
 </div>
 </div>
 <div class="tab-chart-container md">
- <div class="chart "></div>
+<div class="chart "></div>
 </div>
 </div>
 </div>
@@ -1041,7 +1041,7 @@ LINHAS DA LISTA DE SEGUINDO
 &nbsp;
 <span class="d-block fs-3 lh-3">
 <i style="max-width: 25px; " data-position="top" data-tooltip="Crie linhas com um valor alvo na tela de 'ativos que eu sigo' e acompanhe elas aqui no gráfico de cotação" class="material-icons help-icon tooltipped mr-1 lh-3 fs-3">help_outline</i>
-</span>
+ </span>
 </label>
 </div>
 </div>
@@ -1059,7 +1059,7 @@ LINHAS DA LISTA DE SEGUINDO
 </div>
 <div class="d-lg-flex justify-between align-items-start">
 <div class="w-100 w-lg-45 mr-lg-1 mb-3 mb-lg-0">
-<div data-future="priceTarget" data-model="{&quot;Name&quot;:&quot;priceTarget&quot;,&quot;Script&quot;:&quot;/js/components/futureData/_priceTarget.min.js?v=2.0.575.DEWERE&quot;,&quot;AddOn&quot;:0,&quot;Strucuture&quot;:true,&quot;AsCard&quot;:true,&quot;Css&quot;:&quot;&quot;,&quot;Config&quot;:{&quot;categoryId&quot;:1,&quot;code&quot;:&quot;ITSA4&quot;,&quot;showHistory&quot;:false},&quot;AddOn_F&quot;:&quot;forecast-brasil&quot;}" data-config="{&quot;categoryId&quot;:1,&quot;code&quot;:&quot;ITSA4&quot;,&quot;showHistory&quot;:false}" data-addon="Brasil" data-addonf="forecast-brasil" class="card p-3 show-load " data-src="/js/components/futureData/_priceTarget.min.js?v=2.0.575.DEWERE">
+<div data-future="priceTarget" data-model="{&quot;Name&quot;:&quot;priceTarget&quot;,&quot;Script&quot;:&quot;/js/components/futureData/_priceTarget.min.js?v=2.0.577.EJHLWE&quot;,&quot;AddOn&quot;:0,&quot;Strucuture&quot;:true,&quot;AsCard&quot;:true,&quot;Css&quot;:&quot;&quot;,&quot;Config&quot;:{&quot;categoryId&quot;:1,&quot;code&quot;:&quot;ITSA4&quot;,&quot;showHistory&quot;:false},&quot;AddOn_F&quot;:&quot;forecast-brasil&quot;}" data-config="{&quot;categoryId&quot;:1,&quot;code&quot;:&quot;ITSA4&quot;,&quot;showHistory&quot;:false}" data-addon="Brasil" data-addonf="forecast-brasil" class="card p-3 show-load " data-src="/js/components/futureData/_priceTarget.min.js?v=2.0.577.EJHLWE">
 <div class="card-main-load load-container"></div>
 <div style="display:none" class="no-forecast forecast-brasil">
 <div class="d-flex flex-column justify-between">
@@ -1104,7 +1104,7 @@ FORECAST <strong class="fw-700">EUA</strong>
 </div>
 </div>
 <div class="w-100 w-lg-55 ml-lg-1">
-<div data-future="consensusAnalystRating" data-model="{&quot;Name&quot;:&quot;consensusAnalystRating&quot;,&quot;Script&quot;:&quot;/js/components/futureData/_consensusAnalystRating.min.js?v=2.0.575.DEWERE&quot;,&quot;AddOn&quot;:0,&quot;Strucuture&quot;:true,&quot;AsCard&quot;:true,&quot;Css&quot;:&quot;div-ratings-base-card&quot;,&quot;Config&quot;:{&quot;categoryId&quot;:1,&quot;code&quot;:&quot;ITSA4&quot;,&quot;showHistory&quot;:true},&quot;AddOn_F&quot;:&quot;forecast-brasil&quot;}" data-config="{&quot;categoryId&quot;:1,&quot;code&quot;:&quot;ITSA4&quot;,&quot;showHistory&quot;:true}" data-addon="Brasil" data-addonf="forecast-brasil" class="card p-3 show-load div-ratings-base-card" data-src="/js/components/futureData/_consensusAnalystRating.min.js?v=2.0.575.DEWERE">
+<div data-future="consensusAnalystRating" data-model="{&quot;Name&quot;:&quot;consensusAnalystRating&quot;,&quot;Script&quot;:&quot;/js/components/futureData/_consensusAnalystRating.min.js?v=2.0.577.EJHLWE&quot;,&quot;AddOn&quot;:0,&quot;Strucuture&quot;:true,&quot;AsCard&quot;:true,&quot;Css&quot;:&quot;div-ratings-base-card&quot;,&quot;Config&quot;:{&quot;categoryId&quot;:1,&quot;code&quot;:&quot;ITSA4&quot;,&quot;showHistory&quot;:true},&quot;AddOn_F&quot;:&quot;forecast-brasil&quot;}" data-config="{&quot;categoryId&quot;:1,&quot;code&quot;:&quot;ITSA4&quot;,&quot;showHistory&quot;:true}" data-addon="Brasil" data-addonf="forecast-brasil" class="card p-3 show-load div-ratings-base-card" data-src="/js/components/futureData/_consensusAnalystRating.min.js?v=2.0.577.EJHLWE">
 <div class="card-main-load load-container"></div>
 <div style="display:none" class="no-forecast forecast-brasil">
 <div class="d-flex flex-column justify-between">
@@ -1156,7 +1156,7 @@ FORECAST <strong class="fw-700">EUA</strong>
 </div>
 </div>
 </div>
-<div data-volatility data-ativo="ITSA4" data-ativo-volatility="26,700452124631" data-indice="IBOV" data-indice-volatility="20,943924728296">
+<div data-volatility data-ativo="ITSA4" data-ativo-volatility="26,365418656326" data-indice="IBOV" data-indice-volatility="20,797687876988">
 <div class="card mb-5 pb-4">
 <div class="card-title mb-2 d-flex align-items-center">
 <i style="max-width:21px" class="material-icons v-align-middle text-main-secondary d-inline-block fs-4">local_fire_department</i>
@@ -1165,7 +1165,7 @@ FORECAST <strong class="fw-700">EUA</strong>
 <span class="v-align-middle">Volatilidade histórica <span class="d-none d-xs-inline-block">do ITSA4</span></span>
 <i data-position="top" style="max-width:24px" class="material-icons help-icon tooltipped tooltipped-html lh-1 lh-sm-4 ml-1">
 help_outline
-<span class="template" style="display:none">
+ <span class="template" style="display:none">
 <div class="tooltipped-html-template fw-100">
 A volatilidade é a intensidade e frequência que acontecem as movimentações do valor do ativo, dentro de um período de tempo.
 <br />
@@ -1229,7 +1229,7 @@ Média dos últimos 30 dias
 </span>
 <div>
 <span class="icon">R$</span>
-<strong class="value">220.212.611,80</strong>
+<strong class="value">240.585.373,00</strong>
 </div>
 </div>
 </div>
@@ -1241,8 +1241,8 @@ Média dos últimos 30 dias
 <h3 class="title m-0 d-none d-md-block d-lg-none">PART. <strong class="fw-700">IBOV</strong></h3>
 <h3 class="title m-0 d-block d-md-none d-lg-block">PARTICIPAÇÃO NO <strong class="fw-700">IBOV</strong></h3>
 <div class="d-flex align-items-center ">
-<strong class="value">2,119</strong>
- <span class="icon">%</span>
+<strong class="value">2,189</strong>
+<span class="icon">%</span>
 <i style="max-width:24px" class="ml-3 material-icons">arrow_forward</i>
 </div>
 </div>
@@ -1255,7 +1255,7 @@ Média dos últimos 30 dias
 <div>
 <h3 class="title m-0 d-block">MERCADO DE <strong class="fw-700">OPÇÕES</strong></h3>
 <div class="d-flex align-items-center ">
-<strong class="value mr-1">166</strong>
+<strong class="value mr-1">178</strong>
 <span class="icon">em aberto</span>
 <i style="max-width:24px" class="ml-3 material-icons">arrow_forward</i>
 </div>
@@ -1267,11 +1267,8 @@ Média dos últimos 30 dias
 </div>
 </div>
 <div class=" banner-lazy-group-now advertising ad-846fdba2a96c4169a12391131693a3d8 mt-3 mb-4 pl-md-3 pr-md-3">
-<a href="https://lp.statusinvest.com.br/pv/modulo-forecast/?utm_source=statusinvest&amp;utm_medium=banner&amp;utm_campaign=RSI.FCD21.ns" target="_blank" class="bull" rel="noopener noreferrer nofollow">
-<div class="image c36-1">anúncio</div>
-</a>
-<a href="https://lp.statusinvest.com.br/planos/" style="display:none" target="_blank" class="forecast" rel="noopener noreferrer nofollow">
-<div class="image c36-1">anúncio</div>
+<a href="https://lp.statusinvest.com.br/planos/" target="_blank" class="" rel="noopener noreferrer nofollow">
+<div class="image c22-1">anúncio</div>
 </a>
 </div>
 <div class="pb-5" id="indicators-section" data-ticker="ITSA4" data-category="1" data-parentId="345">
@@ -1322,18 +1319,18 @@ MÉDIA MERCADO
 <span class="material-icons">format_quote</span>
 </a>
 <div class="d-flex align-items-center justify-between pr-1 pr-xs-2">
-<strong class="value d-block lh-4 fs-4 fw-700">4,41%</strong>
+<strong class="value d-block lh-4 fs-4 fw-700">4,12%</strong>
 <div class="d-flex align-items-center">
 <button type="button" title="Gráfico histórico deste indicador" data-key="dy" data-name="D.Y" data-prefix="" data-suffix="%" class="btn-chart btn btn-xsmall btn-main-green btn-outline btn-flat">
 <i style="max-width: 18px;" class="material-icons">show_chart</i>
 </button>
 <i data-position="top" style="max-width: 18px;" class="material-icons help-icon tooltipped tooltipped-html">
 help_outline
-<span class="template" style="display:none">
+ <span class="template" style="display:none">
 <div class="tooltipped-html-template fw-100">
 Indicador utilizado para relacionar os proventos pagos por uma companhia e o pre&#xE7;o atual de suas a&#xE7;&#xF5;es.
 <small class="mt-2 fs-2 d-block">FÓRMULA:</small>
- <small class="text-main-secondary-light fw-700">
+<small class="text-main-secondary-light fw-700">
 Dividendos pagos no per&#xED;odo / Pre&#xE7;o a&#xE7;&#xE3;o
 </small>
 </div>
@@ -1350,7 +1347,7 @@ Dividendos pagos no per&#xED;odo / Pre&#xE7;o a&#xE7;&#xE3;o
 <span class="material-icons">format_quote</span>
 </a>
 <div class="d-flex align-items-center justify-between pr-1 pr-xs-2">
-<strong class="value d-block lh-4 fs-4 fw-700">6,72</strong>
+<strong class="value d-block lh-4 fs-4 fw-700">7,19</strong>
 <div class="d-flex align-items-center">
 <button type="button" title="Gráfico histórico deste indicador" data-key="p_l" data-name="P/L" data-prefix="" data-suffix="" class="btn-chart btn btn-xsmall btn-main-green btn-outline btn-flat">
 <i style="max-width: 18px;" class="material-icons">show_chart</i>
@@ -1372,10 +1369,10 @@ Pre&#xE7;o atual / Lucro por a&#xE7;&#xE3;o (LPA)
 </div>
 </div>
 <div class="w-50 w-sm-33 w-md-25 w-lg-16_6 mb-2 mt-2 item ">
- <div title="O PEG Ratio &#xE9; uma m&#xE9;trica de avalia&#xE7;&#xE3;o para determinar o trade-off relativo entre o pre&#xE7;o de uma a&#xE7;&#xE3;o, o lucro gerado por a&#xE7;&#xE3;o e o crescimento esperado da empresa. Para o c&#xE1;lculo, assumimos o LPA Atual baseado nos &#xFA;ltimos 4 trimestres, e o LPA Anterior os 4 trimestres anteriores a estes.">
+<div title="O PEG Ratio &#xE9; uma m&#xE9;trica de avalia&#xE7;&#xE3;o para determinar o trade-off relativo entre o pre&#xE7;o de uma a&#xE7;&#xE3;o, o lucro gerado por a&#xE7;&#xE3;o e o crescimento esperado da empresa. Para o c&#xE1;lculo, assumimos o LPA Atual baseado nos &#xFA;ltimos 4 trimestres, e o LPA Anterior os 4 trimestres anteriores a estes.">
 <h3 class="title m-0 mr-1 uppercase">PEG Ratio</h3>
 <div class="d-flex align-items-center justify-between pr-1 pr-xs-2">
-<strong class="value d-block lh-4 fs-4 fw-700">0,09</strong>
+<strong class="value d-block lh-4 fs-4 fw-700">0,10</strong>
 <div class="d-flex align-items-center">
 <button type="button" title="Gráfico histórico deste indicador" data-key="peg_Ratio" data-name="PEG Ratio" data-prefix="" data-suffix="" class="btn-chart btn btn-xsmall btn-main-green btn-outline btn-flat">
 <i style="max-width: 18px;" class="material-icons">show_chart</i>
@@ -1402,8 +1399,8 @@ O PEG Ratio &#xE9; uma m&#xE9;trica de avalia&#xE7;&#xE3;o para determinar o tra
 <h3 class="title m-0 uppercase">P/VP</h3>
 <span class="material-icons">format_quote</span>
 </a>
- <div class="d-flex align-items-center justify-between pr-1 pr-xs-2">
-<strong class="value d-block lh-4 fs-4 fw-700">1,26</strong>
+<div class="d-flex align-items-center justify-between pr-1 pr-xs-2">
+<strong class="value d-block lh-4 fs-4 fw-700">1,35</strong>
 <div class="d-flex align-items-center">
 <button type="button" title="Gráfico histórico deste indicador" data-key="p_vp" data-name="P/VP" data-prefix="" data-suffix="" class="btn-chart btn btn-xsmall btn-main-green btn-outline btn-flat">
 <i style="max-width: 18px;" class="material-icons">show_chart</i>
@@ -1431,7 +1428,7 @@ Pre&#xE7;o atual / Valor patrimonial por a&#xE7;&#xE3;o (VPA)
 <span class="material-icons">format_quote</span>
 </a>
 <div class="d-flex align-items-center justify-between pr-1 pr-xs-2">
-<strong class="value d-block lh-4 fs-4 fw-700">6,03</strong>
+<strong class="value d-block lh-4 fs-4 fw-700">6,39</strong>
 <div class="d-flex align-items-center">
 <button type="button" title="Gráfico histórico deste indicador" data-key="ev_ebitda" data-name="EV/EBITDA" data-prefix="" data-suffix="" class="btn-chart btn btn-xsmall btn-main-green btn-outline btn-flat">
 <i style="max-width: 18px;" class="material-icons">show_chart</i>
@@ -1459,7 +1456,7 @@ EV / EBITDA
 <span class="material-icons">format_quote</span>
 </a>
 <div class="d-flex align-items-center justify-between pr-1 pr-xs-2">
-<strong class="value d-block lh-4 fs-4 fw-700">6,36</strong>
+<strong class="value d-block lh-4 fs-4 fw-700">6,74</strong>
 <div class="d-flex align-items-center">
 <button type="button" title="Gráfico histórico deste indicador" data-key="ev_ebit" data-name="EV/EBIT" data-prefix="" data-suffix="" class="btn-chart btn btn-xsmall btn-main-green btn-outline btn-flat">
 <i style="max-width: 18px;" class="material-icons">show_chart</i>
@@ -1487,15 +1484,15 @@ EV / EBIT
 <span class="material-icons">format_quote</span>
 </a>
 <div class="d-flex align-items-center justify-between pr-1 pr-xs-2">
-<strong class="value d-block lh-4 fs-4 fw-700">5,65</strong>
+<strong class="value d-block lh-4 fs-4 fw-700">6,04</strong>
 <div class="d-flex align-items-center">
 <button type="button" title="Gráfico histórico deste indicador" data-key="p_ebita" data-name="P/EBITDA" data-prefix="" data-suffix="" class="btn-chart btn btn-xsmall btn-main-green btn-outline btn-flat">
 <i style="max-width: 18px;" class="material-icons">show_chart</i>
-</button>
+ </button>
 <i data-position="top" style="max-width: 18px;" class="material-icons help-icon tooltipped tooltipped-html">
 help_outline
 <span class="template" style="display:none">
- <div class="tooltipped-html-template fw-100">
+<div class="tooltipped-html-template fw-100">
 O EBITDA permite conhecer quanto a companhia est&#xE1; gerando de caixa com base exclusivamente em suas atividades operacionais, desconsiderando os impactos financeiros e dos impostos.
 <small class="mt-2 fs-2 d-block">FÓRMULA:</small>
 <small class="text-main-secondary-light fw-700">
@@ -1515,7 +1512,7 @@ Pre&#xE7;o atual / EBITDA
 <span class="material-icons">format_quote</span>
 </a>
 <div class="d-flex align-items-center justify-between pr-1 pr-xs-2">
-<strong class="value d-block lh-4 fs-4 fw-700">5,95</strong>
+<strong class="value d-block lh-4 fs-4 fw-700">6,37</strong>
 <div class="d-flex align-items-center">
 <button type="button" title="Gráfico histórico deste indicador" data-key="p_ebit" data-name="P/EBIT" data-prefix="" data-suffix="" class="btn-chart btn btn-xsmall btn-main-green btn-outline btn-flat">
 <i style="max-width: 18px;" class="material-icons">show_chart</i>
@@ -1524,10 +1521,10 @@ Pre&#xE7;o atual / EBITDA
 help_outline
 <span class="template" style="display:none">
 <div class="tooltipped-html-template fw-100">
-Indica qual &#xE9; o pre&#xE7;o da a&#xE7;&#xE3;o em rela&#xE7;&#xE3;o ao seu resultado EBIT. O EBIT pode ser considerado uma aproxima&#xE7;&#xE3;o do lucro operacional da companhia.
+ Indica qual &#xE9; o pre&#xE7;o da a&#xE7;&#xE3;o em rela&#xE7;&#xE3;o ao seu resultado EBIT. O EBIT pode ser considerado uma aproxima&#xE7;&#xE3;o do lucro operacional da companhia.
 <small class="mt-2 fs-2 d-block">FÓRMULA:</small>
 <small class="text-main-secondary-light fw-700">
- Pre&#xE7;o atual / EBIT
+Pre&#xE7;o atual / EBIT
 </small>
 </div>
 </span>
@@ -1561,7 +1558,7 @@ Patrim&#xF4;nio l&#xED;quido / N&#xBA; de a&#xE7;&#xF5;es
 </span>
 </i>
 </div>
-</div>
+ </div>
 </div>
 </div>
 <div class="w-50 w-sm-33 w-md-25 w-lg-16_6 mb-2 mt-2 item ">
@@ -1571,7 +1568,7 @@ Patrim&#xF4;nio l&#xED;quido / N&#xBA; de a&#xE7;&#xF5;es
 <span class="material-icons">format_quote</span>
 </a>
 <div class="d-flex align-items-center justify-between pr-1 pr-xs-2">
-<strong class="value d-block lh-4 fs-4 fw-700">0,97</strong>
+<strong class="value d-block lh-4 fs-4 fw-700">1,04</strong>
 <div class="d-flex align-items-center">
 <button type="button" title="Gráfico histórico deste indicador" data-key="p_ativo" data-name="P/Ativo" data-prefix="" data-suffix="" class="btn-chart btn btn-xsmall btn-main-green btn-outline btn-flat">
 <i style="max-width: 18px;" class="material-icons">show_chart</i>
@@ -1601,7 +1598,7 @@ Pre&#xE7;o atual / Ativos
 <div class="d-flex align-items-center justify-between pr-1 pr-xs-2">
 <strong class="value d-block lh-4 fs-4 fw-700">1,33</strong>
 <div class="d-flex align-items-center">
- <button type="button" title="Gráfico histórico deste indicador" data-key="lpa" data-name="LPA" data-prefix="" data-suffix="" class="btn-chart btn btn-xsmall btn-main-green btn-outline btn-flat">
+<button type="button" title="Gráfico histórico deste indicador" data-key="lpa" data-name="LPA" data-prefix="" data-suffix="" class="btn-chart btn btn-xsmall btn-main-green btn-outline btn-flat">
 <i style="max-width: 18px;" class="material-icons">show_chart</i>
 </button>
 <i data-position="top" style="max-width: 18px;" class="material-icons help-icon tooltipped tooltipped-html">
@@ -1627,10 +1624,10 @@ Lucro l&#xED;quido / N&#xBA; de a&#xE7;&#xF5;es
 <span class="material-icons">format_quote</span>
 </a>
 <div class="d-flex align-items-center justify-between pr-1 pr-xs-2">
-<strong class="value d-block lh-4 fs-4 fw-700">10,09</strong>
+<strong class="value d-block lh-4 fs-4 fw-700">10,81</strong>
 <div class="d-flex align-items-center">
 <button type="button" title="Gráfico histórico deste indicador" data-key="p_sr" data-name="P/SR" data-prefix="" data-suffix="" class="btn-chart btn btn-xsmall btn-main-green btn-outline btn-flat">
- <i style="max-width: 18px;" class="material-icons">show_chart</i>
+<i style="max-width: 18px;" class="material-icons">show_chart</i>
 </button>
 <i data-position="top" style="max-width: 18px;" class="material-icons help-icon tooltipped tooltipped-html">
 help_outline
@@ -1655,15 +1652,15 @@ Pre&#xE7;o atual / Receita l&#xED;quida por a&#xE7;&#xE3;o
 <span class="material-icons">format_quote</span>
 </a>
 <div class="d-flex align-items-center justify-between pr-1 pr-xs-2">
-<strong class="value d-block lh-4 fs-4 fw-700">27,81</strong>
+<strong class="value d-block lh-4 fs-4 fw-700">29,77</strong>
 <div class="d-flex align-items-center">
 <button type="button" title="Gráfico histórico deste indicador" data-key="p_capitlgiro" data-name="P/Cap. Giro" data-prefix="" data-suffix="" class="btn-chart btn btn-xsmall btn-main-green btn-outline btn-flat">
 <i style="max-width: 18px;" class="material-icons">show_chart</i>
-</button>
+ </button>
 <i data-position="top" style="max-width: 18px;" class="material-icons help-icon tooltipped tooltipped-html">
 help_outline
 <span class="template" style="display:none">
- <div class="tooltipped-html-template fw-100">
+<div class="tooltipped-html-template fw-100">
 Pre&#xE7;o da a&#xE7;&#xE3;o dividido pelo capital de giro por a&#xE7;&#xE3;o. Capital de Giro &#xE9; o Ativo Circulante menos Passivo Circulante.
 <small class="mt-2 fs-2 d-block">FÓRMULA:</small>
 <small class="text-main-secondary-light fw-700">
@@ -1683,7 +1680,7 @@ Pre&#xE7;o atual / (Ativo circulante - Passivo circulante)
 <span class="material-icons">format_quote</span>
 </a>
 <div class="d-flex align-items-center justify-between pr-1 pr-xs-2">
-<strong class="value d-block lh-4 fs-4 fw-700">-1,07</strong>
+<strong class="value d-block lh-4 fs-4 fw-700">-1,15</strong>
 <div class="d-flex align-items-center">
 <button type="button" title="Gráfico histórico deste indicador" data-key="p_ativocirculante" data-name="P/Ativo Circ. Liq." data-prefix="" data-suffix="" class="btn-chart btn btn-xsmall btn-main-green btn-outline btn-flat">
 <i style="max-width: 18px;" class="material-icons">show_chart</i>
@@ -1692,7 +1689,7 @@ Pre&#xE7;o atual / (Ativo circulante - Passivo circulante)
 help_outline
 <span class="template" style="display:none">
 <div class="tooltipped-html-template fw-100">
-&#xC9; a diferen&#xE7;a entre o ativo circulante e o passivo que constam do balan&#xE7;o patrimonial de uma empresa.
+ &#xC9; a diferen&#xE7;a entre o ativo circulante e o passivo que constam do balan&#xE7;o patrimonial de uma empresa.
 <small class="mt-2 fs-2 d-block">FÓRMULA:</small>
 <small class="text-main-secondary-light fw-700">
 Pre&#xE7;o atual / Ativos Circulantes L&#xED;quidos por a&#xE7;&#xE3;o
@@ -1726,7 +1723,7 @@ help_outline
 <span class="template" style="display:none">
 <div class="tooltipped-html-template fw-100">
 Indica quanto de d&#xED;vida uma empresa est&#xE1; usando para financiar os seus ativos em rela&#xE7;&#xE3;o ao patrim&#xF4;nio dos acionistas.
-<small class="mt-2 fs-2 d-block">FÓRMULA:</small>
+ <small class="mt-2 fs-2 d-block">FÓRMULA:</small>
 <small class="text-main-secondary-light fw-700">
 D&#xED;vida l&#xED;quida / Patrim&#xF4;nio l&#xED;quido
 </small>
@@ -1760,7 +1757,7 @@ D&#xED;vida l&#xED;quida / EBITDA
 </small>
 </div>
 </span>
-</i>
+ </i>
 </div>
 </div>
 </div>
@@ -1797,7 +1794,7 @@ D&#xED;vida l&#xED;quida / EBIT
 <div title="O Patrim&#xF4;nio de uma empresa &#xE9; o resultado da subtra&#xE7;&#xE3;o dos ativos com os passivos. Este indicador &#xE9; para mostrar a rela&#xE7;&#xE3;o dos ativos no patrim&#xF4;nio da empresa.">
 <a href="https://statusinvest.com.br/termos/p/patrimonio-ativos" title="Artigo detalhando PL/Ativos" target="_blank" rel="noopener" class="term-indicator-link d-flex align-items-center">
 <h3 class="title m-0 uppercase">PL/Ativos</h3>
- <span class="material-icons">format_quote</span>
+<span class="material-icons">format_quote</span>
 </a>
 <div class="d-flex align-items-center justify-between pr-1 pr-xs-2">
 <strong class="value d-block lh-4 fs-4 fw-700">0,77</strong>
@@ -1826,7 +1823,7 @@ Patrim&#xF4;nio l&#xED;quido / Ativos
 <a href="https://statusinvest.com.br/termos/p/passivos-ativos" title="Artigo detalhando Passivos/Ativos" target="_blank" rel="noopener" class="term-indicator-link d-flex align-items-center">
 <h3 class="title m-0 uppercase">Passivos/Ativos</h3>
 <span class="material-icons">format_quote</span>
-</a>
+ </a>
 <div class="d-flex align-items-center justify-between pr-1 pr-xs-2">
 <strong class="value d-block lh-4 fs-4 fw-700">0,18</strong>
 <div class="d-flex align-items-center">
@@ -1898,7 +1895,7 @@ Ativo circulante / Passivo circulante
 help_outline
 <span class="template" style="display:none">
 <div class="tooltipped-html-template fw-100">
- Mede, objetivamente, o quanto a empresa ganha com a venda de seus produtos.
+Mede, objetivamente, o quanto a empresa ganha com a venda de seus produtos.
 <small class="mt-2 fs-2 d-block">FÓRMULA:</small>
 <small class="text-main-secondary-light fw-700">
 Lucro bruto / Receita l&#xED;quida
@@ -1930,7 +1927,7 @@ help_outline
 <small class="mt-2 fs-2 d-block">FÓRMULA:</small>
 <small class="text-main-secondary-light fw-700">
 EBITDA / Receita l&#xED;quida
- </small>
+</small>
 </div>
 </span>
 </i>
@@ -1967,7 +1964,7 @@ EBIT / Receita l&#xED;quida
 </div>
 </div>
 <div class="w-50 w-sm-33 w-md-25 w-lg-50  mb-2 mt-2 item">
- <div title="Revela a porcentagem de lucro em rela&#xE7;&#xE3;o &#xE0;s receitas de uma empresa.">
+<div title="Revela a porcentagem de lucro em rela&#xE7;&#xE3;o &#xE0;s receitas de uma empresa.">
 <a href="https://statusinvest.com.br/termos/m/margem-liquida" title="Artigo detalhando M. L&#xED;quida" target="_blank" rel="noopener" class="term-indicator-link d-flex align-items-center">
 <h3 class="title m-0 uppercase">M. L&#xED;quida</h3>
 <span class="material-icons">format_quote</span>
@@ -1999,7 +1996,7 @@ Lucro l&#xED;quido / Receita l&#xED;quida
 <div data-group="3" class="indicators g-4 w-100 w-lg-33">
 <strong class="d-block uppercase">Indicadores de Rentabilidade</strong>
 <div class="d-flex flex-wrap align-items-center justify-start">
-<div class="w-50 w-sm-33 w-md-25 w-lg-50  mb-2 mt-2 item">
+ <div class="w-50 w-sm-33 w-md-25 w-lg-50  mb-2 mt-2 item">
 <div title="Mede a capacidade de agregar valor de uma empresa a partir de seus pr&#xF3;prios recursos e do dinheiro de investidores.">
 <a href="https://statusinvest.com.br/termos/r/roe" title="Artigo detalhando ROE" target="_blank" rel="noopener" class="term-indicator-link d-flex align-items-center">
 <h3 class="title m-0 uppercase">ROE</h3>
@@ -2093,11 +2090,11 @@ Mede a rentabilidade de dinheiro o que uma empresa &#xE9; capaz de gerar em raz&
 <strong class="value d-block lh-4 fs-4 fw-700">0,10</strong>
 <div class="d-flex align-items-center">
 <button type="button" title="Gráfico histórico deste indicador" data-key="giro_ativos" data-name="Giro ativos" data-prefix="" data-suffix="" class="btn-chart btn btn-xsmall btn-main-green btn-outline btn-flat">
-<i style="max-width: 18px;" class="material-icons">show_chart</i>
+ <i style="max-width: 18px;" class="material-icons">show_chart</i>
 </button>
 <i data-position="top" style="max-width: 18px;" class="material-icons help-icon tooltipped tooltipped-html">
 help_outline
- <span class="template" style="display:none">
+<span class="template" style="display:none">
 <div class="tooltipped-html-template fw-100">
 Mede se como uma empresa est&#xE1; utilizando o seu ativo (bens, investimentos, estoque etc.) para produzir riqueza, atrav&#xE9;s da venda de seus produtos e/ou servi&#xE7;os.
 <small class="mt-2 fs-2 d-block">FÓRMULA:</small>
@@ -2133,7 +2130,7 @@ O CAGR (Compound Annual Growth Rate), ou taxa de crescimento anual composta, &#x
 </div>
 </span>
 </i>
- </div>
+</div>
 </div>
 </div>
 </div>
@@ -2266,12 +2263,12 @@ Estimativas dos indicadores
 <span class="material-icons">format_quote</span>
 </a>
 <i data-position="top" class="material-icons help-icon tooltipped tooltipped-html fs-3">
-help_outline
+ help_outline
 <span class="template" style="display:none">
 <div class="tooltipped-html-template fw-100">
 Indicador utilizado para relacionar os proventos pagos por uma companhia e o pre&#xE7;o atual de suas a&#xE7;&#xF5;es.
 <small class="mt-2 fs-2 d-block">FÓRMULA:</small>
- <small class="text-main-secondary-light fw-700">
+<small class="text-main-secondary-light fw-700">
 Dividendos pagos no per&#xED;odo / Pre&#xE7;o a&#xE7;&#xE3;o
 </small>
 </div>
@@ -2306,13 +2303,13 @@ Pre&#xE7;o atual / Lucro por a&#xE7;&#xE3;o (LPA)
 <button type="button" data-key="p_l" data-name="P/L" data-prefix="" data-suffix="" class="btn-chart btn-history btn btn-xsmall btn-main-green btn-outline btn-flat">
 <i style="max-width: 18px;" class="material-icons">show_chart</i>
 </button>
-<div class="avatars" data-key="p_l">
+ <div class="avatars" data-key="p_l">
 </div>
 </div>
 <div class="indicador d-flex justify-between align-items-center " data-indicador="peg_Ratio">
 <div class="d-flex justify-between align-items-center w-100">
 <h3 class="title m-0 mr-1 uppercase">PEG Ratio</h3>
- <i data-position="top" class="material-icons help-icon tooltipped tooltipped-html fs-3">
+<i data-position="top" class="material-icons help-icon tooltipped tooltipped-html fs-3">
 help_outline
 <span class="template" style="display:none">
 <div class="tooltipped-html-template fw-100">
@@ -2383,10 +2380,10 @@ EV / EBITDA
 </div>
 <div class="indicador d-flex justify-between align-items-center " data-indicador="ev_ebit">
 <div class="d-flex justify-between align-items-center w-100">
-<a href="https://statusinvest.com.br/termos/e/ev-ebit" title="Artigo detalhando EV/EBIT" target="_blank" rel="noopener" class="term-indicator-link d-flex align-items-center">
+ <a href="https://statusinvest.com.br/termos/e/ev-ebit" title="Artigo detalhando EV/EBIT" target="_blank" rel="noopener" class="term-indicator-link d-flex align-items-center">
 <h3 class="title m-0 uppercase">EV/EBIT</h3>
 <span class="material-icons">format_quote</span>
- </a>
+</a>
 <i data-position="top" class="material-icons help-icon tooltipped tooltipped-html fs-3">
 help_outline
 <span class="template" style="display:none">
@@ -2419,7 +2416,7 @@ help_outline
 O EBITDA permite conhecer quanto a companhia est&#xE1; gerando de caixa com base exclusivamente em suas atividades operacionais, desconsiderando os impactos financeiros e dos impostos.
 <small class="mt-2 fs-2 d-block">FÓRMULA:</small>
 <small class="text-main-secondary-light fw-700">
-Pre&#xE7;o atual / EBITDA
+ Pre&#xE7;o atual / EBITDA
 </small>
 </div>
 </span>
@@ -2693,10 +2690,10 @@ D&#xED;vida l&#xED;quida / EBIT
 </div>
 <div class="indicador d-flex justify-between align-items-center " data-indicador="patrimonio_ativo">
 <div class="d-flex justify-between align-items-center w-100">
-<a href="https://statusinvest.com.br/termos/p/patrimonio-ativos" title="Artigo detalhando PL/Ativos" target="_blank" rel="noopener" class="term-indicator-link d-flex align-items-center">
+ <a href="https://statusinvest.com.br/termos/p/patrimonio-ativos" title="Artigo detalhando PL/Ativos" target="_blank" rel="noopener" class="term-indicator-link d-flex align-items-center">
 <h3 class="title m-0 uppercase">PL/Ativos</h3>
 <span class="material-icons">format_quote</span>
- </a>
+</a>
 <i data-position="top" class="material-icons help-icon tooltipped tooltipped-html fs-3">
 help_outline
 <span class="template" style="display:none">
@@ -2729,7 +2726,7 @@ help_outline
 Calculo para saber a rela&#xE7;&#xE3;o entre os ativos (circulantes e n&#xE3;o circulantes) e os passivos de uma empresa.
 <small class="mt-2 fs-2 d-block">FÓRMULA:</small>
 <small class="text-main-secondary-light fw-700">
-Passivos / Ativos
+ Passivos / Ativos
 </small>
 </div>
 </span>
@@ -2818,7 +2815,7 @@ EBITDA / Receita l&#xED;quida
 </small>
 </div>
 </span>
- </i>
+</i>
 </div>
 <button type="button" data-key="margemebitda" data-name="M. EBITDA" data-prefix="" data-suffix="%" class="btn-chart btn-history btn btn-xsmall btn-main-green btn-outline btn-flat">
 <i style="max-width: 18px;" class="material-icons">show_chart</i>
@@ -2854,7 +2851,7 @@ EBIT / Receita l&#xED;quida
 <div class="indicador d-flex justify-between align-items-center " data-indicador="margeliquida">
 <div class="d-flex justify-between align-items-center w-100">
 <a href="https://statusinvest.com.br/termos/m/margem-liquida" title="Artigo detalhando M. L&#xED;quida" target="_blank" rel="noopener" class="term-indicator-link d-flex align-items-center">
- <h3 class="title m-0 uppercase">M. L&#xED;quida</h3>
+<h3 class="title m-0 uppercase">M. L&#xED;quida</h3>
 <span class="material-icons">format_quote</span>
 </a>
 <i data-position="top" class="material-icons help-icon tooltipped tooltipped-html fs-3">
@@ -2975,7 +2972,7 @@ Mede se como uma empresa est&#xE1; utilizando o seu ativo (bens, investimentos, 
 <small class="mt-2 fs-2 d-block">FÓRMULA:</small>
 <small class="text-main-secondary-light fw-700">
 Receita l&#xED;quida / Total m&#xE9;dio de ativos
- </small>
+</small>
 </div>
 </span>
 </i>
@@ -3020,7 +3017,7 @@ O CAGR (Compound Annual Growth Rate), ou taxa de crescimento anual composta, &#x
 <i data-position="top" class="material-icons help-icon tooltipped tooltipped-html fs-3">
 help_outline
 <span class="template" style="display:none">
- <div class="tooltipped-html-template fw-100">
+<div class="tooltipped-html-template fw-100">
 O CAGR (Compound Annual Growth Rate), ou taxa de crescimento anual composta, &#xE9; a taxa de retorno necess&#xE1;ria para um investimento crescer de seu saldo inicial para o seu saldo final.
 </div>
 </span>
@@ -3038,7 +3035,7 @@ O CAGR (Compound Annual Growth Rate), ou taxa de crescimento anual composta, &#x
 </div>
 </div>
 <div style="display:none" class="indicator-avg-market-container">
-<input id="indicator-current" name="indicator-current" type="hidden" value="[{&quot;Key&quot;:&quot;p_l&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:6.7153,&quot;Value_F&quot;:&quot;6,72&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;p_vp&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:1.2598,&quot;Value_F&quot;:&quot;1,26&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;p_ebita&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:5.6465,&quot;Value_F&quot;:&quot;5,65&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;p_ebit&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:5.9533,&quot;Value_F&quot;:&quot;5,95&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;p_sr&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:10.0939,&quot;Value_F&quot;:&quot;10,09&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;p_ativo&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:0.9735,&quot;Value_F&quot;:&quot;0,97&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;p_capitlgiro&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:27.8082,&quot;Value_F&quot;:&quot;27,81&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;p_ativocirculante&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:-1.0747,&quot;Value_F&quot;:&quot;-1,07&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;ev_ebitda&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:6.0316,&quot;Value_F&quot;:&quot;6,03&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;ev_ebit&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:6.3595,&quot;Value_F&quot;:&quot;6,36&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;lpa&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:1.3298,&quot;Value_F&quot;:&quot;1,33&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;vpa&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:7.0886,&quot;Value_F&quot;:&quot;7,09&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;dy&quot;,&quot;Suffix&quot;:&quot;%&quot;,&quot;Prefix&quot;:null,&quot;Value&quot;:4.4139,&quot;Value_F&quot;:&quot;4,41%&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;dividaliquida_patrimonioliquido&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:0.07,&quot;Value_F&quot;:&quot;0,07&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:true},{&quot;Key&quot;:&quot;dividaliquida_ebitda&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:0.30,&quot;Value_F&quot;:&quot;0,30&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:true},{&quot;Key&quot;:&quot;dividaliquida_ebit&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:0.32,&quot;Value_F&quot;:&quot;0,32&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:true},{&quot;Key&quot;:&quot;patrimonio_ativo&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:0.77,&quot;Value_F&quot;:&quot;0,77&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;passivo_ativo&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:0.18,&quot;Value_F&quot;:&quot;0,18&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;liquidezcorrente&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:1.59,&quot;Value_F&quot;:&quot;1,59&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;margembruta&quot;,&quot;Suffix&quot;:&quot;%&quot;,&quot;Prefix&quot;:null,&quot;Value&quot;:34.52,&quot;Value_F&quot;:&quot;34,52%&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;margemebitda&quot;,&quot;Suffix&quot;:&quot;%&quot;,&quot;Prefix&quot;:null,&quot;Value&quot;:178.77,&quot;Value_F&quot;:&quot;178,77%&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;margemebit&quot;,&quot;Suffix&quot;:&quot;%&quot;,&quot;Prefix&quot;:null,&quot;Value&quot;:169.55,&quot;Value_F&quot;:&quot;169,55%&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;margeliquida&quot;,&quot;Suffix&quot;:&quot;%&quot;,&quot;Prefix&quot;:null,&quot;Value&quot;:150.31,&quot;Value_F&quot;:&quot;150,31%&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;roe&quot;,&quot;Suffix&quot;:&quot;%&quot;,&quot;Prefix&quot;:null,&quot;Value&quot;:18.76,&quot;Value_F&quot;:&quot;18,76%&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;roa&quot;,&quot;Suffix&quot;:&quot;%&quot;,&quot;Prefix&quot;:null,&quot;Value&quot;:14.50,&quot;Value_F&quot;:&quot;14,50%&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;roic&quot;,&quot;Suffix&quot;:&quot;%&quot;,&quot;Prefix&quot;:null,&quot;Value&quot;:16.89,&quot;Value_F&quot;:&quot;16,89%&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;giro_ativos&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:0.10,&quot;Value_F&quot;:&quot;0,10&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;peg_Ratio&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:0.09379436,&quot;Value_F&quot;:&quot;0,09&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;receitas_cagr5&quot;,&quot;Suffix&quot;:&quot;%&quot;,&quot;Prefix&quot;:null,&quot;Value&quot;:3.78,&quot;Value_F&quot;:&quot;3,78%&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;lucros_cagr5&quot;,&quot;Suffix&quot;:&quot;%&quot;,&quot;Prefix&quot;:null,&quot;Value&quot;:5.78,&quot;Value_F&quot;:&quot;5,78%&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false}]" />
+<input id="indicator-current" name="indicator-current" type="hidden" value="[{&quot;Key&quot;:&quot;p_l&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:7.1890,&quot;Value_F&quot;:&quot;7,19&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;p_vp&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:1.3486,&quot;Value_F&quot;:&quot;1,35&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;p_ebita&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:6.0448,&quot;Value_F&quot;:&quot;6,04&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;p_ebit&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:6.3733,&quot;Value_F&quot;:&quot;6,37&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;p_sr&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:10.8061,&quot;Value_F&quot;:&quot;10,81&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;p_ativo&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:1.0422,&quot;Value_F&quot;:&quot;1,04&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;p_capitlgiro&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:29.7700,&quot;Value_F&quot;:&quot;29,77&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;p_ativocirculante&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:-1.1505,&quot;Value_F&quot;:&quot;-1,15&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;ev_ebitda&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:6.3930,&quot;Value_F&quot;:&quot;6,39&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;ev_ebit&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:6.7405,&quot;Value_F&quot;:&quot;6,74&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;lpa&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:1.3298,&quot;Value_F&quot;:&quot;1,33&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;vpa&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:7.0886,&quot;Value_F&quot;:&quot;7,09&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;dy&quot;,&quot;Suffix&quot;:&quot;%&quot;,&quot;Prefix&quot;:null,&quot;Value&quot;:4.1231,&quot;Value_F&quot;:&quot;4,12%&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;dividaliquida_patrimonioliquido&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:0.07,&quot;Value_F&quot;:&quot;0,07&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:true},{&quot;Key&quot;:&quot;dividaliquida_ebitda&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:0.30,&quot;Value_F&quot;:&quot;0,30&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:true},{&quot;Key&quot;:&quot;dividaliquida_ebit&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:0.32,&quot;Value_F&quot;:&quot;0,32&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:true},{&quot;Key&quot;:&quot;patrimonio_ativo&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:0.77,&quot;Value_F&quot;:&quot;0,77&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;passivo_ativo&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:0.18,&quot;Value_F&quot;:&quot;0,18&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;liquidezcorrente&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:1.59,&quot;Value_F&quot;:&quot;1,59&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;margembruta&quot;,&quot;Suffix&quot;:&quot;%&quot;,&quot;Prefix&quot;:null,&quot;Value&quot;:34.52,&quot;Value_F&quot;:&quot;34,52%&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;margemebitda&quot;,&quot;Suffix&quot;:&quot;%&quot;,&quot;Prefix&quot;:null,&quot;Value&quot;:178.77,&quot;Value_F&quot;:&quot;178,77%&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;margemebit&quot;,&quot;Suffix&quot;:&quot;%&quot;,&quot;Prefix&quot;:null,&quot;Value&quot;:169.55,&quot;Value_F&quot;:&quot;169,55%&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;margeliquida&quot;,&quot;Suffix&quot;:&quot;%&quot;,&quot;Prefix&quot;:null,&quot;Value&quot;:150.31,&quot;Value_F&quot;:&quot;150,31%&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;roe&quot;,&quot;Suffix&quot;:&quot;%&quot;,&quot;Prefix&quot;:null,&quot;Value&quot;:18.76,&quot;Value_F&quot;:&quot;18,76%&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;roa&quot;,&quot;Suffix&quot;:&quot;%&quot;,&quot;Prefix&quot;:null,&quot;Value&quot;:14.50,&quot;Value_F&quot;:&quot;14,50%&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;roic&quot;,&quot;Suffix&quot;:&quot;%&quot;,&quot;Prefix&quot;:null,&quot;Value&quot;:16.89,&quot;Value_F&quot;:&quot;16,89%&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;giro_ativos&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:0.10,&quot;Value_F&quot;:&quot;0,10&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;peg_Ratio&quot;,&quot;Suffix&quot;:null,&quot;Prefix&quot;:null,&quot;Value&quot;:0.10041143,&quot;Value_F&quot;:&quot;0,10&quot;,&quot;Desc&quot;:false,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;receitas_cagr5&quot;,&quot;Suffix&quot;:&quot;%&quot;,&quot;Prefix&quot;:null,&quot;Value&quot;:3.78,&quot;Value_F&quot;:&quot;3,78%&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false},{&quot;Key&quot;:&quot;lucros_cagr5&quot;,&quot;Suffix&quot;:&quot;%&quot;,&quot;Prefix&quot;:null,&quot;Value&quot;:5.78,&quot;Value_F&quot;:&quot;5,78%&quot;,&quot;Desc&quot;:true,&quot;NegativeFirst&quot;:false}]" />
 <div class="d-flex flex-wrap justify-center align-items-center mb-3">
 <div class="btn-toggle btn-avg-type d-flex justify-center  mr-md-3 mb-2 mb-md-0">
 <button type="button" title="Veja a média por setor" data-value="sector" data-id="4" data-title="Média setor" class="pl-1 pr-1 btn-small  btn btn-main btn-flat active">
@@ -3084,7 +3081,7 @@ D.Y
 <i data-position="top" class="material-icons help-icon tooltipped tooltipped-html">
 help_outline
 <span class="template" style="display:none">
- <div class="tooltipped-html-template fw-100">
+<div class="tooltipped-html-template fw-100">
 Indicador utilizado para relacionar os proventos pagos por uma companhia e o pre&#xE7;o atual de suas a&#xE7;&#xF5;es.
 <small class="mt-2 fs-2 d-block">FÓRMULA:</small>
 <small class="text-main-secondary-light fw-600">
@@ -3103,7 +3100,7 @@ Dividendos pagos no per&#xED;odo / Pre&#xE7;o a&#xE7;&#xE3;o
 <div class="ativos">
 <div class="ghost"></div>
 </div>
-</div>
+ </div>
 </div>
 <div class="w-50 w-sm-33 w-md-25 w-lg-16_6 mb-2 mt-2 item pt-3 pb-3">
 <div data-key="p_l" title="D&#xE1; uma ideia do quanto o mercado est&#xE1; disposto a pagar pelos lucros da empresa.">
@@ -3128,7 +3125,7 @@ Pre&#xE7;o atual / Lucro por a&#xE7;&#xE3;o (LPA)
 </i>
 </div>
 <div class="media-mercado">
- <div class="d-flex align-items-center justify-between pr-2">
+<div class="d-flex align-items-center justify-between pr-2">
 <span class="title m-0 mr-1 uppercase">-</span>
 <strong class="value d-block lh-4 fs-3_5 fw-600">-</strong>
 </div>
@@ -3143,7 +3140,7 @@ Pre&#xE7;o atual / Lucro por a&#xE7;&#xE3;o (LPA)
 <div class="d-flex align-items-center  mb-1">
 <h3 class="title m-0 mr-1 uppercase" style="font-weight:700">
 PEG Ratio
-</h3>
+ </h3>
 <i data-position="top" class="material-icons help-icon tooltipped tooltipped-html">
 help_outline
 <span class="template" style="display:none">
@@ -3182,7 +3179,7 @@ help_outline
 <span class="template" style="display:none">
 <div class="tooltipped-html-template fw-100">
 Facilita a an&#xE1;lise e compara&#xE7;&#xE3;o da rela&#xE7;&#xE3;o do pre&#xE7;o de negocia&#xE7;&#xE3;o de um ativo com seu VPA.
-<small class="mt-2 fs-2 d-block">FÓRMULA:</small>
+ <small class="mt-2 fs-2 d-block">FÓRMULA:</small>
 <small class="text-main-secondary-light fw-600">
 Pre&#xE7;o atual / Valor patrimonial por a&#xE7;&#xE3;o (VPA)
 </small>
@@ -3208,7 +3205,7 @@ Pre&#xE7;o atual / Valor patrimonial por a&#xE7;&#xE3;o (VPA)
 <h3 class="title m-0 uppercase" style=" font-weight:700">
 EV/EBITDA
 </h3>
- <span class="material-icons">format_quote</span>
+<span class="material-icons">format_quote</span>
 </a>
 <i data-position="top" class="material-icons help-icon tooltipped tooltipped-html">
 help_outline
@@ -3224,7 +3221,7 @@ EV / EBITDA
 </i>
 </div>
 <div class="media-mercado">
-<div class="d-flex align-items-center justify-between pr-2">
+ <div class="d-flex align-items-center justify-between pr-2">
 <span class="title m-0 mr-1 uppercase">-</span>
 <strong class="value d-block lh-4 fs-3_5 fw-600">-</strong>
 </div>
@@ -3289,7 +3286,7 @@ Pre&#xE7;o atual / EBITDA
 </span>
 </i>
 </div>
- <div class="media-mercado">
+<div class="media-mercado">
 <div class="d-flex align-items-center justify-between pr-2">
 <span class="title m-0 mr-1 uppercase">-</span>
 <strong class="value d-block lh-4 fs-3_5 fw-600">-</strong>
@@ -3304,7 +3301,7 @@ Pre&#xE7;o atual / EBITDA
 <div data-key="p_ebit" title="Indica qual &#xE9; o pre&#xE7;o da a&#xE7;&#xE3;o em rela&#xE7;&#xE3;o ao seu resultado EBIT. O EBIT pode ser considerado uma aproxima&#xE7;&#xE3;o do lucro operacional da companhia.">
 <div class="d-flex align-items-center  mb-1">
 <a href="https://statusinvest.com.br/termos/p/p-ebit" title="Artigo detalhando P/EBIT" target="_blank" rel="noopener" class="term-indicator-link d-flex align-items-center">
-<h3 class="title m-0 uppercase" style=" font-weight:700">
+ <h3 class="title m-0 uppercase" style=" font-weight:700">
 P/EBIT
 </h3>
 <span class="material-icons">format_quote</span>
@@ -3374,7 +3371,7 @@ Patrim&#xF4;nio l&#xED;quido / N&#xBA; de a&#xE7;&#xF5;es
 P/Ativo
 </h3>
 <span class="material-icons">format_quote</span>
- </a>
+</a>
 <i data-position="top" class="material-icons help-icon tooltipped tooltipped-html">
 help_outline
 <span class="template" style="display:none">
@@ -3415,7 +3412,7 @@ help_outline
 Indicar se a empresa &#xE9; ou n&#xE3;o lucrativa. Se este n&#xFA;mero estiver negativo, a empresa est&#xE1; com margens baixas, acumulando preju&#xED;zos.
 <small class="mt-2 fs-2 d-block">FÓRMULA:</small>
 <small class="text-main-secondary-light fw-600">
- Lucro l&#xED;quido / N&#xBA; de a&#xE7;&#xF5;es
+Lucro l&#xED;quido / N&#xBA; de a&#xE7;&#xF5;es
 </small>
 </div>
 </span>
@@ -3434,7 +3431,7 @@ Indicar se a empresa &#xE9; ou n&#xE3;o lucrativa. Se este n&#xFA;mero estiver n
 </div>
 <div class="w-50 w-sm-33 w-md-25 w-lg-16_6 mb-2 mt-2 item pt-3 pb-3">
 <div data-key="p_sr" title="Valor de mercado da empresa dividido pela receita operacional l&#xED;quida ou pre&#xE7;o da a&#xE7;&#xE3;o dividido pela receita l&#xED;quida por a&#xE7;&#xE3;o">
-<div class="d-flex align-items-center  mb-1">
+<div class="d-flex align-items-center  mb-1"> 
 <a href="https://statusinvest.com.br/termos/p/psr" title="Artigo detalhando P/SR" target="_blank" rel="noopener" class="term-indicator-link d-flex align-items-center">
 <h3 class="title m-0 uppercase" style=" font-weight:700">
 P/SR
@@ -3459,7 +3456,7 @@ Pre&#xE7;o atual / Receita l&#xED;quida por a&#xE7;&#xE3;o
 <span class="title m-0 mr-1 uppercase">-</span>
 <strong class="value d-block lh-4 fs-3_5 fw-600">-</strong>
 </div>
- </div>
+</div>
 <div class="ativos">
 <div class="ghost"></div>
 </div>
@@ -3474,7 +3471,7 @@ P/Cap. Giro
 </h3>
 <span class="material-icons">format_quote</span>
 </a>
-<i data-position="top" class="material-icons help-icon tooltipped tooltipped-html">
+ <i data-position="top" class="material-icons help-icon tooltipped tooltipped-html">
 help_outline
 <span class="template" style="display:none">
 <div class="tooltipped-html-template fw-100">
@@ -3514,7 +3511,7 @@ help_outline
 &#xC9; a diferen&#xE7;a entre o ativo circulante e o passivo que constam do balan&#xE7;o patrimonial de uma empresa.
 <small class="mt-2 fs-2 d-block">FÓRMULA:</small>
 <small class="text-main-secondary-light fw-600">
-Pre&#xE7;o atual / Ativos Circulantes L&#xED;quidos por a&#xE7;&#xE3;o
+ Pre&#xE7;o atual / Ativos Circulantes L&#xED;quidos por a&#xE7;&#xE3;o
 </small>
 </div>
 </span>
@@ -3541,7 +3538,7 @@ Pre&#xE7;o atual / Ativos Circulantes L&#xED;quidos por a&#xE7;&#xE3;o
 <div class="d-flex align-items-center  mb-1">
 <a href="https://statusinvest.com.br/termos/d/divida-liquida-patrimonio-liquido" title="Artigo detalhando D&#xED;v. l&#xED;quida/PL" target="_blank" rel="noopener" class="term-indicator-link d-flex align-items-center">
 <h3 class="title m-0 uppercase" style=" font-weight:700">
- D&#xED;v. l&#xED;quida/PL
+D&#xED;v. l&#xED;quida/PL
 </h3>
 <span class="material-icons">format_quote</span>
 </a>
@@ -3623,7 +3620,7 @@ D&#xED;vida l&#xED;quida / EBIT
 </div>
 </span>
 </i>
- </div>
+</div>
 <div class="media-mercado">
 <div class="d-flex align-items-center justify-between pr-2">
 <span class="title m-0 mr-1 uppercase">-</span>
@@ -3649,7 +3646,7 @@ help_outline
 <span class="template" style="display:none">
 <div class="tooltipped-html-template fw-100">
 O Patrim&#xF4;nio de uma empresa &#xE9; o resultado da subtra&#xE7;&#xE3;o dos ativos com os passivos. Este indicador &#xE9; para mostrar a rela&#xE7;&#xE3;o dos ativos no patrim&#xF4;nio da empresa.
- <small class="mt-2 fs-2 d-block">FÓRMULA:</small>
+<small class="mt-2 fs-2 d-block">FÓRMULA:</small>
 <small class="text-main-secondary-light fw-600">
 Patrim&#xF4;nio l&#xED;quido / Ativos
 </small>
@@ -3673,7 +3670,7 @@ Patrim&#xF4;nio l&#xED;quido / Ativos
 <div class="d-flex align-items-center  mb-1">
 <a href="https://statusinvest.com.br/termos/p/passivos-ativos" title="Artigo detalhando Passivos/Ativos" target="_blank" rel="noopener" class="term-indicator-link d-flex align-items-center">
 <h3 class="title m-0 uppercase" style=" font-weight:700">
-Passivos/Ativos
+ Passivos/Ativos
 </h3>
 <span class="material-icons">format_quote</span>
 </a>
@@ -3716,7 +3713,7 @@ help_outline
 <div class="tooltipped-html-template fw-100">
 Indica a capacidade de pagamento da empresa no curto prazo.
 <small class="mt-2 fs-2 d-block">FÓRMULA:</small>
-<small class="text-main-secondary-light fw-600">
+ <small class="text-main-secondary-light fw-600">
 Ativo circulante / Passivo circulante
 </small>
 </div>
@@ -3763,7 +3760,7 @@ Lucro bruto / Receita l&#xED;quida
 </div>
 <div class="media-mercado">
 <div class="d-flex align-items-center justify-between pr-2">
-<span class="title m-0 mr-1 uppercase">-</span>
+ <span class="title m-0 mr-1 uppercase">-</span>
 <strong class="value d-block lh-4 fs-3_5 fw-600">-</strong>
 </div>
 </div>
@@ -3806,7 +3803,7 @@ EBITDA / Receita l&#xED;quida
 </div>
 </div>
 <div class="w-50 w-sm-33 w-md-25 w-lg-50  mb-2 mt-2 pt-3 pb-3 item">
-<div data-key="margemebit" title="&#xDA;til para comparar a lucratividade operacional de empresas do mesmo segmento, al&#xE9;m de contribuir para avaliar o crescimento da efici&#xEA;ncia produtiva de um neg&#xF3;cio ao longo do tempo.">
+ <div data-key="margemebit" title="&#xDA;til para comparar a lucratividade operacional de empresas do mesmo segmento, al&#xE9;m de contribuir para avaliar o crescimento da efici&#xEA;ncia produtiva de um neg&#xF3;cio ao longo do tempo.">
 <div class="d-flex align-items-center mb-1">
 <a href="https://statusinvest.com.br/termos/m/margem-ebit" title="Artigo detalhando M. EBIT" target="_blank" rel="noopener" class="term-indicator-link d-flex align-items-center">
 <h3 class="title m-0 uppercase" style=" font-weight:700">
@@ -3927,7 +3924,7 @@ O retorno sobre os ativos ou Return on Assets, &#xE9; um indicador de rentabilid
 <small class="text-main-secondary-light fw-600">
 Lucro l&#xED;quido / Ativo total
 </small>
-</div>
+ </div>
 </span>
 </i>
 </div>
@@ -4032,7 +4029,7 @@ O CAGR (Compound Annual Growth Rate), ou taxa de crescimento anual composta, &#x
 <div class="d-flex align-items-center justify-between pr-2">
 <span class="title m-0 mr-1 uppercase">-</span>
 <strong class="value d-block lh-4 fs-3_5 fw-600">-</strong>
- </div>
+</div>
 </div>
 <div class="ativos">
 <div class="ghost"></div>
@@ -4112,7 +4109,7 @@ A taxa de aluguel é ao ano
 </div>
 <small class="d-block fs-2 fs-md-3 lh-2 text-center">
 DATA BASE <span class="d-xs-none d-sm-inline-block">- </span>
-<strong class="fw-900 d-xs-block d-sm-inline-block">29/12/2021</strong>
+<strong class="fw-900 d-xs-block d-sm-inline-block">12/01/2022</strong>
 </small>
 </div>
 <div class="top-info d-flex justify-between align-items-center flex-wrap">
@@ -4120,17 +4117,17 @@ DATA BASE <span class="d-xs-none d-sm-inline-block">- </span>
 <div class="d-md-inline-block text-align-center">
 <div class="d-inline-block text-align-left" title="">
 <h3 class="title m-0">TOMADOR <small>(média)</small></h3>
-<strong class="m-md-0 mb-md-1 value mt-0 ">0,05</strong>
+<strong class="m-md-0 mb-md-1 value mt-0 ">0,06</strong>
 <span class="icon fs-3">%</span>
 </div>
-<div class="d-flex justify-center justify-md-between w-lg-100">
+ <div class="d-flex justify-center justify-md-between w-lg-100">
 <span title="" class="sub-value">
 <span class="d-block fs-2 lh-1">MIN.</span>
-<b class="v-align-middle">0,02<span class="fs-2 fw-100">%</span></b>
+<b class="v-align-middle">0,04<span class="fs-2 fw-100">%</span></b>
 </span>
 <span title="" class="sub-value pl-2 pl-sm-3">
 <span class="d-block fs-2 lh-1">MAX.</span>
-<b class="v-align-middle">0,15<span class="fs-2 fw-100">%</span></b>
+<b class="v-align-middle">0,50<span class="fs-2 fw-100">%</span></b>
 </span>
 </div>
 </div>
@@ -4139,17 +4136,17 @@ DATA BASE <span class="d-xs-none d-sm-inline-block">- </span>
 <div class="d-md-inline-block text-align-center">
 <div class="d-inline-block text-align-left" title="">
 <h3 class="title m-0">DOADOR <small>(média)</small></h3>
-<strong class="m-md-0 mb-md-1 value mt-0 ">0,05</strong>
+<strong class="m-md-0 mb-md-1 value mt-0 ">0,06</strong>
 <span class="icon fs-3">%</span>
 </div>
 <div class="d-flex justify-center justify-md-between w-lg-100">
 <span title="" class="sub-value">
 <span class="d-block fs-2 lh-1">MIN.</span>
-<b class="v-align-middle">0,02<span class="fs-2 fw-100">%</span></b>
+<b class="v-align-middle">0,04<span class="fs-2 fw-100">%</span></b>
 </span>
 <span title="" class="sub-value pl-2 pl-sm-3">
- <span class="d-block fs-2 lh-1">MAX.</span>
-<b class="v-align-middle">0,15<span class="fs-2 fw-100">%</span></b>
+<span class="d-block fs-2 lh-1">MAX.</span>
+<b class="v-align-middle">0,50<span class="fs-2 fw-100">%</span></b>
 </span>
 </div>
 </div>
@@ -4158,14 +4155,14 @@ DATA BASE <span class="d-xs-none d-sm-inline-block">- </span>
 <div class="d-md-inline-block text-align-center">
 <div class="d-inline-block text-align-left" title="">
 <h3 class="title m-0">Nº DE AÇÕES ALUGADAS (dia)</h3>
-<strong class="m-md-0 mb-md-1 value mt-0 fs-3_5 lh-4">12.905.742</strong>
+<strong class="m-md-0 mb-md-1 value mt-0 fs-3_5 lh-4">5.756.439</strong>
 </div>
 <div class="d-block text-center w-lg-100">
 <span title="" class="sub-value d-inline-block d-xs-block m-auto text-left">
 <span class="d-block fs-2 lh-1">
 TOTAL AÇÕES ALUGADAS
 </span>
-<b class="v-align-middle fs-3_5 lh-4">100.172.167</b>
+<b class="v-align-middle fs-3_5 lh-4">94.188.275</b>
 </span>
 </div>
 </div>
@@ -4175,15 +4172,15 @@ TOTAL AÇÕES ALUGADAS
 <div class="d-inline-block">
 <h3 class="title m-0">VOLUME (dia)</h3>
 <span class="icon m-md-0 mb-md-1 fs-3">R$</span>
-<strong class="m-md-0 mb-md-1 value mt-0 fs-3_5 lh-4">116.538.850</strong>
+<strong class="m-md-0 mb-md-1 value mt-0 fs-3_5 lh-4">53.534.883</strong>
 </div>
 <div class="d-block text-center w-lg-100">
 <span title="" class="sub-value d-inline-block d-xs-block m-auto text-left">
 <span class="d-block fs-2 lh-1">
 VOLUME TOTAL EM ABERTO
-</span>
+ </span>
 <span class="icon fs-3">R$</span>
-<b class="v-align-middle fs-3_5 lh-4">915.701.986</b>
+<b class="v-align-middle fs-3_5 lh-4">855.815.523</b>
 </span>
 </div>
 </div>
@@ -4192,7 +4189,7 @@ VOLUME TOTAL EM ABERTO
 <div class="text-center">
 <div class="d-inline-block">
 <h3 class="title m-0">Nº DE CONTRATOS</h3>
-<strong class="value fs-4 mb-0 mb-md-1 mt-0 mt-md-1">142</strong>
+<strong class="value fs-4 mb-0 mb-md-1 mt-0 mt-md-1">137</strong>
 </div>
 </div>
 </div>
@@ -4304,7 +4301,7 @@ help_outline
 <div class="tooltipped-html-template fw-100">
 <small class="mt-2 fs-2 d-block">Observação:</small>
 <small class="text-main-secondary-light">
-<span class="fs-2 fw-900"> Esse indicador foi calculado com base nos dividendos recebidos entre 01/01/2021 e 01/01/2021</span>
+<span class="fs-2 fw-900"> Esse indicador foi calculado com base nos dividendos recebidos entre 01/01/2021 e 13/01/2021</span>
 </small>
 </div>
 </span>
@@ -4325,9 +4322,9 @@ help_outline
 help_outline
 <span class="template" style="display:none">
 <div class="tooltipped-html-template fw-100">
-<small class="mt-2 fs-2 d-block">Observação:</small>
+ <small class="mt-2 fs-2 d-block">Observação:</small>
 <small class="text-main-secondary-light">
-<span class="fs-2 fw-900">Esse indicador foi calculado com base nos dividendos recebidos entre 01/01/2022 e 01/01/2022</span>
+<span class="fs-2 fw-900">Esse indicador foi calculado com base nos dividendos recebidos entre 01/01/2022 e 13/01/2022</span>
 </small>
 </div>
 </span>
@@ -4354,12 +4351,12 @@ help_outline
 <h3 class="title m-0 ">Provisionado</h3>
 &nbsp;
 <i data-position="top" class="material-icons help-icon tooltipped tooltipped-html text-white">
- help_outline
+help_outline
 <span class="template" style="display:none">
 <div class="tooltipped-html-template fw-100">
 <small class="mt-2 fs-2 d-block">Observação:</small>
 <small class="text-main-secondary-light">
-<span class="fs-2 fw-900">Esse indicador foi calculado com base nos dividendos declarados, mas que possuem a data de pagamento superior a 01/01/2022, ou ainda n&#xE3;o possuem uma data de pagamento definida.</span>
+<span class="fs-2 fw-900">Esse indicador foi calculado com base nos dividendos declarados, mas que possuem a data de pagamento superior a 13/01/2022, ou ainda n&#xE3;o possuem uma data de pagamento definida.</span>
 </small>
 </div>
 </span>
@@ -4391,7 +4388,7 @@ DATA COM
 <th title="Data de pagamento do provento">Pagamento</th>
 <th title="Valor do provento">Valor</th>
 </tr>
-</thead>
+ </thead>
 <tbody>
 <tr class="">
 <td class="uppercase" title="Dividendo">Dividendo</td>
@@ -4421,7 +4418,6 @@ DATA COM
 <td class="uppercase" title="Juros Sobre Capital Pr&#xF3;prio">JCP</td>
 <td>23/11/2021</td>
 <td>29/04/2022</td>
-
 <td>0,15472000</td>
 </tr>
 <tr class="">
@@ -4458,7 +4454,7 @@ DATA COM
 <td class="uppercase" title="Juros Sobre Capital Pr&#xF3;prio">JCP</td>
 <td>25/03/2021</td>
 <td>26/08/2021</td>
-<td>0,01908000</td>
+ <td>0,01908000</td>
 </tr>
 <tr class="">
 <td class="uppercase" title="Juros Sobre Capital Pr&#xF3;prio">JCP</td>
@@ -4535,7 +4531,7 @@ help_outline
 </div>
 </div>
 <hr class="border-grey-lighten-1 border-top-1 mt-2 mb-2 " />
- <div class="d-flex justify-between align-items-center flex-wrap flex-md-nowrap">
+<div class="d-flex justify-between align-items-center flex-wrap flex-md-nowrap">
 <div class="w-xs-40 w-sm-33 w-md-auto">
 <small class="d-block fs-2 uppercase">Data <span class="d-none d-xs-inline-block">do</span> anúncio</small>
 <strong class="d-block lh-3 fs-3 fw-700">24/05/2018</strong>
@@ -4618,7 +4614,7 @@ No processo do split/inplit, o número total de ações aumenta/diminui mas o va
 <div>
 <span class="bg-secondary-color-gd-h d-inline-block fw-900 lh-4 pl-1 pr-1 rounded white-text">
 <span class="d-flex align-items-center">
-<span>BETA</span>&nbsp;
+ <span>BETA</span>&nbsp;
 <i data-position="top" class="material-icons help-icon tooltipped tooltipped-html fs-3 text-white">
 help_outline
 <span class="template" style="display:none">
@@ -4679,7 +4675,7 @@ PAYOUT DA ITAUSA
 <li title="Payout do período máximo da base" class="tab col s3">
 <a role="button" href="#payout-2" data-type="2">Max.</a>
 </li>
-</ul>
+ </ul>
 <div class="d-none d-md-block d-lg-none">
 <ul id="dropdown-payout" class="dropdown-content">
 <li title="Payout dos últimos 5 anos">
@@ -4706,15 +4702,16 @@ PAYOUT DA ITAUSA
 </div>
 </div>
 </div>
-<div id="company-section" class="pb-7 pt-7 white">
-<input id="company-relateds" name="company-relateds" type="hidden" value="[{&quot;CompanyId&quot;:785,&quot;CompanyName&quot;:&quot;BR ADVISORY PARTNERS PARTICIPA&#xC7;&#xD5;ES S.A.&quot;,&quot;CompanyNameClean&quot;:&quot;br-partners&quot;,&quot;DefaultAssetCode&quot;:&quot;BRBI11&quot;},{&quot;CompanyId&quot;:770,&quot;CompanyName&quot;:&quot;BANCO MODAL S.A&quot;,&quot;CompanyNameClean&quot;:&quot;modalmais&quot;,&quot;DefaultAssetCode&quot;:&quot;MODL11&quot;},{&quot;CompanyId&quot;:553,&quot;CompanyName&quot;:&quot;BANCO BMG S.A.&quot;,&quot;CompanyNameClean&quot;:&quot;banco-bmg&quot;,&quot;DefaultAssetCode&quot;:&quot;BMGB4&quot;},{&quot;CompanyId&quot;:555,&quot;CompanyName&quot;:&quot;BRB BCO DE BRASILIA S.A.&quot;,&quot;CompanyNameClean&quot;:&quot;brb-banco&quot;,&quot;DefaultAssetCode&quot;:&quot;BSLI4&quot;},{&quot;CompanyId&quot;:330,&quot;CompanyName&quot;:&quot;BRADESCO&quot;,&quot;CompanyNameClean&quot;:&quot;bradesco&quot;,&quot;DefaultAssetCode&quot;:&quot;BBDC4&quot;},{&quot;CompanyId&quot;:338,&quot;CompanyName&quot;:&quot;BANCO MERCANTIL DO BRASIL&quot;,&quot;CompanyNameClean&quot;:&quot;banco-mercantil-brasil&quot;,&quot;DefaultAssetCode&quot;:&quot;BMEB4&quot;},{&quot;CompanyId&quot;:324,&quot;CompanyName&quot;:&quot;ALFA HOLDINGS&quot;,&quot;CompanyNameClean&quot;:&quot;alfa-holding&quot;,&quot;DefaultAssetCode&quot;:&quot;RPAD6&quot;},{&quot;CompanyId&quot;:327,&quot;CompanyName&quot;:&quot;BANCO ABC BRASIL&quot;,&quot;CompanyNameClean&quot;:&quot;banco-abc-brasil&quot;,&quot;DefaultAssetCode&quot;:&quot;ABCB4&quot;},{&quot;CompanyId&quot;:340,&quot;CompanyName&quot;:&quot;BANCO PAN&quot;,&quot;CompanyNameClean&quot;:&quot;banco-pan&quot;,&quot;DefaultAssetCode&quot;:&quot;BPAN4&quot;},{&quot;CompanyId&quot;:342,&quot;CompanyName&quot;:&quot;BANCO PINE&quot;,&quot;CompanyNameClean&quot;:&quot;pine&quot;,&quot;DefaultAssetCode&quot;:&quot;PINE4&quot;}]" />
+<div id="company-section">
+<div class="pb-7 pt-7 white">
+<input id="company-relateds" name="company-relateds" type="hidden" value="[{&quot;CompanyId&quot;:327,&quot;CompanyName&quot;:&quot;BANCO ABC BRASIL&quot;,&quot;CompanyNameClean&quot;:&quot;banco-abc-brasil&quot;,&quot;DefaultAssetCode&quot;:&quot;ABCB4&quot;},{&quot;CompanyId&quot;:342,&quot;CompanyName&quot;:&quot;BANCO PINE&quot;,&quot;CompanyNameClean&quot;:&quot;pine&quot;,&quot;DefaultAssetCode&quot;:&quot;PINE4&quot;},{&quot;CompanyId&quot;:338,&quot;CompanyName&quot;:&quot;BANCO MERCANTIL DO BRASIL&quot;,&quot;CompanyNameClean&quot;:&quot;banco-mercantil-brasil&quot;,&quot;DefaultAssetCode&quot;:&quot;BMEB4&quot;},{&quot;CompanyId&quot;:785,&quot;CompanyName&quot;:&quot;BR ADVISORY PARTNERS PARTICIPA&#xC7;&#xD5;ES S.A.&quot;,&quot;CompanyNameClean&quot;:&quot;br-partners&quot;,&quot;DefaultAssetCode&quot;:&quot;BRBI11&quot;},{&quot;CompanyId&quot;:337,&quot;CompanyName&quot;:&quot;BANCO MERCANTIL DE INVESTIMENTOS&quot;,&quot;CompanyNameClean&quot;:&quot;banco-mercantil-investimentos&quot;,&quot;DefaultAssetCode&quot;:&quot;BMIN4&quot;},{&quot;CompanyId&quot;:339,&quot;CompanyName&quot;:&quot;BANCO NORDESTE DO BRASIL&quot;,&quot;CompanyNameClean&quot;:&quot;banco-nordeste&quot;,&quot;DefaultAssetCode&quot;:&quot;BNBR3&quot;},{&quot;CompanyId&quot;:326,&quot;CompanyName&quot;:&quot;BANCO BANESTES&quot;,&quot;CompanyNameClean&quot;:&quot;banestes&quot;,&quot;DefaultAssetCode&quot;:&quot;BEES4&quot;},{&quot;CompanyId&quot;:555,&quot;CompanyName&quot;:&quot;BRB BCO DE BRASILIA S.A.&quot;,&quot;CompanyNameClean&quot;:&quot;brb-banco&quot;,&quot;DefaultAssetCode&quot;:&quot;BSLI4&quot;},{&quot;CompanyId&quot;:333,&quot;CompanyName&quot;:&quot;BANCO BANESE&quot;,&quot;CompanyNameClean&quot;:&quot;banese&quot;,&quot;DefaultAssetCode&quot;:&quot;BGIP4&quot;},{&quot;CompanyId&quot;:553,&quot;CompanyName&quot;:&quot;BANCO BMG S.A.&quot;,&quot;CompanyNameClean&quot;:&quot;banco-bmg&quot;,&quot;DefaultAssetCode&quot;:&quot;BMGB4&quot;}]" />
 <div class="container">
 <div class="d-block d-md-flex mb-5 img-lazy-group">
 <div title="Logotipo da empresa 'ITAUSA'" class="company-brand w-100 w-md-30 p-3 rounded mb-3 mb-md-0 bg-lazy" data-img="url(/img/company/cover/345.jpg?v=3)">
 </div>
 <div class="company-description w-100 w-md-70 ml-md-5">
 <h4 class="mb-4 mt-0 fs-4">
-<span class="d-block fw-600 text-main-green-dark">ITAUSA INVESTIMENTOS ITAU S.A.</span>
+ <span class="d-block fw-600 text-main-green-dark">ITAUSA INVESTIMENTOS ITAU S.A.</span>
 <small class="d-block fs-4 fw-100 lh-4">61.532.644/0001-15</small>
 </h4>
 <span title="Site da empresa">
@@ -4727,26 +4724,26 @@ PAYOUT DA ITAUSA
 <div class="mt-1">
 <b class="uppercase fs-2 ">Empresas relacionadas:</b>
 <div class="related d-flex flex-wrap">
+<a title="Ir at&#xE9; o detalhe da empresa &#x27;BANCO ABC BRASIL&#x27;" aria-label="Ir at&#xE9; o detalhe da empresa &#x27;BANCO ABC BRASIL&#x27;" href="/acoes/abcb4">
+<span class="bg-lazy waves-effect" data-img="url(/img/company/avatar/327.jpg?v=3)"></span>
+</a>
+<a title="Ir at&#xE9; o detalhe da empresa &#x27;BANCO PINE&#x27;" aria-label="Ir at&#xE9; o detalhe da empresa &#x27;BANCO PINE&#x27;" href="/acoes/pine4">
+<span class="bg-lazy waves-effect" data-img="url(/img/company/avatar/342.jpg?v=3)"></span>
+</a>
+<a title="Ir at&#xE9; o detalhe da empresa &#x27;BANCO MERCANTIL DO BRASIL&#x27;" aria-label="Ir at&#xE9; o detalhe da empresa &#x27;BANCO MERCANTIL DO BRASIL&#x27;" href="/acoes/bmeb4">
+<span class="bg-lazy waves-effect" data-img="url(/img/company/avatar/338.jpg?v=3)"></span>
+</a>
 <a title="Ir at&#xE9; o detalhe da empresa &#x27;BR ADVISORY PARTNERS PARTICIPA&#xC7;&#xD5;ES S.A.&#x27;" aria-label="Ir at&#xE9; o detalhe da empresa &#x27;BR ADVISORY PARTNERS PARTICIPA&#xC7;&#xD5;ES S.A.&#x27;" href="/acoes/brbi11">
 <span class="bg-lazy waves-effect" data-img="url(/img/company/avatar/785.jpg?v=3)"></span>
 </a>
-<a title="Ir at&#xE9; o detalhe da empresa &#x27;BANCO MODAL S.A&#x27;" aria-label="Ir at&#xE9; o detalhe da empresa &#x27;BANCO MODAL S.A&#x27;" href="/acoes/modl11">
-<span class="bg-lazy waves-effect" data-img="url(/img/company/avatar/770.jpg?v=3)"></span>
-</a>
-<a title="Ir at&#xE9; o detalhe da empresa &#x27;BANCO BMG S.A.&#x27;" aria-label="Ir at&#xE9; o detalhe da empresa &#x27;BANCO BMG S.A.&#x27;" href="/acoes/bmgb4">
-<span class="bg-lazy waves-effect" data-img="url(/img/company/avatar/553.jpg?v=3)"></span>
-</a>
-<a title="Ir at&#xE9; o detalhe da empresa &#x27;BRB BCO DE BRASILIA S.A.&#x27;" aria-label="Ir at&#xE9; o detalhe da empresa &#x27;BRB BCO DE BRASILIA S.A.&#x27;" href="/acoes/bsli4">
-<span class="bg-lazy waves-effect" data-img="url(/img/company/avatar/555.jpg?v=3)"></span>
-</a>
-<a title="Ir at&#xE9; o detalhe da empresa &#x27;BRADESCO&#x27;" aria-label="Ir at&#xE9; o detalhe da empresa &#x27;BRADESCO&#x27;" href="/acoes/bbdc4">
-<span class="bg-lazy waves-effect" data-img="url(/img/company/avatar/330.jpg?v=3)"></span>
+<a title="Ir at&#xE9; o detalhe da empresa &#x27;BANCO MERCANTIL DE INVESTIMENTOS&#x27;" aria-label="Ir at&#xE9; o detalhe da empresa &#x27;BANCO MERCANTIL DE INVESTIMENTOS&#x27;" href="/acoes/bmin4">
+<span class="bg-lazy waves-effect" data-img="url(/img/company/avatar/337.jpg?v=3)"></span>
 </a>
 </div>
 </div>
 </div>
 </div>
-<div class="top-info info-3 sm d-flex justify-between mb-5">
+<div class="top-info info-3 sm d-flex justify-between mb-3">
 <div class="info">
 <div>
 <div title="É uma referência aos bens e direitos que podem ser convertidos em dinheiro em curto prazo.">
@@ -4821,7 +4818,7 @@ PAYOUT DA ITAUSA
 <span class="material-icons">format_quote</span>
 </a>
 <b class="icon">R$</b>
-<strong class="value">79.986.708.169</strong>
+<strong class="value">85.034.626.204</strong>
 </div>
 </div>
 </div>
@@ -4833,7 +4830,7 @@ PAYOUT DA ITAUSA
 <span class="material-icons">format_quote</span>
 </a>
 <b class="icon">R$</b>
-<strong class="value">84.243.708.169</strong>
+<strong class="value">89.291.626.204</strong>
 </div>
 </div>
 </div>
@@ -4854,7 +4851,7 @@ Total de de ações da empresa. Ações em livre circulação, em posse dos cont
 </span>
 <span class="">
 <span class="d-block fw-100">PN</span>
- <span class="d-block fw-900 text-main-secondary-light">5.797.026.018</span>
+<span class="d-block fw-900 text-main-secondary-light">5.797.026.018</span>
 </span>
 </div>
 </div>
@@ -4879,7 +4876,7 @@ Total de de ações da empresa. Ações em livre circulação, em posse dos cont
 <div class="title m-0 legend-tooltip d-flex align-items-center">
 <a href="https://statusinvest.com.br/termos/f/free-float" title="Artigo detalhando Free Float" target="_blank" rel="noopener" class="term-indicator-link d-flex align-items-center mr-2">
 <h3 class="title m-0">Free Float</h3>
-<span class="material-icons">format_quote</span>
+ <span class="material-icons">format_quote</span>
 </a>
 <i data-position="top" class="material-icons help-icon tooltipped tooltipped-html ">
 help_outline
@@ -4888,7 +4885,7 @@ help_outline
 O Free Float (FF) é a porcentagem de ações da empresa que estão em livre circulação no mercado, sendo negociadas através da bolsa de valores.
 <div class="mt-3">
 <span class="d-block fw-100">Total de ações</span>
-<span class="d-block mt-1 lh-3 fw-600 fs-4 text-main-secondary-light">5.850.467.452</span>
+<span class="d-block mt-1 lh-3 fw-600 fs-4 text-main-secondary-light">5.850.559.658</span>
 </div>
 <div class="mt-3 mb-1">
 Total de cada <b>tipo</b> de papel:
@@ -4897,12 +4894,12 @@ Total de cada <b>tipo</b> de papel:
 <span class="ml-1 mr-4">
 <span class="d-block  fw-100">ON</span>
 <span class="d-block fw-900 text-main-secondary-light">36,73%</span>
-<span class="d-block fs-2 fw-600 text-main-secondary-light">1.114.419.005</span>
+<span class="d-block fs-2 fw-600 text-main-secondary-light">1.114.419.004</span>
 </span>
 <span class="">
 <span class="d-block fw-100">PN</span>
 <span class="d-block fw-900 text-main-secondary-light">81,70%</span>
-<span class="d-block fs-2 fw-600 text-main-secondary-light">4.736.048.447</span>
+<span class="d-block fs-2 fw-600 text-main-secondary-light">4.736.140.654</span>
 </span>
 </div>
 </div>
@@ -4922,7 +4919,7 @@ Total de cada <b>tipo</b> de papel:
 </div>
 </div>
 </div>
-<div class="card bg-main-gd-h white-text rounded ov-hidden ">
+<div class="card bg-main-gd-h white-text rounded ov-hidden pt-0 pb-0">
 <div class="top-info top-info-1 top-info-sm-2 top-info-md-n sm d-flex justify-between ">
 <div class="info pr-md-2">
 <div>
@@ -4964,20 +4961,33 @@ Total de cada <b>tipo</b> de papel:
 </div>
 </div>
 </div>
-<div class="company-description-text">
+</div>
+</div>
+</div>
+<div class="container">
+<div class="company-description-text mt-5">
 <div class="description-text desktop-visible">
 <div> <h2> Sobre a Itaúsa (ITSA4) </h2> <p> A Itaúsa S.A., mais conhecida como Itaúsa, é uma das maiores holdings do país, especialmente por sua atuação no controle de empresas da área financeira, com destaque para o Banco Itaú Unibanco. </p> <p> Criada nos anos 1960, a Itaúsa também é responsável pela gestão de empresas ligadas a outros segmentos como papel, celulose e tecnologia, por exemplo. Por anos o grupo ainda atuou como a principal frente da área de investimentos do Banco Itaú. </p> <p> Além disso, a Itaúsa é constituída como sociedade anônima de capital aberto, sendo suas ações negociadas na Bolsa do Brasil, a B3, sob os códigos ITSA3 e ITSA4. </p> <h2> Histórico da Itaúsa (ITSA4) </h2> <p> A Itaúsa foi criada no ano de 1966, sob o nome de Banco Itaú de Investimentos S.A. Seu grande objetivo inicial era reforçar a atuação da instituição financeira no setor de investimentos, área que era o carro chefe do grupo na época. </p> <p> Naquele mesmo ano, o negócio passou a negociar suas ações na Bolsa de Valores nacional. </p> <p> Ao longo da década de 1970, o Banco Itaú começou a ganhar força como banco múltiplo e, no processo, o grupo passou por diversas reformulações. </p> <p> Em 1974, o Banco Itaú de Investimentos passou a ser chamado Investimentos Itaú S.A. Foi neste período que a holding aumentou sua participação acionária em outros negócios, visando esta modalidade como principal campo de atuação da área. </p> <p> Assim, a instituição financeira diversificou seu campo de atuação para além da área financeira, especialmente por ter adquirido participação acionária em negócios de outros segmentos, como foi nos casos da Duratex e da NTS, entre outras. </p> <p> Em 1991 o negócio passou por outra alteração em sua razão social, passando a se chamar Itaúsa - Investimentos Itaú S.A. </p> <p> Em 2006, já como Itaúsa, a instituição financeira passou a integrar o segmento de listagem Nível 1 da BM&FBovespa e, na década seguinte, a empresa passou por uma série de reformulações. </p> <p> No processo, os investimentos na Itautec - principal negócio de tecnologia do grupo - foram encerrados, e em 2018 a Itaúsa vendeu a participação que possuía na Elekeiroz por cerca de R$160 milhões. </p> <h2> Atuação da Itaúsa (ITSA4) </h2> <p> Sendo a holding responsável pelo banco Itaú Unibanco, a Itaúsa está presente em todas as regiões do Brasil, além de atuar em mais de 20 países espalhados pelo globo. A instituição financeira também trabalha no campo digital. </p> <p> Além de seu trabalho no setor financeiro, a Itaúsa também tem participação em empresas de outros segmentos, diversificando o seu campo de atuação. </p> <h2> Produtos/Serviços da Itaúsa (ITSA4) </h2> <p> A Itaúsa trabalha especialmente com a administração de outros negócios, com destaque para sua atuação na área financeira, segmento em que é responsável pela gestão do maior banco privado do Brasil: o Itaú Unibanco. </p> <p> Além disso, a Itaúsa está presente em outros segmentos, e a holding tem participação em empresas como Alpargatas, NTS e Duratex, entre outras. O grupo ainda atua na área cultural, patrocinando eventos através de suas marcas. </p> <h2> Como investir em ações da Itaúsa (ITSA4) </h2> <p> Para adquirir ações da Itaúsa, o investidor deve acessar o site ou aplicativo de sua corretora e buscar pelo código ITSA4. </p></div>
 </div>
 <div class="text-center div-action">
-<button title="Ver tudo" type="button" class="btn btn-desktop-show btn-secondary waves-effect visible">
-ver menos
-</button>
-<button title="Ver tudo" type="button" class="btn btn-mobile-show btn-xsmall btn-secondary waves-effect">
+<button title="Ver tudo" type="button" class="btn btn-show btn-xsmall btn-secondary waves-effect">
 ver mais
 </button>
 </div>
 </div>
 </div>
+<div class="container mt-5">
+<div class=" banner-lazy-group-now advertising ad-846fdba2a96c4169a12391131693a3d8 mt-3 mb-4 pl-md-3 pr-md-3">
+<a href="https://lp.statusinvest.com.br/planos/" target="_blank" class="" rel="noopener noreferrer nofollow">
+<div class="image c22-1">anúncio</div>
+</a>
+</div>
+</div>
+<div class="pb-7 pt-7 mt-5 white ">
+<div class="container">
+<h2 title="ACIONISTAS  da  ITAUSA" class="fs-4 fs-xs-5 mt-0 mb-4 mb-sm-5 fw-900 text-main">
+ACIONISTAS DA ITAUSA
+</h2>
 <div id="distribuicaoCapital" class="card ov-hidden rounded  mt-5">
 <div class="d-md-flex justify-between align-items-center mb-2">
 <div class="d-flex justify-start align-items-center">
@@ -5221,13 +5231,17 @@ São + de <b class="fw-700">10</b> outras <b class="fw-700">formas de remuneraç
 </div>
 </div>
 </div>
-<div class=" banner-lazy-group-now advertising ad-846fdba2a96c4169a12391131693a3d8 mt-3 mb-4 pl-md-3 pr-md-3">
-<a href="https://lp.statusinvest.com.br/pv/modulo-forecast/?utm_source=statusinvest&amp;utm_medium=banner&amp;utm_campaign=RSI.FCD21.ns" target="_blank" class="bull" rel="noopener noreferrer nofollow">
-<div class="image c36-1">anúncio</div>
-</a>
-<a href="https://lp.statusinvest.com.br/planos/" style="display:none" target="_blank" class="forecast" rel="noopener noreferrer nofollow">
-<div class="image c36-1">anúncio</div>
-</a>
+</div>
+<div class="container">
+<div class="container p-0 m-0" style="overflow: hidden;">
+<div class="m-auto mt-5 mb-4 pl-0 pl-md-3 pr-0 pr-md-3">
+
+<ins class="adsbygoogle custom_ad_1 " style="height: 180px;max-height: 180px;width: 100%;display: block" data-ad-client="ca-pub-7508042204181668" data-ad-slot="3504144208" data-ad-format="auto" data-full-width-responsive="false"></ins>
+<script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+</div>
+</div>
 </div>
 <div id="contabil-section" class="pb-7 pt-7">
 <div class="container ">
@@ -5253,7 +5267,7 @@ Receita Líquida (mil)
 </label>
 </div>
 <div>
-<ul class="tabs transparent d-none d-md-block">
+ <ul class="tabs transparent d-none d-md-block">
 <li title="Receita Líquida dos últimos 5 anos" class="tab col s3">
 <a role="button" class="active" href="#revenue-0" data-type="0">5 anos</a>
 </li>
@@ -5262,7 +5276,7 @@ Receita Líquida (mil)
 </li>
 <li title="Receita Líquida desde a abertura de capital na bolsa de valores" class="tab col s3">
 <a role="button" href="#revenue-2" data-type="2">Max.</a>
-</li> 
+</li>
 </ul>
 <div class="d-block d-md-none">
 <ul id="dropdown-revenue" class="dropdown-content">
@@ -5307,7 +5321,7 @@ Resultado
 help_outline
 <span class="template" style="display:none">
 <div class="tooltipped-html-template fw-100">
- <span class="fw-900 text-main-secondary-light">YEAR TO DATE:</span> Com base no trimestre mais recente que há informação, somamos os valores até o 1T deste mesmo ano, depois, comparamos com os anos anteriores utilizando sempre o mesmo período
+<span class="fw-900 text-main-secondary-light">YEAR TO DATE:</span> Com base no trimestre mais recente que há informação, somamos os valores até o 1T deste mesmo ano, depois, comparamos com os anos anteriores utilizando sempre o mesmo período
 <br />
 <br />
 <span class="fw-900 text-main-secondary-light">ÚLT. 12M:</span> Com base no trimestre mais recente que há informação, calculamos 12 meses para trás, assim temos os valores da empresa referente ao ultimo ano antes deste ano contábil terminar
@@ -5350,7 +5364,7 @@ Estimativas do DRE
 <img width="54" height="12" alt="Logo da FACTSET" src="/img/partners/integration/factset-w.png" />
 </div>
 </div>
- </div>
+</div>
 </div>
 </span>
 </i>
@@ -5378,7 +5392,7 @@ Estimativas do DRE
 <div class="bg-main-green-dark input-field si-dropdown si-col-view multiple tooltipped ml-0 ml-md-2 btn btn-small pl-1
                              w-45 w-xs-45  w-md-auto" data-position="top" data-tooltip="Apresentar/esconder colunas do grid">
 <select id="grid-col-view" multiple data-formselect data-itens="DATA|AH|AV" class="">
-<option value="lastTwelveMonths" selected>ÚLT. 12M</option>
+ <option value="lastTwelveMonths" selected>ÚLT. 12M</option>
 <option title="Data de refer&#xEA;ncia" value="DATA" selected>DATA</option>
 <option title="An&#xE1;lise horizontal" value="AH" selected>AH</option>
 <option title="An&#xE1;lise vertical" value="AV">AV</option>
@@ -5497,7 +5511,7 @@ AV
 <tr class="  ">
 <td class="level-0  value      " title="">
 <span class="d-flex align-items-center justify-between">
-<a href="https://statusinvest.com.br/termos/r/receita-liquida" title="Ler artigo detalhado sobre este termo" target="_blank" rel="noopener" class="term-indicator-link d-flex align-items-center">
+ <a href="https://statusinvest.com.br/termos/r/receita-liquida" title="Ler artigo detalhado sobre este termo" target="_blank" rel="noopener" class="term-indicator-link d-flex align-items-center">
 <span class="">Receita L&#xED;quida - (R$)</span>
 <span class="material-icons">format_quote</span>
 </a>
@@ -5558,7 +5572,7 @@ AV
 </span>
 </td>
 </tr>
- <tr class="  ">
+<tr class="  ">
 <td class="level-0  value      " title="">
 <span class="d-flex align-items-center justify-between">
 <a href="https://statusinvest.com.br/termos/r/resultado-nao-operacional" title="Ler artigo detalhado sobre este termo" target="_blank" rel="noopener" class="term-indicator-link d-flex align-items-center">
@@ -5735,7 +5749,7 @@ help_outline
 Estimativa do fluxo de caixa
 <span class="d-block fs-2 lh-3">
 <span class="fw-100">MÓDULO</span> <strong class="fw-900">FORECAST</strong>
- </span>
+</span>
 </div>
 </div>
 <div class="d-flex align-items-center justify-end white-text mt-1">
@@ -5765,7 +5779,7 @@ Estimativa do fluxo de caixa
 <span class="fs-2">ANUAL</span>
 <i style="max-width:18px" class="material-icons right ml-1">arrow_drop_down</i>
 </a>
-</div>
+ </div>
 <div class="bg-main-green-dark input-field si-dropdown si-col-view multiple tooltipped ml-0 ml-md-2 btn btn-small pl-1
                              w-45 w-xs-45  w-md-auto" data-position="top" data-tooltip="Apresentar/esconder colunas do grid">
 <select id="grid-col-view" multiple data-formselect data-itens="DATA|AH" class="">
@@ -5905,7 +5919,7 @@ AH
 </td>
 </tr>
 <tr class="  ">
- <td class="level-1  value      " title="">
+<td class="level-1  value      " title="">
 <span class="d-flex align-items-center justify-between">
 <span>Caixa Gerado nas Opera&#xE7;&#xF5;es - (R$)</span>
 </span>
@@ -5966,7 +5980,7 @@ AH
 <span class="d-block">
 7.535,00 M
 </span>
- </td>
+</td>
 <td class="level-0 variation fs-2 fw-700 materialize-red-text text-darken-1 text-right   AH " title="">
 <span class="d-block">
 -29,78%
@@ -6027,7 +6041,7 @@ AH
 <span class="d-block">
 -
 </span>
- </td>
+</td>
 <td class="level-0 variation fs-2 fw-700 materialize-red-text text-darken-1 text-right   AH " title="">
 <span class="d-block">
 </span>
@@ -6063,7 +6077,7 @@ AH
 <span class="d-flex align-items-center justify-between">
 <span>Deprecia&#xE7;&#xE3;o e Amortiza&#xE7;&#xE3;o - (R$)</span>
 </span>
-</td>
+ </td>
 <td class="level-0  value  text-right   DATA " title="">
 <span class="d-block">
 627,00 M
@@ -6125,7 +6139,7 @@ AH
 <span class="d-block">
 631,25%
 </span>
-</td>
+ </td>
 <td class="level-0  value  text-right   DATA " title="">
 <span class="d-block">
 64,00 M
@@ -6149,7 +6163,7 @@ AH
 <td class="level-0  value  text-right   DATA " title="">
 <span class="d-block">
 -199,00 M
- </span>
+</span>
 </td>
 <td class="level-0 variation fs-2 fw-700 materialize-red-text text-darken-1 text-right   AH " title="">
 <span class="d-block">
@@ -6186,7 +6200,7 @@ AH
 <td class="level-0 variation fs-2 fw-700 green-text text-darken-3 text-right   AH " title="">
 <span class="d-block">
 13,03%
-</span>
+ </span>
 </td>
 <td class="level-0  value  text-right   DATA " title="">
 <span class="d-block">
@@ -6210,7 +6224,7 @@ AH
 </td>
 <td class="level-0  value  text-right   DATA " title="">
 <span class="d-block">
- 2.292,00 M
+2.292,00 M
 </span>
 </td>
 </tr>
@@ -6248,7 +6262,7 @@ AH
 <td class="level-0 variation fs-2 fw-700 green-text text-darken-3 text-right   AH " title="">
 <span class="d-block">
 463,15%
-</span>
+ </span>
 </td>
 <td class="level-0  value  text-right   DATA " title="">
 <span class="d-block">
@@ -6309,7 +6323,7 @@ AH
 </td>
 <td class="level-0 variation fs-2 fw-700 materialize-red-text text-darken-1 text-right   AH " title="">
 <span class="d-block">
--3,36%
+ -3,36%
 </span>
 </td>
 <td class="level-0  value  text-right   DATA " title="">
@@ -6458,7 +6472,7 @@ AH
 -49,96%
 </span>
 </td>
- <td class="level-0  value  text-right   DATA " title="">
+<td class="level-0  value  text-right   DATA " title="">
 <span class="d-block">
 2.434,00 M
 </span>
@@ -6520,7 +6534,7 @@ AH
 -49,96%
 </span>
 </td>
- <td class="level-0  value  text-right   DATA " title="">
+<td class="level-0  value  text-right   DATA " title="">
 <span class="d-block">
 2.434,00 M
 </span>
@@ -6565,7 +6579,7 @@ Max.
 <li><a role="button" data-type="2">máx.</a></li>
 </ul>
 <a class="bg-main-green-dark btn btn-xsmall dropdown-trigger" href="#!" data-target="dropdown-margin">
-<span>5 anos</span>
+ <span>5 anos</span>
 <i style="max-width:18px" class="material-icons right ml-1">arrow_drop_down</i>
 </a>
 </div>
@@ -6667,7 +6681,7 @@ help_outline
 <label role="switch" aria-checked="false" class="fw-100 fs-3 grey-text text-darken-1 d-flex justify-start align-items-center">
 <input type="checkbox" name="set-future-data">
 <span class="v-align-middle lever m-0"></span>
-<span class="v-align-middle d-block fs-3 lh-3 ml-2 white-text">
+ <span class="v-align-middle d-block fs-3 lh-3 ml-2 white-text">
 ESTIMATIVAS
 </span>
 &nbsp;
@@ -6742,7 +6756,7 @@ VISÃO POR TRIMESTRE
 <option title="2011" value="2011">2011</option>
 <option title="2010" value="2010">2010</option>
 <option title="2009" value="2009">2009</option>
- <option title="2008" value="2008">2008</option>
+<option title="2008" value="2008">2008</option>
 </select>
 <strong>até</strong>
 <select id="grid-year-max" data-formselect class="">
@@ -6763,6 +6777,7 @@ VISÃO POR TRIMESTRE
 </div>
 </div>
 </header>
+
 <div class="scroll" data-scroll-spy="1350" tabindex="0" aria-label="Grid com o Balan&#xE7;o Patrimonial">
 <input type="hidden" name="showchart" value="false" />
 <div class="table-info-body small" style="overflow: hidden;height: 380px;min-width:1250px">
@@ -6804,7 +6819,7 @@ AH
 <th class="level-0 text-right d-none  AV " title="An&#xE1;lise vertical">
 AV
 <small class='fw-600'>%</small>
-</th> 
+</th>
 <th class="level-0 text-right   DATA " title="Data de refer&#xEA;ncia">
 2017
 </th>
@@ -6834,7 +6849,7 @@ AV
 </td>
 </tr>
 <tr class="  ">
-<td class="level-1  value      " title="">
+ <td class="level-1  value      " title="">
 <span class="d-flex align-items-center justify-between">
 <span>Ativo Circulante - (R$)</span>
 </span>
@@ -6872,7 +6887,7 @@ AV
 <td class="level-1  value      " title="">
 <span class="d-flex align-items-center justify-between">
 <span>Ativo N&#xE3;o Circulante - (R$)</span>
- </span>
+</span>
 </td>
 </tr>
 <tr class="  ">
@@ -6939,7 +6954,7 @@ AV
 </td>
 </tr>
 <tr class="  ">
- <td class="level-2  value      " title="">
+<td class="level-2  value      " title="">
 <span class="d-flex align-items-center justify-between">
 <span>Reserva Capital - (R$)</span>
 </span>
@@ -6967,11 +6982,12 @@ AV
 <div class="action text-center">
 <button title="Ver tudo" type="button" class="btn btn-show btn-secondary waves-effect">
 ver mais
-</button>
+ </button>
 </div> </div>
 </div>
 </div>
 </div>
+<div class="container">
 <div class="container p-0 m-0" style="overflow: hidden;">
 <div class="m-auto mt-5 mb-4 pl-0 pl-md-3 pr-0 pr-md-3">
 
@@ -6979,6 +6995,7 @@ ver mais
 <script>
                 (adsbygoogle = window.adsbygoogle || []).push({});
             </script>
+</div>
 </div>
 </div>
 <div data-asset-document-list id="document-section" class="pb-7 pt-7">
@@ -7045,7 +7062,7 @@ o acesso a sites <span class="fw-700">sem este protocolo</span> (sendo apenas HT
 <div id="movements-section" class=" pb-7 pt-7 white">
 <div class="container">
 <h2 class="fs-4 fs-xs-5 mt-0 mb-5 fw-900 text-main">MOVIMENTAÇÕES</h2>
-<div title="Informações sobre as negociações da empresa em Novembro de 2021" class="negotiations card white mb-5">
+<div title="Informações sobre as negociações da empresa em Dezembro de 2021" class="negotiations card white mb-5">
 <div class="d-flex justify-between ">
 <div class="card-title ">
 <i class="material-icons v-align-middle d-inline-block ">compare_arrows</i><h3 class="m-0 d-inline-block v-align-middle">NEGOCIAÇÕES</h3>
@@ -7055,16 +7072,16 @@ o acesso a sites <span class="fw-700">sem este protocolo</span> (sendo apenas HT
 <div class="d-lg-flex justify-between align-items-center">
 <div class="w-lg-40 text-main d-md-flex d-lg-block justify-between align-items-center text-center text-align-md-left text-align-lg-center">
 <div class="fs-4 fs-md-5 mt-2 mt-lg-0 mb-2 mb-lg-4">
-<span class="fw-900 uppercase">Novembro</span> / <b class="fw-100">2021</b>
+<span class="fw-900 uppercase">Dezembro</span> / <b class="fw-100">2021</b>
 </div>
 <div class="d-flex w-md-55 w-lg-100 fw-100 fs-3 fs-md-4 justify-around">
 <div title="Total de ações negociadas" class="">
 <b class="d-block fs-2 fw-900 uppercase">Total</b>
-<span>992.867</span>
+<span>939.511</span>
 </div>
 <div title="Volume total em reais das negociações" class="">
 <b class="d-block fs-2 fw-900 uppercase">Volume (R$)</b>
- <span>6.289.094.030,50</span>
+<span>5.062.125.817,98</span>
 </div>
 </div>
 </div>
@@ -7080,33 +7097,33 @@ o acesso a sites <span class="fw-700">sem este protocolo</span> (sendo apenas HT
 </thead>
 <tr>
 <td>Lote Padrão</td>
-<td class="text-right">719.056</td>
-<td class="text-right">5.913.457.803,00</td>
+<td class="text-right">587.447</td>
+<td class="text-right">4.743.459.630,00</td>
 </tr>
 <tr>
 <td>Mercado Termo</td>
-<td class="text-right">401</td>
-<td class="text-right">28.646.003,05</td>
+<td class="text-right">817</td>
+<td class="text-right">172.137.851,83</td>
 </tr>
 <tr>
 <td>Opção Compra</td>
-<td class="text-right">34.192</td>
-<td class="text-right">52.635.129,00</td>
+<td class="text-right">32.569</td>
+<td class="text-right">24.018.075,38</td>
 </tr>
 <tr>
 <td>Opção Venda</td>
-<td class="text-right">26.608</td>
-<td class="text-right">192.916.062,00</td>
+<td class="text-right">23.128</td>
+<td class="text-right">26.205.222,34</td>
 </tr>
 <tr>
 <td>Mercado Fracionário</td>
-<td class="text-right">211.448</td>
-<td class="text-right">28.646.003,05</td>
+<td class="text-right">294.543</td>
+<td class="text-right">172.137.851,83</td>
 </tr>
 <tr>
 <td>Outros</td>
-<td class="text-right">1.162</td>
-<td class="text-right">72.793.030,40</td>
+<td class="text-right">1.007</td>
+<td class="text-right">-75.832.813,40</td>
 </tr>
 </table>
 </div>
@@ -7131,7 +7148,7 @@ o acesso a sites <span class="fw-700">sem este protocolo</span> (sendo apenas HT
 <div>
 <span class="d-block fs-2 ">APROVADO EM</span>
 <span class="d-block fw-700">22/02/2021</span>
- </div>
+</div>
 <div>
 <span class="d-block fs-2 ">DATA DE INÍCIO</span>
 <span class="d-block fw-700">23/02/2021</span>
@@ -7191,7 +7208,7 @@ help_outline
 <div class="d-flex justify-between align-items-center flex-wrap flex-lg-nowrap">
 <div class="w-50 w-xs-25 w-lg-20">
 <small class="d-block fs-2 uppercase">Anúncio</small>
- <strong class="d-block lh-3 fs-3 fw-700">19/02/2018</strong>
+<strong class="d-block lh-3 fs-3 fw-700">19/02/2018</strong>
 </div>
 <div class="w-50 w-xs-25 w-lg-20 ">
 <small class="d-block fs-2 uppercase">DATA COM</small>
@@ -7210,7 +7227,7 @@ help_outline
 <strong class="d-block lh-3 fs-3 fw-700">30/05/2018</strong>
 </div>
 <div class="w-50 w-xs-25 w-lg-20 mt-1">
-<small class="d-block fs-2 uppercase">Valor base</small>
+ <small class="d-block fs-2 uppercase">Valor base</small>
 <strong class="d-block lh-3 fs-3 fw-700">R$ 7,80</strong>
 </div>
 <div class="w-50 w-xs-25 w-lg-20 mt-1">
@@ -7240,7 +7257,7 @@ help_outline
 <small class="d-block fs-2 uppercase">Negociação</small>
 <strong class="d-block lh-3 fs-3 fw-700">02/03/2017 a 31/03/2017</strong>
 </div>
- <div class="w-50 w-xs-25 w-lg-20 mt-1">
+<div class="w-50 w-xs-25 w-lg-20 mt-1">
 <small class="d-block fs-2 uppercase">Fim <span class="d-xs-none d-sm-inline-block">de </span>subscrição</small>
 <strong class="d-block lh-3 fs-3 fw-700">31/03/2017</strong>
 </div>
@@ -7259,7 +7276,7 @@ help_outline
 <div class="w-xs-30 w-sm-33 w-md-auto">
 <small class="d-block fs-2 uppercase">Ativo emitido</small>
 <strong class="d-block lh-3 fs-3 fw-700">
-<a class="text-main-green-dark" itemtype="https://schema.org/Thing" itemprop="item" href="/acoes/itsa4">
+ <a class="text-main-green-dark" itemtype="https://schema.org/Thing" itemprop="item" href="/acoes/itsa4">
 <span itemprop="name">ITSA4</span>
 </a>
 </strong>
@@ -7293,7 +7310,7 @@ IFNC
 </div>
 <div title="Participação em porcentagem do ativo dentro do índice" class="text-main">
 <small class="d-block">PARTICIPAÇÃO</small>
-<strong class="d-block fs-4 fw-900">10,199%</strong>
+<strong class="d-block fs-4 fw-900">10,341%</strong>
 </div>
 </div>
 </a>
@@ -7316,7 +7333,7 @@ IVBX
 </div>
 <div title="Participação em porcentagem do ativo dentro do índice" class="text-main">
 <small class="d-block">PARTICIPAÇÃO</small>
-<strong class="d-block fs-4 fw-900">5,763%</strong>
+<strong class="d-block fs-4 fw-900">6,211%</strong>
 </div>
 </div>
 </a>
@@ -7339,7 +7356,7 @@ IDIV
 </div>
 <div title="Participação em porcentagem do ativo dentro do índice" class="text-main">
 <small class="d-block">PARTICIPAÇÃO</small>
-<strong class="d-block fs-4 fw-900">3,432%</strong>
+<strong class="d-block fs-4 fw-900">3,618%</strong>
 </div>
 </div>
 </a>
@@ -7362,7 +7379,7 @@ ISEE
 </div>
 <div title="Participação em porcentagem do ativo dentro do índice" class="text-main">
 <small class="d-block">PARTICIPAÇÃO</small>
-<strong class="d-block fs-4 fw-900">2,784%</strong>
+<strong class="d-block fs-4 fw-900">3,015%</strong>
 </div>
 </div>
 </a>
@@ -7385,7 +7402,7 @@ IBXL
 </div>
 <div title="Participação em porcentagem do ativo dentro do índice" class="text-main">
 <small class="d-block">PARTICIPAÇÃO</small>
-<strong class="d-block fs-4 fw-900">2,452%</strong>
+<strong class="d-block fs-4 fw-900">2,488%</strong>
 </div>
 </div>
 </a>
@@ -7408,7 +7425,7 @@ IBOV
 </div>
 <div title="Participação em porcentagem do ativo dentro do índice" class="text-main">
 <small class="d-block">PARTICIPAÇÃO</small>
-<strong class="d-block fs-4 fw-900">2,119%</strong>
+<strong class="d-block fs-4 fw-900">2,189%</strong>
 </div>
 </div>
 </a>
@@ -7431,7 +7448,7 @@ MLCX
 </div>
 <div title="Participação em porcentagem do ativo dentro do índice" class="text-main">
 <small class="d-block">PARTICIPAÇÃO</small>
-<strong class="d-block fs-4 fw-900">2,077%</strong>
+<strong class="d-block fs-4 fw-900">2,130%</strong>
 </div>
 </div>
 </a>
@@ -7454,13 +7471,13 @@ IBRX
 </div>
 <div title="Participação em porcentagem do ativo dentro do índice" class="text-main">
 <small class="d-block">PARTICIPAÇÃO</small>
-<strong class="d-block fs-4 fw-900">1,968%</strong>
+<strong class="d-block fs-4 fw-900">2,028%</strong>
 </div>
 </div>
 </a>
 </div>
 <div class="indice-item w-100 w-sm-50 w-lg-33">
-<a title="Ir até o índice '&#xCD;ndice de A&#xE7;&#xF5;es com Tag Along Diferenciado'" class="waves-effect waves-on-white-bg" href="/indices/indice-de-acoes-com-tag-along-diferenciado">
+<a title="Ir até o índice '&#xCD;ndice de A&#xE7;&#xF5;es com Tag Along Diferenciado'" class="waves-effect waves-on-white-bg" href="/indices/indice-de-acoes-com-tag-along-diferenciado"> 
 <div class="d-flex align-items-center ">
 <span title="Código do índice" class="code  bg-main-green-dark white-text fs-3 rounded fw-900">
 ITAG
@@ -7477,7 +7494,7 @@ ITAG
 </div>
 <div title="Participação em porcentagem do ativo dentro do índice" class="text-main">
 <small class="d-block">PARTICIPAÇÃO</small>
-<strong class="d-block fs-4 fw-900">1,933%</strong>
+<strong class="d-block fs-4 fw-900">2,001%</strong>
 </div>
 </div>
 </a>
@@ -7500,7 +7517,7 @@ IGCT
 </div>
 <div title="Participação em porcentagem do ativo dentro do índice" class="text-main">
 <small class="d-block">PARTICIPAÇÃO</small>
-<strong class="d-block fs-4 fw-900">1,896%</strong>
+<strong class="d-block fs-4 fw-900">1,963%</strong>
 </div>
 </div>
 </a>
@@ -7523,14 +7540,14 @@ IBRA
 </div>
 <div title="Participação em porcentagem do ativo dentro do índice" class="text-main">
 <small class="d-block">PARTICIPAÇÃO</small>
-<strong class="d-block fs-4 fw-900">1,798%</strong>
+<strong class="d-block fs-4 fw-900">1,863%</strong>
 </div>
 </div>
 </a>
 </div>
 <div class="indice-item w-100 w-sm-50 w-lg-33">
 <a title="Ir até o índice '&#xCD;ndice de A&#xE7;&#xF5;es com Governan&#xE7;a Corporativa Diferenciada'" class="waves-effect waves-on-white-bg" href="/indices/indice-de-acoes-com-governanca-corporativa-diferenciada">
-<div class="d-flex align-items-center ">
+ <div class="d-flex align-items-center ">
 <span title="Código do índice" class="code  bg-main-green-dark white-text fs-3 rounded fw-900">
 IGCX
 </span>
@@ -7546,7 +7563,7 @@ IGCX
 </div>
 <div title="Participação em porcentagem do ativo dentro do índice" class="text-main">
 <small class="d-block">PARTICIPAÇÃO</small>
-<strong class="d-block fs-4 fw-900">1,077%</strong>
+<strong class="d-block fs-4 fw-900">1,120%</strong>
 </div>
 </div>
 </a>
@@ -7569,7 +7586,7 @@ ICO2
 </div>
 <div title="Participação em porcentagem do ativo dentro do índice" class="text-main">
 <small class="d-block">PARTICIPAÇÃO</small>
-<strong class="d-block fs-4 fw-900">0,416%</strong>
+<strong class="d-block fs-4 fw-900">0,439%</strong>
 </div>
 </div>
 </a>
@@ -7624,14 +7641,14 @@ ICO2
 </div>
 <div class="w-100 w-md-50 pl-md-6 d-flex justify-center align-items-center">
 <div class="event-list w-100">
-<input name="results" type="hidden" value="{&quot;LoadStalker&quot;:true,&quot;type&quot;:1,&quot;companyId&quot;:null,&quot;companyName&quot;:&quot;itausa&quot;,&quot;Loaded&quot;:true,&quot;manuais&quot;:[],&quot;iPOs&quot;:[],&quot;provents&quot;:[{&quot;resultAbsoluteValue&quot;:&quot;0,1333&quot;,&quot;dateCom&quot;:&quot;14/01/2022&quot;,&quot;paymentDividend&quot;:&quot;29/04/2022&quot;,&quot;code&quot;:&quot;ITSA3&quot;,&quot;companyName&quot;:&quot;ITAUSA&quot;,&quot;normalizedName&quot;:&quot;itausa&quot;,&quot;companyId&quot;:345,&quot;type&quot;:2,&quot;group&quot;:null,&quot;typeDesc&quot;:&quot;Jcp&quot;,&quot;day&quot;:14,&quot;date&quot;:&quot;14/01/2022&quot;,&quot;url&quot;:&quot;/acoes/itsa3&quot;,&quot;CategoryType&quot;:0},{&quot;resultAbsoluteValue&quot;:&quot;0,1333&quot;,&quot;dateCom&quot;:&quot;14/01/2022&quot;,&quot;paymentDividend&quot;:&quot;29/04/2022&quot;,&quot;code&quot;:&quot;ITSA4&quot;,&quot;companyName&quot;:&quot;ITAUSA&quot;,&quot;normalizedName&quot;:&quot;itausa&quot;,&quot;companyId&quot;:345,&quot;type&quot;:2,&quot;group&quot;:null,&quot;typeDesc&quot;:&quot;Jcp&quot;,&quot;day&quot;:14,&quot;date&quot;:&quot;14/01/2022&quot;,&quot;url&quot;:&quot;/acoes/itsa4&quot;,&quot;CategoryType&quot;:0}],&quot;proventsPayment&quot;:[{&quot;resultAbsoluteValue&quot;:&quot;0,0235&quot;,&quot;dateCom&quot;:&quot;30/11/2021&quot;,&quot;paymentDividend&quot;:&quot;03/01/2022&quot;,&quot;code&quot;:&quot;ITSA3&quot;,&quot;companyName&quot;:&quot;ITAUSA&quot;,&quot;normalizedName&quot;:&quot;itausa&quot;,&quot;companyId&quot;:345,&quot;type&quot;:3,&quot;group&quot;:null,&quot;typeDesc&quot;:&quot;Jcp&quot;,&quot;day&quot;:3,&quot;date&quot;:&quot;03/01/2022&quot;,&quot;url&quot;:&quot;/acoes/itsa3&quot;,&quot;CategoryType&quot;:0},{&quot;resultAbsoluteValue&quot;:&quot;0,0235&quot;,&quot;dateCom&quot;:&quot;30/11/2021&quot;,&quot;paymentDividend&quot;:&quot;03/01/2022&quot;,&quot;code&quot;:&quot;ITSA4&quot;,&quot;companyName&quot;:&quot;ITAUSA&quot;,&quot;normalizedName&quot;:&quot;itausa&quot;,&quot;companyId&quot;:345,&quot;type&quot;:3,&quot;group&quot;:null,&quot;typeDesc&quot;:&quot;Jcp&quot;,&quot;day&quot;:3,&quot;date&quot;:&quot;03/01/2022&quot;,&quot;url&quot;:&quot;/acoes/itsa4&quot;,&quot;CategoryType&quot;:0}],&quot;reports&quot;:[],&quot;meetings&quot;:[],&quot;eventDays&quot;:[{&quot;Day&quot;:14,&quot;Month&quot;:1,&quot;Year&quot;:2022,&quot;Types&quot;:[2]},{&quot;Day&quot;:3,&quot;Month&quot;:1,&quot;Year&quot;:2022,&quot;Types&quot;:[1,2,3]},{&quot;Day&quot;:25,&quot;Month&quot;:1,&quot;Year&quot;:2022,&quot;Types&quot;:[1,2,3,99]}],&quot;holidays&quot;:[{&quot;description&quot;:&quot;Anivers&#xE1;rio de S&#xE3;o Paulo&quot;,&quot;code&quot;:null,&quot;companyName&quot;:null,&quot;normalizedName&quot;:null,&quot;companyId&quot;:0,&quot;type&quot;:99,&quot;group&quot;:null,&quot;typeDesc&quot;:&quot;Feriado&quot;,&quot;day&quot;:25,&quot;date&quot;:&quot;25/01/2022&quot;,&quot;url&quot;:null,&quot;CategoryType&quot;:0}],&quot;Months&quot;:{&quot;1&quot;:&quot;JANEIRO&quot;,&quot;2&quot;:&quot;FEVEREIRO&quot;,&quot;3&quot;:&quot;MAR&#xC7;O&quot;,&quot;4&quot;:&quot;ABRIL&quot;,&quot;5&quot;:&quot;MAIO&quot;,&quot;6&quot;:&quot;JUNHO&quot;,&quot;7&quot;:&quot;JULHO&quot;,&quot;8&quot;:&quot;AGOSTO&quot;,&quot;9&quot;:&quot;SETEMBRO&quot;,&quot;10&quot;:&quot;OUTUBRO&quot;,&quot;11&quot;:&quot;NOVEMBRO&quot;,&quot;12&quot;:&quot;DEZEMBRO&quot;},&quot;TotalEvents&quot;:5}" />
+<input name="results" type="hidden" value="{&quot;LoadStalker&quot;:true,&quot;type&quot;:1,&quot;companyId&quot;:null,&quot;companyName&quot;:&quot;itausa&quot;,&quot;Loaded&quot;:true,&quot;manuais&quot;:[],&quot;iPOs&quot;:[],&quot;provents&quot;:[{&quot;resultAbsoluteValue&quot;:&quot;0,1333&quot;,&quot;dateCom&quot;:&quot;14/01/2022&quot;,&quot;paymentDividend&quot;:&quot;29/04/2022&quot;,&quot;code&quot;:&quot;ITSA3&quot;,&quot;companyName&quot;:&quot;ITAUSA&quot;,&quot;normalizedName&quot;:&quot;itausa&quot;,&quot;companyId&quot;:345,&quot;type&quot;:2,&quot;group&quot;:null,&quot;typeDesc&quot;:&quot;Jcp&quot;,&quot;day&quot;:14,&quot;date&quot;:&quot;14/01/2022&quot;,&quot;url&quot;:&quot;/acoes/itsa3&quot;,&quot;CategoryType&quot;:0},{&quot;resultAbsoluteValue&quot;:&quot;0,1333&quot;,&quot;dateCom&quot;:&quot;14/01/2022&quot;,&quot;paymentDividend&quot;:&quot;29/04/2022&quot;,&quot;code&quot;:&quot;ITSA4&quot;,&quot;companyName&quot;:&quot;ITAUSA&quot;,&quot;normalizedName&quot;:&quot;itausa&quot;,&quot;companyId&quot;:345,&quot;type&quot;:2,&quot;group&quot;:null,&quot;typeDesc&quot;:&quot;Jcp&quot;,&quot;day&quot;:14,&quot;date&quot;:&quot;14/01/2022&quot;,&quot;url&quot;:&quot;/acoes/itsa4&quot;,&quot;CategoryType&quot;:0}],&quot;proventsPayment&quot;:[{&quot;resultAbsoluteValue&quot;:&quot;0,0235&quot;,&quot;dateCom&quot;:&quot;30/11/2021&quot;,&quot;paymentDividend&quot;:&quot;03/01/2022&quot;,&quot;code&quot;:&quot;ITSA3&quot;,&quot;companyName&quot;:&quot;ITAUSA&quot;,&quot;normalizedName&quot;:&quot;itausa&quot;,&quot;companyId&quot;:345,&quot;type&quot;:3,&quot;group&quot;:null,&quot;typeDesc&quot;:&quot;Jcp&quot;,&quot;day&quot;:3,&quot;date&quot;:&quot;03/01/2022&quot;,&quot;url&quot;:&quot;/acoes/itsa3&quot;,&quot;CategoryType&quot;:0},{&quot;resultAbsoluteValue&quot;:&quot;0,0235&quot;,&quot;dateCom&quot;:&quot;30/11/2021&quot;,&quot;paymentDividend&quot;:&quot;03/01/2022&quot;,&quot;code&quot;:&quot;ITSA4&quot;,&quot;companyName&quot;:&quot;ITAUSA&quot;,&quot;normalizedName&quot;:&quot;itausa&quot;,&quot;companyId&quot;:345,&quot;type&quot;:3,&quot;group&quot;:null,&quot;typeDesc&quot;:&quot;Jcp&quot;,&quot;day&quot;:3,&quot;date&quot;:&quot;03/01/2022&quot;,&quot;url&quot;:&quot;/acoes/itsa4&quot;,&quot;CategoryType&quot;:0}],&quot;reports&quot;:[{&quot;description&quot;:&quot;  (Acordo de Acionistas)&quot;,&quot;code&quot;:&quot;ITSA4&quot;,&quot;companyName&quot;:&quot;ITAUSA&quot;,&quot;normalizedName&quot;:&quot;itausa&quot;,&quot;companyId&quot;:345,&quot;type&quot;:1,&quot;group&quot;:null,&quot;typeDesc&quot;:&quot;Relat&#xF3;rio&quot;,&quot;day&quot;:12,&quot;date&quot;:&quot;12/01/2022&quot;,&quot;url&quot;:&quot;https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&amp;numSequencia=457812&amp;numVersao=1&amp;numProtocolo=933078&amp;descTipo=IPE&amp;CodigoInstituicao=1&quot;,&quot;CategoryType&quot;:0},{&quot;description&quot;:&quot;Outros Comunicados N&#xE3;o Considerados Fatos Relevantes (Comunicado ao Mercado)&quot;,&quot;code&quot;:&quot;ITSA4&quot;,&quot;companyName&quot;:&quot;ITAUSA&quot;,&quot;normalizedName&quot;:&quot;itausa&quot;,&quot;companyId&quot;:345,&quot;type&quot;:1,&quot;group&quot;:null,&quot;typeDesc&quot;:&quot;Relat&#xF3;rio&quot;,&quot;day&quot;:12,&quot;date&quot;:&quot;12/01/2022&quot;,&quot;url&quot;:&quot;https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&amp;numSequencia=457667&amp;numVersao=1&amp;numProtocolo=932933&amp;descTipo=IPE&amp;CodigoInstituicao=1&quot;,&quot;CategoryType&quot;:0},{&quot;description&quot;:&quot;  (Fato Relevante)&quot;,&quot;code&quot;:&quot;ITSA4&quot;,&quot;companyName&quot;:&quot;ITAUSA&quot;,&quot;normalizedName&quot;:&quot;itausa&quot;,&quot;companyId&quot;:345,&quot;type&quot;:1,&quot;group&quot;:null,&quot;typeDesc&quot;:&quot;Relat&#xF3;rio&quot;,&quot;day&quot;:10,&quot;date&quot;:&quot;10/01/2022&quot;,&quot;url&quot;:&quot;https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&amp;numSequencia=457148&amp;numVersao=1&amp;numProtocolo=932414&amp;descTipo=IPE&amp;CodigoInstituicao=1&quot;,&quot;CategoryType&quot;:0}],&quot;meetings&quot;:[],&quot;eventDays&quot;:[{&quot;Day&quot;:14,&quot;Month&quot;:1,&quot;Year&quot;:2022,&quot;Types&quot;:[2]},{&quot;Day&quot;:3,&quot;Month&quot;:1,&quot;Year&quot;:2022,&quot;Types&quot;:[1,2,3]},{&quot;Day&quot;:12,&quot;Month&quot;:1,&quot;Year&quot;:2022,&quot;Types&quot;:[1]},{&quot;Day&quot;:10,&quot;Month&quot;:1,&quot;Year&quot;:2022,&quot;Types&quot;:[1]},{&quot;Day&quot;:25,&quot;Month&quot;:1,&quot;Year&quot;:2022,&quot;Types&quot;:[1,2,3,99]}],&quot;holidays&quot;:[{&quot;description&quot;:&quot;Anivers&#xE1;rio de S&#xE3;o Paulo&quot;,&quot;code&quot;:null,&quot;companyName&quot;:null,&quot;normalizedName&quot;:null,&quot;companyId&quot;:0,&quot;type&quot;:99,&quot;group&quot;:null,&quot;typeDesc&quot;:&quot;Feriado&quot;,&quot;day&quot;:25,&quot;date&quot;:&quot;25/01/2022&quot;,&quot;url&quot;:null,&quot;CategoryType&quot;:0}],&quot;Months&quot;:{&quot;1&quot;:&quot;JANEIRO&quot;,&quot;2&quot;:&quot;FEVEREIRO&quot;,&quot;3&quot;:&quot;MAR&#xC7;O&quot;,&quot;4&quot;:&quot;ABRIL&quot;,&quot;5&quot;:&quot;MAIO&quot;,&quot;6&quot;:&quot;JUNHO&quot;,&quot;7&quot;:&quot;JULHO&quot;,&quot;8&quot;:&quot;AGOSTO&quot;,&quot;9&quot;:&quot;SETEMBRO&quot;,&quot;10&quot;:&quot;OUTUBRO&quot;,&quot;11&quot;:&quot;NOVEMBRO&quot;,&quot;12&quot;:&quot;DEZEMBRO&quot;},&quot;TotalEvents&quot;:8}" />
 <div class="w-100">
 <div class="list">
 </div>
 <div class="pagination-control d-flex justify-center align-items-center mt-3">
-<select aria-label="Páginação dos eventos do calendário" id="total-page-ed6a7afb-c640-4027-b476-1d7fe5cf7340" class=" small" data-formselect>
+<select aria-label="Páginação dos eventos do calendário" id="total-page-1a4cfe6c-e988-402c-826b-f078f9be4ed1" class=" small" data-formselect>
 </select>
-<ul class="pagination m-0 w-auto" data-total-page="#total-page-ed6a7afb-c640-4027-b476-1d7fe5cf7340"></ul>
+<ul class="pagination m-0 w-auto" data-total-page="#total-page-1a4cfe6c-e988-402c-826b-f078f9be4ed1"></ul>
 </div>
 </div>
 <div class="no-events-msg grey darken-1 m-auto p-4 rounded text-center w-sm-70 white-text mt-4 mb-4" style="display:none">
@@ -7660,7 +7677,7 @@ ICO2
 <div>
 <div class="input-field m-0 ">
 <i class="material-icons prefix">search</i>
- <input type="text" name="search-asset" class="input" placeholder="" />
+<input type="text" name="search-asset" class="input" placeholder="" />
 </div>
 </div>
 <div class="items-container w-100 pl-md-3"></div>
@@ -7772,7 +7789,7 @@ ICO2
 <span class=""><i class="material-icons">add</i></span>
 </button>
 </div>
- </div>
+</div>
 </div>
 </li>
 </ul>
@@ -7840,7 +7857,7 @@ ICO2
 <span class="title">Maior valor</span>
 <strong class="">{maxValue_F} <small>({maxValueRank_F})</small></strong>
 </div>
- </div>
+</div>
 <div class="assets pl-md-3 pr-md-3">
 <table class="fs-2 w-100">
 <tr>
@@ -7919,7 +7936,7 @@ Indicadores de Valuation
 <div class="d-flex align-items-center pr-2">
 <button type="button" title="Veja o gráfico com o histórico e inclua um indicador para fazer uma análise + completa" data-key="p_l" data-name="P/L" data-prefix="" data-suffix="" class="btn-chart btn btn-xsmall btn-main-green btn-outline btn-flat">
 <i style="max-width: 18px;" class="material-icons">show_chart</i>
-</button>
+ </button>
 <span class="d-block fs-2 m-0 ml-1 uppercase">P/L</span>
 </div>
 </div>
@@ -7940,7 +7957,7 @@ Indicadores de Valuation
 </div>
 </div>
 <div class="w-50 w-sm-33 w-md-20 pb-1 pt-1 item">
- <div class="d-flex align-items-center pr-2">
+<div class="d-flex align-items-center pr-2">
 <button type="button" title="Veja o gráfico com o histórico e inclua um indicador para fazer uma análise + completa" data-key="ev_ebitda" data-name="EV/EBITDA" data-prefix="" data-suffix="" class="btn-chart btn btn-xsmall btn-main-green btn-outline btn-flat">
 <i style="max-width: 18px;" class="material-icons">show_chart</i>
 </button>
@@ -7975,7 +7992,7 @@ Indicadores de Valuation
 <div class="d-flex align-items-center pr-2">
 <button type="button" title="Veja o gráfico com o histórico e inclua um indicador para fazer uma análise + completa" data-key="vpa" data-name="VPA" data-prefix="" data-suffix="" class="btn-chart btn btn-xsmall btn-main-green btn-outline btn-flat">
 <i style="max-width: 18px;" class="material-icons">show_chart</i>
-</button>
+ </button>
 <span class="d-block fs-2 m-0 ml-1 uppercase">VPA</span>
 </div>
 </div>
@@ -8053,7 +8070,7 @@ Indicadores de Efici&#xEA;ncia
 <div class="w-50 w-sm-33 w-md-20 pb-1 pt-1 item">
 <div class="d-flex align-items-center pr-2">
 <button type="button" title="Veja o gráfico com o histórico e inclua um indicador para fazer uma análise + completa" data-key="margeliquida" data-name="M. L&#xED;quida" data-prefix="" data-suffix="%" class="btn-chart btn btn-xsmall btn-main-green btn-outline btn-flat">
- <i style="max-width: 18px;" class="material-icons">show_chart</i>
+<i style="max-width: 18px;" class="material-icons">show_chart</i>
 </button>
 <span class="d-block fs-2 m-0 ml-1 uppercase">M. L&#xED;quida</span>
 </div>
@@ -8084,7 +8101,7 @@ Indicadores de Endividamento
 <div class="w-50 w-sm-33 w-md-20 pb-1 pt-1 item">
 <div class="d-flex align-items-center pr-2">
 <button type="button" title="Veja o gráfico com o histórico e inclua um indicador para fazer uma análise + completa" data-key="dividaliquida_ebit" data-name="D&#xED;v. l&#xED;quida/EBIT" data-prefix="" data-suffix="" class="btn-chart btn btn-xsmall btn-main-green btn-outline btn-flat">
- <i style="max-width: 18px;" class="material-icons">show_chart</i>
+<i style="max-width: 18px;" class="material-icons">show_chart</i>
 </button>
 <span class="d-block fs-2 m-0 ml-1 uppercase">D&#xED;v. l&#xED;quida/EBIT</span>
 </div>
@@ -8128,7 +8145,7 @@ Indicadores de Rentabilidade
 <span class="d-block fs-2 m-0 ml-1 uppercase">ROE</span>
 </div>
 </div>
-<div class="w-50 w-sm-33 w-md-20 pb-1 pt-1 item">
+ <div class="w-50 w-sm-33 w-md-20 pb-1 pt-1 item">
 <div class="d-flex align-items-center pr-2">
 <button type="button" title="Veja o gráfico com o histórico e inclua um indicador para fazer uma análise + completa" data-key="roa" data-name="ROA" data-prefix="" data-suffix="%" class="btn-chart btn btn-xsmall btn-main-green btn-outline btn-flat">
 <i style="max-width: 18px;" class="material-icons">show_chart</i>
@@ -8161,7 +8178,7 @@ Indicadores de Crescimento
 <div class="d-flex flex-wrap align-items-center justify-start">
 <div class="w-50 w-sm-33 w-md-20 pb-1 pt-1 item">
 <div class="d-flex align-items-center pr-2">
-<button type="button" title="Veja o gráfico com o histórico e inclua um indicador para fazer uma análise + completa" data-key="receitas_cagr5" data-name="CAGR Receitas 5 anos" data-prefix="" data-suffix="%" class="btn-chart btn btn-xsmall btn-main-green btn-outline btn-flat">
+ <button type="button" title="Veja o gráfico com o histórico e inclua um indicador para fazer uma análise + completa" data-key="receitas_cagr5" data-name="CAGR Receitas 5 anos" data-prefix="" data-suffix="%" class="btn-chart btn btn-xsmall btn-main-green btn-outline btn-flat">
 <i style="max-width: 18px;" class="material-icons">show_chart</i>
 </button>
 <span class="d-block fs-2 m-0 ml-1 uppercase">CAGR Receitas 5 anos</span>
@@ -8312,7 +8329,7 @@ tipo de transação antes deste período terá a <b>'quantidade' divergindo com 
 </div>
 <div>
 <b>Solução: </b>Nesta situação, o ideal é cadastrar estas transações antigas via importação de arquivo.
-</div>
+ </div>
 </div>
 </li>
 <li class="transparent collection-item">
@@ -8362,7 +8379,7 @@ Caso queira ter sua <b class="fw-600">carteira</b> sempre <b class="fw-600">atua
 </div>
 </a>
 </div>
- </div>
+</div>
 </div>
 <div id="plano-entrega-modal" class="modal full-height" style="display:none">
 <div class="header d-flex justify-end">
@@ -8394,7 +8411,7 @@ Caso queira ter sua <b class="fw-600">carteira</b> sempre <b class="fw-600">atua
 <div class="d-flex align-items-center fw-700 lh-3">
 <span class="" data-item="unitValue_F">-</span>
 </div>
-<div class="small mt-1">
+ <div class="small mt-1">
 <span class="d-block uppercase lh-3 fs-2 fw-600">Preço atual</span>
 <div class="d-flex align-items-center fw-700 lh-3">
 <span class="" data-item="price_F">-</span>
@@ -8435,7 +8452,7 @@ Caso queira ter sua <b class="fw-600">carteira</b> sempre <b class="fw-600">atua
 <span class="d-block uppercase lh-3 fs-2 fw-600">Variação total</span>
 <div class="d-flex align-items-center fw-700 lh-3">
 <span class="profitabilityPercent_icon">
- <span class="icon"></span>
+<span class="icon"></span>
 <span class="" data-item="profitabilityPercent_F">-</span><span class="fw-100">%</span>
 </span>
 </div>
@@ -8644,7 +8661,7 @@ Por <span class="fw-600">segurança</span>, enviamos um
 <span class="d-block d-sm-inline-block"></span>
 e-mail de <span class="fw-600">confirmação</span> para verificar seu <span class="fw-600">cadastro</span>
 </span>
- <span class="d-block fs-3 fw-600 ">
+<span class="d-block fs-3 fw-600 ">
 Pode ter caido no spam. . .
 <span class="d-block d-sm-inline-block"></span>dá uma olhada lá ;D
 </span>
@@ -8813,28 +8830,28 @@ Busca <b>avançada</b>
 <div class="aside-background d-md-none">
 </div>
 <script src="/lib/jquery-3.6.0.min.js"></script>
-<script src="/lib/typeahead/typeahead.bundle.min.js?v=2.0.575.DEWERE" async></script>
-<script src="/js/site.min.js?v=2.0.575.DEWERE"></script>
-<script src="/js/components/advertising.min.js?v=2.0.575.DEWERE" async></script>
-<script data-load-after data-src="/lib/echarts/echarts.custom.min.js?v=2.0.575.DEWERE" async></script>
-<script src="/lib/sortable-master/sortable.min.js?v=2.0.575.DEWERE" async></script>
-<script data-load-after data-src="/js/components/ticker.rent.history.min.js?v=2.0.575.DEWERE" async></script>
-<script src="/js/components/follow.manager.min.js?v=2.0.575.DEWERE"></script>
-<script src="/js/components/tab.chart.min.js?v=2.0.575.DEWERE"></script>
-<script src="/js/components/ticker.earning.list.min.js?v=2.0.575.DEWERE"></script>
-<script src="/js/components/chart.variation.min.js?v=2.0.575.DEWERE"></script>
-<script src="/js/components/ticker.price.chart.min.js?v=2.0.575.DEWERE"></script>
-<script src="/js/components/calendar.events.min.js?v=2.0.575.DEWERE"></script>
-<script src="/js/components/main.filter.modal.min.js?v=2.0.575.DEWERE"></script>
-<script src="/js/components/resume.indicators.min.js?v=2.0.575.DEWERE"></script>
-<script src="/js/pages/adm/comparator.profitability.chart.min.js?v=2.0.575.DEWERE"></script>
-<script src="/js/components/paper.nav.min.js?v=2.0.575.DEWERE"></script>
-<script src="/js/pages/action.acconting.min.js?v=2.0.575.DEWERE"></script>
-<script src="/js/components/chart.inline-gauge.min.js?v=2.0.575.DEWERE" async></script>
-<script src="/js/components/grid.min.js?v=2.0.575.DEWERE" async></script>
-<script src="/js/components/resume.item.wallet.min.js?v=2.0.575.DEWERE" async></script>
+<script src="/lib/typeahead/typeahead.bundle.min.js?v=2.0.577.EJHLWE" async></script>
+<script src="/js/site.min.js?v=2.0.577.EJHLWE"></script>
+<script src="/js/components/advertising.min.js?v=2.0.577.EJHLWE" async></script>
+<script data-load-after data-src="/lib/echarts/echarts.custom.min.js?v=2.0.577.EJHLWE" async></script>
+<script src="/lib/sortable-master/sortable.min.js?v=2.0.577.EJHLWE" async></script>
+<script data-load-after data-src="/js/components/ticker.rent.history.min.js?v=2.0.577.EJHLWE" async></script>
+<script src="/js/components/follow.manager.min.js?v=2.0.577.EJHLWE"></script>
+<script src="/js/components/tab.chart.min.js?v=2.0.577.EJHLWE"></script>
+<script src="/js/components/ticker.earning.list.min.js?v=2.0.577.EJHLWE"></script>
+<script src="/js/components/chart.variation.min.js?v=2.0.577.EJHLWE"></script>
+<script src="/js/components/ticker.price.chart.min.js?v=2.0.577.EJHLWE"></script>
+<script src="/js/components/calendar.events.min.js?v=2.0.577.EJHLWE"></script>
+<script src="/js/components/main.filter.modal.min.js?v=2.0.577.EJHLWE"></script>
+<script src="/js/components/resume.indicators.min.js?v=2.0.577.EJHLWE"></script>
+<script src="/js/pages/adm/comparator.profitability.chart.min.js?v=2.0.577.EJHLWE"></script>
+<script src="/js/components/paper.nav.min.js?v=2.0.577.EJHLWE"></script>
+<script src="/js/pages/action.acconting.min.js?v=2.0.577.EJHLWE"></script>
+<script src="/js/components/chart.inline-gauge.min.js?v=2.0.577.EJHLWE" async></script>
+<script src="/js/components/grid.min.js?v=2.0.577.EJHLWE" async></script>
+<script src="/js/components/resume.item.wallet.min.js?v=2.0.577.EJHLWE" async></script>
 
-<script src="/js/components/futureData/loadComponents.min.js?v=2.0.575.DEWERE" async></script>
+<script src="/js/components/futureData/loadComponents.min.js?v=2.0.577.EJHLWE" async></script>
 
-<script type="text/javascript">(function(){window['__CF$cv$params']={r:'6c6d6780ed6425b4',m:'qfIveIHvZz20envZdYeAtbdYG96oXRRmc0haTgpPgRU-1641057479-0-AWCwF3y/Fqb2Cvo+3CT8fMHQS977gfgFW85iRv6hmvgzPK/c+5FQVCow9d/bm9EPNQ2QqboYDrUBZUuCagq4it3s53FqFLYmiYJmTA+4P43EXIBq/OqYYIu37I1pTTQZ8g==',s:[0x1fc19fbc17,0x1dddab981a],}})();</script></body>
+<script type="text/javascript">(function(){window['__CF$cv$params']={r:'6cd313552bad2776',m:'uaj9hBUStNRTGKlzywcuW3XfB6A1oPjNTgfvWBR_Vi4-1642123579-0-AWdMID9EM2eo2VT2Y0J+aPjqyu/e8c2o1z9YtJrBJ4OK8wNYRUBzsF647ecGbRTQJDN9LOfkky5EBpyezqOf8S9LS45SlcyZkfFbklUCDdY5l5E8SQ2AXpNP4cDVkx3Igw==',s:[0x3741d7f5fe,0x514173a197],}})();</script></body>
 </html>

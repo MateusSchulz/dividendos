@@ -39,16 +39,16 @@ export const listStocks = {
     'trpl4',
     'unip6',
     'wizs3',
-    'bbas3',
+    'b3sa3',
     'neoe3',
     'usim5',
+    'usim6',
     'klbn4',
     'suzb3',
     'petr4',
     'wege3',
     'shul4',
     'soja3',
-    'agro3',
     'jbss3',
     'cmin3'
   ]
