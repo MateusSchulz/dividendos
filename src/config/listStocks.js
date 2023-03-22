@@ -1,55 +1,7 @@
-export const listStocks = {
-  list: [
-    'abcb4',
-    'brsr6',
-    'bbse3',
-    'bbdc3',
-    'bbdc4',
-    'brap4',
-    'bbas3',
-    'agro3',
-    'ccro3',
-    'cmig3',
-    'cmig4',
-    'cesp6',
-    'csmg3',
-    'cple6',
-    'cpfe3',
-    'cyre3',
-    'dirr3',
-    'elet6',
-    'enat3',
-    'enbr3',
-    'egie3',
-    'romi3',
-    'mypk3',
-    'itsa4',
-    'itub3',
-    'itub4',
-    'jhsf3',
-    'mrve3',
-    'pssa3',
-    'qual3',
-    'sapr4',
-    'sanb4',
-    'csna3',
-    'taee4',
-    'tgma3',
-    'vivt3',
-    'trpl4',
-    'unip6',
-    'wizs3',
-    'b3sa3',
-    'neoe3',
-    'usim5',
-    'usim6',
-    'klbn4',
-    'suzb3',
-    'petr4',
-    'wege3',
-    'shul4',
-    'soja3',
-    'jbss3',
-    'cmin3'
-  ]
+const listStocks = [
+  'ITSA4'
+]
+
+export {
+  listStocks
 }

@@ -1,37 +1,29 @@
-<!-- <div *ngFor="let stock of stocks">
-    <div *ngIf="stock?.average">
-        {{ stock.name }} - {{ stock.average }}
-    </div>
-</div> -->
-<div class="container pt-5">
-    <table class="table table-striped table-hover">
-        <thead>
-            <tr>
-                <td>Number</td>
-                <td>Name</td>
-                <td>2017</td>
-                <td>2018</td>
-                <td>2019</td>
-                <td>2020</td>
-                <td>2021</td>
-                <td>Average</td>
-                <td>Price</td>
-                <td>DY%</td>
-            </tr>
-        </thead>
-        <tbody>
-            <tr *ngFor="let stock of sortBy('dy'); let index = index">
-                <td>{{ index + 1 }}</td>
-                <td class="text-uppercase">{{ stock.name }}</td>
-                <td>{{ stock[2017] }}</td>
-                <td>{{ stock[2018] }}</td>
-                <td>{{ stock[2019] }}</td>
-                <td>{{ stock[2020] }}</td>
-                <td>{{ stock[2021] }}</td>
-                <td>{{ stock.average }}</td>
-                <td>{{ stock.price }}</td>
-                <td>{{ stock.dy }}</td>
-            </tr>
-        </tbody>
-    </table>
+<h1 style="text-align:center;font-size:50px" class="pt-5">DIVIDENDOS</h1>
+<div class="container pt-4">
+  <table class="table table-striped table-hover">
+    <thead>
+      <tr>
+        <td>Number</td>
+        <td>Name</td>
+        <td>2018</td>
+        <td>2019</td>
+        <td>2020</td>
+        <td>2021</td>
+        <td>2022</td>
+        <td>Average</td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let stock of stocks; let index = index">
+        <td>{{ index + 1 }}</td>
+        <td class="text-uppercase">{{ stock.name | lowercase }}</td>
+        <td>{{ stock[2018] | number:'.4-4' }}</td>
+        <td>{{ stock[2019] | number:'.4-4' }}</td>
+        <td>{{ stock[2020] | number:'.4-4' }}</td>
+        <td>{{ stock[2021] | number:'.4-4' }}</td>
+        <td>{{ stock[2022] | number:'.4-4' }}</td>
+        <td>{{ stock.average | number:'.4-4' }}</td>
+      </tr>
+    </tbody>
+  </table>
 </div>

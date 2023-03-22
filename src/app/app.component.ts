@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core'
 import { listStocks } from 'src/config/listStocks'
+import { IStocks } from './models/stocks.model'
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
@@ -7,84 +8,90 @@ import { listStocks } from 'src/config/listStocks'
 })
 
 export class AppComponent implements OnInit {
-  stocks: any[]
+  stocks: IStocks[]
 
-  ngOnInit(): void {
+  ngOnInit() {
     this.stocks = []
-    listStocks.list.forEach((value, index) => {
-      this.readFile(value, index)
+    listStocks.forEach((value: string) => {
+      this.readFile(value)
     })
   }
 
-  readFile (stock: string, index: number) {
+  readFile (stock: string) {
     const file = new XMLHttpRequest()
     file.open("GET", `assets/stocks/${stock}.txt`, true)
     file.onreadystatechange = () => {
       if(!(file.readyState === 4 && (file.status === 200 || file.status == 0))) return
+
       const parser = new DOMParser()
-      if (!parser) return
-      const doc = parser.parseFromString(file.response, 'text/html')
-      if (!doc) return
-      const input = doc.getElementById('results')
-      if (!input) return
-      const attribute = input.getAttribute('value')
-      if (!attribute) return
-      const dividends = eval(attribute)
-      if (!dividends) return
-      const price = Number(doc.querySelector('[title="Valor atual do ativo"] .value').innerHTML.replace(',', '.'))
-      if (!price) return
-      this.calculateDividends(dividends, price, stock, index)
+      const document = parser.parseFromString(file.response, 'text/html')
+
+      const tbodyElements = document.querySelector('.normal-table tbody')
+      const typeElements: NodeListOf<Element> = tbodyElements.querySelectorAll('tr td:nth-child(1)')
+      const recordElements = tbodyElements.querySelectorAll('tr td:nth-child(2)')
+      const dateExDividendElement = tbodyElements.querySelectorAll('tr td:nth-child(3)')
+      const valueElements = tbodyElements.querySelectorAll('tr td:nth-child(5)')
+
+      const types: string[] = []
+      const records: string[] = []
+      const dateExDividends: string[] = []
+      const values: string[] = []
+
+      const populeArrays = (element: Element, array: string[]) => element?.innerHTML && array.push(element.innerHTML)
+
+      typeElements.forEach(element => populeArrays(element, types))
+      recordElements.forEach(element => populeArrays(element, records))
+      dateExDividendElement.forEach(element => populeArrays(element, dateExDividends))      
+      valueElements.forEach(element => populeArrays(element, values))
+
+      const valuesNumber = values.map(value => Number(value.replace(',', '.')))
+
+      this.calculateDividends({ dateExDividends, values: valuesNumber, stock })
+
     }
     file.send()
   }
 
-  calculateDividends(dividends: any, price: number, stock: string, index: number): void {
-    const result: any = {
-      2017: 0,
-      2018: 0,
-      2019: 0,
-      2020: 0,
-      2021: 0
+  calculateDividends({ dateExDividends, values, stock }: { dateExDividends: string[], values: number[], stock: string }) {
+
+    const year2018 = this.populeYearsDividends({ dateExDividends, values, year: '2018' })
+    const year2019 = this.populeYearsDividends({ dateExDividends, values, year: '2019' })
+    const year2020 = this.populeYearsDividends({ dateExDividends, values, year: '2020' })
+    const year2021 = this.populeYearsDividends({ dateExDividends, values, year: '2021' })
+    const year2022 = this.populeYearsDividends({ dateExDividends, values, year: '2022' })
+    const yearDividends = [year2018, year2019, year2020, year2021, year2022]
+    const totalYearDividends = this.getTotalDividends(yearDividends)
+    const average = totalYearDividends / 5
+
+    const result = {
+      2018: year2018,
+      2019: year2019,
+      2020: year2020,
+      2021: year2021,
+      2022: year2022,
+      total: totalYearDividends,
+      average: average,
+      name: stock
     }
 
-    for (let i=0; i<dividends.length; i++) {
-      let year = Number(dividends[i].ed.substr(6))
-      if(year < 2017) break
-      if(!result[year]) result[year] = 0
-      result[year] += dividends[i].v
-    }
-
-    let count = Object.keys(result).length
-    let keys = Object.keys(result)
-
-    for (let i=0; i<count; i++) {
-      if(!result.total) result.total = 0
-      if(result[keys[i]]) result.total += result[keys[i]]
-    }
-
-    result.name = stock
-    result.average = result.total / count
-    result.price = price
-    result.dy = (result.average * 100) / result.price
-
-    count = Object.keys(result).length
-    keys = Object.keys(result)
-    
-    const roundTo = function(num: number, places: number) {
-      const factor = 10 ** places;
-      return Math.round(num * factor) / factor;
-    };
-        
-    for (let i=0; i<count; i++) {
-      if(keys[i] === 'name') continue
-      if(result[keys[i]]) result[keys[i]] = roundTo(result[keys[i]], 2)//Math.round(result[keys[i]], -2)
-    }
-
-    // if (!result.average || !result.price || !result[2017] || !result[2018] || !result[2019] || !result[2020] || !result[2021]) return
     this.stocks.push(result)
   }
 
-  sortBy (prop: string): any[] {
+  populeYearsDividends ({ dateExDividends, values, year }: { dateExDividends: string[], values: number[], year: string }) {
+    const dateValues = dateExDividends.map((date, index) => date.substring(6) === year ? values[index] : 0)
+    const somar = (a: number, b: number) => a + b
+    return dateValues.reduce(somar)
+  }
+
+  getTotalDividends (dividends: number[]) {
+    return dividends.reduce((previous, current) => previous + current)
+  }
+
+  sortBy (prop: string) {
     return this.stocks.sort((a, b) => a[prop] > b[prop] ? -1 : a[prop] === b[prop] ? 0 : 1)
+  }
+
+  trackById (index: number) {
+    return index
   }
 }
