@@ -27,41 +27,40 @@ export class AppComponent implements OnInit {
       const document = parser.parseFromString(file.response, 'text/html')
 
       const tbodyElements = document.querySelector('.normal-table tbody')
-      const typeElements: NodeListOf<Element> = tbodyElements.querySelectorAll('tr td:nth-child(1)')
-      const recordElements = tbodyElements.querySelectorAll('tr td:nth-child(2)')
-      const dateExDividendElement = tbodyElements.querySelectorAll('tr td:nth-child(3)')
+      if (!tbodyElements) return console.warn('Error: ', stock)
+      const typeElements = tbodyElements.querySelectorAll('tr td:nth-child(1)')
+      const dateElements = tbodyElements.querySelectorAll('tr td:nth-child(4)')
       const valueElements = tbodyElements.querySelectorAll('tr td:nth-child(5)')
 
       const types: string[] = []
-      const records: string[] = []
-      const dateExDividends: string[] = []
+      const dates: string[] = []
       const values: string[] = []
 
       const populeArrays = (element: Element, array: string[]) => element?.innerHTML && array.push(element.innerHTML)
 
       typeElements.forEach(element => populeArrays(element, types))
-      recordElements.forEach(element => populeArrays(element, records))
-      dateExDividendElement.forEach(element => populeArrays(element, dateExDividends))      
+      dateElements.forEach(element => populeArrays(element, dates))
       valueElements.forEach(element => populeArrays(element, values))
 
       const valuesNumber = values.map(value => Number(value.replace(',', '.')))
 
-      this.calculateDividends({ dateExDividends, values: valuesNumber, stock })
+      this.calculateDividends({ dates, values: valuesNumber, stock })
 
     }
     file.send()
   }
 
-  calculateDividends({ dateExDividends, values, stock }: { dateExDividends: string[], values: number[], stock: string }) {
+  calculateDividends({ dates, values, stock }: { dates: string[], values: number[], stock: string }) {
 
-    const year2018 = this.populeYearsDividends({ dateExDividends, values, year: '2018' })
-    const year2019 = this.populeYearsDividends({ dateExDividends, values, year: '2019' })
-    const year2020 = this.populeYearsDividends({ dateExDividends, values, year: '2020' })
-    const year2021 = this.populeYearsDividends({ dateExDividends, values, year: '2021' })
-    const year2022 = this.populeYearsDividends({ dateExDividends, values, year: '2022' })
+    const year2018 = this.populeYearsDividends({ dates, values, year: '2018' })
+    const year2019 = this.populeYearsDividends({ dates, values, year: '2019' })
+    const year2020 = this.populeYearsDividends({ dates, values, year: '2020' })
+    const year2021 = this.populeYearsDividends({ dates, values, year: '2021' })
+    const year2022 = this.populeYearsDividends({ dates, values, year: '2022' })
     const yearDividends = [year2018, year2019, year2020, year2021, year2022]
     const totalYearDividends = this.getTotalDividends(yearDividends)
-    const average = totalYearDividends / 5
+    const countYearDividends = yearDividends.filter(yearDividend => !!yearDividend).length
+    const average = totalYearDividends / countYearDividends
 
     const result = {
       2018: year2018,
@@ -77,8 +76,8 @@ export class AppComponent implements OnInit {
     this.stocks.push(result)
   }
 
-  populeYearsDividends ({ dateExDividends, values, year }: { dateExDividends: string[], values: number[], year: string }) {
-    const dateValues = dateExDividends.map((date, index) => date.substring(6) === year ? values[index] : 0)
+  populeYearsDividends ({ dates, values, year }: { dates: string[], values: number[], year: string }) {
+    const dateValues = dates.map((date, index) => date.substring(6) === year ? values[index] : 0)
     const somar = (a: number, b: number) => a + b
     return dateValues.reduce(somar)
   }
