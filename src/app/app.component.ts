@@ -130,7 +130,8 @@ export class AppComponent implements OnInit {
     const adjustedDividends = years.filter(year => year !== max && year !== min)
     const somar = (a: number, b: number) => a + b
     const totalAdjustedDividends = adjustedDividends.reduce(somar)
-    return totalAdjustedDividends / 3
+    const averageTotalAdjustedDividends = totalAdjustedDividends / 3
+    return (averageTotalAdjustedDividends / price) * 100
   }
 
   sortBy (prop: string) {
