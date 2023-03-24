@@ -70,10 +70,11 @@ export class AppComponent implements OnInit {
       2021: year2021,
       2022: year2022,
       total: totalYearDividends,
-      average: average,
       name: stock,
-      price: null,
+      average: average,
       dy: null,
+      price: null,
+      averageAdjusted: null,
       adjustedDY: null
     }
 
