@@ -106,7 +106,7 @@ export class AppComponent implements OnInit {
       const averageAdjusted = this.calculeAverageAdjusted(stock)
       const adjustedDY = this.calculeAdjustedDY(averageAdjusted, price)
 
-      this.stocks.push({ ...stock, price, dy, adjustedDY })
+      this.stocks.push({ ...stock, price, dy, averageAdjusted, adjustedDY })
     }
     file.send()
   }
