@@ -102,7 +102,8 @@ export class AppComponent implements OnInit {
       const phase = document.querySelector('#content .about h3').innerHTML
       const price = this.getPrice(phase)
       const dy = this.calculeDy(stock.average, price)
-      const adjustedDY = this.calculeAdjustedDY(stock, price)
+      const averageAdjusted = this.calculeAverageAdjusted(stock)
+      const adjustedDY = this.calculeAdjustedDY(averageAdjusted, price)
 
       this.stocks.push({ ...stock, price, dy, adjustedDY })
     }
@@ -123,14 +124,17 @@ export class AppComponent implements OnInit {
     return (average / price) * 100
   }
 
-  calculeAdjustedDY (stock: IStocks, price: number) {
+  calculeAverageAdjusted (stock: IStocks) {
     const years = [stock[2018], stock[2019], stock[2020], stock[2021], stock[2022]]
     const max = Math.max(...years)
     const min = Math.max(...years)
     const adjustedDividends = years.filter(year => year !== max && year !== min)
     const somar = (a: number, b: number) => a + b
     const totalAdjustedDividends = adjustedDividends.reduce(somar)
-    const averageTotalAdjustedDividends = totalAdjustedDividends / 3
+    return totalAdjustedDividends / 3
+  }
+
+  calculeAdjustedDY (averageTotalAdjustedDividends: number, price: number) {
     return (averageTotalAdjustedDividends / price) * 100
   }
 

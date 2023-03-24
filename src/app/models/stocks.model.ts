@@ -9,5 +9,6 @@ export interface IStocks {
   average: number
   price: number
   dy: number
+  averageAdjusted: number
   adjustedDY: number
 }
