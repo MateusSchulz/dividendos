@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Histórico de dividendos de TAEE11 (Taesa) - Dados de Mercado</title>
+    <title>TAEE11 (Taesa) - Dados de Mercado</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" type="image/x-icon" href="/static/favicon.ico">
     <link rel="alternate" type="application/rss+xml" title="RSS" href="https://www.dadosdemercado.com.br/rss">
@@ -11,7 +11,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;500;700&display=swap" rel="stylesheet">
-    
+    <meta name="description" content="Dados atualizados da ação TAEE11, informações sobre a Taesa, histórico de resultados, balanços, dividendos, indicadores e cotações ajustadas">
     
     <script type="application/ld+json">
     {
@@ -38,11 +38,6 @@
                 "position": 4,
                 "name": "TAEE11",
                 "item": "https://www.dadosdemercado.com.br/bolsa/acoes/TAEE11"
-            },{
-                "@type": "ListItem",
-                "position": 5,
-                "name": "Dividendos",
-                "item": "https://www.dadosdemercado.com.br/bolsa/acoes/TAEE11/dividendos"
             }
         ]
     }
@@ -943,9 +938,6 @@
                 ·
                 
                 <a href="/bolsa/acoes/TAEE11">TAEE11</a>
-                ·
-                
-                <a href="/bolsa/acoes/TAEE11/dividendos">Dividendos</a>
                 
                 
             </div>
@@ -953,536 +945,532 @@
 
             
 
-<h1>Histórico de dividendos de TAEE11 (Taesa)</h1>
+<h1>TAEE11 (Taesa)</h1>
+
+
+<p class="serif">A Taesa S.A. é uma empresa brasileira que atua no setor de transmissão de energia elétrica. Com mais de 13 mil km de linhas em operação e em construção, a empresa é uma das maiores do país em termos de Receita Anual Permitida (RAP). Além disso, a Taesa possui ativos em todas as regiões do Brasil e um Centro de Operação e Controle em Brasília. A empresa detém 39 concessões de transmissão e suas ações são negociadas na Bolsa de Valores de São Paulo. O controle acionário da Taesa é exercido pela Companhia Energética de Minas Gerais e pela ISA Investimentos e Participações do Brasil S.A.</p>
+
+
+<div class="about">
+    <div>
+        <div class="about-params">
+            <div>
+                <span>Transmissora Aliança de Energia Elétrica S.A.</span>
+                <span>Razão social</span>
+            </div>
+            <div>
+                <span>07.859.971/0001-30</span>
+                <span>CNPJ</span>
+            </div>
+            <div>
+                <span><a href="http://www.taesa.com.br" target="_blank">Site do RI</a></span>
+                <span>Website</span>
+            </div>
+            <div>
+                <span>Utilidade Pública</span>
+                <span>Setor</span>
+            </div>
+            <div>
+                <span>--</span>
+                <span>Quantidade de ações</span>
+            </div>
+            <div>
+                <span>BRTAEECDAM10</span>
+                <span>Código ISIN</span>
+            </div>
+        </div>
+    </div>
+    <div>
+        
+        <h3>TAEE11: R$ 34,50 -0,55%</h3>
+        <div id="chart"></div>
+        <p><a href="/bolsa/acoes/TAEE11/cotacoes">Histórico de cotações →</a></p>
+        
+    </div>
+</div>
+
+
+
+
+
+<h2>Indicadores financeiros</h2>
+
+<p>Indicadores financeiros calculados com base no balanço de 31/12/2022 e resultados do período de
+    01/01/2022
+    até 31/12/2022.</p>
+
+<div class="grid">
+    <div>
+        <span>80,95</span>
+        <span>Margem bruta</span>
+    </div>
+    <div>
+        <span>55,39</span>
+        <span>Margem líquida</span>
+    </div>
+    <div>
+        <span>93,30</span>
+        <span>Margem EBIT</span>
+    </div>
+    <div>
+        <span>92,35</span>
+        <span>Margem EBITDA</span>
+    </div>
+    <div>
+        <span>65,11</span>
+        <span>Margem operacional</span>
+    </div>
+    <div>
+        <span>22,06</span>
+        <span>ROE</span>
+    </div>
+    <div>
+        <span>0,08</span>
+        <span>ROA</span>
+    </div>
+    <div>
+        <span>0,15</span>
+        <span>Giro do ativo</span>
+    </div>
+    <div>
+        <span>3,02</span>
+        <span>Liquidez corrente</span>
+    </div>
+    <div>
+        <span>3,02</span>
+        <span>Liquidez seca</span>
+    </div>
+    <div>
+        <span>1,06</span>
+        <span>Liquidez imediata</span>
+    </div>
+    <div>
+        <span>2.068 mi</span>
+        <span>Capital de giro</span>
+    </div>
+    <div>
+        <span>8.156 mi</span>
+        <span>Dívida bruta</span>
+    </div>
+    <div>
+        <span>7.073 mi</span>
+        <span>Dívida líquida</span>
+    </div>
+    <div>
+        <span>163,44</span>
+        <span>Endividamento geral</span>
+    </div>
+    <div>
+        <span>2.416 mi</span>
+        <span>EBITDA</span>
+    </div>
+</div>
+
+<p><a href="/bolsa/acoes/TAEE11/indicadores-financeiros">Histórico de indicadores financeiros →</a></p>
+
+
+
+<h2>Balanços</h2>
+
+<div class="table-container high">
+    <table class="normal-table">
+        <thead>
+            <tr>
+                <th></th>
+                <th class="right">4T2022</th><th class="right">3T2022</th><th class="right">2T2022</th><th class="right">1T2022</th><th class="right">4T2021</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Ativo total</td><td class="right">17,31 B</td><td class="right">17,85 B</td><td class="right">18,23 B</td><td class="right">17,39 B</td><td class="right">15,90 B</td>
+            </tr>
+            <tr>
+                <td>Ativo circulante</td><td class="right">3,09 B
+                </td>
+                <td class="right">3,62 B
+                </td>
+                <td class="right">3,95 B
+                </td>
+                <td class="right">3,33 B
+                </td>
+                <td class="right">2,14 B
+                </td>
+                
+            </tr>
+            <tr>
+                <td>Caixa e equivalentes de caixa</td><td class="right">1,08 B
+                </td><td class="right">1,56 B
+                </td><td class="right">1,84 B
+                </td><td class="right">1,45 B
+                </td><td class="right">384,82 M
+                </td>
+            </tr>
+            <tr>
+                <td>Aplicações financeiras</td><td class="right">0</td><td class="right">0</td><td class="right">0</td><td class="right">0</td><td class="right">0</td>
+            </tr>
+            <tr>
+                <td>Contas a receber</td><td class="right">202,94 M
+                </td>
+                <td class="right">234,18 M
+                </td>
+                <td class="right">227,34 M
+                </td>
+                <td class="right">208,99 M
+                </td>
+                <td class="right">212,07 M
+                </td>
+                
+            </tr>
+            <tr>
+                <td>Estoques</td><td class="right">0</td><td class="right">0</td><td class="right">0</td><td class="right">0</td><td class="right">0</td>
+            </tr>
+            <tr>
+                <td>Ativos biológicos</td><td class="right">0
+                </td><td class="right">0
+                </td><td class="right">0
+                </td><td class="right">0
+                </td><td class="right">0
+                </td>
+            </tr>
+            <tr>
+                <td>Ativo não circulante</td><td class="right">14,22 B
+                </td><td class="right">14,23 B
+                </td><td class="right">14,28 B
+                </td><td class="right">14,07 B
+                </td><td class="right">13,76 B
+                </td>
+            </tr>
+            <tr>
+                <td>Investimentos</td><td class="right">3,61 B</td>
+                <td class="right">3,69 B</td>
+                <td class="right">3,67 B</td>
+                <td class="right">3,57 B</td>
+                <td class="right">3,44 B</td>
+                
+            </tr>
+            <tr>
+                <td>Imobilizado</td><td class="right">203,71 M</td><td class="right">129,78 M</td><td class="right">97,35 M</td><td class="right">92,11 M</td><td class="right">86,35 M</td>
+            </tr>
+            <tr>
+                <td>Intangível</td><td class="right">136,94 M
+                </td>
+                <td class="right">109,70 M
+                </td>
+                <td class="right">101,32 M
+                </td>
+                <td class="right">98,84 M
+                </td>
+                <td class="right">98,80 M
+                </td>
+                
+            </tr>
+            <tr>
+                <td>Passivo total</td><td class="right">17,31 B</td>
+                <td class="right">17,85 B</td>
+                <td class="right">18,23 B</td>
+                <td class="right">17,39 B</td>
+                <td class="right">15,90 B</td>
+                
+            </tr>
+            <tr>
+                <td>Passivo circulante</td><td class="right">1,02 B
+                </td><td class="right">975,30 M
+                </td><td class="right">1,28 B
+                </td><td class="right">1,43 B
+                </td><td class="right">1,42 B
+                </td>
+            </tr>
+            <tr>
+                <td>Fornecedores</td><td class="right">133,73 M</td><td class="right">86,76 M</td><td class="right">97,94 M</td><td class="right">89,23 M</td><td class="right">131,62 M</td>
+            </tr>
+            <tr>
+                <td>Empréstimos e financiamentos</td><td class="right">637,92 M
+                </td><td class="right">711,36 M
+                </td><td class="right">1,03 B
+                </td><td class="right">1,04 B
+                </td><td class="right">958,05 M
+                </td>
+            </tr>
+            <tr>
+                <td>Passivo não circulante</td><td class="right">9,72 B</td><td class="right">9,93 B</td><td class="right">9,80 B</td><td class="right">8,72 B</td><td class="right">7,79 B</td>
+            </tr>
+            <tr>
+                <td>Empréstimos e financiamentos</td><td class="right">7,52 B</td><td class="right">7,76 B</td><td class="right">7,61 B</td><td class="right">6,65 B</td><td class="right">5,85 B</td>
+            </tr>
+            <tr>
+                <td>Patrimônio líquido</td><td class="right">6,57 B</td>
+                <td class="right">6,95 B</td>
+                <td class="right">7,15 B</td>
+                <td class="right">7,24 B</td>
+                <td class="right">6,68 B</td>
+                
+            </tr>
+            <tr>
+                <td>Aos não controladores</td><td class="right">0</td><td class="right">0</td><td class="right">0</td><td class="right">0</td><td class="right">0</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<p><a href="/bolsa/acoes/TAEE11/balancos">Histórico de balanços →</a></p>
+
+<h2>Resultados</h2>
+
+<div class="table-container high">
+    <table class="normal-table">
+        <thead>
+            <tr>
+                <th></th>
+                <th class="right">4T2022</th><th class="right">3T2022</th><th class="right">2T2022</th><th class="right">1T2022</th><th class="right">4T2021</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Receita de venda de bens e/ou serviços</td><td class="right">509,36 M</td><td class="right">463,79 M</td><td class="right">847,72 M</td><td class="right">795,65 M</td><td class="right">716,96 M</td>
+            </tr>
+            <tr>
+                <td>Custo dos bens e/ou serviços vendidos</td><td class="right">-197,09 M
+                </td><td class="right">-137,84 M
+                </td><td class="right">-93,80 M
+                </td><td class="right">-69,71 M
+                </td><td class="right">-125,42 M
+                </td>
+            </tr>
+            <tr>
+                <td>Resultado bruto</td><td class="right">312,26 M</td>
+                <td class="right">325,95 M</td>
+                <td class="right">753,92 M</td>
+                <td class="right">725,93 M</td>
+                <td class="right">591,54 M</td>
+                
+            </tr>
+            <tr>
+                <td>Despesas/receitas operacionais</td><td class="right">-88,20 M</td><td class="right">70,85 M</td><td class="right">171,21 M</td><td class="right">169,36 M</td><td class="right">98,41 M</td>
+            </tr>
+            <tr>
+                <td>Resultado antes do resultado financeiro e dos tributos</td><td class="right">
+                    224,06 M</td><td class="right">
+                    396,80 M</td><td class="right">
+                    925,13 M</td><td class="right">
+                    895,29 M</td><td class="right">
+                    689,95 M</td>
+            </tr>
+            <tr>
+                <td>Resultado não operacional (resultado financeiro)</td><td class="right">-163,04 M</td><td class="right">-85,76 M</td><td class="right">-260,58 M</td><td class="right">-228,18 M</td><td class="right">-223,51 M</td>
+            </tr>
+            <tr>
+                <td>Resultado antes dos tributos sobre o lucro</td><td class="right">61,02 M</td><td class="right">311,04 M</td><td class="right">664,55 M</td><td class="right">667,11 M</td><td class="right">466,43 M</td>
+            </tr>
+            <tr>
+                <td>Imposto de renda e contribuição social sobre o lucro</td><td class="right">-38,21 M</td><td class="right">-8,59 M</td><td class="right">-100,53 M</td><td class="right">-107,19 M</td><td class="right">-43,35 M</td>
+            </tr>
+            <tr>
+                <td>Resultado líquido das operações continuadas</td><td class="right">22,82 M</td><td class="right">302,45 M</td><td class="right">564,02 M</td><td class="right">559,92 M</td><td class="right">423,08 M</td>
+            </tr>
+            <tr>
+                <td>Resultado líquido de operações descontinuadas</td><td class="right">0</td><td class="right">0</td><td class="right">0</td><td class="right">0</td><td class="right">0</td>
+            </tr>
+            <tr>
+                <td>Lucro/prejuízo consolidado do período</td><td class="right">22,82 M</td><td class="right">302,45 M</td><td class="right">564,02 M</td><td class="right">559,92 M</td><td class="right">423,08 M</td>
+            </tr>
+            <tr>
+                <td>Resultado atribuído a sócios da empresa controladora</td><td class="right">22,82 M</td><td class="right">302,45 M</td><td class="right">564,02 M</td><td class="right">559,92 M</td><td class="right">423,08 M</td>
+            </tr>
+            <tr>
+                <td>Resultado atribuído a sócios não controladores</td><td class="right">0</td><td class="right">0</td><td class="right">0</td><td class="right">0</td><td class="right">0</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<p><a href="/bolsa/acoes/TAEE11/resultados">Histórico de resultados →</a></p>
+
+<h2>Fluxos de caixa</h2>
+
+<div class="table-container high">
+    <table class="normal-table">
+        <thead>
+            <tr>
+                <th></th>
+                <th class="right">4T2022</th><th class="right">3T2022</th><th class="right">2T2022</th><th class="right">1T2022</th><th class="right">4T2021</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>FCO</td><td class="right">2,01 B</td><td class="right">1,90 B</td><td class="right">1,81 B</td><td class="right">1,67 B</td><td class="right">1,45 B</td>
+            </tr>
+            <tr>
+                <td>FCI</td><td class="right">-311,21 M</td><td class="right">-228,07 M</td><td class="right">-198,80 M</td><td class="right">-151,65 M</td><td class="right">-128,82 M</td>
+            </tr>
+            <tr>
+                <td>FCF</td><td class="right">-1,00 B</td><td class="right">-1,07 B</td><td class="right">-483,06 M</td><td class="right">-1,09 B</td><td class="right">-1,83 B</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<p><a href="/bolsa/acoes/TAEE11/fluxos-de-caixa">Histórico de fluxos de caixa →</a></p>
+
+<h2>Dividendos</h2>
+
+
 
 <div class="table-container">
     <table class="normal-table">
         <thead>
             <tr>
                 <th>Tipo</th>
-                <th>Registro</th>
-                <th>Ex</th>
-                <th>Pagamento</th>
-                <th>Valor</th>
+                <th class="right">Registro</th>
+                <th class="right">Ex</th>
+                <th class="right">Pagamento</th>
+                <th class="right">Valor</th>
             </tr>
         </thead>
         <tbody>
             
             <tr>
                 <td>Dividendo</td>
-                <td>10/01/2023</td>
-                <td>11/01/2023</td>
-                <td>23/01/2023</td>
-                <td>1,335273</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>14/11/2022</td>
-                <td>16/11/2022</td>
-                <td>05/12/2022</td>
-                <td>0,131087</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>14/11/2022</td>
-                <td>16/11/2022</td>
-                <td>05/12/2022</td>
-                <td>0,329172</td>
+                <td class="right">10/01/2023</td>
+                <td class="right">11/01/2023</td>
+                <td class="right">23/01/2023</td>
+                <td class="right">1,335273</td>
             </tr>
             
             <tr>
                 <td>JSCP</td>
-                <td>14/11/2022</td>
-                <td>16/11/2022</td>
-                <td>05/12/2022</td>
-                <td>0,600347</td>
+                <td class="right">14/11/2022</td>
+                <td class="right">16/11/2022</td>
+                <td class="right">05/12/2022</td>
+                <td class="right">0,600347</td>
             </tr>
             
             <tr>
                 <td>Dividendo</td>
-                <td>15/08/2022</td>
-                <td>16/08/2022</td>
-                <td>26/08/2022</td>
-                <td>0,896372</td>
+                <td class="right">14/11/2022</td>
+                <td class="right">16/11/2022</td>
+                <td class="right">05/12/2022</td>
+                <td class="right">0,329172</td>
+            </tr>
+            
+            <tr>
+                <td>Dividendo</td>
+                <td class="right">14/11/2022</td>
+                <td class="right">16/11/2022</td>
+                <td class="right">05/12/2022</td>
+                <td class="right">0,131087</td>
             </tr>
             
             <tr>
                 <td>JSCP</td>
-                <td>15/08/2022</td>
-                <td>16/08/2022</td>
-                <td>26/08/2022</td>
-                <td>0,574557</td>
+                <td class="right">15/08/2022</td>
+                <td class="right">16/08/2022</td>
+                <td class="right">26/08/2022</td>
+                <td class="right">0,574557</td>
             </tr>
             
             <tr>
                 <td>Dividendo</td>
-                <td>09/05/2022</td>
-                <td>10/05/2022</td>
-                <td>31/05/2022</td>
-                <td>2,323063</td>
+                <td class="right">15/08/2022</td>
+                <td class="right">16/08/2022</td>
+                <td class="right">26/08/2022</td>
+                <td class="right">0,896372</td>
+            </tr>
+            
+            <tr>
+                <td>Dividendo</td>
+                <td class="right">09/05/2022</td>
+                <td class="right">10/05/2022</td>
+                <td class="right">31/05/2022</td>
+                <td class="right">2,323063</td>
+            </tr>
+            
+            <tr>
+                <td>Dividendo</td>
+                <td class="right">06/12/2021</td>
+                <td class="right">07/12/2021</td>
+                <td class="right">29/12/2021</td>
+                <td class="right">0,931744</td>
             </tr>
             
             <tr>
                 <td>JSCP</td>
-                <td>06/12/2021</td>
-                <td>07/12/2021</td>
-                <td>29/12/2021</td>
-                <td>0,586403</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>06/12/2021</td>
-                <td>07/12/2021</td>
-                <td>29/12/2021</td>
-                <td>0,931744</td>
+                <td class="right">06/12/2021</td>
+                <td class="right">07/12/2021</td>
+                <td class="right">29/12/2021</td>
+                <td class="right">0,586403</td>
             </tr>
             
             <tr>
                 <td>JSCP</td>
-                <td>18/05/2021</td>
-                <td>19/05/2021</td>
-                <td>27/05/2021</td>
-                <td>0,188691</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>18/05/2021</td>
-                <td>19/05/2021</td>
-                <td>27/05/2021</td>
-                <td>1,165672</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>04/05/2021</td>
-                <td>05/05/2021</td>
-                <td>27/05/2021</td>
-                <td>1,631192</td>
-            </tr>
-            
-            <tr>
-                <td>JSCP</td>
-                <td>15/12/2020</td>
-                <td>16/12/2020</td>
-                <td>28/12/2020</td>
-                <td>0,157382</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>16/11/2020</td>
-                <td>17/11/2020</td>
-                <td>25/11/2020</td>
-                <td>1,192376</td>
-            </tr>
-            
-            <tr>
-                <td>JSCP</td>
-                <td>16/11/2020</td>
-                <td>17/11/2020</td>
-                <td>25/11/2020</td>
-                <td>0,169566</td>
-            </tr>
-            
-            <tr>
-                <td>JSCP</td>
-                <td>17/08/2020</td>
-                <td>18/08/2020</td>
-                <td>26/08/2020</td>
-                <td>0,170579</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>17/08/2020</td>
-                <td>18/08/2020</td>
-                <td>26/08/2020</td>
-                <td>0,640183</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>19/05/2020</td>
-                <td>20/05/2020</td>
-                <td>28/05/2020</td>
-                <td>0,523780</td>
-            </tr>
-            
-            <tr>
-                <td>JSCP</td>
-                <td>19/05/2020</td>
-                <td>20/05/2020</td>
-                <td>28/05/2020</td>
-                <td>0,177871</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>06/05/2020</td>
-                <td>07/05/2020</td>
-                <td>15/05/2020</td>
-                <td>0,179282</td>
-            </tr>
-            
-            <tr>
-                <td>JSCP</td>
-                <td>16/12/2019</td>
-                <td>17/12/2019</td>
-                <td>27/12/2019</td>
-                <td>0,180416</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>19/11/2019</td>
-                <td>21/11/2019</td>
-                <td>29/11/2019</td>
-                <td>0,351688</td>
-            </tr>
-            
-            <tr>
-                <td>JSCP</td>
-                <td>19/11/2019</td>
-                <td>21/11/2019</td>
-                <td>29/11/2019</td>
-                <td>0,189802</td>
-            </tr>
-            
-            <tr>
-                <td>JSCP</td>
-                <td>08/08/2019</td>
-                <td>09/08/2019</td>
-                <td>19/08/2019</td>
-                <td>0,199444</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>08/08/2019</td>
-                <td>09/08/2019</td>
-                <td>19/08/2019</td>
-                <td>0,522563</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>17/05/2019</td>
-                <td>20/05/2019</td>
-                <td>28/05/2019</td>
-                <td>0,054782</td>
-            </tr>
-            
-            <tr>
-                <td>JSCP</td>
-                <td>17/05/2019</td>
-                <td>20/05/2019</td>
-                <td>28/05/2019</td>
-                <td>0,226054</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>03/05/2019</td>
-                <td>06/05/2019</td>
-                <td>14/05/2019</td>
-                <td>0,165951</td>
-            </tr>
-            
-            <tr>
-                <td>JSCP</td>
-                <td>17/12/2018</td>
-                <td>18/12/2018</td>
-                <td>28/12/2018</td>
-                <td>0,399276</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>09/11/2018</td>
-                <td>12/11/2018</td>
-                <td>22/11/2018</td>
-                <td>0,711571</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>09/08/2018</td>
-                <td>10/08/2018</td>
-                <td>20/08/2018</td>
-                <td>0,266545</td>
-            </tr>
-            
-            <tr>
-                <td>JSCP</td>
-                <td>09/08/2018</td>
-                <td>10/08/2018</td>
-                <td>20/08/2018</td>
-                <td>0,210523</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>14/05/2018</td>
-                <td>15/05/2018</td>
-                <td>23/05/2018</td>
-                <td>0,545957</td>
-            </tr>
-            
-            <tr>
-                <td>JSCP</td>
-                <td>14/05/2018</td>
-                <td>15/05/2018</td>
-                <td>23/05/2018</td>
-                <td>0,190894</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>02/05/2018</td>
-                <td>03/05/2018</td>
-                <td>11/05/2018</td>
-                <td>0,462485</td>
-            </tr>
-            
-            <tr>
-                <td>JSCP</td>
-                <td>15/12/2017</td>
-                <td>18/12/2017</td>
-                <td>28/12/2017</td>
-                <td>0,270292</td>
-            </tr>
-            
-            <tr>
-                <td>JSCP</td>
-                <td>16/11/2017</td>
-                <td>17/11/2017</td>
-                <td>29/11/2017</td>
-                <td>0,139284</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>16/11/2017</td>
-                <td>17/11/2017</td>
-                <td>29/11/2017</td>
-                <td>0,129054</td>
-            </tr>
-            
-            <tr>
-                <td>JSCP</td>
-                <td>15/08/2017</td>
-                <td>16/08/2017</td>
-                <td>28/08/2017</td>
-                <td>0,200906</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>15/08/2017</td>
-                <td>16/08/2017</td>
-                <td>28/08/2017</td>
-                <td>0,001960</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>22/05/2017</td>
-                <td>23/05/2017</td>
-                <td>31/05/2017</td>
-                <td>0,290396</td>
-            </tr>
-            
-            <tr>
-                <td>JSCP</td>
-                <td>22/05/2017</td>
-                <td>23/05/2017</td>
-                <td>31/05/2017</td>
-                <td>0,226756</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>04/05/2017</td>
-                <td>05/05/2017</td>
-                <td>12/05/2017</td>
-                <td>0,507165</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>23/11/2016</td>
-                <td>24/11/2016</td>
-                <td>05/12/2016</td>
-                <td>0,121169</td>
-            </tr>
-            
-            <tr>
-                <td>JSCP</td>
-                <td>23/11/2016</td>
-                <td>24/11/2016</td>
-                <td>05/12/2016</td>
-                <td>0,426856</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>17/08/2016</td>
-                <td>18/08/2016</td>
-                <td>29/08/2016</td>
-                <td>0,505162</td>
-            </tr>
-            
-            <tr>
-                <td>JSCP</td>
-                <td>17/08/2016</td>
-                <td>18/08/2016</td>
-                <td>29/08/2016</td>
-                <td>0,071143</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>24/05/2016</td>
-                <td>25/05/2016</td>
-                <td>03/06/2016</td>
-                <td>0,270420</td>
-            </tr>
-            
-            <tr>
-                <td>JSCP</td>
-                <td>24/05/2016</td>
-                <td>25/05/2016</td>
-                <td>03/06/2016</td>
-                <td>0,372698</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>18/04/2016</td>
-                <td>19/04/2016</td>
-                <td>19/04/2016</td>
-                <td>0,936602</td>
-            </tr>
-            
-            <tr>
-                <td>JSCP</td>
-                <td>18/12/2015</td>
-                <td>21/12/2015</td>
-                <td>30/12/2015</td>
-                <td>0,237883</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>18/12/2015</td>
-                <td>21/12/2015</td>
-                <td>30/12/2015</td>
-                <td>0,320006</td>
-            </tr>
-            
-            <tr>
-                <td>JSCP</td>
-                <td>17/09/2015</td>
-                <td>18/09/2015</td>
-                <td>30/09/2015</td>
-                <td>0,472274</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>17/09/2015</td>
-                <td>18/09/2015</td>
-                <td>30/09/2015</td>
-                <td>0,427705</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>22/04/2015</td>
-                <td>23/04/2015</td>
-                <td>30/04/2015</td>
-                <td>0,427705</td>
-            </tr>
-            
-            <tr>
-                <td>JSCP</td>
-                <td>04/12/2014</td>
-                <td>05/12/2014</td>
-                <td>17/12/2014</td>
-                <td>0,571845</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>26/09/2014</td>
-                <td>29/09/2014</td>
-                <td>06/10/2014</td>
-                <td>1,161107</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>30/04/2014</td>
-                <td>02/05/2014</td>
-                <td>28/05/2014</td>
-                <td>1,200777</td>
-            </tr>
-            
-            <tr>
-                <td>JSCP</td>
-                <td>12/12/2013</td>
-                <td>13/12/2013</td>
-                <td>20/12/2013</td>
-                <td>0,551526</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>12/12/2013</td>
-                <td>13/12/2013</td>
-                <td>20/12/2013</td>
-                <td>0,609581</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>30/04/2013</td>
-                <td>02/05/2013</td>
-                <td>10/06/2013</td>
-                <td>1,042921</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>19/12/2012</td>
-                <td>20/12/2012</td>
-                <td>27/12/2012</td>
-                <td>0,464443</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>27/04/2012</td>
-                <td>29/05/2012</td>
-                <td>31/10/2012</td>
-                <td>0,621968</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>27/04/2012</td>
-                <td>29/05/2012</td>
-                <td>31/10/2012</td>
-                <td>0,621968</td>
+                <td class="right">18/05/2021</td>
+                <td class="right">19/05/2021</td>
+                <td class="right">27/05/2021</td>
+                <td class="right">0,188691</td>
             </tr>
             
         </tbody>
     </table>
 </div>
+
+<p><a href="/bolsa/acoes/TAEE11/dividendos">Histórico de dividendos →</a></p>
+
+
+
+<h2>Bonificações</h2>
+
+
+
+<p>Não temos registro de bonificações de TAEE11.</p>
+
+
+
+<h2>Desdobramentos</h2>
+
+
+
+<p>Não temos registro de desdobramentos de TAEE11.</p>
+
+
+
+
+<script src="/static/echarts.custom.min.js"></script>
+<script src="/static/chart.js"></script>
+<script>
+    const data = [["2023-02-23", 35.65], ["2023-02-24", 35.25], ["2023-02-27", 35.42], ["2023-02-28", 35.49], ["2023-03-01", 35.63], ["2023-03-02", 35.55], ["2023-03-03", 35.64], ["2023-03-06", 35.88], ["2023-03-07", 35.95], ["2023-03-08", 36.14], ["2023-03-09", 35.9], ["2023-03-10", 35.98], ["2023-03-13", 36.35], ["2023-03-14", 36.6], ["2023-03-15", 37.25], ["2023-03-16", 35.75], ["2023-03-17", 35.48], ["2023-03-20", 35.55], ["2023-03-21", 34.85], ["2023-03-22", 34.69], ["2023-03-23", 34.5]];
+    drawChart(data, document.getElementById('chart'), xformatter = x => {
+        const parts = x.split('-');
+        return `${parts[2]}/${parts[1]}`;
+    }, formatter = y => {
+        return `${y.toFixed(2).replace('.', ',')}`;
+    });
+
+    document.querySelectorAll('.table-container.high td').forEach(td => {
+        td.addEventListener('mouseenter', function () {
+            // Highlight the column by adding the 'highlight' class to all td elements in the same column
+            const table = this.closest('table');
+            const colIndex = this.cellIndex;
+            const tdsInCol = table.querySelectorAll(`td:nth-child(${colIndex + 1})`);
+            tdsInCol.forEach(tdInCol => tdInCol.classList.add('highlight'));
+
+            // Highlight the row by adding the 'highlight' class to all td elements in the same row
+            const tr = this.closest('tr');
+            const tdsInRow = tr.querySelectorAll('td');
+            tdsInRow.forEach(tdInRow => tdInRow.classList.add('highlight'));
+        });
+        td.addEventListener('mouseleave', function () {
+            // Remove the 'highlight' class from all td elements in the same column
+            const table = this.closest('table');
+            const colIndex = this.cellIndex;
+            const tdsInCol = table.querySelectorAll(`td:nth-child(${colIndex + 1})`);
+            tdsInCol.forEach(tdInCol => tdInCol.classList.remove('highlight'));
+
+            // Remove the 'highlight' class from all td elements in the same row
+            const tr = this.closest('tr');
+            const tdsInRow = tr.querySelectorAll('td');
+            tdsInRow.forEach(tdInRow => tdInRow.classList.remove('highlight'));
+        });
+    });
+</script>
 
 
         </div>

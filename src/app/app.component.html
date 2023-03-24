@@ -11,10 +11,13 @@
         <td>2021</td>
         <td>2022</td>
         <td>Average</td>
+        <td>Price</td>
+        <td>DY Médio</td>
+        <td>DY Ajustado</td>
       </tr>
     </thead>
     <tbody>
-      <tr *ngFor="let stock of stocks; let index = index">
+      <tr *ngFor="let stock of sortBy('adjustedDY'); let index = index">
         <td>{{ index + 1 }}</td>
         <td class="text-uppercase">{{ stock.name | lowercase }}</td>
         <td>{{ stock[2018] | number:'.4-4' }}</td>
@@ -23,6 +26,9 @@
         <td>{{ stock[2021] | number:'.4-4' }}</td>
         <td>{{ stock[2022] | number:'.4-4' }}</td>
         <td>{{ stock.average | number:'.4-4' }}</td>
+        <td>{{ stock.price | number:'.2-2' }}</td>
+        <td>{{ stock.dy | number:'.2-2' }}</td>
+        <td>{{ stock.adjustedDY | number:'.2-2' }}</td>
       </tr>
     </tbody>
   </table>

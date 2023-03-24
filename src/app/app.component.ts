@@ -13,15 +13,15 @@ export class AppComponent implements OnInit {
   ngOnInit() {
     this.stocks = []
     listStocks.forEach((value: string) => {
-      this.readFile(value)
+      this.readDividendsFile(value)
     })
   }
 
-  readFile (stock: string) {
+  readDividendsFile (stock: string) {
     const file = new XMLHttpRequest()
-    file.open("GET", `assets/stocks/${stock}.txt`, true)
+    file.open("GET", `assets/stocks/${stock}-dividends.txt`, true)
     file.onreadystatechange = () => {
-      if(!(file.readyState === 4 && (file.status === 200 || file.status == 0))) return
+      if(!(file.readyState === 4 && (file.status === 200 || file.status === 0))) return
 
       const parser = new DOMParser()
       const document = parser.parseFromString(file.response, 'text/html')
@@ -58,9 +58,10 @@ export class AppComponent implements OnInit {
     const year2021 = this.populeYearsDividends({ dates, values, year: '2021' })
     const year2022 = this.populeYearsDividends({ dates, values, year: '2022' })
     const yearDividends = [year2018, year2019, year2020, year2021, year2022]
+    const zeroDividends = yearDividends.find(yearDividend => !yearDividend)
+    if (zeroDividends) return 
     const totalYearDividends = this.getTotalDividends(yearDividends)
-    const countYearDividends = yearDividends.filter(yearDividend => !!yearDividend).length
-    const average = totalYearDividends / countYearDividends
+    const average = totalYearDividends / 5
 
     const result = {
       2018: year2018,
@@ -70,10 +71,13 @@ export class AppComponent implements OnInit {
       2022: year2022,
       total: totalYearDividends,
       average: average,
-      name: stock
+      name: stock,
+      price: null,
+      dy: null,
+      adjustedDY: null
     }
 
-    this.stocks.push(result)
+    this.readStockFile(result)
   }
 
   populeYearsDividends ({ dates, values, year }: { dates: string[], values: number[], year: string }) {
@@ -84,6 +88,49 @@ export class AppComponent implements OnInit {
 
   getTotalDividends (dividends: number[]) {
     return dividends.reduce((previous, current) => previous + current)
+  }
+
+  readStockFile (stock: IStocks) {
+    const file = new XMLHttpRequest()
+    file.open("GET", `assets/stocks/${stock.name}.txt`, true)
+    file.onreadystatechange = () => {
+      if(!(file.readyState === 4 && (file.status === 200 || file.status === 0))) return
+
+      const parser = new DOMParser()
+      const document = parser.parseFromString(file.response, 'text/html')
+
+      const phase = document.querySelector('#content .about h3').innerHTML
+      const price = this.getPrice(phase)
+      const dy = this.calculeDy(stock.average, price)
+      const adjustedDY = this.calculeAdjustedDY(stock, price)
+
+      this.stocks.push({ ...stock, price, dy, adjustedDY })
+    }
+    file.send()
+  }
+
+  getPrice (phase: string) {
+    console.log('phase', phase)
+    const stepOne = phase.split('R$')[1]
+    console.log('stepOne', stepOne)
+    const stepTwo = stepOne.includes('-') ? stepOne.split('-')[0] : stepOne.split('+')[0]
+    console.log('stepTwo', stepTwo)
+    const price = Number(stepTwo.replace(' ', '').replace(',', '.').slice(1,999))
+    return price
+  }
+
+  calculeDy (average: number, price: number) {
+    return (average / price) * 100
+  }
+
+  calculeAdjustedDY (stock: IStocks, price: number) {
+    const years = [stock[2018], stock[2019], stock[2020], stock[2021], stock[2022]]
+    const max = Math.max(...years)
+    const min = Math.max(...years)
+    const adjustedDividends = years.filter(year => year !== max && year !== min)
+    const somar = (a: number, b: number) => a + b
+    const totalAdjustedDividends = adjustedDividends.reduce(somar)
+    return totalAdjustedDividends / 3
   }
 
   sortBy (prop: string) {
