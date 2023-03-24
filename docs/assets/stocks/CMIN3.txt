@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Histórico de dividendos de CMIN3 (CSN Mineração) - Dados de Mercado</title>
+    <title>CMIN3 (CSN Mineração) - Dados de Mercado</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" type="image/x-icon" href="/static/favicon.ico">
     <link rel="alternate" type="application/rss+xml" title="RSS" href="https://www.dadosdemercado.com.br/rss">
@@ -11,7 +11,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;500;700&display=swap" rel="stylesheet">
-    
+    <meta name="description" content="Dados atualizados da ação CMIN3, informações sobre a CSN Mineração, histórico de resultados, balanços, dividendos, indicadores e cotações ajustadas">
     
     <script type="application/ld+json">
     {
@@ -38,11 +38,6 @@
                 "position": 4,
                 "name": "CMIN3",
                 "item": "https://www.dadosdemercado.com.br/bolsa/acoes/CMIN3"
-            },{
-                "@type": "ListItem",
-                "position": 5,
-                "name": "Dividendos",
-                "item": "https://www.dadosdemercado.com.br/bolsa/acoes/CMIN3/dividendos"
             }
         ]
     }
@@ -943,9 +938,6 @@
                 ·
                 
                 <a href="/bolsa/acoes/CMIN3">CMIN3</a>
-                ·
-                
-                <a href="/bolsa/acoes/CMIN3/dividendos">Dividendos</a>
                 
                 
             </div>
@@ -953,80 +945,555 @@
 
             
 
-<h1>Histórico de dividendos de CMIN3 (CSN Mineração)</h1>
+<h1>CMIN3 (CSN Mineração)</h1>
+
+
+
+<div class="about">
+    <div>
+        <div class="about-params">
+            <div>
+                <span>CSN Mineração S.A.</span>
+                <span>Razão social</span>
+            </div>
+            <div>
+                <span>08.902.291/0001-15</span>
+                <span>CNPJ</span>
+            </div>
+            <div>
+                <span><a href="None" target="_blank">Site do RI</a></span>
+                <span>Website</span>
+            </div>
+            <div>
+                <span>Materiais Básicos</span>
+                <span>Setor</span>
+            </div>
+            <div>
+                <span>5.485.338.173</span>
+                <span>Quantidade de ações</span>
+            </div>
+            <div>
+                <span>BRCMINACNOR2</span>
+                <span>Código ISIN</span>
+            </div>
+        </div>
+    </div>
+    <div>
+        
+        <h3>CMIN3: R$ 4,48 -0,88%</h3>
+        <div id="chart"></div>
+        <p><a href="/bolsa/acoes/CMIN3/cotacoes">Histórico de cotações →</a></p>
+        
+    </div>
+</div>
+
+
+
+<h2>Indicadores de mercado</h2>
+
+<p>Atualizado em 23/03/2023 com preço de referência de R$ 4,48
+    por ação e
+    5.485.338.173 ações.</p>
+
+<div class="grid">
+    <div>
+        <span>0,54</span>
+        <span>LPA</span>
+    </div>
+    <div>
+        <span>2,08</span>
+        <span>VPA</span>
+    </div>
+    <div>
+        <span>0,87</span>
+        <span>EBIT por ação</span>
+    </div>
+    <div>
+        <span>4,57</span>
+        <span>Ativo por ação</span>
+    </div>
+    <div>
+        <span>2,42</span>
+        <span>Receita líquida por ação</span>
+    </div>
+    <div>
+        <span>8,33</span>
+        <span>P/L</span>
+    </div>
+    <div>
+        <span>2,16</span>
+        <span>P/VP</span>
+    </div>
+    <div>
+        <span>1,85</span>
+        <span>PSR</span>
+    </div>
+    <div>
+        <span>-42,04</span>
+        <span>P/CF</span>
+    </div>
+</div>
+
+<p><a href="/bolsa/acoes/CMIN3/indicadores-de-mercado">Histórico de indicadores de mercado →</a></p>
+
+
+
+
+
+<h2>Indicadores financeiros</h2>
+
+<p>Indicadores financeiros calculados com base no balanço de 31/12/2022 e resultados do período de
+    01/01/2022
+    até 31/12/2022.</p>
+
+<div class="grid">
+    <div>
+        <span>46,63</span>
+        <span>Margem bruta</span>
+    </div>
+    <div>
+        <span>22,23</span>
+        <span>Margem líquida</span>
+    </div>
+    <div>
+        <span>35,81</span>
+        <span>Margem EBIT</span>
+    </div>
+    <div>
+        <span>28,28</span>
+        <span>Margem EBITDA</span>
+    </div>
+    <div>
+        <span>29,99</span>
+        <span>Margem operacional</span>
+    </div>
+    <div>
+        <span>25,89</span>
+        <span>ROE</span>
+    </div>
+    <div>
+        <span>0,12</span>
+        <span>ROA</span>
+    </div>
+    <div>
+        <span>0,53</span>
+        <span>Giro do ativo</span>
+    </div>
+    <div>
+        <span>2,07</span>
+        <span>Liquidez corrente</span>
+    </div>
+    <div>
+        <span>1,87</span>
+        <span>Liquidez seca</span>
+    </div>
+    <div>
+        <span>1,40</span>
+        <span>Liquidez imediata</span>
+    </div>
+    <div>
+        <span>4.974 mi</span>
+        <span>Capital de giro</span>
+    </div>
+    <div>
+        <span>8.396 mi</span>
+        <span>Dívida bruta</span>
+    </div>
+    <div>
+        <span>1.659 mi</span>
+        <span>Dívida líquida</span>
+    </div>
+    <div>
+        <span>119,90</span>
+        <span>Endividamento geral</span>
+    </div>
+    <div>
+        <span>3.753 mi</span>
+        <span>EBITDA</span>
+    </div>
+</div>
+
+<p><a href="/bolsa/acoes/CMIN3/indicadores-financeiros">Histórico de indicadores financeiros →</a></p>
+
+
+
+<h2>Balanços</h2>
+
+<div class="table-container high">
+    <table class="normal-table">
+        <thead>
+            <tr>
+                <th></th>
+                <th class="right">4T2022</th><th class="right">3T2022</th><th class="right">2T2022</th><th class="right">1T2022</th><th class="right">4T2021</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Ativo total</td><td class="right">25,05 B</td><td class="right">26,51 B</td><td class="right">24,14 B</td><td class="right">24,05 B</td><td class="right">26,99 B</td>
+            </tr>
+            <tr>
+                <td>Ativo circulante</td><td class="right">9,62 B
+                </td>
+                <td class="right">11,65 B
+                </td>
+                <td class="right">9,53 B
+                </td>
+                <td class="right">9,74 B
+                </td>
+                <td class="right">12,80 B
+                </td>
+                
+            </tr>
+            <tr>
+                <td>Caixa e equivalentes de caixa</td><td class="right">6,49 B
+                </td><td class="right">9,58 B
+                </td><td class="right">7,37 B
+                </td><td class="right">6,35 B
+                </td><td class="right">10,72 B
+                </td>
+            </tr>
+            <tr>
+                <td>Aplicações financeiras</td><td class="right">247,33 M</td><td class="right">136,93 M</td><td class="right">226,23 M</td><td class="right">222,69 M</td><td class="right">217,02 M</td>
+            </tr>
+            <tr>
+                <td>Contas a receber</td><td class="right">1,55 B
+                </td>
+                <td class="right">657,22 M
+                </td>
+                <td class="right">790,97 M
+                </td>
+                <td class="right">2,07 B
+                </td>
+                <td class="right">749,77 M
+                </td>
+                
+            </tr>
+            <tr>
+                <td>Estoques</td><td class="right">923,85 M</td><td class="right">818,00 M</td><td class="right">865,46 M</td><td class="right">821,12 M</td><td class="right">855,21 M</td>
+            </tr>
+            <tr>
+                <td>Ativos biológicos</td><td class="right">0
+                </td><td class="right">0
+                </td><td class="right">0
+                </td><td class="right">0
+                </td><td class="right">0
+                </td>
+            </tr>
+            <tr>
+                <td>Ativo não circulante</td><td class="right">15,44 B
+                </td><td class="right">14,86 B
+                </td><td class="right">14,61 B
+                </td><td class="right">14,31 B
+                </td><td class="right">14,19 B
+                </td>
+            </tr>
+            <tr>
+                <td>Investimentos</td><td class="right">1,43 B</td>
+                <td class="right">1,42 B</td>
+                <td class="right">1,36 B</td>
+                <td class="right">1,33 B</td>
+                <td class="right">1,31 B</td>
+                
+            </tr>
+            <tr>
+                <td>Imobilizado</td><td class="right">8,36 B</td><td class="right">8,04 B</td><td class="right">7,97 B</td><td class="right">7,77 B</td><td class="right">7,69 B</td>
+            </tr>
+            <tr>
+                <td>Intangível</td><td class="right">4,39 B
+                </td>
+                <td class="right">4,21 B
+                </td>
+                <td class="right">4,21 B
+                </td>
+                <td class="right">4,22 B
+                </td>
+                <td class="right">4,22 B
+                </td>
+                
+            </tr>
+            <tr>
+                <td>Passivo total</td><td class="right">25,05 B</td>
+                <td class="right">26,51 B</td>
+                <td class="right">24,14 B</td>
+                <td class="right">24,05 B</td>
+                <td class="right">26,99 B</td>
+                
+            </tr>
+            <tr>
+                <td>Passivo circulante</td><td class="right">4,64 B
+                </td><td class="right">4,20 B
+                </td><td class="right">3,81 B
+                </td><td class="right">3,57 B
+                </td><td class="right">6,53 B
+                </td>
+            </tr>
+            <tr>
+                <td>Fornecedores</td><td class="right">1,38 B</td><td class="right">1,11 B</td><td class="right">1,13 B</td><td class="right">1,11 B</td><td class="right">1,15 B</td>
+            </tr>
+            <tr>
+                <td>Empréstimos e financiamentos</td><td class="right">1,05 B
+                </td><td class="right">879,98 M
+                </td><td class="right">841,87 M
+                </td><td class="right">780,22 M
+                </td><td class="right">478,41 M
+                </td>
+            </tr>
+            <tr>
+                <td>Passivo não circulante</td><td class="right">9,02 B</td><td class="right">9,14 B</td><td class="right">7,59 B</td><td class="right">5,74 B</td><td class="right">6,46 B</td>
+            </tr>
+            <tr>
+                <td>Empréstimos e financiamentos</td><td class="right">7,35 B</td><td class="right">7,30 B</td><td class="right">5,82 B</td><td class="right">3,54 B</td><td class="right">4,23 B</td>
+            </tr>
+            <tr>
+                <td>Patrimônio líquido</td><td class="right">11,39 B</td>
+                <td class="right">13,17 B</td>
+                <td class="right">12,75 B</td>
+                <td class="right">14,74 B</td>
+                <td class="right">14,00 B</td>
+                
+            </tr>
+            <tr>
+                <td>Aos não controladores</td><td class="right">0</td><td class="right">0</td><td class="right">0</td><td class="right">0</td><td class="right">0</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<p><a href="/bolsa/acoes/CMIN3/balancos">Histórico de balanços →</a></p>
+
+<h2>Resultados</h2>
+
+<div class="table-container high">
+    <table class="normal-table">
+        <thead>
+            <tr>
+                <th></th>
+                <th class="right">4T2022</th><th class="right">3T2022</th><th class="right">2T2022</th><th class="right">1T2022</th><th class="right">4T2021</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Receita de venda de bens e/ou serviços</td><td class="right">3,98 B</td><td class="right">2,72 B</td><td class="right">2,68 B</td><td class="right">3,89 B</td><td class="right">2,65 B</td>
+            </tr>
+            <tr>
+                <td>Custo dos bens e/ou serviços vendidos</td><td class="right">-1,87 B
+                </td><td class="right">-1,78 B
+                </td><td class="right">-1,84 B
+                </td><td class="right">-1,60 B
+                </td><td class="right">-1,68 B
+                </td>
+            </tr>
+            <tr>
+                <td>Resultado bruto</td><td class="right">2,11 B</td>
+                <td class="right">945,87 M</td>
+                <td class="right">844,06 M</td>
+                <td class="right">2,29 B</td>
+                <td class="right">975,14 M</td>
+                
+            </tr>
+            <tr>
+                <td>Despesas/receitas operacionais</td><td class="right">-776,06 M</td><td class="right">-261,91 M</td><td class="right">-180,46 M</td><td class="right">-218,29 M</td><td class="right">-415,33 M</td>
+            </tr>
+            <tr>
+                <td>Resultado antes do resultado financeiro e dos tributos</td><td class="right">
+                    1,34 B</td><td class="right">
+                    683,96 M</td><td class="right">
+                    663,60 M</td><td class="right">
+                    2,07 B</td><td class="right">
+                    559,81 M</td>
+            </tr>
+            <tr>
+                <td>Resultado não operacional (resultado financeiro)</td><td class="right">-438,53 M</td><td class="right">63,06 M</td><td class="right">568,32 M</td><td class="right">-965,01 M</td><td class="right">159,61 M</td>
+            </tr>
+            <tr>
+                <td>Resultado antes dos tributos sobre o lucro</td><td class="right">896,79 M</td><td class="right">747,01 M</td><td class="right">1,23 B</td><td class="right">1,10 B</td><td class="right">719,42 M</td>
+            </tr>
+            <tr>
+                <td>Imposto de renda e contribuição social sobre o lucro</td><td class="right">-25,41 M</td><td class="right">-232,96 M</td><td class="right">-406,20 M</td><td class="right">-365,54 M</td><td class="right">-15,81 M</td>
+            </tr>
+            <tr>
+                <td>Resultado líquido das operações continuadas</td><td class="right">871,38 M</td><td class="right">514,06 M</td><td class="right">825,72 M</td><td class="right">739,14 M</td><td class="right">703,60 M</td>
+            </tr>
+            <tr>
+                <td>Resultado líquido de operações descontinuadas</td><td class="right">0</td><td class="right">0</td><td class="right">0</td><td class="right">0</td><td class="right">0</td>
+            </tr>
+            <tr>
+                <td>Lucro/prejuízo consolidado do período</td><td class="right">871,38 M</td><td class="right">514,06 M</td><td class="right">825,72 M</td><td class="right">739,14 M</td><td class="right">703,60 M</td>
+            </tr>
+            <tr>
+                <td>Resultado atribuído a sócios da empresa controladora</td><td class="right">-2,08 B</td><td class="right">514,06 M</td><td class="right">825,72 M</td><td class="right">0</td><td class="right">703,60 M</td>
+            </tr>
+            <tr>
+                <td>Resultado atribuído a sócios não controladores</td><td class="right">0</td><td class="right">0</td><td class="right">0</td><td class="right">0</td><td class="right">0</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<p><a href="/bolsa/acoes/CMIN3/resultados">Histórico de resultados →</a></p>
+
+<h2>Fluxos de caixa</h2>
+
+<div class="table-container high">
+    <table class="normal-table">
+        <thead>
+            <tr>
+                <th></th>
+                <th class="right">4T2022</th><th class="right">3T2022</th><th class="right">2T2022</th><th class="right">1T2022</th><th class="right">4T2021</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>FCO</td><td class="right">-584,55 M</td><td class="right">-730,63 M</td><td class="right">2,57 B</td><td class="right">3,06 B</td><td class="right">9,04 B</td>
+            </tr>
+            <tr>
+                <td>FCI</td><td class="right">-1,54 B</td><td class="right">-1,07 B</td><td class="right">-1,43 B</td><td class="right">-1,49 B</td><td class="right">-1,34 B</td>
+            </tr>
+            <tr>
+                <td>FCF</td><td class="right">-2,10 B</td><td class="right">-446,91 M</td><td class="right">-2,84 B</td><td class="right">-326,90 M</td><td class="right">38,51 M</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<p><a href="/bolsa/acoes/CMIN3/fluxos-de-caixa">Histórico de fluxos de caixa →</a></p>
+
+<h2>Dividendos</h2>
+
+
 
 <div class="table-container">
     <table class="normal-table">
         <thead>
             <tr>
                 <th>Tipo</th>
-                <th>Registro</th>
-                <th>Ex</th>
-                <th>Pagamento</th>
-                <th>Valor</th>
+                <th class="right">Registro</th>
+                <th class="right">Ex</th>
+                <th class="right">Pagamento</th>
+                <th class="right">Valor</th>
             </tr>
         </thead>
         <tbody>
             
             <tr>
                 <td>JSCP</td>
-                <td>28/12/2022</td>
-                <td>29/12/2022</td>
-                <td>31/05/2023</td>
-                <td>0,015993</td>
+                <td class="right">28/12/2022</td>
+                <td class="right">29/12/2022</td>
+                <td class="right">31/05/2023</td>
+                <td class="right">0,015993</td>
             </tr>
             
             <tr>
                 <td>JSCP</td>
-                <td>10/11/2022</td>
-                <td>11/11/2022</td>
-                <td>22/11/2022</td>
-                <td>0,124287</td>
+                <td class="right">10/11/2022</td>
+                <td class="right">11/11/2022</td>
+                <td class="right">22/11/2022</td>
+                <td class="right">0,124287</td>
             </tr>
             
             <tr>
                 <td>Dividendo</td>
-                <td>10/11/2022</td>
-                <td>11/11/2022</td>
-                <td>22/11/2022</td>
-                <td>0,321402</td>
+                <td class="right">10/11/2022</td>
+                <td class="right">11/11/2022</td>
+                <td class="right">22/11/2022</td>
+                <td class="right">0,321402</td>
             </tr>
             
             <tr>
                 <td>Dividendo</td>
-                <td>29/04/2022</td>
-                <td>02/05/2022</td>
-                <td>19/05/2022</td>
-                <td>0,459438</td>
+                <td class="right">29/04/2022</td>
+                <td class="right">02/05/2022</td>
+                <td class="right">19/05/2022</td>
+                <td class="right">0,459438</td>
             </tr>
             
             <tr>
                 <td>JSCP</td>
-                <td>29/12/2021</td>
-                <td>30/12/2021</td>
-                <td>20/01/2022</td>
-                <td>0,086309</td>
+                <td class="right">29/12/2021</td>
+                <td class="right">30/12/2021</td>
+                <td class="right">20/01/2022</td>
+                <td class="right">0,086309</td>
             </tr>
             
             <tr>
                 <td>Dividendo</td>
-                <td>30/07/2021</td>
-                <td>02/08/2021</td>
-                <td>10/08/2021</td>
-                <td>0,330526</td>
+                <td class="right">30/07/2021</td>
+                <td class="right">02/08/2021</td>
+                <td class="right">10/08/2021</td>
+                <td class="right">0,330526</td>
             </tr>
             
             <tr>
                 <td>Dividendo</td>
-                <td>30/04/2021</td>
-                <td>03/05/2021</td>
-                <td>10/08/2021</td>
-                <td>0,051582</td>
+                <td class="right">30/04/2021</td>
+                <td class="right">03/05/2021</td>
+                <td class="right">10/08/2021</td>
+                <td class="right">0,051582</td>
             </tr>
             
         </tbody>
     </table>
 </div>
+
+<p><a href="/bolsa/acoes/CMIN3/dividendos">Histórico de dividendos →</a></p>
+
+
+
+<h2>Bonificações</h2>
+
+
+
+<p>Não temos registro de bonificações de CMIN3.</p>
+
+
+
+<h2>Desdobramentos</h2>
+
+
+
+<p>Não temos registro de desdobramentos de CMIN3.</p>
+
+
+
+
+<script src="/static/echarts.custom.min.js"></script>
+<script src="/static/chart.js"></script>
+<script>
+    const data = [["2023-02-23", 4.89], ["2023-02-24", 4.62], ["2023-02-27", 4.63], ["2023-02-28", 4.66], ["2023-03-01", 4.78], ["2023-03-02", 4.87], ["2023-03-03", 4.99], ["2023-03-06", 4.99], ["2023-03-07", 4.93], ["2023-03-08", 5.08], ["2023-03-09", 4.83], ["2023-03-10", 4.75], ["2023-03-13", 4.89], ["2023-03-14", 4.86], ["2023-03-15", 4.69], ["2023-03-16", 4.68], ["2023-03-17", 4.62], ["2023-03-20", 4.69], ["2023-03-21", 4.5], ["2023-03-22", 4.52], ["2023-03-23", 4.48]];
+    drawChart(data, document.getElementById('chart'), xformatter = x => {
+        const parts = x.split('-');
+        return `${parts[2]}/${parts[1]}`;
+    }, formatter = y => {
+        return `${y.toFixed(2).replace('.', ',')}`;
+    });
+
+    document.querySelectorAll('.table-container.high td').forEach(td => {
+        td.addEventListener('mouseenter', function () {
+            // Highlight the column by adding the 'highlight' class to all td elements in the same column
+            const table = this.closest('table');
+            const colIndex = this.cellIndex;
+            const tdsInCol = table.querySelectorAll(`td:nth-child(${colIndex + 1})`);
+            tdsInCol.forEach(tdInCol => tdInCol.classList.add('highlight'));
+
+            // Highlight the row by adding the 'highlight' class to all td elements in the same row
+            const tr = this.closest('tr');
+            const tdsInRow = tr.querySelectorAll('td');
+            tdsInRow.forEach(tdInRow => tdInRow.classList.add('highlight'));
+        });
+        td.addEventListener('mouseleave', function () {
+            // Remove the 'highlight' class from all td elements in the same column
+            const table = this.closest('table');
+            const colIndex = this.cellIndex;
+            const tdsInCol = table.querySelectorAll(`td:nth-child(${colIndex + 1})`);
+            tdsInCol.forEach(tdInCol => tdInCol.classList.remove('highlight'));
+
+            // Remove the 'highlight' class from all td elements in the same row
+            const tr = this.closest('tr');
+            const tdsInRow = tr.querySelectorAll('td');
+            tdsInRow.forEach(tdInRow => tdInRow.classList.remove('highlight'));
+        });
+    });
+</script>
 
 
         </div>

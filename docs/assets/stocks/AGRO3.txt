@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Histórico de dividendos de AGRO3 (BrasilAgro) - Dados de Mercado</title>
+    <title>AGRO3 (BrasilAgro) - Dados de Mercado</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" type="image/x-icon" href="/static/favicon.ico">
     <link rel="alternate" type="application/rss+xml" title="RSS" href="https://www.dadosdemercado.com.br/rss">
@@ -11,7 +11,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;500;700&display=swap" rel="stylesheet">
-    
+    <meta name="description" content="Dados atualizados da ação AGRO3, informações sobre a BrasilAgro, histórico de resultados, balanços, dividendos, indicadores e cotações ajustadas">
     
     <script type="application/ld+json">
     {
@@ -38,11 +38,6 @@
                 "position": 4,
                 "name": "AGRO3",
                 "item": "https://www.dadosdemercado.com.br/bolsa/acoes/AGRO3"
-            },{
-                "@type": "ListItem",
-                "position": 5,
-                "name": "Dividendos",
-                "item": "https://www.dadosdemercado.com.br/bolsa/acoes/AGRO3/dividendos"
             }
         ]
     }
@@ -943,9 +938,6 @@
                 ·
                 
                 <a href="/bolsa/acoes/AGRO3">AGRO3</a>
-                ·
-                
-                <a href="/bolsa/acoes/AGRO3/dividendos">Dividendos</a>
                 
                 
             </div>
@@ -953,120 +945,579 @@
 
             
 
-<h1>Histórico de dividendos de AGRO3 (BrasilAgro)</h1>
+<h1>AGRO3 (BrasilAgro)</h1>
+
+
+
+<div class="about">
+    <div>
+        <div class="about-params">
+            <div>
+                <span>BrasilAgro Companhia Brasileira de Propriedades Agrícolas</span>
+                <span>Razão social</span>
+            </div>
+            <div>
+                <span>07.628.528/0001-59</span>
+                <span>CNPJ</span>
+            </div>
+            <div>
+                <span><a href="http://www.brasil-agro.com" target="_blank">Site do RI</a></span>
+                <span>Website</span>
+            </div>
+            <div>
+                <span>Consumo não Cíclico</span>
+                <span>Setor</span>
+            </div>
+            <div>
+                <span>102.377.008</span>
+                <span>Quantidade de ações</span>
+            </div>
+            <div>
+                <span>BRAGROACNOR7</span>
+                <span>Código ISIN</span>
+            </div>
+        </div>
+    </div>
+    <div>
+        
+        <h3>AGRO3: R$ 23,80 -2,02%</h3>
+        <div id="chart"></div>
+        <p><a href="/bolsa/acoes/AGRO3/cotacoes">Histórico de cotações →</a></p>
+        
+    </div>
+</div>
+
+
+
+<h2>Indicadores de mercado</h2>
+
+<p>Atualizado em 27/12/2022 com preço de referência de R$ 28,25
+    por ação e
+    102.377.008 ações.</p>
+
+<div class="grid">
+    <div>
+        <span>6,74</span>
+        <span>LPA</span>
+    </div>
+    <div>
+        <span>22,21</span>
+        <span>VPA</span>
+    </div>
+    <div>
+        <span>5,66</span>
+        <span>EBIT por ação</span>
+    </div>
+    <div>
+        <span>34,01</span>
+        <span>Ativo por ação</span>
+    </div>
+    <div>
+        <span>16,79</span>
+        <span>Receita líquida por ação</span>
+    </div>
+    <div>
+        <span>4,19</span>
+        <span>P/L</span>
+    </div>
+    <div>
+        <span>1,27</span>
+        <span>P/VP</span>
+    </div>
+    <div>
+        <span>1,68</span>
+        <span>PSR</span>
+    </div>
+    <div>
+        <span>14,10</span>
+        <span>P/CF</span>
+    </div>
+</div>
+
+<p><a href="/bolsa/acoes/AGRO3/indicadores-de-mercado">Histórico de indicadores de mercado →</a></p>
+
+
+
+
+
+<h2>Indicadores financeiros</h2>
+
+<p>Indicadores financeiros calculados com base no balanço de 31/12/2022 e resultados do período de
+    01/01/2022
+    até 31/12/2022.</p>
+
+<div class="grid">
+    <div>
+        <span>23,11</span>
+        <span>Margem bruta</span>
+    </div>
+    <div>
+        <span>-8,60</span>
+        <span>Margem líquida</span>
+    </div>
+    <div>
+        <span>15,40</span>
+        <span>Margem EBIT</span>
+    </div>
+    <div>
+        <span>--</span>
+        <span>Margem EBITDA</span>
+    </div>
+    <div>
+        <span>15,63</span>
+        <span>Margem operacional</span>
+    </div>
+    <div>
+        <span>-5,40</span>
+        <span>ROE</span>
+    </div>
+    <div>
+        <span>-0,03</span>
+        <span>ROA</span>
+    </div>
+    <div>
+        <span>0,38</span>
+        <span>Giro do ativo</span>
+    </div>
+    <div>
+        <span>1,99</span>
+        <span>Liquidez corrente</span>
+    </div>
+    <div>
+        <span>1,68</span>
+        <span>Liquidez seca</span>
+    </div>
+    <div>
+        <span>0,46</span>
+        <span>Liquidez imediata</span>
+    </div>
+    <div>
+        <span>635 mi</span>
+        <span>Capital de giro</span>
+    </div>
+    <div>
+        <span>883 mi</span>
+        <span>Dívida bruta</span>
+    </div>
+    <div>
+        <span>563 mi</span>
+        <span>Dívida líquida</span>
+    </div>
+    <div>
+        <span>64,25</span>
+        <span>Endividamento geral</span>
+    </div>
+    <div>
+        <span>--</span>
+        <span>EBITDA</span>
+    </div>
+</div>
+
+<p><a href="/bolsa/acoes/AGRO3/indicadores-financeiros">Histórico de indicadores financeiros →</a></p>
+
+
+
+<h2>Balanços</h2>
+
+<div class="table-container high">
+    <table class="normal-table">
+        <thead>
+            <tr>
+                <th></th>
+                <th class="right">4T2022</th><th class="right">3T2022</th><th class="right">2T2022</th><th class="right">1T2022</th><th class="right">4T2021</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Ativo total</td><td class="right">3,37 B</td><td class="right">3,48 B</td><td class="right">3,35 B</td><td class="right">3,49 B</td><td class="right">3,63 B</td>
+            </tr>
+            <tr>
+                <td>Ativo circulante</td><td class="right">1,28 B
+                </td>
+                <td class="right">1,45 B
+                </td>
+                <td class="right">1,59 B
+                </td>
+                <td class="right">1,79 B
+                </td>
+                <td class="right">1,78 B
+                </td>
+                
+            </tr>
+            <tr>
+                <td>Caixa e equivalentes de caixa</td><td class="right">294,12 M
+                </td><td class="right">435,84 M
+                </td><td class="right">435,49 M
+                </td><td class="right">584,25 M
+                </td><td class="right">899,71 M
+                </td>
+            </tr>
+            <tr>
+                <td>Aplicações financeiras</td><td class="right">26,25 M</td><td class="right">55,67 M</td><td class="right">94,87 M</td><td class="right">0</td><td class="right">0</td>
+            </tr>
+            <tr>
+                <td>Contas a receber</td><td class="right">282,03 M
+                </td>
+                <td class="right">337,11 M
+                </td>
+                <td class="right">442,31 M
+                </td>
+                <td class="right">441,96 M
+                </td>
+                <td class="right">325,67 M
+                </td>
+                
+            </tr>
+            <tr>
+                <td>Estoques</td><td class="right">203,45 M</td><td class="right">341,93 M</td><td class="right">289,90 M</td><td class="right">315,37 M</td><td class="right">125,62 M</td>
+            </tr>
+            <tr>
+                <td>Ativos biológicos</td><td class="right">403,72 M
+                </td><td class="right">208,28 M
+                </td><td class="right">264,98 M
+                </td><td class="right">371,16 M
+                </td><td class="right">410,85 M
+                </td>
+            </tr>
+            <tr>
+                <td>Ativo não circulante</td><td class="right">2,09 B
+                </td><td class="right">2,03 B
+                </td><td class="right">1,76 B
+                </td><td class="right">1,70 B
+                </td><td class="right">1,85 B
+                </td>
+            </tr>
+            <tr>
+                <td>Investimentos</td><td class="right">7,64 M</td>
+                <td class="right">7,64 M</td>
+                <td class="right">7,64 M</td>
+                <td class="right">7,70 M</td>
+                <td class="right">7,70 M</td>
+                
+            </tr>
+            <tr>
+                <td>Imobilizado</td><td class="right">311,85 M</td><td class="right">289,08 M</td><td class="right">246,09 M</td><td class="right">186,29 M</td><td class="right">190,80 M</td>
+            </tr>
+            <tr>
+                <td>Intangível</td><td class="right">701,00 Mil
+                </td>
+                <td class="right">744,00 Mil
+                </td>
+                <td class="right">812,00 Mil
+                </td>
+                <td class="right">902,00 Mil
+                </td>
+                <td class="right">985,00 Mil
+                </td>
+                
+            </tr>
+            <tr>
+                <td>Passivo total</td><td class="right">3,37 B</td>
+                <td class="right">3,48 B</td>
+                <td class="right">3,35 B</td>
+                <td class="right">3,49 B</td>
+                <td class="right">3,63 B</td>
+                
+            </tr>
+            <tr>
+                <td>Passivo circulante</td><td class="right">640,07 M
+                </td><td class="right">579,17 M
+                </td><td class="right">483,99 M
+                </td><td class="right">364,40 M
+                </td><td class="right">586,22 M
+                </td>
+            </tr>
+            <tr>
+                <td>Fornecedores</td><td class="right">159,74 M</td><td class="right">253,02 M</td><td class="right">253,44 M</td><td class="right">147,49 M</td><td class="right">196,27 M</td>
+            </tr>
+            <tr>
+                <td>Empréstimos e financiamentos</td><td class="right">269,52 M
+                </td><td class="right">110,32 M
+                </td><td class="right">141,99 M
+                </td><td class="right">150,89 M
+                </td><td class="right">289,23 M
+                </td>
+            </tr>
+            <tr>
+                <td>Passivo não circulante</td><td class="right">677,71 M</td><td class="right">628,54 M</td><td class="right">645,22 M</td><td class="right">659,45 M</td><td class="right">591,47 M</td>
+            </tr>
+            <tr>
+                <td>Empréstimos e financiamentos</td><td class="right">613,98 M</td><td class="right">560,04 M</td><td class="right">560,20 M</td><td class="right">501,42 M</td><td class="right">497,87 M</td>
+            </tr>
+            <tr>
+                <td>Patrimônio líquido</td><td class="right">2,05 B</td>
+                <td class="right">2,27 B</td>
+                <td class="right">2,22 B</td>
+                <td class="right">2,47 B</td>
+                <td class="right">2,45 B</td>
+                
+            </tr>
+            <tr>
+                <td>Aos não controladores</td><td class="right">0</td><td class="right">0</td><td class="right">0</td><td class="right">0</td><td class="right">0</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<p><a href="/bolsa/acoes/AGRO3/balancos">Histórico de balanços →</a></p>
+
+<h2>Resultados</h2>
+
+<div class="table-container high">
+    <table class="normal-table">
+        <thead>
+            <tr>
+                <th></th>
+                <th class="right">4T2022</th><th class="right">3T2022</th><th class="right">2T2022</th><th class="right">1T2022</th><th class="right">4T2021</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Receita de venda de bens e/ou serviços</td><td class="right">171,54 M</td><td class="right">314,95 M</td><td class="right">420,06 M</td><td class="right">382,44 M</td><td class="right">600,95 M</td>
+            </tr>
+            <tr>
+                <td>Custo dos bens e/ou serviços vendidos</td><td class="right">-153,85 M
+                </td><td class="right">-280,95 M
+                </td><td class="right">-372,12 M
+                </td><td class="right">-184,23 M
+                </td><td class="right">-204,16 M
+                </td>
+            </tr>
+            <tr>
+                <td>Resultado bruto</td><td class="right">17,69 M</td>
+                <td class="right">34,00 M</td>
+                <td class="right">47,95 M</td>
+                <td class="right">198,21 M</td>
+                <td class="right">396,79 M</td>
+                
+            </tr>
+            <tr>
+                <td>Despesas/receitas operacionais</td><td class="right">-25,23 M</td><td class="right">-21,21 M</td><td class="right">-36,50 M</td><td class="right">-16,45 M</td><td class="right">-23,34 M</td>
+            </tr>
+            <tr>
+                <td>Resultado antes do resultado financeiro e dos tributos</td><td class="right">
+                    -7,55 M</td><td class="right">
+                    12,79 M</td><td class="right">
+                    11,45 M</td><td class="right">
+                    181,75 M</td><td class="right">
+                    373,45 M</td>
+            </tr>
+            <tr>
+                <td>Resultado não operacional (resultado financeiro)</td><td class="right">-21,34 M</td><td class="right">49,46 M</td><td class="right">10,47 M</td><td class="right">-35,63 M</td><td class="right">-40,93 M</td>
+            </tr>
+            <tr>
+                <td>Resultado antes dos tributos sobre o lucro</td><td class="right">-28,89 M</td><td class="right">62,25 M</td><td class="right">21,93 M</td><td class="right">146,13 M</td><td class="right">332,52 M</td>
+            </tr>
+            <tr>
+                <td>Imposto de renda e contribuição social sobre o lucro</td><td class="right">16,01 M</td><td class="right">-20,25 M</td><td class="right">-243,62 M</td><td class="right">-64,35 M</td><td class="right">-33,18 M</td>
+            </tr>
+            <tr>
+                <td>Resultado líquido das operações continuadas</td><td class="right">-12,88 M</td><td class="right">42,00 M</td><td class="right">-221,69 M</td><td class="right">81,78 M</td><td class="right">299,34 M</td>
+            </tr>
+            <tr>
+                <td>Resultado líquido de operações descontinuadas</td><td class="right">0</td><td class="right">0</td><td class="right">0</td><td class="right">0</td><td class="right">0</td>
+            </tr>
+            <tr>
+                <td>Lucro/prejuízo consolidado do período</td><td class="right">-12,88 M</td><td class="right">42,00 M</td><td class="right">-221,69 M</td><td class="right">81,78 M</td><td class="right">299,34 M</td>
+            </tr>
+            <tr>
+                <td>Resultado atribuído a sócios da empresa controladora</td><td class="right">0</td><td class="right">0</td><td class="right">0</td><td class="right">0</td><td class="right">0</td>
+            </tr>
+            <tr>
+                <td>Resultado atribuído a sócios não controladores</td><td class="right">0</td><td class="right">0</td><td class="right">-488,99 M</td><td class="right">0</td><td class="right">0</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<p><a href="/bolsa/acoes/AGRO3/resultados">Histórico de resultados →</a></p>
+
+<h2>Fluxos de caixa</h2>
+
+<div class="table-container high">
+    <table class="normal-table">
+        <thead>
+            <tr>
+                <th></th>
+                
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>FCO</td>
+            </tr>
+            <tr>
+                <td>FCI</td>
+            </tr>
+            <tr>
+                <td>FCF</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<p><a href="/bolsa/acoes/AGRO3/fluxos-de-caixa">Histórico de fluxos de caixa →</a></p>
+
+<h2>Dividendos</h2>
+
+
 
 <div class="table-container">
     <table class="normal-table">
         <thead>
             <tr>
                 <th>Tipo</th>
-                <th>Registro</th>
-                <th>Ex</th>
-                <th>Pagamento</th>
-                <th>Valor</th>
+                <th class="right">Registro</th>
+                <th class="right">Ex</th>
+                <th class="right">Pagamento</th>
+                <th class="right">Valor</th>
             </tr>
         </thead>
         <tbody>
             
             <tr>
                 <td>Dividendo</td>
-                <td>27/10/2022</td>
-                <td>28/10/2022</td>
-                <td>16/11/2022</td>
-                <td>3,238673</td>
+                <td class="right">27/10/2022</td>
+                <td class="right">28/10/2022</td>
+                <td class="right">16/11/2022</td>
+                <td class="right">3,238673</td>
             </tr>
             
             <tr>
                 <td>Dividendo</td>
-                <td>07/04/2022</td>
-                <td>08/04/2022</td>
-                <td>29/04/2022</td>
-                <td>2,016293</td>
+                <td class="right">07/04/2022</td>
+                <td class="right">08/04/2022</td>
+                <td class="right">29/04/2022</td>
+                <td class="right">2,016293</td>
             </tr>
             
             <tr>
                 <td>Dividendo</td>
-                <td>27/10/2021</td>
-                <td>28/10/2021</td>
-                <td>10/11/2021</td>
-                <td>2,621181</td>
+                <td class="right">27/10/2021</td>
+                <td class="right">28/10/2021</td>
+                <td class="right">10/11/2021</td>
+                <td class="right">2,621181</td>
             </tr>
             
             <tr>
                 <td>Dividendo</td>
-                <td>16/10/2020</td>
-                <td>19/10/2020</td>
-                <td>12/11/2020</td>
-                <td>0,709664</td>
+                <td class="right">16/10/2020</td>
+                <td class="right">19/10/2020</td>
+                <td class="right">12/11/2020</td>
+                <td class="right">0,709664</td>
             </tr>
             
             <tr>
                 <td>Dividendo</td>
-                <td>16/10/2019</td>
-                <td>17/10/2019</td>
-                <td>14/11/2019</td>
-                <td>0,929331</td>
+                <td class="right">16/10/2019</td>
+                <td class="right">17/10/2019</td>
+                <td class="right">14/11/2019</td>
+                <td class="right">0,929331</td>
             </tr>
             
             <tr>
                 <td>Dividendo</td>
-                <td>16/10/2018</td>
-                <td>17/10/2018</td>
-                <td>06/11/2018</td>
-                <td>0,762051</td>
+                <td class="right">16/10/2018</td>
+                <td class="right">17/10/2018</td>
+                <td class="right">06/11/2018</td>
+                <td class="right">0,762051</td>
             </tr>
             
             <tr>
                 <td>Dividendo</td>
-                <td>02/10/2017</td>
-                <td>03/10/2017</td>
-                <td>30/10/2017</td>
-                <td>0,241108</td>
+                <td class="right">02/10/2017</td>
+                <td class="right">03/10/2017</td>
+                <td class="right">30/10/2017</td>
+                <td class="right">0,241108</td>
             </tr>
             
             <tr>
                 <td>JSCP</td>
-                <td>07/11/2016</td>
-                <td>08/11/2016</td>
-                <td>21/11/2016</td>
-                <td>0,401082</td>
+                <td class="right">07/11/2016</td>
+                <td class="right">08/11/2016</td>
+                <td class="right">21/11/2016</td>
+                <td class="right">0,401082</td>
             </tr>
             
             <tr>
                 <td>Dividendo</td>
-                <td>21/10/2016</td>
-                <td>24/10/2016</td>
-                <td>07/11/2016</td>
-                <td>0,182998</td>
+                <td class="right">21/10/2016</td>
+                <td class="right">24/10/2016</td>
+                <td class="right">07/11/2016</td>
+                <td class="right">0,182998</td>
             </tr>
             
             <tr>
                 <td>Dividendo</td>
-                <td>28/10/2015</td>
-                <td>29/10/2015</td>
-                <td>13/11/2015</td>
-                <td>1,397700</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>18/12/2013</td>
-                <td>19/12/2013</td>
-                <td>10/01/2014</td>
-                <td>0,100704</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>29/10/2008</td>
-                <td>04/11/2008</td>
-                <td>28/11/2008</td>
-                <td>0,019349</td>
+                <td class="right">28/10/2015</td>
+                <td class="right">29/10/2015</td>
+                <td class="right">13/11/2015</td>
+                <td class="right">1,397700</td>
             </tr>
             
         </tbody>
     </table>
 </div>
+
+<p><a href="/bolsa/acoes/AGRO3/dividendos">Histórico de dividendos →</a></p>
+
+
+
+<h2>Bonificações</h2>
+
+
+
+<p>Não temos registro de bonificações de AGRO3.</p>
+
+
+
+<h2>Desdobramentos</h2>
+
+
+
+<p>Não temos registro de desdobramentos de AGRO3.</p>
+
+
+
+
+<script src="/static/echarts.custom.min.js"></script>
+<script src="/static/chart.js"></script>
+<script>
+    const data = [["2023-02-23", 26.25], ["2023-02-24", 26.25], ["2023-02-27", 26.25], ["2023-02-28", 25.94], ["2023-03-01", 25.72], ["2023-03-02", 26.16], ["2023-03-03", 26.33], ["2023-03-06", 26.74], ["2023-03-07", 26.45], ["2023-03-08", 26.22], ["2023-03-09", 26.14], ["2023-03-10", 26.09], ["2023-03-13", 25.53], ["2023-03-14", 25.16], ["2023-03-15", 24.94], ["2023-03-16", 24.87], ["2023-03-17", 24.53], ["2023-03-20", 24.42], ["2023-03-21", 25.09], ["2023-03-22", 24.29], ["2023-03-23", 23.8]];
+    drawChart(data, document.getElementById('chart'), xformatter = x => {
+        const parts = x.split('-');
+        return `${parts[2]}/${parts[1]}`;
+    }, formatter = y => {
+        return `${y.toFixed(2).replace('.', ',')}`;
+    });
+
+    document.querySelectorAll('.table-container.high td').forEach(td => {
+        td.addEventListener('mouseenter', function () {
+            // Highlight the column by adding the 'highlight' class to all td elements in the same column
+            const table = this.closest('table');
+            const colIndex = this.cellIndex;
+            const tdsInCol = table.querySelectorAll(`td:nth-child(${colIndex + 1})`);
+            tdsInCol.forEach(tdInCol => tdInCol.classList.add('highlight'));
+
+            // Highlight the row by adding the 'highlight' class to all td elements in the same row
+            const tr = this.closest('tr');
+            const tdsInRow = tr.querySelectorAll('td');
+            tdsInRow.forEach(tdInRow => tdInRow.classList.add('highlight'));
+        });
+        td.addEventListener('mouseleave', function () {
+            // Remove the 'highlight' class from all td elements in the same column
+            const table = this.closest('table');
+            const colIndex = this.cellIndex;
+            const tdsInCol = table.querySelectorAll(`td:nth-child(${colIndex + 1})`);
+            tdsInCol.forEach(tdInCol => tdInCol.classList.remove('highlight'));
+
+            // Remove the 'highlight' class from all td elements in the same row
+            const tr = this.closest('tr');
+            const tdsInRow = tr.querySelectorAll('td');
+            tdsInRow.forEach(tdInRow => tdInRow.classList.remove('highlight'));
+        });
+    });
+</script>
 
 
         </div>

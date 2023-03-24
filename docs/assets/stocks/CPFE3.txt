@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Histórico de dividendos de CPFE3 (CPFL Energia) - Dados de Mercado</title>
+    <title>CPFE3 (CPFL Energia) - Dados de Mercado</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" type="image/x-icon" href="/static/favicon.ico">
     <link rel="alternate" type="application/rss+xml" title="RSS" href="https://www.dadosdemercado.com.br/rss">
@@ -11,7 +11,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;500;700&display=swap" rel="stylesheet">
-    
+    <meta name="description" content="Dados atualizados da ação CPFE3, informações sobre a CPFL Energia, histórico de resultados, balanços, dividendos, indicadores e cotações ajustadas">
     
     <script type="application/ld+json">
     {
@@ -38,11 +38,6 @@
                 "position": 4,
                 "name": "CPFE3",
                 "item": "https://www.dadosdemercado.com.br/bolsa/acoes/CPFE3"
-            },{
-                "@type": "ListItem",
-                "position": 5,
-                "name": "Dividendos",
-                "item": "https://www.dadosdemercado.com.br/bolsa/acoes/CPFE3/dividendos"
             }
         ]
     }
@@ -943,9 +938,6 @@
                 ·
                 
                 <a href="/bolsa/acoes/CPFE3">CPFE3</a>
-                ·
-                
-                <a href="/bolsa/acoes/CPFE3/dividendos">Dividendos</a>
                 
                 
             </div>
@@ -953,256 +945,602 @@
 
             
 
-<h1>Histórico de dividendos de CPFE3 (CPFL Energia)</h1>
+<h1>CPFE3 (CPFL Energia)</h1>
+
+
+
+<div class="about">
+    <div>
+        <div class="about-params">
+            <div>
+                <span>CPFL Energia S.A.</span>
+                <span>Razão social</span>
+            </div>
+            <div>
+                <span>02.429.144/0001-93</span>
+                <span>CNPJ</span>
+            </div>
+            <div>
+                <span><a href="http://www.cpfl.com.br" target="_blank">Site do RI</a></span>
+                <span>Website</span>
+            </div>
+            <div>
+                <span>Utilidade Pública</span>
+                <span>Setor</span>
+            </div>
+            <div>
+                <span>1.152.440.380</span>
+                <span>Quantidade de ações</span>
+            </div>
+            <div>
+                <span>BRCPFEACNOR0</span>
+                <span>Código ISIN</span>
+            </div>
+        </div>
+    </div>
+    <div>
+        
+        <h3>CPFE3: R$ 29,17 -1,25%</h3>
+        <div id="chart"></div>
+        <p><a href="/bolsa/acoes/CPFE3/cotacoes">Histórico de cotações →</a></p>
+        
+    </div>
+</div>
+
+
+
+<h2>Indicadores de mercado</h2>
+
+<p>Atualizado em 23/03/2023 com preço de referência de R$ 29,17
+    por ação e
+    1.152.440.380 ações.</p>
+
+<div class="grid">
+    <div>
+        <span>4,42</span>
+        <span>LPA</span>
+    </div>
+    <div>
+        <span>14,11</span>
+        <span>VPA</span>
+    </div>
+    <div>
+        <span>8,88</span>
+        <span>EBIT por ação</span>
+    </div>
+    <div>
+        <span>61,74</span>
+        <span>Ativo por ação</span>
+    </div>
+    <div>
+        <span>34,15</span>
+        <span>Receita líquida por ação</span>
+    </div>
+    <div>
+        <span>6,59</span>
+        <span>P/L</span>
+    </div>
+    <div>
+        <span>2,07</span>
+        <span>P/VP</span>
+    </div>
+    <div>
+        <span>0,85</span>
+        <span>PSR</span>
+    </div>
+    <div>
+        <span>3,74</span>
+        <span>P/CF</span>
+    </div>
+</div>
+
+<p><a href="/bolsa/acoes/CPFE3/indicadores-de-mercado">Histórico de indicadores de mercado →</a></p>
+
+
+
+
+
+<h2>Indicadores financeiros</h2>
+
+<p>Indicadores financeiros calculados com base no balanço de 31/12/2022 e resultados do período de
+    01/01/2022
+    até 31/12/2022.</p>
+
+<div class="grid">
+    <div>
+        <span>30,08</span>
+        <span>Margem bruta</span>
+    </div>
+    <div>
+        <span>13,26</span>
+        <span>Margem líquida</span>
+    </div>
+    <div>
+        <span>26,00</span>
+        <span>Margem EBIT</span>
+    </div>
+    <div>
+        <span>21,63</span>
+        <span>Margem EBITDA</span>
+    </div>
+    <div>
+        <span>18,60</span>
+        <span>Margem operacional</span>
+    </div>
+    <div>
+        <span>29,75</span>
+        <span>ROE</span>
+    </div>
+    <div>
+        <span>0,07</span>
+        <span>ROA</span>
+    </div>
+    <div>
+        <span>0,55</span>
+        <span>Giro do ativo</span>
+    </div>
+    <div>
+        <span>1,02</span>
+        <span>Liquidez corrente</span>
+    </div>
+    <div>
+        <span>1,01</span>
+        <span>Liquidez seca</span>
+    </div>
+    <div>
+        <span>0,25</span>
+        <span>Liquidez imediata</span>
+    </div>
+    <div>
+        <span>300 mi</span>
+        <span>Capital de giro</span>
+    </div>
+    <div>
+        <span>25.382 mi</span>
+        <span>Dívida bruta</span>
+    </div>
+    <div>
+        <span>20.780 mi</span>
+        <span>Dívida líquida</span>
+    </div>
+    <div>
+        <span>305,62</span>
+        <span>Endividamento geral</span>
+    </div>
+    <div>
+        <span>8.510 mi</span>
+        <span>EBITDA</span>
+    </div>
+</div>
+
+<p><a href="/bolsa/acoes/CPFE3/indicadores-financeiros">Histórico de indicadores financeiros →</a></p>
+
+
+
+<h2>Balanços</h2>
+
+<div class="table-container high">
+    <table class="normal-table">
+        <thead>
+            <tr>
+                <th></th>
+                <th class="right">4T2022</th><th class="right">3T2022</th><th class="right">2T2022</th><th class="right">1T2022</th><th class="right">4T2021</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Ativo total</td><td class="right">71,15 B</td><td class="right">65,99 B</td><td class="right">65,93 B</td><td class="right">66,82 B</td><td class="right">66,12 B</td>
+            </tr>
+            <tr>
+                <td>Ativo circulante</td><td class="right">15,18 B
+                </td>
+                <td class="right">14,10 B
+                </td>
+                <td class="right">14,63 B
+                </td>
+                <td class="right">16,44 B
+                </td>
+                <td class="right">15,55 B
+                </td>
+                
+            </tr>
+            <tr>
+                <td>Caixa e equivalentes de caixa</td><td class="right">3,75 B
+                </td><td class="right">4,03 B
+                </td><td class="right">3,61 B
+                </td><td class="right">3,50 B
+                </td><td class="right">2,20 B
+                </td>
+            </tr>
+            <tr>
+                <td>Aplicações financeiras</td><td class="right">856,24 M</td><td class="right">284,07 M</td><td class="right">487,37 M</td><td class="right">580,65 M</td><td class="right">585,86 M</td>
+            </tr>
+            <tr>
+                <td>Contas a receber</td><td class="right">5,07 B
+                </td>
+                <td class="right">4,83 B
+                </td>
+                <td class="right">5,13 B
+                </td>
+                <td class="right">5,76 B
+                </td>
+                <td class="right">5,43 B
+                </td>
+                
+            </tr>
+            <tr>
+                <td>Estoques</td><td class="right">190,31 M</td><td class="right">170,52 M</td><td class="right">166,42 M</td><td class="right">192,11 M</td><td class="right">150,87 M</td>
+            </tr>
+            <tr>
+                <td>Ativos biológicos</td><td class="right">0
+                </td><td class="right">0
+                </td><td class="right">0
+                </td><td class="right">0
+                </td><td class="right">0
+                </td>
+            </tr>
+            <tr>
+                <td>Ativo não circulante</td><td class="right">55,97 B
+                </td><td class="right">51,89 B
+                </td><td class="right">51,30 B
+                </td><td class="right">50,38 B
+                </td><td class="right">50,57 B
+                </td>
+            </tr>
+            <tr>
+                <td>Investimentos</td><td class="right">622,51 M</td>
+                <td class="right">968,08 M</td>
+                <td class="right">1,06 B</td>
+                <td class="right">1,32 B</td>
+                <td class="right">1,20 B</td>
+                
+            </tr>
+            <tr>
+                <td>Imobilizado</td><td class="right">10,61 B</td><td class="right">8,58 B</td><td class="right">8,58 B</td><td class="right">8,71 B</td><td class="right">8,75 B</td>
+            </tr>
+            <tr>
+                <td>Intangível</td><td class="right">9,91 B
+                </td>
+                <td class="right">9,23 B
+                </td>
+                <td class="right">9,43 B
+                </td>
+                <td class="right">9,53 B
+                </td>
+                <td class="right">9,67 B
+                </td>
+                
+            </tr>
+            <tr>
+                <td>Passivo total</td><td class="right">71,15 B</td>
+                <td class="right">65,99 B</td>
+                <td class="right">65,93 B</td>
+                <td class="right">66,82 B</td>
+                <td class="right">66,12 B</td>
+                
+            </tr>
+            <tr>
+                <td>Passivo circulante</td><td class="right">14,88 B
+                </td><td class="right">15,15 B
+                </td><td class="right">15,53 B
+                </td><td class="right">12,97 B
+                </td><td class="right">12,91 B
+                </td>
+            </tr>
+            <tr>
+                <td>Fornecedores</td><td class="right">3,23 B</td><td class="right">3,23 B</td><td class="right">3,09 B</td><td class="right">3,22 B</td><td class="right">4,27 B</td>
+            </tr>
+            <tr>
+                <td>Empréstimos e financiamentos</td><td class="right">4,69 B
+                </td><td class="right">5,36 B
+                </td><td class="right">5,75 B
+                </td><td class="right">4,85 B
+                </td><td class="right">4,03 B
+                </td>
+            </tr>
+            <tr>
+                <td>Passivo não circulante</td><td class="right">38,73 B</td><td class="right">35,11 B</td><td class="right">36,10 B</td><td class="right">35,89 B</td><td class="right">36,40 B</td>
+            </tr>
+            <tr>
+                <td>Empréstimos e financiamentos</td><td class="right">20,70 B</td><td class="right">18,16 B</td><td class="right">18,66 B</td><td class="right">17,62 B</td><td class="right">18,38 B</td>
+            </tr>
+            <tr>
+                <td>Patrimônio líquido</td><td class="right">17,54 B</td>
+                <td class="right">15,74 B</td>
+                <td class="right">14,30 B</td>
+                <td class="right">17,96 B</td>
+                <td class="right">16,81 B</td>
+                
+            </tr>
+            <tr>
+                <td>Aos não controladores</td><td class="right">1,28 B</td><td class="right">312,37 M</td><td class="right">297,19 M</td><td class="right">1,72 B</td><td class="right">1,66 B</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<p><a href="/bolsa/acoes/CPFE3/balancos">Histórico de balanços →</a></p>
+
+<h2>Resultados</h2>
+
+<div class="table-container high">
+    <table class="normal-table">
+        <thead>
+            <tr>
+                <th></th>
+                <th class="right">4T2022</th><th class="right">3T2022</th><th class="right">2T2022</th><th class="right">1T2022</th><th class="right">4T2021</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Receita de venda de bens e/ou serviços</td><td class="right">10,74 B</td><td class="right">10,01 B</td><td class="right">9,32 B</td><td class="right">9,29 B</td><td class="right">10,92 B</td>
+            </tr>
+            <tr>
+                <td>Custo dos bens e/ou serviços vendidos</td><td class="right">-7,26 B
+                </td><td class="right">-7,15 B
+                </td><td class="right">-6,43 B
+                </td><td class="right">-6,68 B
+                </td><td class="right">-8,20 B
+                </td>
+            </tr>
+            <tr>
+                <td>Resultado bruto</td><td class="right">3,48 B</td>
+                <td class="right">2,86 B</td>
+                <td class="right">2,89 B</td>
+                <td class="right">2,60 B</td>
+                <td class="right">2,71 B</td>
+                
+            </tr>
+            <tr>
+                <td>Despesas/receitas operacionais</td><td class="right">-243,32 M</td><td class="right">-411,24 M</td><td class="right">-519,56 M</td><td class="right">-431,46 M</td><td class="right">-633,05 M</td>
+            </tr>
+            <tr>
+                <td>Resultado antes do resultado financeiro e dos tributos</td><td class="right">
+                    3,24 B</td><td class="right">
+                    2,45 B</td><td class="right">
+                    2,37 B</td><td class="right">
+                    2,17 B</td><td class="right">
+                    2,08 B</td>
+            </tr>
+            <tr>
+                <td>Resultado não operacional (resultado financeiro)</td><td class="right">-1,35 B</td><td class="right">-479,69 M</td><td class="right">-648,91 M</td><td class="right">-431,74 M</td><td class="right">-472,77 M</td>
+            </tr>
+            <tr>
+                <td>Resultado antes dos tributos sobre o lucro</td><td class="right">1,88 B</td><td class="right">1,97 B</td><td class="right">1,73 B</td><td class="right">1,74 B</td><td class="right">1,61 B</td>
+            </tr>
+            <tr>
+                <td>Imposto de renda e contribuição social sobre o lucro</td><td class="right">-509,22 M</td><td class="right">-550,37 M</td><td class="right">-462,69 M</td><td class="right">-578,55 M</td><td class="right">-278,45 M</td>
+            </tr>
+            <tr>
+                <td>Resultado líquido das operações continuadas</td><td class="right">1,38 B</td><td class="right">1,42 B</td><td class="right">1,26 B</td><td class="right">1,16 B</td><td class="right">1,33 B</td>
+            </tr>
+            <tr>
+                <td>Resultado líquido de operações descontinuadas</td><td class="right">0</td><td class="right">0</td><td class="right">0</td><td class="right">0</td><td class="right">0</td>
+            </tr>
+            <tr>
+                <td>Lucro/prejuízo consolidado do período</td><td class="right">1,38 B</td><td class="right">1,42 B</td><td class="right">1,26 B</td><td class="right">1,16 B</td><td class="right">1,33 B</td>
+            </tr>
+            <tr>
+                <td>Resultado atribuído a sócios da empresa controladora</td><td class="right">1,34 B</td><td class="right">1,41 B</td><td class="right">1,25 B</td><td class="right">1,10 B</td><td class="right">1,29 B</td>
+            </tr>
+            <tr>
+                <td>Resultado atribuído a sócios não controladores</td><td class="right">38,04 M</td><td class="right">11,21 M</td><td class="right">10,45 M</td><td class="right">59,52 M</td><td class="right">38,58 M</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<p><a href="/bolsa/acoes/CPFE3/resultados">Histórico de resultados →</a></p>
+
+<h2>Fluxos de caixa</h2>
+
+<div class="table-container high">
+    <table class="normal-table">
+        <thead>
+            <tr>
+                <th></th>
+                <th class="right">4T2022</th><th class="right">3T2022</th><th class="right">2T2022</th><th class="right">1T2022</th><th class="right">4T2021</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>FCO</td><td class="right">8,98 B</td><td class="right">8,40 B</td><td class="right">6,43 B</td><td class="right">4,82 B</td><td class="right">3,86 B</td>
+            </tr>
+            <tr>
+                <td>FCI</td><td class="right">-6,26 B</td><td class="right">-7,53 B</td><td class="right">-7,38 B</td><td class="right">-5,52 B</td><td class="right">-4,21 B</td>
+            </tr>
+            <tr>
+                <td>FCF</td><td class="right">-1,17 B</td><td class="right">-1,47 B</td><td class="right">1,82 B</td><td class="right">-419,45 M</td><td class="right">-1,37 B</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<p><a href="/bolsa/acoes/CPFE3/fluxos-de-caixa">Histórico de fluxos de caixa →</a></p>
+
+<h2>Dividendos</h2>
+
+
 
 <div class="table-container">
     <table class="normal-table">
         <thead>
             <tr>
                 <th>Tipo</th>
-                <th>Registro</th>
-                <th>Ex</th>
-                <th>Pagamento</th>
-                <th>Valor</th>
+                <th class="right">Registro</th>
+                <th class="right">Ex</th>
+                <th class="right">Pagamento</th>
+                <th class="right">Valor</th>
             </tr>
         </thead>
         <tbody>
             
             <tr>
                 <td>Dividendo</td>
-                <td>29/04/2022</td>
-                <td>02/05/2022</td>
-                <td>30/06/2022</td>
-                <td>0,326287</td>
+                <td class="right">29/04/2022</td>
+                <td class="right">02/05/2022</td>
+                <td class="right">30/06/2022</td>
+                <td class="right">0,326287</td>
             </tr>
             
             <tr>
                 <td>Dividendo</td>
-                <td>29/04/2022</td>
-                <td>02/05/2022</td>
-                <td>14/06/2022</td>
-                <td>0,347146</td>
+                <td class="right">29/04/2022</td>
+                <td class="right">02/05/2022</td>
+                <td class="right">14/06/2022</td>
+                <td class="right">0,347146</td>
             </tr>
             
             <tr>
                 <td>Dividendo</td>
-                <td>29/04/2022</td>
-                <td>02/05/2022</td>
-                <td>15/12/2022</td>
-                <td>1,621140</td>
+                <td class="right">29/04/2022</td>
+                <td class="right">02/05/2022</td>
+                <td class="right">15/12/2022</td>
+                <td class="right">1,621140</td>
             </tr>
             
             <tr>
                 <td>Dividendo</td>
-                <td>29/04/2022</td>
-                <td>02/05/2022</td>
-                <td>11/05/2022</td>
-                <td>0,947707</td>
+                <td class="right">29/04/2022</td>
+                <td class="right">02/05/2022</td>
+                <td class="right">11/05/2022</td>
+                <td class="right">0,947707</td>
             </tr>
             
             <tr>
                 <td>Dividendo</td>
-                <td>09/12/2021</td>
-                <td>10/12/2021</td>
-                <td>21/12/2021</td>
-                <td>0,697763</td>
+                <td class="right">09/12/2021</td>
+                <td class="right">10/12/2021</td>
+                <td class="right">21/12/2021</td>
+                <td class="right">0,697763</td>
             </tr>
             
             <tr>
                 <td>Dividendo</td>
-                <td>31/08/2021</td>
-                <td>01/09/2021</td>
-                <td>16/12/2021</td>
-                <td>0,633971</td>
+                <td class="right">31/08/2021</td>
+                <td class="right">01/09/2021</td>
+                <td class="right">16/12/2021</td>
+                <td class="right">0,633971</td>
             </tr>
             
             <tr>
                 <td>Dividendo</td>
-                <td>31/08/2021</td>
-                <td>01/09/2021</td>
-                <td>22/10/2021</td>
-                <td>0,433932</td>
+                <td class="right">31/08/2021</td>
+                <td class="right">01/09/2021</td>
+                <td class="right">22/10/2021</td>
+                <td class="right">0,433932</td>
             </tr>
             
             <tr>
                 <td>Dividendo</td>
-                <td>31/08/2021</td>
-                <td>01/09/2021</td>
-                <td>16/11/2021</td>
-                <td>0,433932</td>
+                <td class="right">31/08/2021</td>
+                <td class="right">01/09/2021</td>
+                <td class="right">16/11/2021</td>
+                <td class="right">0,433932</td>
             </tr>
             
             <tr>
                 <td>Dividendo</td>
-                <td>30/04/2021</td>
-                <td>03/05/2021</td>
-                <td>21/06/2021</td>
-                <td>1,501835</td>
+                <td class="right">30/04/2021</td>
+                <td class="right">03/05/2021</td>
+                <td class="right">21/06/2021</td>
+                <td class="right">1,501835</td>
             </tr>
             
             <tr>
                 <td>Dividendo</td>
-                <td>27/07/2020</td>
-                <td>28/07/2020</td>
-                <td>30/11/2020</td>
-                <td>1,800973</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>30/04/2019</td>
-                <td>02/05/2019</td>
-                <td>27/12/2019</td>
-                <td>0,480182</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>27/04/2018</td>
-                <td>30/04/2018</td>
-                <td>26/06/2018</td>
-                <td>0,275260</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>12/01/2017</td>
-                <td>13/01/2017</td>
-                <td>20/01/2017</td>
-                <td>0,217877</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>29/04/2016</td>
-                <td>02/05/2016</td>
-                <td>01/07/2016</td>
-                <td>0,206868</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>04/09/2014</td>
-                <td>05/09/2014</td>
-                <td>01/10/2014</td>
-                <td>0,438747</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>29/04/2014</td>
-                <td>30/04/2014</td>
-                <td>08/05/2014</td>
-                <td>0,590062</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>22/08/2013</td>
-                <td>23/08/2013</td>
-                <td>01/10/2013</td>
-                <td>0,377282</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>19/04/2013</td>
-                <td>22/04/2013</td>
-                <td>30/04/2013</td>
-                <td>0,473779</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>15/08/2012</td>
-                <td>16/08/2012</td>
-                <td>28/09/2012</td>
-                <td>0,665340</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>12/04/2012</td>
-                <td>13/04/2012</td>
-                <td>27/04/2012</td>
-                <td>0,788205</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>17/08/2011</td>
-                <td>18/08/2011</td>
-                <td>30/09/2011</td>
-                <td>0,777023</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>04/04/2011</td>
-                <td>05/04/2011</td>
-                <td>29/04/2011</td>
-                <td>1,010191</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>18/08/2010</td>
-                <td>19/08/2010</td>
-                <td>30/09/2010</td>
-                <td>1,609580</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>08/03/2010</td>
-                <td>09/03/2010</td>
-                <td>30/04/2010</td>
-                <td>1,364872</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>17/08/2009</td>
-                <td>18/08/2009</td>
-                <td>30/09/2009</td>
-                <td>1,191201</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>02/03/2009</td>
-                <td>03/03/2009</td>
-                <td>30/04/2009</td>
-                <td>1,262953</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>19/08/2008</td>
-                <td>20/08/2008</td>
-                <td>--</td>
-                <td>1,253517</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>06/03/2008</td>
-                <td>07/03/2008</td>
-                <td>--</td>
-                <td>1,497965</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>14/08/2007</td>
-                <td>15/08/2007</td>
-                <td>28/09/2007</td>
-                <td>1,755838</td>
+                <td class="right">27/07/2020</td>
+                <td class="right">28/07/2020</td>
+                <td class="right">30/11/2020</td>
+                <td class="right">1,800973</td>
             </tr>
             
         </tbody>
     </table>
 </div>
+
+<p><a href="/bolsa/acoes/CPFE3/dividendos">Histórico de dividendos →</a></p>
+
+
+
+<h2>Bonificações</h2>
+
+
+
+<div class="table-container">
+    <table class="normal-table">
+        <thead>
+            <tr>
+                <th class="right">Aprovação</th>
+                <th class="right">Registro</th>
+                <th class="right">Ex</th>
+                <th class="right">Razão</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+            <tr>
+                <td class="right">29/04/2016</td>
+                <td class="right">29/04/2016</td>
+                <td class="right">02/05/2016</td>
+                <td class="right">251:10000</td>
+            </tr>
+            
+        </tbody>
+    </table>
+</div>
+
+<p><a href="/bolsa/acoes/CPFE3/bonificacoes">Histórico de bonificações →</a></p>
+
+
+
+<h2>Desdobramentos</h2>
+
+
+
+<p>Não temos registro de desdobramentos de CPFE3.</p>
+
+
+
+
+<script src="/static/echarts.custom.min.js"></script>
+<script src="/static/chart.js"></script>
+<script>
+    const data = [["2023-02-23", 30.52], ["2023-02-24", 30.39], ["2023-02-27", 30.3], ["2023-02-28", 30.29], ["2023-03-01", 30.14], ["2023-03-02", 29.86], ["2023-03-03", 29.59], ["2023-03-06", 29.71], ["2023-03-07", 29.92], ["2023-03-08", 30.65], ["2023-03-09", 30.53], ["2023-03-10", 30.36], ["2023-03-13", 31.0], ["2023-03-14", 31.75], ["2023-03-15", 32.18], ["2023-03-16", 31.41], ["2023-03-17", 29.35], ["2023-03-20", 29.36], ["2023-03-21", 29.08], ["2023-03-22", 29.54], ["2023-03-23", 29.17]];
+    drawChart(data, document.getElementById('chart'), xformatter = x => {
+        const parts = x.split('-');
+        return `${parts[2]}/${parts[1]}`;
+    }, formatter = y => {
+        return `${y.toFixed(2).replace('.', ',')}`;
+    });
+
+    document.querySelectorAll('.table-container.high td').forEach(td => {
+        td.addEventListener('mouseenter', function () {
+            // Highlight the column by adding the 'highlight' class to all td elements in the same column
+            const table = this.closest('table');
+            const colIndex = this.cellIndex;
+            const tdsInCol = table.querySelectorAll(`td:nth-child(${colIndex + 1})`);
+            tdsInCol.forEach(tdInCol => tdInCol.classList.add('highlight'));
+
+            // Highlight the row by adding the 'highlight' class to all td elements in the same row
+            const tr = this.closest('tr');
+            const tdsInRow = tr.querySelectorAll('td');
+            tdsInRow.forEach(tdInRow => tdInRow.classList.add('highlight'));
+        });
+        td.addEventListener('mouseleave', function () {
+            // Remove the 'highlight' class from all td elements in the same column
+            const table = this.closest('table');
+            const colIndex = this.cellIndex;
+            const tdsInCol = table.querySelectorAll(`td:nth-child(${colIndex + 1})`);
+            tdsInCol.forEach(tdInCol => tdInCol.classList.remove('highlight'));
+
+            // Remove the 'highlight' class from all td elements in the same row
+            const tr = this.closest('tr');
+            const tdsInRow = tr.querySelectorAll('td');
+            tdsInRow.forEach(tdInRow => tdInRow.classList.remove('highlight'));
+        });
+    });
+</script>
 
 
         </div>

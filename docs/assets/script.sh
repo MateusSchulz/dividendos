@@ -54,5 +54,6 @@ LIST=(
 for I in ${LIST[*]}
 do
   echo "Run ${I}"
-  curl "https://www.dadosdemercado.com.br/bolsa/acoes/${I}/dividendos" > "stocks/${I}.txt"
+  curl "https://www.dadosdemercado.com.br/bolsa/acoes/${I}" > "stocks/${I}.txt"
+  curl "https://www.dadosdemercado.com.br/bolsa/acoes/${I}/dividendos" > "stocks/${I}-dividends.txt"
 done

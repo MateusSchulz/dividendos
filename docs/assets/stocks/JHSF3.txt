@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Histórico de dividendos de JHSF3 (JHSF) - Dados de Mercado</title>
+    <title>JHSF3 (JHSF) - Dados de Mercado</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" type="image/x-icon" href="/static/favicon.ico">
     <link rel="alternate" type="application/rss+xml" title="RSS" href="https://www.dadosdemercado.com.br/rss">
@@ -11,7 +11,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;500;700&display=swap" rel="stylesheet">
-    
+    <meta name="description" content="Dados atualizados da ação JHSF3, informações sobre a JHSF, histórico de resultados, balanços, dividendos, indicadores e cotações ajustadas">
     
     <script type="application/ld+json">
     {
@@ -38,11 +38,6 @@
                 "position": 4,
                 "name": "JHSF3",
                 "item": "https://www.dadosdemercado.com.br/bolsa/acoes/JHSF3"
-            },{
-                "@type": "ListItem",
-                "position": 5,
-                "name": "Dividendos",
-                "item": "https://www.dadosdemercado.com.br/bolsa/acoes/JHSF3/dividendos"
             }
         ]
     }
@@ -943,9 +938,6 @@
                 ·
                 
                 <a href="/bolsa/acoes/JHSF3">JHSF3</a>
-                ·
-                
-                <a href="/bolsa/acoes/JHSF3/dividendos">Dividendos</a>
                 
                 
             </div>
@@ -953,208 +945,579 @@
 
             
 
-<h1>Histórico de dividendos de JHSF3 (JHSF)</h1>
+<h1>JHSF3 (JHSF)</h1>
+
+
+
+<div class="about">
+    <div>
+        <div class="about-params">
+            <div>
+                <span>JHSF Participações S.A.</span>
+                <span>Razão social</span>
+            </div>
+            <div>
+                <span>08.294.224/0001-65</span>
+                <span>CNPJ</span>
+            </div>
+            <div>
+                <span><a href="http://ri.jhsf.com.br/" target="_blank">Site do RI</a></span>
+                <span>Website</span>
+            </div>
+            <div>
+                <span>Consumo Cíclico</span>
+                <span>Setor</span>
+            </div>
+            <div>
+                <span>679.328.462</span>
+                <span>Quantidade de ações</span>
+            </div>
+            <div>
+                <span>BRJHSFACNOR2</span>
+                <span>Código ISIN</span>
+            </div>
+        </div>
+    </div>
+    <div>
+        
+        <h3>JHSF3: R$ 3,51 -3,31%</h3>
+        <div id="chart"></div>
+        <p><a href="/bolsa/acoes/JHSF3/cotacoes">Histórico de cotações →</a></p>
+        
+    </div>
+</div>
+
+
+
+<h2>Indicadores de mercado</h2>
+
+<p>Atualizado em 23/03/2023 com preço de referência de R$ 3,51
+    por ação e
+    679.328.462 ações.</p>
+
+<div class="grid">
+    <div>
+        <span>0,88</span>
+        <span>LPA</span>
+    </div>
+    <div>
+        <span>7,20</span>
+        <span>VPA</span>
+    </div>
+    <div>
+        <span>1,31</span>
+        <span>EBIT por ação</span>
+    </div>
+    <div>
+        <span>15,19</span>
+        <span>Ativo por ação</span>
+    </div>
+    <div>
+        <span>2,80</span>
+        <span>Receita líquida por ação</span>
+    </div>
+    <div>
+        <span>3,99</span>
+        <span>P/L</span>
+    </div>
+    <div>
+        <span>0,49</span>
+        <span>P/VP</span>
+    </div>
+    <div>
+        <span>1,25</span>
+        <span>PSR</span>
+    </div>
+    <div>
+        <span>-11,08</span>
+        <span>P/CF</span>
+    </div>
+</div>
+
+<p><a href="/bolsa/acoes/JHSF3/indicadores-de-mercado">Histórico de indicadores de mercado →</a></p>
+
+
+
+
+
+<h2>Indicadores financeiros</h2>
+
+<p>Indicadores financeiros calculados com base no balanço de 31/12/2022 e resultados do período de
+    01/01/2022
+    até 31/12/2022.</p>
+
+<div class="grid">
+    <div>
+        <span>59,65</span>
+        <span>Margem bruta</span>
+    </div>
+    <div>
+        <span>33,23</span>
+        <span>Margem líquida</span>
+    </div>
+    <div>
+        <span>46,91</span>
+        <span>Margem EBIT</span>
+    </div>
+    <div>
+        <span>43,73</span>
+        <span>Margem EBITDA</span>
+    </div>
+    <div>
+        <span>37,47</span>
+        <span>Margem operacional</span>
+    </div>
+    <div>
+        <span>12,25</span>
+        <span>ROE</span>
+    </div>
+    <div>
+        <span>0,06</span>
+        <span>ROA</span>
+    </div>
+    <div>
+        <span>0,18</span>
+        <span>Giro do ativo</span>
+    </div>
+    <div>
+        <span>4,21</span>
+        <span>Liquidez corrente</span>
+    </div>
+    <div>
+        <span>2,70</span>
+        <span>Liquidez seca</span>
+    </div>
+    <div>
+        <span>0,35</span>
+        <span>Liquidez imediata</span>
+    </div>
+    <div>
+        <span>2.483 mi</span>
+        <span>Capital de giro</span>
+    </div>
+    <div>
+        <span>3.061 mi</span>
+        <span>Dívida bruta</span>
+    </div>
+    <div>
+        <span>2.135 mi</span>
+        <span>Dívida líquida</span>
+    </div>
+    <div>
+        <span>100,05</span>
+        <span>Endividamento geral</span>
+    </div>
+    <div>
+        <span>831 mi</span>
+        <span>EBITDA</span>
+    </div>
+</div>
+
+<p><a href="/bolsa/acoes/JHSF3/indicadores-financeiros">Histórico de indicadores financeiros →</a></p>
+
+
+
+<h2>Balanços</h2>
+
+<div class="table-container high">
+    <table class="normal-table">
+        <thead>
+            <tr>
+                <th></th>
+                <th class="right">4T2022</th><th class="right">3T2022</th><th class="right">2T2022</th><th class="right">1T2022</th><th class="right">4T2021</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Ativo total</td><td class="right">10,32 B</td><td class="right">9,81 B</td><td class="right">9,48 B</td><td class="right">8,57 B</td><td class="right">8,41 B</td>
+            </tr>
+            <tr>
+                <td>Ativo circulante</td><td class="right">3,26 B
+                </td>
+                <td class="right">3,00 B
+                </td>
+                <td class="right">2,89 B
+                </td>
+                <td class="right">1,96 B
+                </td>
+                <td class="right">2,04 B
+                </td>
+                
+            </tr>
+            <tr>
+                <td>Caixa e equivalentes de caixa</td><td class="right">269,04 M
+                </td><td class="right">149,89 M
+                </td><td class="right">583,18 M
+                </td><td class="right">206,96 M
+                </td><td class="right">421,74 M
+                </td>
+            </tr>
+            <tr>
+                <td>Aplicações financeiras</td><td class="right">656,65 M</td><td class="right">717,91 M</td><td class="right">465,17 M</td><td class="right">457,43 M</td><td class="right">455,75 M</td>
+            </tr>
+            <tr>
+                <td>Contas a receber</td><td class="right">897,59 M
+                </td>
+                <td class="right">921,30 M
+                </td>
+                <td class="right">843,30 M
+                </td>
+                <td class="right">738,32 M
+                </td>
+                <td class="right">694,84 M
+                </td>
+                
+            </tr>
+            <tr>
+                <td>Estoques</td><td class="right">1,17 B</td><td class="right">955,14 M</td><td class="right">764,85 M</td><td class="right">312,27 M</td><td class="right">275,86 M</td>
+            </tr>
+            <tr>
+                <td>Ativos biológicos</td><td class="right">0
+                </td><td class="right">0
+                </td><td class="right">0
+                </td><td class="right">0
+                </td><td class="right">0
+                </td>
+            </tr>
+            <tr>
+                <td>Ativo não circulante</td><td class="right">7,06 B
+                </td><td class="right">6,80 B
+                </td><td class="right">6,60 B
+                </td><td class="right">6,61 B
+                </td><td class="right">6,37 B
+                </td>
+            </tr>
+            <tr>
+                <td>Investimentos</td><td class="right">3,93 B</td>
+                <td class="right">3,77 B</td>
+                <td class="right">3,71 B</td>
+                <td class="right">3,72 B</td>
+                <td class="right">3,65 B</td>
+                
+            </tr>
+            <tr>
+                <td>Imobilizado</td><td class="right">1,49 B</td><td class="right">1,41 B</td><td class="right">1,33 B</td><td class="right">1,29 B</td><td class="right">1,26 B</td>
+            </tr>
+            <tr>
+                <td>Intangível</td><td class="right">128,14 M
+                </td>
+                <td class="right">123,16 M
+                </td>
+                <td class="right">120,61 M
+                </td>
+                <td class="right">117,49 M
+                </td>
+                <td class="right">114,19 M
+                </td>
+                
+            </tr>
+            <tr>
+                <td>Passivo total</td><td class="right">10,32 B</td>
+                <td class="right">9,81 B</td>
+                <td class="right">9,48 B</td>
+                <td class="right">8,57 B</td>
+                <td class="right">8,41 B</td>
+                
+            </tr>
+            <tr>
+                <td>Passivo circulante</td><td class="right">774,31 M
+                </td><td class="right">855,97 M
+                </td><td class="right">890,58 M
+                </td><td class="right">764,65 M
+                </td><td class="right">843,72 M
+                </td>
+            </tr>
+            <tr>
+                <td>Fornecedores</td><td class="right">0</td><td class="right">0</td><td class="right">0</td><td class="right">0</td><td class="right">0</td>
+            </tr>
+            <tr>
+                <td>Empréstimos e financiamentos</td><td class="right">135,30 M
+                </td><td class="right">335,32 M
+                </td><td class="right">376,12 M
+                </td><td class="right">225,11 M
+                </td><td class="right">258,63 M
+                </td>
+            </tr>
+            <tr>
+                <td>Passivo não circulante</td><td class="right">4,39 B</td><td class="right">3,88 B</td><td class="right">3,68 B</td><td class="right">3,13 B</td><td class="right">3,02 B</td>
+            </tr>
+            <tr>
+                <td>Empréstimos e financiamentos</td><td class="right">2,93 B</td><td class="right">2,42 B</td><td class="right">2,23 B</td><td class="right">1,83 B</td><td class="right">1,72 B</td>
+            </tr>
+            <tr>
+                <td>Patrimônio líquido</td><td class="right">5,16 B</td>
+                <td class="right">5,07 B</td>
+                <td class="right">4,91 B</td>
+                <td class="right">4,68 B</td>
+                <td class="right">4,55 B</td>
+                
+            </tr>
+            <tr>
+                <td>Aos não controladores</td><td class="right">266,56 M</td><td class="right">97,33 M</td><td class="right">84,80 M</td><td class="right">77,99 M</td><td class="right">81,90 M</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<p><a href="/bolsa/acoes/JHSF3/balancos">Histórico de balanços →</a></p>
+
+<h2>Resultados</h2>
+
+<div class="table-container high">
+    <table class="normal-table">
+        <thead>
+            <tr>
+                <th></th>
+                <th class="right">4T2022</th><th class="right">3T2022</th><th class="right">2T2022</th><th class="right">1T2022</th><th class="right">4T2021</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Receita de venda de bens e/ou serviços</td><td class="right">405,41 M</td><td class="right">520,75 M</td><td class="right">514,45 M</td><td class="right">461,48 M</td><td class="right">483,28 M</td>
+            </tr>
+            <tr>
+                <td>Custo dos bens e/ou serviços vendidos</td><td class="right">-200,41 M
+                </td><td class="right">-205,73 M
+                </td><td class="right">-191,87 M
+                </td><td class="right">-169,43 M
+                </td><td class="right">-166,38 M
+                </td>
+            </tr>
+            <tr>
+                <td>Resultado bruto</td><td class="right">205,00 M</td>
+                <td class="right">315,02 M</td>
+                <td class="right">322,58 M</td>
+                <td class="right">292,06 M</td>
+                <td class="right">316,90 M</td>
+                
+            </tr>
+            <tr>
+                <td>Despesas/receitas operacionais</td><td class="right">-31,36 M</td><td class="right">-90,97 M</td><td class="right">-53,36 M</td><td class="right">-66,68 M</td><td class="right">-73,17 M</td>
+            </tr>
+            <tr>
+                <td>Resultado antes do resultado financeiro e dos tributos</td><td class="right">
+                    173,65 M</td><td class="right">
+                    224,04 M</td><td class="right">
+                    269,22 M</td><td class="right">
+                    225,38 M</td><td class="right">
+                    243,74 M</td>
+            </tr>
+            <tr>
+                <td>Resultado não operacional (resultado financeiro)</td><td class="right">-69,67 M</td><td class="right">-36,83 M</td><td class="right">-30,89 M</td><td class="right">-42,10 M</td><td class="right">-28,00 M</td>
+            </tr>
+            <tr>
+                <td>Resultado antes dos tributos sobre o lucro</td><td class="right">103,98 M</td><td class="right">187,21 M</td><td class="right">238,33 M</td><td class="right">183,28 M</td><td class="right">215,73 M</td>
+            </tr>
+            <tr>
+                <td>Imposto de renda e contribuição social sobre o lucro</td><td class="right">-18,81 M</td><td class="right">-27,51 M</td><td class="right">-17,65 M</td><td class="right">-16,73 M</td><td class="right">38,83 M</td>
+            </tr>
+            <tr>
+                <td>Resultado líquido das operações continuadas</td><td class="right">85,17 M</td><td class="right">159,70 M</td><td class="right">220,68 M</td><td class="right">166,55 M</td><td class="right">254,56 M</td>
+            </tr>
+            <tr>
+                <td>Resultado líquido de operações descontinuadas</td><td class="right">0</td><td class="right">0</td><td class="right">0</td><td class="right">0</td><td class="right">0</td>
+            </tr>
+            <tr>
+                <td>Lucro/prejuízo consolidado do período</td><td class="right">85,17 M</td><td class="right">159,70 M</td><td class="right">220,68 M</td><td class="right">166,55 M</td><td class="right">254,56 M</td>
+            </tr>
+            <tr>
+                <td>Resultado atribuído a sócios da empresa controladora</td><td class="right">117,32 M</td><td class="right">147,16 M</td><td class="right">222,28 M</td><td class="right">170,46 M</td><td class="right">266,91 M</td>
+            </tr>
+            <tr>
+                <td>Resultado atribuído a sócios não controladores</td><td class="right">26,04 M</td><td class="right">12,54 M</td><td class="right">-882,00 Mil</td><td class="right">-3,91 M</td><td class="right">-12,35 M</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<p><a href="/bolsa/acoes/JHSF3/resultados">Histórico de resultados →</a></p>
+
+<h2>Fluxos de caixa</h2>
+
+<div class="table-container high">
+    <table class="normal-table">
+        <thead>
+            <tr>
+                <th></th>
+                <th class="right">4T2022</th><th class="right">3T2022</th><th class="right">2T2022</th><th class="right">1T2022</th><th class="right">4T2021</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>FCO</td><td class="right">-215,13 M</td><td class="right">146,22 M</td><td class="right">138,82 M</td><td class="right">300,88 M</td><td class="right">391,02 M</td>
+            </tr>
+            <tr>
+                <td>FCI</td><td class="right">-758,35 M</td><td class="right">-750,81 M</td><td class="right">-398,74 M</td><td class="right">-383,87 M</td><td class="right">-303,42 M</td>
+            </tr>
+            <tr>
+                <td>FCF</td><td class="right">820,78 M</td><td class="right">427,32 M</td><td class="right">219,34 M</td><td class="right">-327,14 M</td><td class="right">-146,01 M</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<p><a href="/bolsa/acoes/JHSF3/fluxos-de-caixa">Histórico de fluxos de caixa →</a></p>
+
+<h2>Dividendos</h2>
+
+
 
 <div class="table-container">
     <table class="normal-table">
         <thead>
             <tr>
                 <th>Tipo</th>
-                <th>Registro</th>
-                <th>Ex</th>
-                <th>Pagamento</th>
-                <th>Valor</th>
+                <th class="right">Registro</th>
+                <th class="right">Ex</th>
+                <th class="right">Pagamento</th>
+                <th class="right">Valor</th>
             </tr>
         </thead>
         <tbody>
             
             <tr>
                 <td>Dividendo</td>
-                <td>16/03/2023</td>
-                <td>17/03/2023</td>
-                <td>27/03/2023</td>
-                <td>0,048048</td>
+                <td class="right">16/03/2023</td>
+                <td class="right">17/03/2023</td>
+                <td class="right">27/03/2023</td>
+                <td class="right">0,048048</td>
             </tr>
             
             <tr>
                 <td>Dividendo</td>
-                <td>14/02/2023</td>
-                <td>15/02/2023</td>
-                <td>27/02/2023</td>
-                <td>0,047941</td>
+                <td class="right">14/02/2023</td>
+                <td class="right">15/02/2023</td>
+                <td class="right">27/02/2023</td>
+                <td class="right">0,047941</td>
             </tr>
             
             <tr>
                 <td>Dividendo</td>
-                <td>17/01/2023</td>
-                <td>18/01/2023</td>
-                <td>26/01/2023</td>
-                <td>0,047941</td>
+                <td class="right">17/01/2023</td>
+                <td class="right">18/01/2023</td>
+                <td class="right">26/01/2023</td>
+                <td class="right">0,047941</td>
             </tr>
             
             <tr>
                 <td>Dividendo</td>
-                <td>15/12/2022</td>
-                <td>16/12/2022</td>
-                <td>26/12/2022</td>
-                <td>0,047941</td>
+                <td class="right">15/12/2022</td>
+                <td class="right">16/12/2022</td>
+                <td class="right">26/12/2022</td>
+                <td class="right">0,047941</td>
             </tr>
             
             <tr>
                 <td>Dividendo</td>
-                <td>03/03/2022</td>
-                <td>04/03/2022</td>
-                <td>14/03/2022</td>
-                <td>0,160656</td>
+                <td class="right">03/03/2022</td>
+                <td class="right">04/03/2022</td>
+                <td class="right">14/03/2022</td>
+                <td class="right">0,160656</td>
             </tr>
             
             <tr>
                 <td>Dividendo</td>
-                <td>14/10/2021</td>
-                <td>15/10/2021</td>
-                <td>25/10/2021</td>
-                <td>0,183472</td>
+                <td class="right">14/10/2021</td>
+                <td class="right">15/10/2021</td>
+                <td class="right">25/10/2021</td>
+                <td class="right">0,183472</td>
             </tr>
             
             <tr>
                 <td>Dividendo</td>
-                <td>01/04/2021</td>
-                <td>05/04/2021</td>
-                <td>12/04/2021</td>
-                <td>0,210370</td>
+                <td class="right">01/04/2021</td>
+                <td class="right">05/04/2021</td>
+                <td class="right">12/04/2021</td>
+                <td class="right">0,210370</td>
             </tr>
             
             <tr>
                 <td>Dividendo</td>
-                <td>07/10/2020</td>
-                <td>08/10/2020</td>
-                <td>19/10/2020</td>
-                <td>0,067137</td>
+                <td class="right">07/10/2020</td>
+                <td class="right">08/10/2020</td>
+                <td class="right">19/10/2020</td>
+                <td class="right">0,067137</td>
             </tr>
             
             <tr>
                 <td>Dividendo</td>
-                <td>18/08/2020</td>
-                <td>19/08/2020</td>
-                <td>28/08/2020</td>
-                <td>0,078771</td>
+                <td class="right">18/08/2020</td>
+                <td class="right">19/08/2020</td>
+                <td class="right">28/08/2020</td>
+                <td class="right">0,078771</td>
             </tr>
             
             <tr>
                 <td>Dividendo</td>
-                <td>27/12/2019</td>
-                <td>30/12/2019</td>
-                <td>20/01/2020</td>
-                <td>0,083152</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>03/04/2019</td>
-                <td>04/04/2019</td>
-                <td>11/04/2019</td>
-                <td>0,116415</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>07/11/2014</td>
-                <td>10/11/2014</td>
-                <td>19/11/2014</td>
-                <td>0,011570</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>30/04/2014</td>
-                <td>02/05/2014</td>
-                <td>15/05/2014</td>
-                <td>0,046306</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>30/04/2013</td>
-                <td>02/05/2013</td>
-                <td>15/05/2013</td>
-                <td>0,115963</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>12/04/2013</td>
-                <td>15/04/2013</td>
-                <td>24/04/2013</td>
-                <td>0,069578</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>26/03/2012</td>
-                <td>27/03/2012</td>
-                <td>10/04/2012</td>
-                <td>0,046663</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>24/01/2012</td>
-                <td>26/01/2012</td>
-                <td>10/02/2012</td>
-                <td>0,139988</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>29/04/2011</td>
-                <td>02/05/2011</td>
-                <td>13/06/2011</td>
-                <td>0,234621</td>
-            </tr>
-            
-            <tr>
-                <td>JSCP</td>
-                <td>27/10/2010</td>
-                <td>28/10/2010</td>
-                <td>09/11/2010</td>
-                <td>0,112618</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>30/04/2010</td>
-                <td>03/05/2010</td>
-                <td>11/05/2010</td>
-                <td>0,070386</td>
-            </tr>
-            
-            <tr>
-                <td>JSCP</td>
-                <td>23/12/2009</td>
-                <td>28/12/2009</td>
-                <td>12/01/2010</td>
-                <td>0,122941</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>28/04/2009</td>
-                <td>29/04/2009</td>
-                <td>20/07/2009</td>
-                <td>0,105555</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>13/03/2008</td>
-                <td>14/03/2008</td>
-                <td>27/03/2008</td>
-                <td>0,035186</td>
+                <td class="right">27/12/2019</td>
+                <td class="right">30/12/2019</td>
+                <td class="right">20/01/2020</td>
+                <td class="right">0,083152</td>
             </tr>
             
         </tbody>
     </table>
 </div>
+
+<p><a href="/bolsa/acoes/JHSF3/dividendos">Histórico de dividendos →</a></p>
+
+
+
+<h2>Bonificações</h2>
+
+
+
+<p>Não temos registro de bonificações de JHSF3.</p>
+
+
+
+<h2>Desdobramentos</h2>
+
+
+
+<p>Não temos registro de desdobramentos de JHSF3.</p>
+
+
+
+
+<script src="/static/echarts.custom.min.js"></script>
+<script src="/static/chart.js"></script>
+<script>
+    const data = [["2023-02-23", 4.65], ["2023-02-24", 4.58], ["2023-02-27", 4.47], ["2023-02-28", 4.18], ["2023-03-01", 4.27], ["2023-03-02", 4.19], ["2023-03-03", 4.13], ["2023-03-06", 4.21], ["2023-03-07", 4.18], ["2023-03-08", 4.36], ["2023-03-09", 4.22], ["2023-03-10", 4.13], ["2023-03-13", 4.13], ["2023-03-14", 4.15], ["2023-03-15", 4.23], ["2023-03-16", 4.2], ["2023-03-17", 3.88], ["2023-03-20", 3.72], ["2023-03-21", 3.67], ["2023-03-22", 3.63], ["2023-03-23", 3.51]];
+    drawChart(data, document.getElementById('chart'), xformatter = x => {
+        const parts = x.split('-');
+        return `${parts[2]}/${parts[1]}`;
+    }, formatter = y => {
+        return `${y.toFixed(2).replace('.', ',')}`;
+    });
+
+    document.querySelectorAll('.table-container.high td').forEach(td => {
+        td.addEventListener('mouseenter', function () {
+            // Highlight the column by adding the 'highlight' class to all td elements in the same column
+            const table = this.closest('table');
+            const colIndex = this.cellIndex;
+            const tdsInCol = table.querySelectorAll(`td:nth-child(${colIndex + 1})`);
+            tdsInCol.forEach(tdInCol => tdInCol.classList.add('highlight'));
+
+            // Highlight the row by adding the 'highlight' class to all td elements in the same row
+            const tr = this.closest('tr');
+            const tdsInRow = tr.querySelectorAll('td');
+            tdsInRow.forEach(tdInRow => tdInRow.classList.add('highlight'));
+        });
+        td.addEventListener('mouseleave', function () {
+            // Remove the 'highlight' class from all td elements in the same column
+            const table = this.closest('table');
+            const colIndex = this.cellIndex;
+            const tdsInCol = table.querySelectorAll(`td:nth-child(${colIndex + 1})`);
+            tdsInCol.forEach(tdInCol => tdInCol.classList.remove('highlight'));
+
+            // Remove the 'highlight' class from all td elements in the same row
+            const tr = this.closest('tr');
+            const tdsInRow = tr.querySelectorAll('td');
+            tdsInRow.forEach(tdInRow => tdInRow.classList.remove('highlight'));
+        });
+    });
+</script>
 
 
         </div>
