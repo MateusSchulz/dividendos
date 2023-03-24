@@ -1,0 +1,1575 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="utf-8">
+    <title>EGIE3 (ENGIE) - Dados de Mercado</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/x-icon" href="/static/favicon.ico">
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="https://www.dadosdemercado.com.br/rss">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;500;700&display=swap" rel="stylesheet">
+    <meta name="description" content="Dados atualizados da ação EGIE3, informações sobre a ENGIE, histórico de resultados, balanços, dividendos, indicadores e cotações ajustadas">
+    
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Página Inicial",
+                "item": "https://www.dadosdemercado.com.br/"
+            },{
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Bolsa",
+                "item": "https://www.dadosdemercado.com.br/bolsa"
+            },{
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Ações listadas na B3",
+                "item": "https://www.dadosdemercado.com.br/bolsa/acoes"
+            },{
+                "@type": "ListItem",
+                "position": 4,
+                "name": "EGIE3",
+                "item": "https://www.dadosdemercado.com.br/bolsa/acoes/EGIE3"
+            }
+        ]
+    }
+    </script>
+    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZN33BSX1CL"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'G-ZN33BSX1CL');
+    </script>
+    <script async src="https://www.thousandleads.org/js?v=1&id=C2B38471"></script>
+    <script>
+        window.tl = window.tl || [];
+        window.tl.push(['tlpid', 'C2B38471']);
+        window.tl.push(['start', new Date()]);
+    </script>
+    
+</head>
+
+<body>
+    <style>
+        body {
+            margin: 0;
+            font-size: 14px;
+            font-family: 'Roboto', sans-serif;
+        }
+
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6 {
+            font-family: 'Noto Serif', serif;
+        }
+
+        p,
+        ul {
+            line-height: 1.7em;
+        }
+
+        a {
+            color: #000;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        nav.menu a {
+            white-space: nowrap;
+            color: #000;
+        }
+
+        nav.menu svg path {
+            fill: #000;
+        }
+
+        nav.menu span {
+            color: #999;
+        }
+
+        #breadcrumb {
+            color: #aaa;
+            margin: -16px 0 0;
+        }
+
+        #breadcrumb a {
+            color: #aaa;
+            white-space: nowrap;
+        }
+
+        header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin: 24px 0 64px;
+        }
+
+        header>a {
+            display: flex;
+        }
+
+        header nav {
+            font-family: 'Noto Serif', serif;
+            font-size: 16px;
+            display: flex;
+            align-items: center;
+            gap: 20px;
+        }
+
+        header nav a {
+            text-decoration: none;
+            color: #000;
+        }
+
+        header nav a:last-child {
+            background-color: #000;
+            color: #fff;
+            padding: 4px 14px;
+        }
+
+        @media screen and (max-width: 1000px) {
+            header {
+                flex-direction: column;
+                align-items: stretch;
+                gap: 0;
+            }
+
+            header>a {
+                border-bottom: 1px solid #ccc;
+                justify-content: center;
+                padding: 0 0 16px;
+            }
+
+            header nav {
+                flex-direction: column;
+                align-items: stretch;
+                gap: 0;
+            }
+
+            header nav a {
+                flex-grow: 1;
+                background-color: #eee;
+                border-bottom: 1px solid #ccc;
+                padding: 6px 14px;
+            }
+
+            header nav a:last-child {
+                padding: 6px 14px;
+            }
+        }
+
+        .headline {
+            display: flex;
+            justify-content: space-between;
+            margin: 0 0 56px;
+        }
+
+        .headline-content {
+            display: flex;
+            flex-direction: column;
+            gap: 24px;
+            max-width: 620px;
+        }
+
+        .headline-content h1 {
+            margin: 0;
+            font-size: 36px;
+            line-height: 44px;
+        }
+
+        .headline-content p {
+            margin: 0;
+        }
+
+        .headline-content a {
+            background-color: #000;
+            color: #fff;
+            border-radius: 16px;
+            padding: 8px 32px;
+            font-weight: 500;
+        }
+
+        @media screen and (max-width: 620px) {
+            .headline-content h1 {
+                font-size: 28px;
+                line-height: 36px;
+            }
+
+            .headline svg {
+                display: none;
+            }
+        }
+
+        .go-link {
+            display: flex;
+            justify-content: space-between;
+            gap: 8px;
+            padding: 8px 0 0;
+            margin: 10px 0 0;
+            color: #888;
+        }
+
+        .go-link a {
+            color: #000;
+        }
+
+        /* footer */
+
+        footer {
+            margin: 64px 0 0;
+            background-color: #000;
+            color: #ffffffaa;
+        }
+
+        footer nav a {
+            color: #ffffffaa;
+        }
+
+        footer .container {
+            box-sizing: border-box;
+            padding: 32px 16px;
+        }
+
+        footer p {
+            margin: 16px 0 0;
+            color: #ffffff77;
+        }
+
+        footer p.disclaimer {
+            font-size: 0.8em;
+        }
+
+        .table-container {
+            overflow-x: scroll;
+        }
+
+        .table-container table {
+            width: 100%;
+        }
+
+        table.normal-table {
+            border-collapse: collapse;
+            text-align: left;
+        }
+
+        table.normal-table thead {
+            background-color: #f4f4f4;
+        }
+
+        table.normal-table th,
+        table.normal-table td {
+            padding: 8px 10px;
+        }
+
+        table.normal-table tr th {
+            border-bottom: 2px solid rgba(0, 0, 0, 0.1);
+        }
+
+        table.normal-table tr td {
+            border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+        }
+
+        table.normal-table th {
+            position: relative;
+        }
+
+        table.normal-table .right {
+            text-align: right;
+        }
+
+        table.normal-table .nw {
+            white-space: nowrap;
+        }
+
+        .columns {
+            display: flex;
+            flex-direction: row;
+        }
+
+        .gap24 {
+            gap: 24px;
+        }
+
+        .container {
+            max-width: 1048px;
+            margin: 0 auto;
+        }
+
+        #page {
+            padding: 0 16px;
+            box-sizing: border-box;
+        }
+
+        #chart {
+            height: 150px;
+        }
+
+        .sub-pages {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 24px;
+        }
+
+        .sub-pages>a {
+            background-color: #f4f5f6;
+            border: 1px solid #dbdcdd;
+            padding: 16px 8px;
+            text-align: center;
+            border-radius: 4px;
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+            line-height: 1.4em;
+        }
+
+        @media screen and (min-width: 1000px) {
+            .sub-pages {
+                grid-template-columns: repeat(5, 1fr);
+            }
+        }
+
+        .form-box {
+            margin: 0 auto;
+            max-width: 300px;
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+            border: 1px solid #ddd;
+            box-shadow: 1px 1px 2px 0 rgba(0, 0, 0, 0.1);
+            padding: 24px;
+            border-radius: 8px;
+        }
+
+        .form-box h2,
+        .form-box p {
+            margin: 0;
+        }
+
+        .form-box .label-input {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+        }
+
+        .form-box-body {
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+        }
+
+        .form-box-footer-bg {
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+        }
+
+        .form-box form input[type="text"],
+        .form-box form input[type="email"],
+        .form-box form input[type="password"] {
+            font-family: inherit;
+            font-size: 1em;
+            padding: 8px 10px;
+            border: 1px solid #ccc;
+            background-color: #fff;
+            box-shadow: inset 1px 1px 2px 0 rgba(0, 0, 0, 0.1);
+            border-radius: 3px;
+        }
+
+        .form-box form input[type="submit"] {
+            background-color: #388e3c;
+            color: #fff;
+            cursor: pointer;
+            border: 0;
+            font-family: inherit;
+            font-size: 1em;
+            padding: 10px 8px;
+            border-radius: 3px;
+        }
+
+        .form-box form input[type="submit"]:hover {
+            background-color: #2d7a31;
+        }
+
+        .notifications {
+            position: fixed;
+            top: 16px;
+            right: 24px;
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+        }
+
+        .notifications>div {
+            background-color: #fff;
+            border: 1px solid rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+            box-shadow: 1px 1px 2px 0 rgba(0, 0, 0, 0.2);
+            width: 256px;
+            padding: 16px 32px;
+        }
+
+        .notifications>div.error {
+            color: #c00;
+            background-color: #fff5f5;
+            border: 1px solid rgba(255, 0, 0, 0.3);
+            box-shadow: 1px 1px 2px 0 rgba(255, 0, 0, 0.2);
+        }
+
+        .section {
+            margin: 0 0 64px;
+        }
+
+        .high-low {
+            display: flex;
+            gap: 40px;
+        }
+
+        .high-low a {
+            color: #000;
+        }
+
+        .high-low>div {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .high-low>div:not(:first-child) {
+            flex: 0.5;
+        }
+
+        .high-low>div:first-child {
+            flex: 1;
+        }
+
+        .high-low .quote {
+            border-bottom: 1px solid #ddd;
+            padding: 6px 0;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .high-low .quote>* {
+            flex: 1 1 0;
+        }
+
+        .high-low .quote>div:not(:first-child) {
+            text-align: right;
+        }
+
+        .high-low #ibov-chart {
+            height: 150px;
+        }
+
+        .high-low h3 span {
+            font-weight: normal;
+        }
+
+        @media screen and (max-width: 480px) {
+            .high-low {
+                flex-direction: column;
+                gap: 16px;
+            }
+
+            .high-low>div {
+                width: 100%;
+            }
+        }
+
+        /* docs */
+        .api-docs {
+            margin: 32px 0;
+        }
+
+        .api-docs h1 {
+            margin-top: 0;
+        }
+
+        .api-docs-sidebar-cat {
+            margin: 0 0 24px;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .api-docs-sidebar-cat a {
+            line-height: 24px;
+        }
+
+        .api-docs-sidebar-cat a:first-child {
+            font-weight: bold;
+        }
+
+        @media screen and (min-width: 800px) {
+            .api-docs {
+                display: flex;
+                gap: 32px
+            }
+
+            .api-docs-sidebar {
+                width: 220px;
+                flex-shrink: 0;
+                border-right: 1px solid #ddd;
+            }
+
+            .api-docs-content {
+                flex-grow: 1;
+                flex-shrink: 1;
+            }
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(5, 1fr);
+            gap: 12px;
+        }
+
+        .grid>div {
+            display: flex;
+            flex-direction: column;
+            padding: 16px 8px;
+            text-align: center;
+            background-color: #f2f2f1;
+            border-radius: 4px;
+            gap: 6px;
+        }
+
+        .grid>div span:first-child {
+            font-size: 20px;
+            font-weight: 500;
+        }
+
+        @media screen and (max-width: 800px) {
+            .grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+
+        .about {
+            display: flex;
+            gap: 48px
+        }
+
+        .about>div {
+            flex: 1;
+        }
+
+        .about-params {
+            display: grid;
+            gap: 12px;
+            grid-template-columns: repeat(2, 1fr);
+        }
+
+        .about-params>div {
+            background-color: #f2f2f1;
+            border-radius: 4px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 12px 4px;
+            gap: 4px;
+        }
+
+        .about h3 {
+            margin: 0 0 16px;
+        }
+
+        @media screen and (max-width: 800px) {
+            .about {
+                flex-direction: column;
+            }
+        }
+
+        #flow-chart {
+            width: 100%;
+            height: 250px;
+        }
+
+        .grid-black {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+        }
+
+        .grid-black>div {
+            display: flex;
+            flex-direction: column;
+            padding: 12px 16px;
+            background-color: #fff;
+            gap: 8px;
+            box-shadow: 0 0 0 1px #ddd;
+        }
+
+        .grid-black>div:hover {
+            background-color: #f2f2f2;
+        }
+
+        .grid-black>div>div {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .grid-black>div>div a {
+            color: #000;
+        }
+
+        .grid-black>div>span {
+            color: #777;
+            font-size: 0.8em;
+            line-height: 1.4em;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+        }
+
+        @media screen and (max-width: 800px) {
+            .grid-black {
+                display: grid;
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+
+        .grid-small {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+        }
+
+        .grid-small>a {
+            display: flex;
+            flex-direction: column;
+            padding: 12px 16px;
+            background-color: #fff;
+            gap: 12px;
+            box-shadow: 0 0 0 1px #ddd;
+            text-decoration: none;
+        }
+
+        .grid-small>a:hover {
+            background-color: #f2f2f2;
+        }
+
+        .grid-small>a>div {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-end;
+        }
+
+        .grid-small>a span {
+            font-size: 20px;
+            font-weight: 500;
+            text-align: center;
+        }
+
+        @media screen and (max-width: 800px) {
+            .grid-small {
+                display: grid;
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+
+        .docs-table {
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            overflow: hidden;
+        }
+
+        .docs-table>div {
+            padding: 8px 12px;
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+
+        .docs-table>div:not(:last-child) {
+            border-bottom: 1px solid #ccc;
+        }
+
+        .docs-table>div div:first-child {
+            display: flex;
+            gap: 8px;
+        }
+
+        .docs-table>div div:first-child span {
+            color: #777;
+        }
+
+        .calculator-options {
+            margin: 16px 0;
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+        }
+
+        .calculator-fields {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 16px 24px;
+        }
+
+        .calculator-fields .field {
+            display: flex;
+            flex-direction: column;
+            gap: 2px;
+        }
+
+        @media screen and (max-width: 800px) {
+            .calculator-fields {
+                grid-template-columns: repeat(2, 1fr);
+                gap: 8px 16px;
+            }
+        }
+
+        .calculator-fields input[type="text"] {
+            width: 100%;
+            box-sizing: border-box;
+            border: 1px solid #aaa;
+            border-radius: 4px;
+            font-family: inherit;
+            font-size: 1.4em;
+            padding: 4px 8px;
+        }
+
+        .calculator-fields input[type="submit"] {
+            background-color: #333;
+            color: #fff;
+            padding: 8px;
+            border-radius: 4px;
+            border: 0;
+        }
+
+        .calculator-fields label {
+            overflow: hidden;
+            white-space: nowrap;
+        }
+
+        #calculator-return-chart {
+            width: 100%;
+            height: 220px;
+            border: 1px solid #ddd;
+            padding: 16px;
+            box-sizing: border-box;
+            border-radius: 8px;
+        }
+
+        .table-container.high .highlight {
+            background-color: #f2f2f2;
+        }
+
+        .table-container.high td:hover {
+            background-color: #ddd;
+        }
+
+        /* top funds */
+        .top-funds-grid {
+            display: grid;
+            grid-template-columns: repeat(2, calc(50% - 16px));
+            gap: 32px;
+        }
+
+        @media screen and (max-width: 800px) {
+            .top-funds-grid {
+                grid-template-columns: repeat(1, 100%);
+            }
+        }
+
+        .top-funds {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+
+        a.top-fund {
+            background-color: #f2f2f2;
+            padding: 8px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            border-radius: 8px;
+        }
+
+        a.top-fund:hover {
+            background-color: #eee;
+            text-decoration: none;
+        }
+
+        a.top-fund .top-fund-position {
+            width: 56px;
+            height: 56px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background-color: #dfdfdf;
+            font-size: 18px;
+            border-radius: 8px;
+            flex-shrink: 0;
+        }
+
+        a.top-fund .top-fund-data {
+            display: flex;
+            align-items: center;
+            flex-grow: 1;
+            justify-content: space-between;
+            min-width: 0;
+            margin: 4px 8px;
+            gap: 16px;
+        }
+
+        a.top-fund .top-fund-name {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+            min-width: 0;
+        }
+
+        a.top-fund .top-fund-name>* {
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis ellipsis;
+            flex-grow: 0;
+        }
+
+        a.top-fund .top-fund-stats {
+            display: flex;
+            gap: 16px;
+        }
+
+        /* pagination */
+        .pagination {
+            display: flex;
+            align-items: center;
+            margin: 32px 0 0;
+            gap: 4px;
+        }
+
+        .pagination a {
+            border: 1px solid #ccc;
+            padding: 8px 12px;
+            border-radius: 4px;
+        }
+
+        .pagination a:hover {
+            background-color: #eee;
+            text-decoration: none;
+        }
+
+        .pagination a.current {
+            background-color: #ddd;
+        }
+
+        .news {
+            margin: 16px 0;
+        }
+
+        .news h3 {
+            margin: 0;
+            padding: 0;
+        }
+
+        .news h3 span {
+            color: #aaa;
+        }
+
+        .whatsapp a {
+            display: block;
+            background-color: #eee;
+            text-align: center;
+            padding: 8px;
+            margin: -32px 0 32px;
+            border-radius: 24px;
+        }
+    </style>
+
+    <div id="page" class="container">
+        <header>
+            <a href="/" title="Dados de Mercado">
+                <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M0 20H20V0L0 20Z" fill="black" />
+                    <path d="M20 20H40V0L20 20Z" fill="black" />
+                    <path d="M20 40H40V20L20 40Z" fill="black" />
+                    <path d="M0 40H20V20L0 40Z" fill="black" />
+                </svg>
+            </a>
+            <nav>
+                <a href="/bolsa">Bolsa</a>
+                <a href="/fundos">Fundos</a>
+                <a href="/tesouro-direto">Tesouro</a>
+                <a href="/economia">Índices</a>
+                <a href="/noticias">Notícias</a>
+                <a href="/ferramentas">Ferramentas</a>
+                
+                <a href="/signin">Entrar</a>
+                
+            </nav>
+        </header>
+
+        <div class="whatsapp">
+            <a href="https://chat.whatsapp.com/BTCipSVdIezJkqWEMdkhFR" target="_blank">Participe da nossa comunidade no
+                WhatsApp</a>
+        </div>
+
+        <div id="content">
+            
+            <div id="breadcrumb">
+                
+                <a href="/">Página Inicial</a>
+                ·
+                
+                <a href="/bolsa">Bolsa</a>
+                ·
+                
+                <a href="/bolsa/acoes">Ações listadas na B3</a>
+                ·
+                
+                <a href="/bolsa/acoes/EGIE3">EGIE3</a>
+                
+                
+            </div>
+            
+
+            
+
+<h1>EGIE3 (ENGIE)</h1>
+
+
+
+<div class="about">
+    <div>
+        <div class="about-params">
+            <div>
+                <span>ENGIE Brasil Energia S.A.</span>
+                <span>Razão social</span>
+            </div>
+            <div>
+                <span>02.474.103/0001-19</span>
+                <span>CNPJ</span>
+            </div>
+            <div>
+                <span><a href="http://www.engie.com.br" target="_blank">Site do RI</a></span>
+                <span>Website</span>
+            </div>
+            <div>
+                <span>Utilidade Pública</span>
+                <span>Setor</span>
+            </div>
+            <div>
+                <span>815.927.727</span>
+                <span>Quantidade de ações</span>
+            </div>
+            <div>
+                <span>BREGIEACNOR9</span>
+                <span>Código ISIN</span>
+            </div>
+        </div>
+    </div>
+    <div>
+        
+        <h3>EGIE3: R$ 39,38 -0,51%</h3>
+        <div id="chart"></div>
+        <p><a href="/bolsa/acoes/EGIE3/cotacoes">Histórico de cotações →</a></p>
+        
+    </div>
+</div>
+
+
+
+<h2>Indicadores de mercado</h2>
+
+<p>Atualizado em 23/03/2023 com preço de referência de R$ 39,38
+    por ação e
+    815.927.727 ações.</p>
+
+<div class="grid">
+    <div>
+        <span>3,26</span>
+        <span>LPA</span>
+    </div>
+    <div>
+        <span>10,34</span>
+        <span>VPA</span>
+    </div>
+    <div>
+        <span>7,11</span>
+        <span>EBIT por ação</span>
+    </div>
+    <div>
+        <span>46,80</span>
+        <span>Ativo por ação</span>
+    </div>
+    <div>
+        <span>14,59</span>
+        <span>Receita líquida por ação</span>
+    </div>
+    <div>
+        <span>12,07</span>
+        <span>P/L</span>
+    </div>
+    <div>
+        <span>3,81</span>
+        <span>P/VP</span>
+    </div>
+    <div>
+        <span>2,70</span>
+        <span>PSR</span>
+    </div>
+    <div>
+        <span>9,63</span>
+        <span>P/CF</span>
+    </div>
+</div>
+
+<p><a href="/bolsa/acoes/EGIE3/indicadores-de-mercado">Histórico de indicadores de mercado →</a></p>
+
+
+
+
+
+<h2>Indicadores financeiros</h2>
+
+<p>Indicadores financeiros calculados com base no balanço de 31/12/2022 e resultados do período de
+    01/01/2022
+    até 31/12/2022.</p>
+
+<div class="grid">
+    <div>
+        <span>46,94</span>
+        <span>Margem bruta</span>
+    </div>
+    <div>
+        <span>22,38</span>
+        <span>Margem líquida</span>
+    </div>
+    <div>
+        <span>48,72</span>
+        <span>Margem EBIT</span>
+    </div>
+    <div>
+        <span>40,40</span>
+        <span>Margem EBITDA</span>
+    </div>
+    <div>
+        <span>27,59</span>
+        <span>Margem operacional</span>
+    </div>
+    <div>
+        <span>31,57</span>
+        <span>ROE</span>
+    </div>
+    <div>
+        <span>0,07</span>
+        <span>ROA</span>
+    </div>
+    <div>
+        <span>0,31</span>
+        <span>Giro do ativo</span>
+    </div>
+    <div>
+        <span>1,25</span>
+        <span>Liquidez corrente</span>
+    </div>
+    <div>
+        <span>1,25</span>
+        <span>Liquidez seca</span>
+    </div>
+    <div>
+        <span>0,38</span>
+        <span>Liquidez imediata</span>
+    </div>
+    <div>
+        <span>1.488 mi</span>
+        <span>Capital de giro</span>
+    </div>
+    <div>
+        <span>17.357 mi</span>
+        <span>Dívida bruta</span>
+    </div>
+    <div>
+        <span>15.121 mi</span>
+        <span>Dívida líquida</span>
+    </div>
+    <div>
+        <span>352,44</span>
+        <span>Endividamento geral</span>
+    </div>
+    <div>
+        <span>4.810 mi</span>
+        <span>EBITDA</span>
+    </div>
+</div>
+
+<p><a href="/bolsa/acoes/EGIE3/indicadores-financeiros">Histórico de indicadores financeiros →</a></p>
+
+
+
+<h2>Balanços</h2>
+
+<div class="table-container high">
+    <table class="normal-table">
+        <thead>
+            <tr>
+                <th></th>
+                <th class="right">4T2022</th><th class="right">3T2022</th><th class="right">2T2022</th><th class="right">1T2022</th><th class="right">4T2021</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Ativo total</td><td class="right">38,19 B</td><td class="right">39,69 B</td><td class="right">39,66 B</td><td class="right">39,61 B</td><td class="right">38,12 B</td>
+            </tr>
+            <tr>
+                <td>Ativo circulante</td><td class="right">7,38 B
+                </td>
+                <td class="right">9,39 B
+                </td>
+                <td class="right">7,82 B
+                </td>
+                <td class="right">8,05 B
+                </td>
+                <td class="right">8,52 B
+                </td>
+                
+            </tr>
+            <tr>
+                <td>Caixa e equivalentes de caixa</td><td class="right">2,24 B
+                </td><td class="right">3,76 B
+                </td><td class="right">4,31 B
+                </td><td class="right">4,59 B
+                </td><td class="right">5,16 B
+                </td>
+            </tr>
+            <tr>
+                <td>Aplicações financeiras</td><td class="right">0</td><td class="right">0</td><td class="right">0</td><td class="right">0</td><td class="right">0</td>
+            </tr>
+            <tr>
+                <td>Contas a receber</td><td class="right">1,14 B
+                </td>
+                <td class="right">1,17 B
+                </td>
+                <td class="right">1,08 B
+                </td>
+                <td class="right">1,20 B
+                </td>
+                <td class="right">1,11 B
+                </td>
+                
+            </tr>
+            <tr>
+                <td>Estoques</td><td class="right">0</td><td class="right">57,46 M</td><td class="right">173,24 M</td><td class="right">152,18 M</td><td class="right">0</td>
+            </tr>
+            <tr>
+                <td>Ativos biológicos</td><td class="right">0
+                </td><td class="right">0
+                </td><td class="right">0
+                </td><td class="right">0
+                </td><td class="right">0
+                </td>
+            </tr>
+            <tr>
+                <td>Ativo não circulante</td><td class="right">30,81 B
+                </td><td class="right">30,30 B
+                </td><td class="right">31,85 B
+                </td><td class="right">31,56 B
+                </td><td class="right">29,60 B
+                </td>
+            </tr>
+            <tr>
+                <td>Investimentos</td><td class="right">3,01 B</td>
+                <td class="right">3,00 B</td>
+                <td class="right">2,82 B</td>
+                <td class="right">3,04 B</td>
+                <td class="right">2,37 B</td>
+                
+            </tr>
+            <tr>
+                <td>Imobilizado</td><td class="right">14,20 B</td><td class="right">13,81 B</td><td class="right">15,35 B</td><td class="right">15,37 B</td><td class="right">14,52 B</td>
+            </tr>
+            <tr>
+                <td>Intangível</td><td class="right">4,13 B
+                </td>
+                <td class="right">4,19 B
+                </td>
+                <td class="right">4,25 B
+                </td>
+                <td class="right">4,02 B
+                </td>
+                <td class="right">4,04 B
+                </td>
+                
+            </tr>
+            <tr>
+                <td>Passivo total</td><td class="right">38,19 B</td>
+                <td class="right">39,69 B</td>
+                <td class="right">39,66 B</td>
+                <td class="right">39,61 B</td>
+                <td class="right">38,12 B</td>
+                
+            </tr>
+            <tr>
+                <td>Passivo circulante</td><td class="right">5,89 B
+                </td><td class="right">7,46 B
+                </td><td class="right">5,59 B
+                </td><td class="right">5,79 B
+                </td><td class="right">5,78 B
+                </td>
+            </tr>
+            <tr>
+                <td>Fornecedores</td><td class="right">535,40 M</td><td class="right">569,45 M</td><td class="right">609,74 M</td><td class="right">609,66 M</td><td class="right">669,53 M</td>
+            </tr>
+            <tr>
+                <td>Empréstimos e financiamentos</td><td class="right">1,55 B
+                </td><td class="right">2,60 B
+                </td><td class="right">2,69 B
+                </td><td class="right">3,28 B
+                </td><td class="right">3,39 B
+                </td>
+            </tr>
+            <tr>
+                <td>Passivo não circulante</td><td class="right">23,86 B</td><td class="right">24,18 B</td><td class="right">26,15 B</td><td class="right">25,45 B</td><td class="right">24,41 B</td>
+            </tr>
+            <tr>
+                <td>Empréstimos e financiamentos</td><td class="right">15,81 B</td><td class="right">16,07 B</td><td class="right">17,93 B</td><td class="right">17,31 B</td><td class="right">16,74 B</td>
+            </tr>
+            <tr>
+                <td>Patrimônio líquido</td><td class="right">8,44 B</td>
+                <td class="right">8,05 B</td>
+                <td class="right">7,93 B</td>
+                <td class="right">8,36 B</td>
+                <td class="right">7,93 B</td>
+                
+            </tr>
+            <tr>
+                <td>Aos não controladores</td><td class="right">3,65 M</td><td class="right">3,56 M</td><td class="right">3,13 M</td><td class="right">3,92 M</td><td class="right">3,59 M</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<p><a href="/bolsa/acoes/EGIE3/balancos">Histórico de balanços →</a></p>
+
+<h2>Resultados</h2>
+
+<div class="table-container high">
+    <table class="normal-table">
+        <thead>
+            <tr>
+                <th></th>
+                <th class="right">4T2022</th><th class="right">3T2022</th><th class="right">2T2022</th><th class="right">1T2022</th><th class="right">4T2021</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Receita de venda de bens e/ou serviços</td><td class="right">3,10 B</td><td class="right">2,75 B</td><td class="right">3,00 B</td><td class="right">3,06 B</td><td class="right">2,77 B</td>
+            </tr>
+            <tr>
+                <td>Custo dos bens e/ou serviços vendidos</td><td class="right">-1,69 B
+                </td><td class="right">-1,66 B
+                </td><td class="right">-1,44 B
+                </td><td class="right">-1,54 B
+                </td><td class="right">-882,01 M
+                </td>
+            </tr>
+            <tr>
+                <td>Resultado bruto</td><td class="right">1,41 B</td>
+                <td class="right">1,09 B</td>
+                <td class="right">1,55 B</td>
+                <td class="right">1,53 B</td>
+                <td class="right">1,89 B</td>
+                
+            </tr>
+            <tr>
+                <td>Despesas/receitas operacionais</td><td class="right">80,42 M</td><td class="right">127,77 M</td><td class="right">-96,16 M</td><td class="right">114,50 M</td><td class="right">-1,14 B</td>
+            </tr>
+            <tr>
+                <td>Resultado antes do resultado financeiro e dos tributos</td><td class="right">
+                    1,49 B</td><td class="right">
+                    1,22 B</td><td class="right">
+                    1,46 B</td><td class="right">
+                    1,64 B</td><td class="right">
+                    749,92 M</td>
+            </tr>
+            <tr>
+                <td>Resultado não operacional (resultado financeiro)</td><td class="right">-427,75 M</td><td class="right">-282,53 M</td><td class="right">-980,72 M</td><td class="right">-824,29 M</td><td class="right">-820,58 M</td>
+            </tr>
+            <tr>
+                <td>Resultado antes dos tributos sobre o lucro</td><td class="right">1,06 B</td><td class="right">933,28 M</td><td class="right">475,51 M</td><td class="right">817,20 M</td><td class="right">-70,66 M</td>
+            </tr>
+            <tr>
+                <td>Imposto de renda e contribuição social sobre o lucro</td><td class="right">-168,68 M</td><td class="right">-198,98 M</td><td class="right">-80,92 M</td><td class="right">-172,15 M</td><td class="right">148,44 M</td>
+            </tr>
+            <tr>
+                <td>Resultado líquido das operações continuadas</td><td class="right">890,63 M</td><td class="right">734,29 M</td><td class="right">394,59 M</td><td class="right">645,05 M</td><td class="right">77,78 M</td>
+            </tr>
+            <tr>
+                <td>Resultado líquido de operações descontinuadas</td><td class="right">0</td><td class="right">0</td><td class="right">0</td><td class="right">0</td><td class="right">0</td>
+            </tr>
+            <tr>
+                <td>Lucro/prejuízo consolidado do período</td><td class="right">890,63 M</td><td class="right">734,29 M</td><td class="right">394,59 M</td><td class="right">645,05 M</td><td class="right">77,78 M</td>
+            </tr>
+            <tr>
+                <td>Resultado atribuído a sócios da empresa controladora</td><td class="right">890,23 M</td><td class="right">733,87 M</td><td class="right">394,26 M</td><td class="right">644,72 M</td><td class="right">77,44 M</td>
+            </tr>
+            <tr>
+                <td>Resultado atribuído a sócios não controladores</td><td class="right">399,00 Mil</td><td class="right">426,00 Mil</td><td class="right">332,00 Mil</td><td class="right">332,00 Mil</td><td class="right">344,00 Mil</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<p><a href="/bolsa/acoes/EGIE3/resultados">Histórico de resultados →</a></p>
+
+<h2>Fluxos de caixa</h2>
+
+<div class="table-container high">
+    <table class="normal-table">
+        <thead>
+            <tr>
+                <th></th>
+                <th class="right">4T2022</th><th class="right">3T2022</th><th class="right">2T2022</th><th class="right">1T2022</th><th class="right">4T2021</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>FCO</td><td class="right">3,34 B</td><td class="right">3,03 B</td><td class="right">2,44 B</td><td class="right">2,21 B</td><td class="right">1,97 B</td>
+            </tr>
+            <tr>
+                <td>FCI</td><td class="right">-1,78 B</td><td class="right">-1,27 B</td><td class="right">-1,14 B</td><td class="right">-889,92 M</td><td class="right">-582,49 M</td>
+            </tr>
+            <tr>
+                <td>FCF</td><td class="right">-4,47 B</td><td class="right">-2,64 B</td><td class="right">-2,06 B</td><td class="right">-1,04 B</td><td class="right">-770,87 M</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<p><a href="/bolsa/acoes/EGIE3/fluxos-de-caixa">Histórico de fluxos de caixa →</a></p>
+
+<h2>Dividendos</h2>
+
+
+
+<div class="table-container">
+    <table class="normal-table">
+        <thead>
+            <tr>
+                <th>Tipo</th>
+                <th class="right">Registro</th>
+                <th class="right">Ex</th>
+                <th class="right">Pagamento</th>
+                <th class="right">Valor</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+            <tr>
+                <td>JSCP</td>
+                <td class="right">22/12/2022</td>
+                <td class="right">23/12/2022</td>
+                <td class="right">--</td>
+                <td class="right">0,245120</td>
+            </tr>
+            
+            <tr>
+                <td>Dividendo</td>
+                <td class="right">21/11/2022</td>
+                <td class="right">22/11/2022</td>
+                <td class="right">12/12/2022</td>
+                <td class="right">0,579481</td>
+            </tr>
+            
+            <tr>
+                <td>Dividendo</td>
+                <td class="right">16/08/2022</td>
+                <td class="right">17/08/2022</td>
+                <td class="right">12/12/2022</td>
+                <td class="right">0,708254</td>
+            </tr>
+            
+            <tr>
+                <td>Dividendo</td>
+                <td class="right">11/05/2022</td>
+                <td class="right">12/05/2022</td>
+                <td class="right">12/07/2022</td>
+                <td class="right">0,673831</td>
+            </tr>
+            
+            <tr>
+                <td>Dividendo</td>
+                <td class="right">24/02/2022</td>
+                <td class="right">25/02/2022</td>
+                <td class="right">17/03/2022</td>
+                <td class="right">0,782752</td>
+            </tr>
+            
+            <tr>
+                <td>JSCP</td>
+                <td class="right">29/12/2021</td>
+                <td class="right">30/12/2021</td>
+                <td class="right">17/03/2022</td>
+                <td class="right">0,073536</td>
+            </tr>
+            
+            <tr>
+                <td>Dividendo</td>
+                <td class="right">16/08/2021</td>
+                <td class="right">17/08/2021</td>
+                <td class="right">29/11/2021</td>
+                <td class="right">0,967632</td>
+            </tr>
+            
+            <tr>
+                <td>Dividendo</td>
+                <td class="right">11/05/2021</td>
+                <td class="right">12/05/2021</td>
+                <td class="right">12/07/2021</td>
+                <td class="right">0,747118</td>
+            </tr>
+            
+            <tr>
+                <td>JSCP</td>
+                <td class="right">18/12/2020</td>
+                <td class="right">21/12/2020</td>
+                <td class="right">05/04/2021</td>
+                <td class="right">0,214480</td>
+            </tr>
+            
+            <tr>
+                <td>Dividendo</td>
+                <td class="right">18/12/2020</td>
+                <td class="right">21/12/2020</td>
+                <td class="right">29/01/2021</td>
+                <td class="right">0,679560</td>
+            </tr>
+            
+        </tbody>
+    </table>
+</div>
+
+<p><a href="/bolsa/acoes/EGIE3/dividendos">Histórico de dividendos →</a></p>
+
+
+
+<h2>Bonificações</h2>
+
+
+
+<div class="table-container">
+    <table class="normal-table">
+        <thead>
+            <tr>
+                <th class="right">Aprovação</th>
+                <th class="right">Registro</th>
+                <th class="right">Ex</th>
+                <th class="right">Razão</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+            <tr>
+                <td class="right">07/12/2018</td>
+                <td class="right">11/12/2018</td>
+                <td class="right">12/12/2018</td>
+                <td class="right">1:4</td>
+            </tr>
+            
+        </tbody>
+    </table>
+</div>
+
+<p><a href="/bolsa/acoes/EGIE3/bonificacoes">Histórico de bonificações →</a></p>
+
+
+
+<h2>Desdobramentos</h2>
+
+
+
+<p>Não temos registro de desdobramentos de EGIE3.</p>
+
+
+
+
+<script src="/static/echarts.custom.min.js"></script>
+<script src="/static/chart.js"></script>
+<script>
+    const data = [["2023-02-23", 39.03], ["2023-02-24", 39.01], ["2023-02-27", 39.1], ["2023-02-28", 39.28], ["2023-03-01", 39.29], ["2023-03-02", 39.39], ["2023-03-03", 39.26], ["2023-03-06", 39.57], ["2023-03-07", 40.45], ["2023-03-08", 40.4], ["2023-03-09", 41.3], ["2023-03-10", 40.93], ["2023-03-13", 41.2], ["2023-03-14", 41.59], ["2023-03-15", 42.07], ["2023-03-16", 40.91], ["2023-03-17", 40.0], ["2023-03-20", 39.95], ["2023-03-21", 39.68], ["2023-03-22", 39.58], ["2023-03-23", 39.38]];
+    drawChart(data, document.getElementById('chart'), xformatter = x => {
+        const parts = x.split('-');
+        return `${parts[2]}/${parts[1]}`;
+    }, formatter = y => {
+        return `${y.toFixed(2).replace('.', ',')}`;
+    });
+
+    document.querySelectorAll('.table-container.high td').forEach(td => {
+        td.addEventListener('mouseenter', function () {
+            // Highlight the column by adding the 'highlight' class to all td elements in the same column
+            const table = this.closest('table');
+            const colIndex = this.cellIndex;
+            const tdsInCol = table.querySelectorAll(`td:nth-child(${colIndex + 1})`);
+            tdsInCol.forEach(tdInCol => tdInCol.classList.add('highlight'));
+
+            // Highlight the row by adding the 'highlight' class to all td elements in the same row
+            const tr = this.closest('tr');
+            const tdsInRow = tr.querySelectorAll('td');
+            tdsInRow.forEach(tdInRow => tdInRow.classList.add('highlight'));
+        });
+        td.addEventListener('mouseleave', function () {
+            // Remove the 'highlight' class from all td elements in the same column
+            const table = this.closest('table');
+            const colIndex = this.cellIndex;
+            const tdsInCol = table.querySelectorAll(`td:nth-child(${colIndex + 1})`);
+            tdsInCol.forEach(tdInCol => tdInCol.classList.remove('highlight'));
+
+            // Remove the 'highlight' class from all td elements in the same row
+            const tr = this.closest('tr');
+            const tdsInRow = tr.querySelectorAll('td');
+            tdsInRow.forEach(tdInRow => tdInRow.classList.remove('highlight'));
+        });
+    });
+</script>
+
+
+        </div>
+    </div>
+    <footer>
+        <div class="container">
+            <nav>
+                <a href="/">Página Inicial</a> <span>·</span>
+                <a href="/api/docs">Documentação da API</a> <span>·</span>
+                <a href="/faq">FAQ</a> <span>·</span>
+                <a href="/privacidade">Privacidade</a> <span>·</span>
+                <a target="_blank" href="https://github.com/dadosdemercado">GitHub</a> <span>·</span>
+                <a target="_blank" href="https://www.instagram.com/dadosdemercado">Instagram</a> <span>·</span>
+                <a target="_blank" href="https://twitter.com/dadosdemercado/">Twitter</a>
+                <!--<span>·</span> <a target="_blank" href="https://www.linkedin.com/in/rlcalmeida/">LinkedIn</a> -->
+            </nav>
+            <p>
+                <strong>Fale conosco: api@dadosdemercado.com.br</strong>
+            </p>
+            <p class="disclaimer">
+                O Dados de Mercado não tem o objetivo de fazer sugestão
+                de compra ou venda de ativos, sendo assim, não se responsabiliza
+                pelas decisões tomadas com base na análise das informações aqui
+                apresentadas. Todas as informações apresentadas tem caráter
+                informativo e são provenientes de fontes públicas como B3, CVM,
+                BCB e Tesouro Direto.
+            </p>
+        </div>
+    </footer>
+</body>
+
+</html>
