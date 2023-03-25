@@ -55,7 +55,7 @@
         gtag('js', new Date());
         gtag('config', 'G-ZN33BSX1CL');
     </script>
-    <script async src="https://www.thousandleads.org/js?v=1&id=C2B38471"></script>
+    <script async src="https://www.dadosdemercado.com.br/js?v=1&id=C2B38471"></script>
     <script>
         window.tl = window.tl || [];
         window.tl.push(['tlpid', 'C2B38471']);
@@ -891,6 +891,15 @@
             color: #aaa;
         }
 
+        .news-article {
+            max-width: 700px;
+            margin: 0 auto;
+        }
+
+        .news-body {
+            font-size: 18px;
+        }
+
         .whatsapp a {
             display: block;
             background-color: #eee;
@@ -972,7 +981,7 @@
                 <td>JSCP</td>
                 <td>27/03/2023</td>
                 <td>--</td>
-                <td>30/06/2023</td>
+                <td>30/06/2024</td>
                 <td>0,096392</td>
             </tr>
             
@@ -980,7 +989,7 @@
                 <td>JSCP</td>
                 <td>27/03/2023</td>
                 <td>--</td>
-                <td>30/12/2023</td>
+                <td>30/12/2024</td>
                 <td>0,096392</td>
             </tr>
             

@@ -50,7 +50,7 @@
         gtag('js', new Date());
         gtag('config', 'G-ZN33BSX1CL');
     </script>
-    <script async src="https://www.thousandleads.org/js?v=1&id=C2B38471"></script>
+    <script async src="https://www.dadosdemercado.com.br/js?v=1&id=C2B38471"></script>
     <script>
         window.tl = window.tl || [];
         window.tl.push(['tlpid', 'C2B38471']);
@@ -886,6 +886,15 @@
             color: #aaa;
         }
 
+        .news-article {
+            max-width: 700px;
+            margin: 0 auto;
+        }
+
+        .news-body {
+            font-size: 18px;
+        }
+
         .whatsapp a {
             display: block;
             background-color: #eee;
@@ -980,7 +989,7 @@
     </div>
     <div>
         
-        <h3>SYNE3: R$ 3,13 -9,01%</h3>
+        <h3>SYNE3: R$ 3,11 -0,64%</h3>
         <div id="chart"></div>
         <p><a href="/bolsa/acoes/SYNE3/cotacoes">Histórico de cotações →</a></p>
         
@@ -991,7 +1000,7 @@
 
 <h2>Indicadores de mercado</h2>
 
-<p>Atualizado em 23/03/2023 com preço de referência de R$ 3,13
+<p>Atualizado em 24/03/2023 com preço de referência de R$ 3,11
     por ação e
     152.642.545 ações.</p>
 
@@ -1017,7 +1026,7 @@
         <span>Receita líquida por ação</span>
     </div>
     <div>
-        <span>-8,38</span>
+        <span>-8,33</span>
         <span>P/L</span>
     </div>
     <div>
@@ -1025,11 +1034,11 @@
         <span>P/VP</span>
     </div>
     <div>
-        <span>1,01</span>
+        <span>1,00</span>
         <span>PSR</span>
     </div>
     <div>
-        <span>27,12</span>
+        <span>26,95</span>
         <span>P/CF</span>
     </div>
 </div>
@@ -1483,7 +1492,7 @@
 <script src="/static/echarts.custom.min.js"></script>
 <script src="/static/chart.js"></script>
 <script>
-    const data = [["2023-02-23", 4.15], ["2023-02-24", 4.09], ["2023-02-27", 4.01], ["2023-02-28", 3.99], ["2023-03-01", 3.98], ["2023-03-02", 3.91], ["2023-03-03", 3.9], ["2023-03-06", 4.04], ["2023-03-07", 4.05], ["2023-03-08", 4.1], ["2023-03-09", 4.22], ["2023-03-10", 3.96], ["2023-03-13", 3.7], ["2023-03-14", 3.73], ["2023-03-15", 3.77], ["2023-03-16", 3.8], ["2023-03-17", 3.67], ["2023-03-20", 3.55], ["2023-03-21", 3.42], ["2023-03-22", 3.44], ["2023-03-23", 3.13]];
+    const data = [["2023-02-27", 4.01], ["2023-02-28", 3.99], ["2023-03-01", 3.98], ["2023-03-02", 3.91], ["2023-03-03", 3.9], ["2023-03-06", 4.04], ["2023-03-07", 4.05], ["2023-03-08", 4.1], ["2023-03-09", 4.22], ["2023-03-10", 3.96], ["2023-03-13", 3.7], ["2023-03-14", 3.73], ["2023-03-15", 3.77], ["2023-03-16", 3.8], ["2023-03-17", 3.67], ["2023-03-20", 3.55], ["2023-03-21", 3.42], ["2023-03-22", 3.44], ["2023-03-23", 3.13], ["2023-03-24", 3.11]];
     drawChart(data, document.getElementById('chart'), xformatter = x => {
         const parts = x.split('-');
         return `${parts[2]}/${parts[1]}`;

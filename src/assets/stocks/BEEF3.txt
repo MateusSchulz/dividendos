@@ -50,7 +50,7 @@
         gtag('js', new Date());
         gtag('config', 'G-ZN33BSX1CL');
     </script>
-    <script async src="https://www.thousandleads.org/js?v=1&id=C2B38471"></script>
+    <script async src="https://www.dadosdemercado.com.br/js?v=1&id=C2B38471"></script>
     <script>
         window.tl = window.tl || [];
         window.tl.push(['tlpid', 'C2B38471']);
@@ -886,6 +886,15 @@
             color: #aaa;
         }
 
+        .news-article {
+            max-width: 700px;
+            margin: 0 auto;
+        }
+
+        .news-body {
+            font-size: 18px;
+        }
+
         .whatsapp a {
             display: block;
             background-color: #eee;
@@ -982,7 +991,7 @@
     </div>
     <div>
         
-        <h3>BEEF3: R$ 11,45 +1,33%</h3>
+        <h3>BEEF3: R$ 11,52 +0,61%</h3>
         <div id="chart"></div>
         <p><a href="/bolsa/acoes/BEEF3/cotacoes">Histórico de cotações →</a></p>
         
@@ -993,7 +1002,7 @@
 
 <h2>Indicadores de mercado</h2>
 
-<p>Atualizado em 23/03/2023 com preço de referência de R$ 11,45
+<p>Atualizado em 24/03/2023 com preço de referência de R$ 11,52
     por ação e
     607.280.107 ações.</p>
 
@@ -1019,19 +1028,19 @@
         <span>Receita líquida por ação</span>
     </div>
     <div>
-        <span>10,66</span>
+        <span>10,72</span>
         <span>P/L</span>
     </div>
     <div>
-        <span>13,72</span>
+        <span>13,80</span>
         <span>P/VP</span>
     </div>
     <div>
-        <span>0,22</span>
+        <span>0,23</span>
         <span>PSR</span>
     </div>
     <div>
-        <span>2,22</span>
+        <span>2,23</span>
         <span>P/CF</span>
     </div>
 </div>
@@ -1485,7 +1494,7 @@
 <script src="/static/echarts.custom.min.js"></script>
 <script src="/static/chart.js"></script>
 <script>
-    const data = [["2023-02-23", 11.8], ["2023-02-24", 11.52], ["2023-02-27", 11.3], ["2023-02-28", 11.33], ["2023-03-01", 11.41], ["2023-03-02", 11.0], ["2023-03-03", 11.8], ["2023-03-06", 11.78], ["2023-03-07", 11.86], ["2023-03-08", 11.89], ["2023-03-09", 11.77], ["2023-03-10", 11.68], ["2023-03-13", 11.53], ["2023-03-14", 11.26], ["2023-03-15", 11.09], ["2023-03-16", 11.33], ["2023-03-17", 11.7], ["2023-03-20", 11.2], ["2023-03-21", 11.27], ["2023-03-22", 11.3], ["2023-03-23", 11.45]];
+    const data = [["2023-02-27", 11.3], ["2023-02-28", 11.33], ["2023-03-01", 11.41], ["2023-03-02", 11.0], ["2023-03-03", 11.8], ["2023-03-06", 11.78], ["2023-03-07", 11.86], ["2023-03-08", 11.89], ["2023-03-09", 11.77], ["2023-03-10", 11.68], ["2023-03-13", 11.53], ["2023-03-14", 11.26], ["2023-03-15", 11.09], ["2023-03-16", 11.33], ["2023-03-17", 11.7], ["2023-03-20", 11.2], ["2023-03-21", 11.27], ["2023-03-22", 11.3], ["2023-03-23", 11.45], ["2023-03-24", 11.52]];
     drawChart(data, document.getElementById('chart'), xformatter = x => {
         const parts = x.split('-');
         return `${parts[2]}/${parts[1]}`;
