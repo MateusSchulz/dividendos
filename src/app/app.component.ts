@@ -36,11 +36,11 @@ export class AppComponent implements OnInit {
       const dates: string[] = []
       const values: string[] = []
 
-      const populeArrays = (element: Element, array: string[]) => element?.innerHTML && array.push(element.innerHTML)
+      const setArrays = (element: Element, array: string[]) => element?.innerHTML && array.push(element.innerHTML)
 
-      typeElements.forEach(element => populeArrays(element, types))
-      dateElements.forEach(element => populeArrays(element, dates))
-      valueElements.forEach(element => populeArrays(element, values))
+      typeElements.forEach(element => setArrays(element, types))
+      dateElements.forEach(element => setArrays(element, dates))
+      valueElements.forEach(element => setArrays(element, values))
 
       const valuesNumber = values.map(value => Number(value.replace(',', '.')))
 
@@ -52,14 +52,13 @@ export class AppComponent implements OnInit {
 
   calculateDividends({ dates, values, stock }: { dates: string[], values: number[], stock: string }) {
 
-    const year2018 = this.populeYearsDividends({ dates, values, year: '2018' })
-    const year2019 = this.populeYearsDividends({ dates, values, year: '2019' })
-    const year2020 = this.populeYearsDividends({ dates, values, year: '2020' })
-    const year2021 = this.populeYearsDividends({ dates, values, year: '2021' })
-    const year2022 = this.populeYearsDividends({ dates, values, year: '2022' })
+    const year2018 = this.setYearsDividends({ dates, values, year: '2018' })
+    const year2019 = this.setYearsDividends({ dates, values, year: '2019' })
+    const year2020 = this.setYearsDividends({ dates, values, year: '2020' })
+    const year2021 = this.setYearsDividends({ dates, values, year: '2021' })
+    const year2022 = this.setYearsDividends({ dates, values, year: '2022' })
     const yearDividends = [year2018, year2019, year2020, year2021, year2022]
-    const zeroDividends = yearDividends.find(yearDividend => !yearDividend)
-    if (zeroDividends) return 
+    if (this.verifyZeroDividendsExists(yearDividends)) return
     const totalYearDividends = this.getTotalDividends(yearDividends)
     const average = totalYearDividends / 5
 
@@ -74,14 +73,20 @@ export class AppComponent implements OnInit {
       average: average,
       dy: null,
       price: null,
-      averageAdjusted: null,
-      adjustedDY: null
+      adjustedDY: null,
+      averageAdjusted: null
     }
 
     this.readStockFile(result)
   }
 
-  populeYearsDividends ({ dates, values, year }: { dates: string[], values: number[], year: string }) {
+  verifyZeroDividendsExists (yearDividends: number[]) {
+    const zeroDividends = yearDividends.find(yearDividend => !yearDividend)
+    return zeroDividends === 0
+  }
+
+
+  setYearsDividends ({ dates, values, year }: { dates: string[], values: number[], year: string }) {
     const dateValues = dates.map((date, index) => date.substring(6) === year ? values[index] : 0)
     const somar = (a: number, b: number) => a + b
     return dateValues.reduce(somar)
@@ -112,11 +117,8 @@ export class AppComponent implements OnInit {
   }
 
   getPrice (phase: string) {
-    console.log('phase', phase)
     const stepOne = phase.split('R$')[1]
-    console.log('stepOne', stepOne)
     const stepTwo = stepOne.includes('-') ? stepOne.split('-')[0] : stepOne.split('+')[0]
-    console.log('stepTwo', stepTwo)
     const price = Number(stepTwo.replace(' ', '').replace(',', '.').slice(1,999))
     return price
   }
@@ -126,13 +128,23 @@ export class AppComponent implements OnInit {
   }
 
   calculeAverageAdjusted (stock: IStocks) {
-    const years = [stock[2018], stock[2019], stock[2020], stock[2021], stock[2022]]
-    const max = Math.max(...years)
-    const min = Math.max(...years)
-    const adjustedDividends = years.filter(year => year !== max && year !== min)
+    const dividendsYears = [stock[2018], stock[2019], stock[2020], stock[2021], stock[2022]]
+
+    const max = Math.max(...dividendsYears)
+    const min = Math.min(...dividendsYears)
+
+    const maxIndex = dividendsYears.findIndex(year => year === max)
+    const minIndex = dividendsYears.findIndex(year => year === min)
+
+    const changeIndex = (index: number[]) => index.slice(1).map(valueIndex => valueIndex > index[0] ? valueIndex - 1 : valueIndex)
+    const removeDividendYears = (dividendsYears: number[], index: number) => [...dividendsYears.slice(0, index), ...dividendsYears.slice(index + 1)]
+    const removeDividendsYears = (dividendsYears: number[], ...index: number[]) => index?.length ? removeDividendsYears(removeDividendYears(dividendsYears, index[0]), ...changeIndex(index)) : dividendsYears
+
+    const adjustedDividendsYears = removeDividendsYears(dividendsYears, maxIndex, minIndex)
+
     const somar = (a: number, b: number) => a + b
-    const totalAdjustedDividends = adjustedDividends.reduce(somar)
-    return totalAdjustedDividends / 3
+    const totalAdjustedDividendsYears = adjustedDividendsYears.reduce(somar)
+    return totalAdjustedDividendsYears / adjustedDividendsYears.length
   }
 
   calculeAdjustedDY (averageTotalAdjustedDividends: number, price: number) {
