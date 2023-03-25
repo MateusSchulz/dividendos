@@ -55,7 +55,7 @@
         gtag('js', new Date());
         gtag('config', 'G-ZN33BSX1CL');
     </script>
-    <script async src="https://www.thousandleads.org/js?v=1&id=C2B38471"></script>
+    <script async src="https://www.dadosdemercado.com.br/js?v=1&id=C2B38471"></script>
     <script>
         window.tl = window.tl || [];
         window.tl.push(['tlpid', 'C2B38471']);
@@ -891,6 +891,15 @@
             color: #aaa;
         }
 
+        .news-article {
+            max-width: 700px;
+            margin: 0 auto;
+        }
+
+        .news-body {
+            font-size: 18px;
+        }
+
         .whatsapp a {
             display: block;
             background-color: #eee;
@@ -977,11 +986,11 @@
             </tr>
             
             <tr>
-                <td>JSCP</td>
+                <td>Dividendo</td>
                 <td>14/11/2022</td>
                 <td>16/11/2022</td>
                 <td>05/12/2022</td>
-                <td>0,600347</td>
+                <td>0,131087</td>
             </tr>
             
             <tr>
@@ -993,11 +1002,19 @@
             </tr>
             
             <tr>
-                <td>Dividendo</td>
+                <td>JSCP</td>
                 <td>14/11/2022</td>
                 <td>16/11/2022</td>
                 <td>05/12/2022</td>
-                <td>0,131087</td>
+                <td>0,600347</td>
+            </tr>
+            
+            <tr>
+                <td>Dividendo</td>
+                <td>15/08/2022</td>
+                <td>16/08/2022</td>
+                <td>26/08/2022</td>
+                <td>0,896372</td>
             </tr>
             
             <tr>
@@ -1010,26 +1027,10 @@
             
             <tr>
                 <td>Dividendo</td>
-                <td>15/08/2022</td>
-                <td>16/08/2022</td>
-                <td>26/08/2022</td>
-                <td>0,896372</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
                 <td>09/05/2022</td>
                 <td>10/05/2022</td>
                 <td>31/05/2022</td>
                 <td>2,323063</td>
-            </tr>
-            
-            <tr>
-                <td>Dividendo</td>
-                <td>06/12/2021</td>
-                <td>07/12/2021</td>
-                <td>29/12/2021</td>
-                <td>0,931744</td>
             </tr>
             
             <tr>
@@ -1038,6 +1039,14 @@
                 <td>07/12/2021</td>
                 <td>29/12/2021</td>
                 <td>0,586403</td>
+            </tr>
+            
+            <tr>
+                <td>Dividendo</td>
+                <td>06/12/2021</td>
+                <td>07/12/2021</td>
+                <td>29/12/2021</td>
+                <td>0,931744</td>
             </tr>
             
             <tr>
@@ -1073,19 +1082,19 @@
             </tr>
             
             <tr>
-                <td>JSCP</td>
-                <td>16/11/2020</td>
-                <td>17/11/2020</td>
-                <td>25/11/2020</td>
-                <td>0,169566</td>
-            </tr>
-            
-            <tr>
                 <td>Dividendo</td>
                 <td>16/11/2020</td>
                 <td>17/11/2020</td>
                 <td>25/11/2020</td>
                 <td>1,192376</td>
+            </tr>
+            
+            <tr>
+                <td>JSCP</td>
+                <td>16/11/2020</td>
+                <td>17/11/2020</td>
+                <td>25/11/2020</td>
+                <td>0,169566</td>
             </tr>
             
             <tr>
@@ -1137,19 +1146,19 @@
             </tr>
             
             <tr>
-                <td>JSCP</td>
-                <td>19/11/2019</td>
-                <td>21/11/2019</td>
-                <td>29/11/2019</td>
-                <td>0,189802</td>
-            </tr>
-            
-            <tr>
                 <td>Dividendo</td>
                 <td>19/11/2019</td>
                 <td>21/11/2019</td>
                 <td>29/11/2019</td>
                 <td>0,351688</td>
+            </tr>
+            
+            <tr>
+                <td>JSCP</td>
+                <td>19/11/2019</td>
+                <td>21/11/2019</td>
+                <td>29/11/2019</td>
+                <td>0,189802</td>
             </tr>
             
             <tr>
@@ -1209,19 +1218,19 @@
             </tr>
             
             <tr>
-                <td>JSCP</td>
-                <td>09/08/2018</td>
-                <td>10/08/2018</td>
-                <td>20/08/2018</td>
-                <td>0,210523</td>
-            </tr>
-            
-            <tr>
                 <td>Dividendo</td>
                 <td>09/08/2018</td>
                 <td>10/08/2018</td>
                 <td>20/08/2018</td>
                 <td>0,266545</td>
+            </tr>
+            
+            <tr>
+                <td>JSCP</td>
+                <td>09/08/2018</td>
+                <td>10/08/2018</td>
+                <td>20/08/2018</td>
+                <td>0,210523</td>
             </tr>
             
             <tr>
@@ -1257,14 +1266,6 @@
             </tr>
             
             <tr>
-                <td>Dividendo</td>
-                <td>16/11/2017</td>
-                <td>17/11/2017</td>
-                <td>29/11/2017</td>
-                <td>0,129054</td>
-            </tr>
-            
-            <tr>
                 <td>JSCP</td>
                 <td>16/11/2017</td>
                 <td>17/11/2017</td>
@@ -1274,10 +1275,10 @@
             
             <tr>
                 <td>Dividendo</td>
-                <td>15/08/2017</td>
-                <td>16/08/2017</td>
-                <td>28/08/2017</td>
-                <td>0,001960</td>
+                <td>16/11/2017</td>
+                <td>17/11/2017</td>
+                <td>29/11/2017</td>
+                <td>0,129054</td>
             </tr>
             
             <tr>
@@ -1286,6 +1287,14 @@
                 <td>16/08/2017</td>
                 <td>28/08/2017</td>
                 <td>0,200906</td>
+            </tr>
+            
+            <tr>
+                <td>Dividendo</td>
+                <td>15/08/2017</td>
+                <td>16/08/2017</td>
+                <td>28/08/2017</td>
+                <td>0,001960</td>
             </tr>
             
             <tr>
@@ -1329,19 +1338,19 @@
             </tr>
             
             <tr>
-                <td>JSCP</td>
-                <td>17/08/2016</td>
-                <td>18/08/2016</td>
-                <td>29/08/2016</td>
-                <td>0,071143</td>
-            </tr>
-            
-            <tr>
                 <td>Dividendo</td>
                 <td>17/08/2016</td>
                 <td>18/08/2016</td>
                 <td>29/08/2016</td>
                 <td>0,505162</td>
+            </tr>
+            
+            <tr>
+                <td>JSCP</td>
+                <td>17/08/2016</td>
+                <td>18/08/2016</td>
+                <td>29/08/2016</td>
+                <td>0,071143</td>
             </tr>
             
             <tr>
@@ -1369,19 +1378,19 @@
             </tr>
             
             <tr>
-                <td>Dividendo</td>
-                <td>18/12/2015</td>
-                <td>21/12/2015</td>
-                <td>30/12/2015</td>
-                <td>0,320006</td>
-            </tr>
-            
-            <tr>
                 <td>JSCP</td>
                 <td>18/12/2015</td>
                 <td>21/12/2015</td>
                 <td>30/12/2015</td>
                 <td>0,237883</td>
+            </tr>
+            
+            <tr>
+                <td>Dividendo</td>
+                <td>18/12/2015</td>
+                <td>21/12/2015</td>
+                <td>30/12/2015</td>
+                <td>0,320006</td>
             </tr>
             
             <tr>

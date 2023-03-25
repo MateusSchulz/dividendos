@@ -50,7 +50,7 @@
         gtag('js', new Date());
         gtag('config', 'G-ZN33BSX1CL');
     </script>
-    <script async src="https://www.thousandleads.org/js?v=1&id=C2B38471"></script>
+    <script async src="https://www.dadosdemercado.com.br/js?v=1&id=C2B38471"></script>
     <script>
         window.tl = window.tl || [];
         window.tl.push(['tlpid', 'C2B38471']);
@@ -886,6 +886,15 @@
             color: #aaa;
         }
 
+        .news-article {
+            max-width: 700px;
+            margin: 0 auto;
+        }
+
+        .news-body {
+            font-size: 18px;
+        }
+
         .whatsapp a {
             display: block;
             background-color: #eee;
@@ -980,7 +989,7 @@
     </div>
     <div>
         
-        <h3>RAPT4: R$ 7,13 -2,46%</h3>
+        <h3>RAPT4: R$ 7,32 +2,66%</h3>
         <div id="chart"></div>
         <p><a href="/bolsa/acoes/RAPT4/cotacoes">Histórico de cotações →</a></p>
         
@@ -991,7 +1000,7 @@
 
 <h2>Indicadores de mercado</h2>
 
-<p>Atualizado em 23/03/2023 com preço de referência de R$ 7,13
+<p>Atualizado em 24/03/2023 com preço de referência de R$ 7,32
     por ação e
     329.336.748 ações.</p>
 
@@ -1017,19 +1026,19 @@
         <span>Receita líquida por ação</span>
     </div>
     <div>
-        <span>4,98</span>
+        <span>5,11</span>
         <span>P/L</span>
     </div>
     <div>
-        <span>0,86</span>
+        <span>0,88</span>
         <span>P/VP</span>
     </div>
     <div>
-        <span>0,21</span>
+        <span>0,22</span>
         <span>PSR</span>
     </div>
     <div>
-        <span>2,08</span>
+        <span>2,13</span>
         <span>P/CF</span>
     </div>
 </div>
@@ -1483,7 +1492,7 @@
 <script src="/static/echarts.custom.min.js"></script>
 <script src="/static/chart.js"></script>
 <script>
-    const data = [["2023-02-23", 7.9], ["2023-02-24", 7.83], ["2023-02-27", 7.88], ["2023-02-28", 7.96], ["2023-03-01", 7.79], ["2023-03-02", 7.67], ["2023-03-03", 7.76], ["2023-03-06", 7.97], ["2023-03-07", 8.02], ["2023-03-08", 8.27], ["2023-03-09", 8.31], ["2023-03-10", 8.02], ["2023-03-13", 7.88], ["2023-03-14", 7.74], ["2023-03-15", 7.53], ["2023-03-16", 7.49], ["2023-03-17", 7.46], ["2023-03-20", 7.37], ["2023-03-21", 7.21], ["2023-03-22", 7.31], ["2023-03-23", 7.13]];
+    const data = [["2023-02-27", 7.88], ["2023-02-28", 7.96], ["2023-03-01", 7.79], ["2023-03-02", 7.67], ["2023-03-03", 7.76], ["2023-03-06", 7.97], ["2023-03-07", 8.02], ["2023-03-08", 8.27], ["2023-03-09", 8.31], ["2023-03-10", 8.02], ["2023-03-13", 7.88], ["2023-03-14", 7.74], ["2023-03-15", 7.53], ["2023-03-16", 7.49], ["2023-03-17", 7.46], ["2023-03-20", 7.37], ["2023-03-21", 7.21], ["2023-03-22", 7.31], ["2023-03-23", 7.13], ["2023-03-24", 7.32]];
     drawChart(data, document.getElementById('chart'), xformatter = x => {
         const parts = x.split('-');
         return `${parts[2]}/${parts[1]}`;

@@ -55,7 +55,7 @@
         gtag('js', new Date());
         gtag('config', 'G-ZN33BSX1CL');
     </script>
-    <script async src="https://www.thousandleads.org/js?v=1&id=C2B38471"></script>
+    <script async src="https://www.dadosdemercado.com.br/js?v=1&id=C2B38471"></script>
     <script>
         window.tl = window.tl || [];
         window.tl.push(['tlpid', 'C2B38471']);
@@ -889,6 +889,15 @@
 
         .news h3 span {
             color: #aaa;
+        }
+
+        .news-article {
+            max-width: 700px;
+            margin: 0 auto;
+        }
+
+        .news-body {
+            font-size: 18px;
         }
 
         .whatsapp a {

@@ -50,7 +50,7 @@
         gtag('js', new Date());
         gtag('config', 'G-ZN33BSX1CL');
     </script>
-    <script async src="https://www.thousandleads.org/js?v=1&id=C2B38471"></script>
+    <script async src="https://www.dadosdemercado.com.br/js?v=1&id=C2B38471"></script>
     <script>
         window.tl = window.tl || [];
         window.tl.push(['tlpid', 'C2B38471']);
@@ -886,6 +886,15 @@
             color: #aaa;
         }
 
+        .news-article {
+            max-width: 700px;
+            margin: 0 auto;
+        }
+
+        .news-body {
+            font-size: 18px;
+        }
+
         .whatsapp a {
             display: block;
             background-color: #eee;
@@ -948,6 +957,8 @@
 <h1>CMIN3 (CSN Mineração)</h1>
 
 
+<p class="serif">A Companhia Siderúrgica Nacional (CSN) é uma das maiores indústrias siderúrgicas do mundo, com uma produção anual de mais de 6 milhões de toneladas de aço bruto e 5 milhões de toneladas de laminados. Sua usina, localizada em Volta Redonda, no Rio de Janeiro, é responsável por grande parte da produção, e a empresa também possui minas de minério de ferro e carvão em outras regiões do Brasil. Fundada em 1946, a CSN foi privatizada em 1993 e atualmente possui diversas empresas em seu portfólio, incluindo a CSN Cimentos, CSN aços longos e CSN Mineração.</p>
+
 
 <div class="about">
     <div>
@@ -980,7 +991,7 @@
     </div>
     <div>
         
-        <h3>CMIN3: R$ 4,48 -0,88%</h3>
+        <h3>CMIN3: R$ 4,54 +1,34%</h3>
         <div id="chart"></div>
         <p><a href="/bolsa/acoes/CMIN3/cotacoes">Histórico de cotações →</a></p>
         
@@ -991,7 +1002,7 @@
 
 <h2>Indicadores de mercado</h2>
 
-<p>Atualizado em 23/03/2023 com preço de referência de R$ 4,48
+<p>Atualizado em 24/03/2023 com preço de referência de R$ 4,54
     por ação e
     5.485.338.173 ações.</p>
 
@@ -1017,19 +1028,19 @@
         <span>Receita líquida por ação</span>
     </div>
     <div>
-        <span>8,33</span>
+        <span>8,44</span>
         <span>P/L</span>
     </div>
     <div>
-        <span>2,16</span>
+        <span>2,19</span>
         <span>P/VP</span>
     </div>
     <div>
-        <span>1,85</span>
+        <span>1,88</span>
         <span>PSR</span>
     </div>
     <div>
-        <span>-42,04</span>
+        <span>-42,60</span>
         <span>P/CF</span>
     </div>
 </div>
@@ -1459,7 +1470,7 @@
 <script src="/static/echarts.custom.min.js"></script>
 <script src="/static/chart.js"></script>
 <script>
-    const data = [["2023-02-23", 4.89], ["2023-02-24", 4.62], ["2023-02-27", 4.63], ["2023-02-28", 4.66], ["2023-03-01", 4.78], ["2023-03-02", 4.87], ["2023-03-03", 4.99], ["2023-03-06", 4.99], ["2023-03-07", 4.93], ["2023-03-08", 5.08], ["2023-03-09", 4.83], ["2023-03-10", 4.75], ["2023-03-13", 4.89], ["2023-03-14", 4.86], ["2023-03-15", 4.69], ["2023-03-16", 4.68], ["2023-03-17", 4.62], ["2023-03-20", 4.69], ["2023-03-21", 4.5], ["2023-03-22", 4.52], ["2023-03-23", 4.48]];
+    const data = [["2023-02-27", 4.63], ["2023-02-28", 4.66], ["2023-03-01", 4.78], ["2023-03-02", 4.87], ["2023-03-03", 4.99], ["2023-03-06", 4.99], ["2023-03-07", 4.93], ["2023-03-08", 5.08], ["2023-03-09", 4.83], ["2023-03-10", 4.75], ["2023-03-13", 4.89], ["2023-03-14", 4.86], ["2023-03-15", 4.69], ["2023-03-16", 4.68], ["2023-03-17", 4.62], ["2023-03-20", 4.69], ["2023-03-21", 4.5], ["2023-03-22", 4.52], ["2023-03-23", 4.48], ["2023-03-24", 4.54]];
     drawChart(data, document.getElementById('chart'), xformatter = x => {
         const parts = x.split('-');
         return `${parts[2]}/${parts[1]}`;

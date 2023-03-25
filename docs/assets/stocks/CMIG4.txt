@@ -50,7 +50,7 @@
         gtag('js', new Date());
         gtag('config', 'G-ZN33BSX1CL');
     </script>
-    <script async src="https://www.thousandleads.org/js?v=1&id=C2B38471"></script>
+    <script async src="https://www.dadosdemercado.com.br/js?v=1&id=C2B38471"></script>
     <script>
         window.tl = window.tl || [];
         window.tl.push(['tlpid', 'C2B38471']);
@@ -886,6 +886,15 @@
             color: #aaa;
         }
 
+        .news-article {
+            max-width: 700px;
+            margin: 0 auto;
+        }
+
+        .news-body {
+            font-size: 18px;
+        }
+
         .whatsapp a {
             display: block;
             background-color: #eee;
@@ -948,6 +957,8 @@
 <h1>CMIG4 (CEMIG)</h1>
 
 
+<p class="serif">A CEMIG é uma das principais concessionárias de energia elétrica do Brasil, atuando em áreas de geração, transmissão, distribuição e comercialização de energia elétrica, além de distribuição de gás natural. Fundada em 1952, é uma das maiores empresas integradas do setor de energia elétrica da América do Sul, em número de clientes e em quilômetros de rede e de equipamentos e instalações. Com participações em 89 empreendimentos de geração em operação, é a terceira maior geradora de energia do país, considerando suas subsidiárias, controladas e coligadas. A CEMIG é uma companhia de capital aberto controlada pelo Governo do Estado de Minas Gerais e possui 200 mil acionistas em 39 países.</p>
+
 
 <div class="about">
     <div>
@@ -980,7 +991,7 @@
     </div>
     <div>
         
-        <h3>CMIG4: R$ 10,52 +0,77%</h3>
+        <h3>CMIG4: R$ 10,63 +1,05%</h3>
         <div id="chart"></div>
         <p><a href="/bolsa/acoes/CMIG4/cotacoes">Histórico de cotações →</a></p>
         
@@ -991,7 +1002,7 @@
 
 <h2>Indicadores de mercado</h2>
 
-<p>Atualizado em 23/03/2023 com preço de referência de R$ 10,52
+<p>Atualizado em 24/03/2023 com preço de referência de R$ 10,63
     por ação e
     2.201.303.256 ações.</p>
 
@@ -1017,19 +1028,19 @@
         <span>Receita líquida por ação</span>
     </div>
     <div>
-        <span>6,35</span>
+        <span>6,41</span>
         <span>P/L</span>
     </div>
     <div>
-        <span>1,10</span>
+        <span>1,11</span>
         <span>P/VP</span>
     </div>
     <div>
-        <span>0,67</span>
+        <span>0,68</span>
         <span>PSR</span>
     </div>
     <div>
-        <span>3,74</span>
+        <span>3,78</span>
         <span>P/CF</span>
     </div>
 </div>
@@ -1379,7 +1390,7 @@
                 <td>JSCP</td>
                 <td class="right">27/03/2023</td>
                 <td class="right">--</td>
-                <td class="right">30/06/2023</td>
+                <td class="right">30/12/2024</td>
                 <td class="right">0,096392</td>
             </tr>
             
@@ -1387,7 +1398,7 @@
                 <td>JSCP</td>
                 <td class="right">27/03/2023</td>
                 <td class="right">--</td>
-                <td class="right">30/12/2023</td>
+                <td class="right">30/06/2024</td>
                 <td class="right">0,096392</td>
             </tr>
             
@@ -1427,7 +1438,7 @@
                 <td>JSCP</td>
                 <td class="right">23/09/2022</td>
                 <td class="right">26/09/2022</td>
-                <td class="right">30/12/2023</td>
+                <td class="right">30/06/2023</td>
                 <td class="right">0,107140</td>
             </tr>
             
@@ -1435,7 +1446,7 @@
                 <td>JSCP</td>
                 <td class="right">23/09/2022</td>
                 <td class="right">26/09/2022</td>
-                <td class="right">30/06/2023</td>
+                <td class="right">30/12/2023</td>
                 <td class="right">0,107140</td>
             </tr>
             
@@ -1443,7 +1454,7 @@
                 <td>JSCP</td>
                 <td class="right">24/06/2022</td>
                 <td class="right">27/06/2022</td>
-                <td class="right">29/12/2023</td>
+                <td class="right">30/06/2023</td>
                 <td class="right">0,080208</td>
             </tr>
             
@@ -1451,7 +1462,7 @@
                 <td>JSCP</td>
                 <td class="right">24/06/2022</td>
                 <td class="right">27/06/2022</td>
-                <td class="right">30/06/2023</td>
+                <td class="right">29/12/2023</td>
                 <td class="right">0,080208</td>
             </tr>
             
@@ -1527,7 +1538,7 @@
 <script src="/static/echarts.custom.min.js"></script>
 <script src="/static/chart.js"></script>
 <script>
-    const data = [["2023-02-23", 10.69], ["2023-02-24", 10.55], ["2023-02-27", 10.55], ["2023-02-28", 10.48], ["2023-03-01", 10.44], ["2023-03-02", 10.35], ["2023-03-03", 10.28], ["2023-03-06", 10.44], ["2023-03-07", 10.53], ["2023-03-08", 10.74], ["2023-03-09", 10.47], ["2023-03-10", 10.51], ["2023-03-13", 10.56], ["2023-03-14", 10.75], ["2023-03-15", 10.92], ["2023-03-16", 10.84], ["2023-03-17", 10.52], ["2023-03-20", 10.48], ["2023-03-21", 10.41], ["2023-03-22", 10.44], ["2023-03-23", 10.52]];
+    const data = [["2023-02-27", 10.55], ["2023-02-28", 10.48], ["2023-03-01", 10.44], ["2023-03-02", 10.35], ["2023-03-03", 10.28], ["2023-03-06", 10.44], ["2023-03-07", 10.53], ["2023-03-08", 10.74], ["2023-03-09", 10.47], ["2023-03-10", 10.51], ["2023-03-13", 10.56], ["2023-03-14", 10.75], ["2023-03-15", 10.92], ["2023-03-16", 10.84], ["2023-03-17", 10.52], ["2023-03-20", 10.48], ["2023-03-21", 10.41], ["2023-03-22", 10.44], ["2023-03-23", 10.52], ["2023-03-24", 10.63]];
     drawChart(data, document.getElementById('chart'), xformatter = x => {
         const parts = x.split('-');
         return `${parts[2]}/${parts[1]}`;

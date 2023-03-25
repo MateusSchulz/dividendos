@@ -50,7 +50,7 @@
         gtag('js', new Date());
         gtag('config', 'G-ZN33BSX1CL');
     </script>
-    <script async src="https://www.thousandleads.org/js?v=1&id=C2B38471"></script>
+    <script async src="https://www.dadosdemercado.com.br/js?v=1&id=C2B38471"></script>
     <script>
         window.tl = window.tl || [];
         window.tl.push(['tlpid', 'C2B38471']);
@@ -886,6 +886,15 @@
             color: #aaa;
         }
 
+        .news-article {
+            max-width: 700px;
+            margin: 0 auto;
+        }
+
+        .news-body {
+            font-size: 18px;
+        }
+
         .whatsapp a {
             display: block;
             background-color: #eee;
@@ -948,6 +957,8 @@
 <h1>CYRE3 (Cyrela)</h1>
 
 
+<p class="serif">A Cyrela é uma das principais incorporadoras e construtoras de imóveis residenciais do Brasil, com atuação em diversos estados do país, além da Argentina e Uruguai. Reconhecida por sua excelência em qualidade e inovação, a empresa já recebeu diversos prêmios e é considerada uma das marcas mais valiosas do país. Com empreendimentos de destaque, como o Faria Lima Financial Center e o Le Parc Residential Resort, a Cyrela é uma referência no mercado imobiliário brasileiro.</p>
+
 
 <div class="about">
     <div>
@@ -980,7 +991,7 @@
     </div>
     <div>
         
-        <h3>CYRE3: R$ 13,26 -6,16%</h3>
+        <h3>CYRE3: R$ 13,11 -1,13%</h3>
         <div id="chart"></div>
         <p><a href="/bolsa/acoes/CYRE3/cotacoes">Histórico de cotações →</a></p>
         
@@ -991,7 +1002,7 @@
 
 <h2>Indicadores de mercado</h2>
 
-<p>Atualizado em 23/03/2023 com preço de referência de R$ 13,26
+<p>Atualizado em 24/03/2023 com preço de referência de R$ 13,11
     por ação e
     399.742.782 ações.</p>
 
@@ -1017,7 +1028,7 @@
         <span>Receita líquida por ação</span>
     </div>
     <div>
-        <span>6,55</span>
+        <span>6,48</span>
         <span>P/L</span>
     </div>
     <div>
@@ -1025,11 +1036,11 @@
         <span>P/VP</span>
     </div>
     <div>
-        <span>0,98</span>
+        <span>0,97</span>
         <span>PSR</span>
     </div>
     <div>
-        <span>-13,16</span>
+        <span>-13,01</span>
         <span>P/CF</span>
     </div>
 </div>
@@ -1483,7 +1494,7 @@
 <script src="/static/echarts.custom.min.js"></script>
 <script src="/static/chart.js"></script>
 <script>
-    const data = [["2023-02-23", 15.21], ["2023-02-24", 15.02], ["2023-02-27", 15.15], ["2023-02-28", 14.98], ["2023-03-01", 14.86], ["2023-03-02", 14.79], ["2023-03-03", 14.73], ["2023-03-06", 15.03], ["2023-03-07", 15.28], ["2023-03-08", 15.96], ["2023-03-09", 16.41], ["2023-03-10", 15.92], ["2023-03-13", 16.09], ["2023-03-14", 15.7], ["2023-03-15", 15.69], ["2023-03-16", 15.93], ["2023-03-17", 14.74], ["2023-03-20", 14.25], ["2023-03-21", 14.21], ["2023-03-22", 14.13], ["2023-03-23", 13.26]];
+    const data = [["2023-02-27", 15.15], ["2023-02-28", 14.98], ["2023-03-01", 14.86], ["2023-03-02", 14.79], ["2023-03-03", 14.73], ["2023-03-06", 15.03], ["2023-03-07", 15.28], ["2023-03-08", 15.96], ["2023-03-09", 16.41], ["2023-03-10", 15.92], ["2023-03-13", 16.09], ["2023-03-14", 15.7], ["2023-03-15", 15.69], ["2023-03-16", 15.93], ["2023-03-17", 14.74], ["2023-03-20", 14.25], ["2023-03-21", 14.21], ["2023-03-22", 14.13], ["2023-03-23", 13.26], ["2023-03-24", 13.11]];
     drawChart(data, document.getElementById('chart'), xformatter = x => {
         const parts = x.split('-');
         return `${parts[2]}/${parts[1]}`;
